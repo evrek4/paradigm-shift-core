@@ -27,6 +27,7 @@ export const wordSchema = z.object({
 });
 
 export const shortSchema = z.object({
+  title: z.string().optional(),
   // Optional on-screen title for the first 3 s (the voiceover hook is captioned anyway)
   hook: z.string().optional(),
   scenes: z.array(sceneSchema).min(1),
