@@ -1,49 +1,31 @@
-import {
-  AbsoluteFill,
-  Img,
-  interpolate,
-  spring,
-  staticFile,
-  useCurrentFrame,
-  useVideoConfig,
-} from "remotion";
+import React from "react";
+import { AbsoluteFill, Easing, Img, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
 import { Scene } from "../schema";
-import { Captions } from "./Captions";
+import { fontFamily } from "../font";
 
-export const SceneView: React.FC<{
-  scene: Scene;
-  index: number;
-  accentColor: string;
-}> = ({ scene, index, accentColor }) => {
+// Slow camera move over one image; any aspect ratio works thanks to a blurred fill
+export const SceneView: React.FC<{ scene: Scene; index: number; accentColor: string }> = ({
+  scene,
+  index,
+  accentColor,
+}) => {
   const frame = useCurrentFrame();
-  const { fps, durationInFrames } = useVideoConfig();
-
-  // Ken Burns: alternate zoom in / zoom out and pan direction per scene
+  const { durationInFrames } = useVideoConfig();
+  const ease = { extrapolateLeft: "clamp" as const, extrapolateRight: "clamp" as const, easing: Easing.bezier(0.45, 0, 0.55, 1) };
   const zoomIn = index % 2 === 0;
-  const progress = frame / durationInFrames;
-  const scale = zoomIn ? 1.05 + progress * 0.15 : 1.2 - progress * 0.15;
-  const panX = (index % 3 === 0 ? -1 : 1) * progress * 30;
-
-  // Quick punch-in at scene start (keeps retention high)
-  const enter = spring({ frame, fps, config: { damping: 200 }, durationInFrames: 8 });
-  const flash = interpolate(frame, [0, 4], [0.6, 0], { extrapolateRight: "clamp" });
+  const scale = interpolate(frame, [0, durationInFrames], zoomIn ? [1.0, 1.1] : [1.1, 1.0], ease);
+  const panY = interpolate(frame, [0, durationInFrames], index % 3 === 1 ? [1.5, -1.5] : [0, 0], ease);
+  const src = staticFile(scene.image);
 
   return (
-    <AbsoluteFill>
-      <AbsoluteFill style={{ transform: `scale(${scale * (0.92 + 0.08 * enter)}) translateX(${panX}px)` }}>
-        {/* Blurred fill so any image ratio works in 9:16 */}
-        <Img
-          src={staticFile(scene.image)}
-          style={{ width: "100%", height: "100%", objectFit: "cover", filter: "blur(40px) brightness(0.5)" }}
-        />
-        <AbsoluteFill style={{ justifyContent: "center", alignItems: "center" }}>
-          <Img src={staticFile(scene.image)} style={{ width: "100%", height: "100%", objectFit: "contain" }} />
-        </AbsoluteFill>
+    <AbsoluteFill style={{ overflow: "hidden", backgroundColor: "black" }}>
+      <Img src={src} style={{ width: "100%", height: "100%", objectFit: "cover", filter: "blur(40px) brightness(0.45)", scale: "1.2" }} />
+      <AbsoluteFill style={{ scale: String(scale), translate: `0% ${panY}%` }}>
+        <Img src={src} style={{ width: "100%", height: "100%", objectFit: "contain", filter: "contrast(1.08) saturate(0.85) brightness(0.92)" }} />
       </AbsoluteFill>
-      <AbsoluteFill style={{ background: "linear-gradient(to bottom, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0) 30%, rgba(0,0,0,0) 55%, rgba(0,0,0,0.7) 100%)" }} />
-      <AbsoluteFill style={{ backgroundColor: "white", opacity: flash }} />
+      <AbsoluteFill style={{ background: "radial-gradient(ellipse at 50% 45%, rgba(0,0,0,0) 55%, rgba(0,0,0,0.45) 100%)" }} />
+      <AbsoluteFill style={{ background: "linear-gradient(to bottom, rgba(0,0,0,0) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.2) 100%)" }} />
       {scene.highlight ? <Highlight text={scene.highlight} accentColor={accentColor} /> : null}
-      <Captions text={scene.text} accentColor={accentColor} />
     </AbsoluteFill>
   );
 };
@@ -51,19 +33,19 @@ export const SceneView: React.FC<{
 const Highlight: React.FC<{ text: string; accentColor: string }> = ({ text, accentColor }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
-  const pop = spring({ frame: frame - 6, fps, config: { damping: 10, stiffness: 160 } });
+  const pop = spring({ frame: frame - 6, fps, config: { damping: 200 }, durationInFrames: 20 });
   return (
-    <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", top: -250 }}>
+    <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", top: -260 }}>
       <div
         style={{
-          transform: `scale(${pop}) rotate(-3deg)`,
-          backgroundColor: accentColor,
-          color: "black",
-          fontFamily: "Impact, 'Arial Black', sans-serif",
-          fontSize: 130,
-          padding: "10px 40px",
-          borderRadius: 20,
-          boxShadow: "0 20px 60px rgba(0,0,0,0.5)",
+          scale: String(0.9 + 0.1 * pop),
+          opacity: pop,
+          color: accentColor,
+          fontFamily,
+          fontWeight: 900,
+          fontSize: 150,
+          letterSpacing: "0.02em",
+          textShadow: `0 0 40px ${accentColor}88, 0 10px 40px rgba(0,0,0,0.8)`,
         }}
       >
         {text}

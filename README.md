@@ -1,13 +1,15 @@
-# Paradigm Shift Core – Shorts
+# Paradigm Shift Core – Shorts template
 
-Remotion template that turns images + a short script into a vertical (1080x1920) YouTube Short.
+Remotion template for @ParadigmShiftCore: images + voiceover script → cinematic vertical (1080x1920) YouTube Short, 45–50 s, built to loop seamlessly (no end card or progress bar by default).
 
 ## Make a new video
-1. Put images in `public/videos/<name>/` (any ratio works; it gets a blurred background fill).
-2. Copy `videos/example.json` to `videos/<name>.json` and edit:
-   - `hook`: the line shown in the first 2.5 s (most important for retention)
-   - `scenes`: one per image: `image`, `text` (caption, shown word by word), `seconds`, optional `highlight`
-   - `audio` (optional): mp3 path inside `public/`
-   - `cta`: closing line
-3. Preview: `npm run studio`
-4. Render: `npm run render -- <name>` → `out/<name>.mp4`
+1. Put the Midjourney images in `public/videos/<name>/` (any ratio works; a blurred fill covers the rest).
+2. Put the voiceover (ElevenLabs) in `public/videos/<name>/voice.mp3` and optional music in the same folder.
+3. Copy `videos/example.json` to `videos/<name>.json` and edit:
+   - `scenes`: one per image: `image`, `seconds`, `text` (caption), optional `highlight` (big number/word)
+   - `voice`, `music`, `musicVolume` (default 0.25)
+   - `words` (optional): word timestamps `{ "text", "startMs" }` from the voiceover; captions then follow the voice exactly instead of `text`
+   - `hook` (optional): quiet on-screen title for the first 3 s
+   - `accentColor` (default `#7FDBFF`), `cta` and `progressBar` (both off by default, they break the loop)
+4. Preview: `npm run studio`
+5. Render: `npm run render -- <name>` → `out/<name>.mp4`

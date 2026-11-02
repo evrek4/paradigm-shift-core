@@ -1,28 +1,30 @@
-import { AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig } from "remotion";
+import { fontFamily } from "../font";
+import { AbsoluteFill, interpolate, useCurrentFrame, useVideoConfig } from "remotion";
 
-// The first 2.5 seconds decide retention: big hook text on top
+// Quiet cinematic title for the first seconds: letter-spaced, fades in and out
 export const Hook: React.FC<{ text: string; accentColor: string }> = ({ text, accentColor }) => {
   const frame = useCurrentFrame();
-  const { fps, durationInFrames } = useVideoConfig();
-  const enter = spring({ frame, fps, config: { damping: 14 } });
-  const exit = interpolate(frame, [durationInFrames - 8, durationInFrames], [1, 0], {
+  const { durationInFrames } = useVideoConfig();
+  const opacity = interpolate(frame, [0, 8, durationInFrames - 10, durationInFrames], [0, 1, 1, 0], {
     extrapolateLeft: "clamp",
+    extrapolateRight: "clamp",
   });
+  const spacing = interpolate(frame, [0, durationInFrames], [0.18, 0.24]);
   return (
-    <AbsoluteFill style={{ alignItems: "center", paddingTop: 220, opacity: exit }}>
+    <AbsoluteFill style={{ alignItems: "center", paddingTop: 260, opacity }}>
+      <div style={{ width: 120, height: 3, backgroundColor: accentColor, marginBottom: 28 }} />
       <div
         style={{
-          transform: `translateY(${(1 - enter) * -80}px)`,
-          maxWidth: 960,
+          maxWidth: 900,
           textAlign: "center",
-          backgroundColor: "white",
-          color: "black",
-          fontFamily: "Impact, 'Arial Black', sans-serif",
-          fontSize: 82,
-          lineHeight: 1.1,
-          padding: "24px 36px",
-          borderRadius: 24,
-          borderBottom: `14px solid ${accentColor}`,
+          color: "white",
+          fontFamily,
+          fontWeight: 800,
+          fontSize: 54,
+          lineHeight: 1.25,
+          letterSpacing: `${spacing}em`,
+          textTransform: "uppercase",
+          textShadow: "0 4px 24px rgba(0,0,0,0.8)",
         }}
       >
         {text}

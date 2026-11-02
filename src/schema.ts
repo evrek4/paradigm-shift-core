@@ -4,25 +4,37 @@ import { zColor } from "@remotion/zod-types";
 export const sceneSchema = z.object({
   // Path inside /public, e.g. "videos/example/1.jpg"
   image: z.string(),
-  // Voiceover/caption line shown word by word
-  text: z.string(),
   // Scene length in seconds
-  seconds: z.number().min(0.5).max(30),
-  // Optional big word to punch in (e.g. "$4.2B")
+  seconds: z.number().min(0.5).max(60),
+  // Caption text for this scene. Ignored when the video has timed `words`.
+  text: z.string().default(""),
+  // Optional big punch-in label, e.g. "$4.2B"
   highlight: z.string().optional(),
 });
 
+export const wordSchema = z.object({
+  text: z.string(),
+  // Time the word is spoken, from the start of the video
+  startMs: z.number(),
+});
+
 export const shortSchema = z.object({
-  // Hook shown on top in the first seconds: the most important line
-  hook: z.string(),
+  // Optional on-screen title for the first 3 s (the voiceover hook is captioned anyway)
+  hook: z.string().optional(),
   scenes: z.array(sceneSchema).min(1),
-  // Optional mp3 in /public (voiceover or music)
-  audio: z.string().optional(),
-  audioVolume: z.number().min(0).max(1).default(1),
-  accentColor: zColor().default("#FFD400"),
-  // Closing call to action
-  cta: z.string().default("Follow for more"),
+  // Voiceover (wav/mp3 in /public) and word timestamps from it (e.g. Whisper)
+  voice: z.string().optional(),
+  words: z.array(wordSchema).optional(),
+  // Background music / SFX bed in /public
+  music: z.string().optional(),
+  musicVolume: z.number().min(0).max(1).default(0.25),
+  accentColor: zColor().default("#7FDBFF"),
+  // Optional end card. Leave empty for a seamless loop (channel default).
+  cta: z.string().optional(),
+  // A progress bar shows viewers the end is coming, which hurts loops: off by default
+  progressBar: z.boolean().default(false),
 });
 
 export type ShortProps = z.infer<typeof shortSchema>;
 export type Scene = z.infer<typeof sceneSchema>;
+export type Word = z.infer<typeof wordSchema>;

@@ -1,3 +1,4 @@
+import { fontFamily } from "../font";
 import { AbsoluteFill, spring, useCurrentFrame, useVideoConfig } from "remotion";
 
 export const Cta: React.FC<{ text: string; accentColor: string }> = ({ text, accentColor }) => {
@@ -10,7 +11,7 @@ export const Cta: React.FC<{ text: string; accentColor: string }> = ({ text, acc
         style={{
           transform: `scale(${pop})`,
           color: accentColor,
-          fontFamily: "Impact, 'Arial Black', sans-serif",
+          fontFamily, fontWeight: 900,
           fontSize: 120,
           textAlign: "center",
           padding: "0 60px",

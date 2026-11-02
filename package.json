@@ -9,15 +9,19 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@remotion/cli": "4.0.540",
-    "@remotion/zod-types": "4.0.540",
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "remotion": "4.0.540",
-    "zod": "4.6.7"
+    "@remotion/cli": "4.0.539",
+    "@remotion/google-fonts": "4.0.539",
+    "@remotion/layout-utils": "4.0.539",
+    "@remotion/media": "4.0.539",
+    "@remotion/transitions": "4.0.539",
+    "@remotion/zod-types": "4.0.539",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.539",
+    "zod": "4.5.4"
   },
   "devDependencies": {
-    "@types/react": "19.1.0",
-    "typescript": "5.8.3"
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
   }
 }

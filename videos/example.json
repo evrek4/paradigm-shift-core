@@ -1,11 +1,9 @@
 {
-  "hook": "This US state is losing people FAST",
+  "hook": "Your brain is lying to you",
   "scenes": [
-    { "image": "videos/example/1.jpg", "text": "Over 300,000 people left this state last year alone", "seconds": 3.5, "highlight": "300,000" },
-    { "image": "videos/example/2.jpg", "text": "And most of them moved to just one place", "seconds": 3 },
-    { "image": "videos/example/3.jpg", "text": "The reason will surprise you", "seconds": 2.5 }
+    { "image": "videos/example/1.jpg", "seconds": 3, "text": "Your brain decides before you do." },
+    { "image": "videos/example/2.jpg", "seconds": 4, "text": "Scientists can predict your choice seven seconds early.", "highlight": "7 SEC" },
+    { "image": "videos/example/3.jpg", "seconds": 3.5, "text": "So who is really making the decision? Because" }
   ],
-  "accentColor": "#FFD400",
-  "audioVolume": 1,
-  "cta": "Follow for part 2"
+  "musicVolume": 0.25
 }

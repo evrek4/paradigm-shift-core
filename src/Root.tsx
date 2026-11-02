@@ -4,9 +4,11 @@ import { shortSchema, ShortProps } from "./schema";
 import { CTA_SECONDS, FPS } from "./constants";
 import example from "../videos/example.json";
 
-const calculateMetadata: CalculateMetadataFunction<ShortProps> = ({ props }) => {
-  const seconds = props.scenes.reduce((sum, s) => sum + s.seconds, 0) + CTA_SECONDS;
-  return { durationInFrames: Math.round(seconds * FPS) };
+const calculateMetadata: CalculateMetadataFunction<ShortProps> = ({ props: raw }) => {
+  // Fill in schema defaults for fields left out of the JSON file
+  const props = shortSchema.parse(raw);
+  const seconds = props.scenes.reduce((sum, s) => sum + s.seconds, 0) + (props.cta ? CTA_SECONDS : 0);
+  return { durationInFrames: Math.round(seconds * FPS), props };
 };
 
 export const RemotionRoot: React.FC = () => {
