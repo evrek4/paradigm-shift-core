@@ -20,4 +20,4 @@ pip install edge-tts
 python scripts/make_voice.py <name>            # default voice: en-US-AndrewMultilingualNeural
 python scripts/make_voice.py <name> --voice en-US-GuyNeural --rate -5%
 ```
-This speaks each scene's `text`, saves `public/videos/<name>/voice-<n>.mp3`, and fills in scene lengths and word timings in `videos/<name>.json`, so captions follow the voice word by word.
+Speaks sentence by sentence with each scene's `delivery` (rate/pitch), slows down short punchy lines, adds suspense pauses after "...", and fills in scene lengths and word timings in `videos/<name>.json`.

@@ -10,6 +10,10 @@ export const sceneSchema = z.object({
   text: z.string().default(""),
   // Optional voiceover for this scene only (in /public), played from the scene's start
   voice: z.string().optional(),
+  // Voice clips placed inside the scene (written by scripts/make_voice.py)
+  clips: z.array(z.object({ src: z.string(), atMs: z.number() })).optional(),
+  // Edge TTS delivery for this scene: rate/volume in %, pitch in Hz (used by make_voice.py)
+  delivery: z.object({ rate: z.number(), pitch: z.number(), volume: z.number() }).partial().optional(),
   // Optional big punch-in label, e.g. "$4.2B"
   highlight: z.string().optional(),
 });
@@ -29,6 +33,8 @@ export const shortSchema = z.object({
   words: z.array(wordSchema).optional(),
   // Background music / SFX bed in /public
   music: z.string().optional(),
+  // Edge TTS voice name used by make_voice.py
+  ttsVoice: z.string().optional(),
   musicVolume: z.number().min(0).max(1).default(0.25),
   accentColor: zColor().default("#7FDBFF"),
   // Optional end card. Leave empty for a seamless loop (channel default).
