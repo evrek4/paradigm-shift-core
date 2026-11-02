@@ -4,8 +4,8 @@ Usage (from the repo folder):
     python scripts/prepare_all.py "C:\\Users\\urfa\\Desktop\\Paradigm"
 
 1. Finds each video's images in that folder (zip files or subfolders), matches them to a
-   video by name, and copies the first 4 images (sorted by their leading number) to
-   public/videos/<video>/1.jpg .. 4.jpg. Videos that already have 4 images are skipped.
+   video by number or name, and copies the images (sorted by their leading number, e.g. G1..G8)
+   to the paths the video config expects. Videos that already have all images are skipped.
 2. Generates the Edge TTS voiceover + word timings for every video (scripts/make_voice.py).
 3. Commits and pushes the result.
 It prints what it matched; anything it could not match is listed so you can fix it by hand.
@@ -34,6 +34,19 @@ def leading_number(p: Path):
     return (int(m.group(1)) if m else 999, p.name.lower())
 
 
+def needed_images(video):
+    """Image paths (relative to public/) the video config uses, in shot order."""
+    cfg = json.loads((ROOT / "videos" / f"{video}.json").read_text(encoding="utf-8"))
+    out = []
+    for sc in cfg["scenes"]:
+        out += [sc["image"], *sc.get("images", [])]
+    return out
+
+
+def has_images(video):
+    return all((ROOT / "public" / p).exists() for p in needed_images(video))
+
+
 def video_keys():
     out = {}
     for cfg in sorted((ROOT / "videos").glob("[0-9][0-9]-*.json")):
@@ -60,7 +73,7 @@ def images_in(src: Path, tmp: Path):
 
 def import_images(folder: Path):
     keys = video_keys()
-    todo = {v for v in keys if len(list((ROOT / "public/videos" / v).glob("[1-4].jpg"))) < 4}
+    todo = {v for v in keys if not has_images(v)}
     print(f"Videos needing images: {sorted(todo) or 'none'}")
     unmatched = []
     with tempfile.TemporaryDirectory() as t:
@@ -80,15 +93,16 @@ def import_images(folder: Path):
                 unmatched.append(src.name)
                 continue
             imgs = images_in(src, tmp)
-            if len(imgs) < 4:
-                print(f"  {src.name}: only {len(imgs)} images, skipped")
+            targets = needed_images(best)
+            if len(imgs) < len(targets):
+                print(f"  {src.name}: only {len(imgs)} of {len(targets)} images, skipped")
                 unmatched.append(src.name)
                 continue
-            out = ROOT / "public/videos" / best
-            out.mkdir(parents=True, exist_ok=True)
-            for i, img in enumerate(imgs[:4], 1):
-                shutil.copyfile(img, out / f"{i}.jpg")
-                print(f"  {best}/{i}.jpg <- {src.name}/{img.name}")
+            for img, target in zip(imgs, targets):
+                dest = ROOT / "public" / target
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copyfile(img, dest)
+                print(f"  {target} <- {src.name}/{img.name}")
             todo.discard(best)
     if unmatched:
         print(f"Not matched: {unmatched}")
@@ -108,6 +122,8 @@ def main():
     import make_voice
 
     for cfg in sorted((ROOT / "videos").glob("[0-9][0-9]-*.json")):
+        if json.loads(cfg.read_text(encoding="utf-8")).get("words"):
+            continue  # voice already made
         print(f"\n== voice: {cfg.stem}")
         sys.argv = ["make_voice.py", cfg.stem]
         asyncio.run(make_voice.main())

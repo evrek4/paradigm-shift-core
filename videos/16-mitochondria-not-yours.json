@@ -1,0 +1,73 @@
+{
+  "title": "Something Else Lives Inside Your Cells",
+  "scenes": [
+    {
+      "image": "videos/16-mitochondria-not-yours/G1.jpg",
+      "images": [
+        "videos/16-mitochondria-not-yours/G2.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 3.0,
+      "text": "The thing powering you right now has its own DNA, and it is not yours.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/16-mitochondria-not-yours/G3.jpg",
+      "images": [
+        "videos/16-mitochondria-not-yours/G4.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.455
+      ],
+      "seconds": 22.0,
+      "text": "Roughly a billion and a half years ago, one single celled organism swallowed another and failed to digest it. The passenger stayed. It kept its own genome, its own membrane, and its own way of dividing. Today it sits in almost every cell you have, converting your food into usable energy. Your mitochondria still carry their own DNA, inherited only from your mother.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/16-mitochondria-not-yours/G5.jpg",
+      "images": [
+        "videos/16-mitochondria-not-yours/G6.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.4
+      ],
+      "seconds": 20.0,
+      "text": "Not a conquest. A merger that never unwound. Two organisms stopped competing and started trading, and the arrangement held for a billion years. Everything complex that followed, every animal, every tree, every one of us, is built on that one truce. And there is more. By cell count, your body hosts roughly as many bacterial cells as human ones. You are not an individual. You are a settlement.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/16-mitochondria-not-yours/G7.jpg",
+      "images": [
+        "videos/16-mitochondria-not-yours/G8.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 5.0,
+      "text": "You were never one thing. You are a truce that held. Because",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

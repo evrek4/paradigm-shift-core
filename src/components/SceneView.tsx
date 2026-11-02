@@ -14,6 +14,8 @@ const SHOTS: Shot[] = [
   { x: [50, 50], y: [50, 50], z: [1.5, 1.08] }, // fast pull back reveal
 ]
 
+const STILL: Shot = { x: [50, 50], y: [50, 50], z: [1.02, 1.02] };
+
 const ShotView: React.FC<{ src: string; shot: Shot; isCut: boolean }> = ({ src, shot, isCut }) => {
   const frame = useCurrentFrame();
   const { durationInFrames } = useVideoConfig();
@@ -51,6 +53,15 @@ export const SceneView: React.FC<{
 }> = ({ scene, index, accentColor, highlightAt, cuts }) => {
   const { durationInFrames, fps } = useVideoConfig();
   const sources = [scene.image, ...(scene.images ?? [])];
+  // Image for a shot: by imageAt timing when given, otherwise cycle
+  const imageFor = (from: number, k: number) => {
+    if (!scene.imageAt) return sources[k % sources.length];
+    let idx = 0;
+    scene.imageAt.forEach((f, j) => {
+      if (from >= Math.round(f * durationInFrames)) idx = j;
+    });
+    return sources[Math.min(idx, sources.length - 1)];
+  };
 
   return (
     <AbsoluteFill style={{ overflow: "hidden", backgroundColor: "black" }}>
@@ -58,7 +69,11 @@ export const SceneView: React.FC<{
         const to = k < cuts.length - 1 ? cuts[k + 1] : durationInFrames;
         return (
           <Sequence key={k} from={from} durationInFrames={Math.max(1, to - from)} layout="none">
-            <ShotView src={sources[k % sources.length]} shot={SHOTS[(index * 2 + k) % SHOTS.length]} isCut={k > 0} />
+            <ShotView
+              src={imageFor(from, k)}
+              shot={scene.stillLast && k === cuts.length - 1 ? STILL : SHOTS[(index * 2 + k) % SHOTS.length]}
+              isCut={k > 0}
+            />
           </Sequence>
         );
       })}

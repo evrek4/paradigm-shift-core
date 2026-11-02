@@ -1,0 +1,73 @@
+{
+  "title": "Why Your Years Keep Getting Shorter",
+  "scenes": [
+    {
+      "image": "videos/17-time-speeds-up/G1.jpg",
+      "images": [
+        "videos/17-time-speeds-up/G2.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 3.0,
+      "text": "Last year was shorter than the one before it. It will keep happening.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/17-time-speeds-up/G3.jpg",
+      "images": [
+        "videos/17-time-speeds-up/G4.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.455
+      ],
+      "seconds": 22.0,
+      "text": "Your sense of how long a stretch of time lasted is reconstructed afterward, from how much of it you stored. A week in a new country takes up enormous space in memory. A week of the same commute leaves almost nothing behind. Your brain does not record what it can already predict. So a familiar year compresses into a few paragraphs.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/17-time-speeds-up/G5.jpg",
+      "images": [
+        "videos/17-time-speeds-up/G6.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.4
+      ],
+      "seconds": 20.0,
+      "text": "Childhood felt enormous because almost everything in it was a first. The first ocean, the first betrayal, the first time you understood a joke. Novelty is expensive to store, and expense is what makes time feel long. Which hands you the only lever there is. You cannot slow the clock. You can refuse to let the years look identical, and a year that resists prediction is a year you get to keep.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/17-time-speeds-up/G7.jpg",
+      "images": [
+        "videos/17-time-speeds-up/G8.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 5.0,
+      "text": "Fill it with the unfamiliar, or watch it vanish. Because otherwise",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

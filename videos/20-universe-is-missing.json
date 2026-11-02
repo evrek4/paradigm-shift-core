@@ -1,0 +1,73 @@
+{
+  "title": "Most Of The Universe Is Missing",
+  "scenes": [
+    {
+      "image": "videos/20-universe-is-missing/G1.jpg",
+      "images": [
+        "videos/20-universe-is-missing/G2.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 3.0,
+      "text": "Everything you have ever seen is about five percent of what exists.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/20-universe-is-missing/G3.jpg",
+      "images": [
+        "videos/20-universe-is-missing/G4.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.455
+      ],
+      "seconds": 22.0,
+      "text": "Galaxies spin too fast. At the speeds we measure, their outer stars should have been flung away billions of years ago. Something is holding them in that we cannot see, detect, or touch. The same accounting problem shows up in how the universe expands, and it is accelerating. Add it up and ordinary matter, everything we have ever observed, is about five percent of the total.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/20-universe-is-missing/G5.jpg",
+      "images": [
+        "videos/20-universe-is-missing/G6.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.4
+      ],
+      "seconds": 20.0,
+      "text": "We did not discover dark matter and dark energy. We named them. They are placeholders, the shape of a hole in the accounts, labeled so we can keep working. It is the same move astronomers once made when Mercury's orbit refused to behave, and the answer turned out to be that gravity itself needed rewriting. So the honest version is this. The largest thing in physics right now is a gap.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/20-universe-is-missing/G7.jpg",
+      "images": [
+        "videos/20-universe-is-missing/G8.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 5.0,
+      "text": "We mapped the lit part and called it the universe. But",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

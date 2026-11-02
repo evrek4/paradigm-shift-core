@@ -1,0 +1,73 @@
+{
+  "title": "Half Of People Miss The Gorilla",
+  "scenes": [
+    {
+      "image": "videos/19-invisible-gorilla/G1.jpg",
+      "images": [
+        "videos/19-invisible-gorilla/G2.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 3.0,
+      "text": "Attention does not add detail. It deletes everything else.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/19-invisible-gorilla/G3.jpg",
+      "images": [
+        "videos/19-invisible-gorilla/G4.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.455
+      ],
+      "seconds": 22.0,
+      "text": "Nineteen ninety nine. Simons and Chabris filmed students passing a basketball and asked viewers to count the passes. Midway through, a person in a gorilla suit walks into frame, stops, beats their chest, and strolls out. It takes nine seconds. About half of all viewers never see it. Not glance past it. Never register that it happened.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/19-invisible-gorilla/G5.jpg",
+      "images": [
+        "videos/19-invisible-gorilla/G6.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.4
+      ],
+      "seconds": 20.0,
+      "text": "This is not carelessness. It is the design working. Your senses take in far more than your brain can process, so attention acts as a budget, and anything outside the task gets spent down to nothing. The unsettling part is the second finding. The people who missed it were completely certain nothing had been there. The deletion leaves no receipt.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/19-invisible-gorilla/G7.jpg",
+      "images": [
+        "videos/19-invisible-gorilla/G8.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 5.0,
+      "text": "You will never know what you did not see. Which is the point, because",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

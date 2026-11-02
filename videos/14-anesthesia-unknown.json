@@ -1,0 +1,73 @@
+{
+  "title": "We Switch Off Consciousness Without Knowing How",
+  "scenes": [
+    {
+      "image": "videos/14-anesthesia-unknown/G1.jpg",
+      "images": [
+        "videos/14-anesthesia-unknown/G2.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 3.0,
+      "text": "Every day, thousands of people are switched off on purpose. Nobody can fully explain how.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/14-anesthesia-unknown/G3.jpg",
+      "images": [
+        "videos/14-anesthesia-unknown/G4.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.455
+      ],
+      "seconds": 22.0,
+      "text": "We know what the drugs bind to. We know the doses, to the milligram, and we know how to bring you back. What we cannot explain is the moment itself. Why does a molecule in your bloodstream make experience stop? The brain does not shut down under anesthesia. It stays active. It simply stops holding itself together as one conversation.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/14-anesthesia-unknown/G5.jpg",
+      "images": [
+        "videos/14-anesthesia-unknown/G6.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.4
+      ],
+      "seconds": 20.0,
+      "text": "Picture an orchestra. Anesthesia does not silence the musicians. It takes away the conductor. Every section keeps playing, and nothing arrives together, so there is no music, and no one listening. That is the leading idea. The parts stay awake, and the binding fails. Which raises the uncomfortable question underneath. If consciousness can be removed by interrupting a connection, then it was never a thing you have. It was something your brain keeps doing.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/14-anesthesia-unknown/G7.jpg",
+      "images": [
+        "videos/14-anesthesia-unknown/G8.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 5.0,
+      "text": "Something performed you into existence this morning. And it can be paused. Because",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

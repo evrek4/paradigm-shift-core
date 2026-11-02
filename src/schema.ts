@@ -6,6 +6,10 @@ export const sceneSchema = z.object({
   image: z.string(),
   // Extra images for this scene; shots cycle through image + images
   images: z.array(z.string()).optional(),
+  // When each image starts, as a fraction of the scene (e.g. [0, 0.45]). Without it, shots cycle through the images.
+  imageAt: z.array(z.number().min(0).max(1)).optional(),
+  // Hold the final shot with no camera move (for an invisible loop cut back to the hook)
+  stillLast: z.boolean().optional(),
   // Scene length in seconds
   seconds: z.number().min(0.5).max(60),
   // Caption text for this scene. Ignored when the video has timed `words`.

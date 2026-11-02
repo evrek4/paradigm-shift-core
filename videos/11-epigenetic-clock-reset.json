@@ -1,0 +1,73 @@
+{
+  "title": "They Rewound A Cell Sixty Years",
+  "scenes": [
+    {
+      "image": "videos/11-epigenetic-clock-reset/G1.jpg",
+      "images": [
+        "videos/11-epigenetic-clock-reset/G2.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 3.0,
+      "text": "Cells from an eighty year old now read as under twenty.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/11-epigenetic-clock-reset/G3.jpg",
+      "images": [
+        "videos/11-epigenetic-clock-reset/G4.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.455
+      ],
+      "seconds": 22.0,
+      "text": "Your DNA carries a timestamp. Chemical marks accumulate on it with age, and they can be read like a clock. In October, a team in Bonn took blood cells from an eighty year old donor. They reprogrammed them directly into neural stem cells. Then they read the clock again. It said under twenty.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/11-epigenetic-clock-reset/G5.jpg",
+      "images": [
+        "videos/11-epigenetic-clock-reset/G6.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.4
+      ],
+      "seconds": 20.0,
+      "text": "Think of a hard drive. Aging was never the platter wearing out. It was the file system filling with clutter. Reformat the index, and the hardware is young again. But here is the honest part. They reset the clock, not the person. This happened in a dish, and a clock reading is not a cure. What they built is a window into aging, not a reversal of it.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/11-epigenetic-clock-reset/G7.jpg",
+      "images": [
+        "videos/11-epigenetic-clock-reset/G8.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 5.0,
+      "text": "The clock, it turns out, can run both ways. Which is how",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

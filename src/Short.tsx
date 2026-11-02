@@ -33,8 +33,16 @@ export const Short: React.FC<ShortProps> = ({
   const scenesEnd = sceneFrames.reduce((a, b) => a + b, 0);
   const allWords = captionWords(scenes, words);
   const chunks = chunkWords(allWords, (scenesEnd / fps) * 1000);
-  const cutsFor = (i: number) =>
-    shotStarts((scenes[i].clips ?? []).map((c) => c.atMs), scenes[i].seconds, fps);
+  const cutsFor = (i: number) => {
+    const sc = scenes[i];
+    const total = Math.round(sc.seconds * fps);
+    const beats = shotStarts((sc.clips ?? []).map((c) => c.atMs), sc.seconds, fps);
+    if (!sc.imageAt) return beats;
+    // Image changes are always cuts; drop beat cuts that would land within 0.8 s of one
+    const switches = sc.imageAt.map((f) => Math.round(f * total));
+    const near = (c: number) => switches.some((s) => Math.abs(s - c) < 0.8 * fps);
+    return [...new Set([...switches, ...beats.filter((c) => !near(c))])].sort((a, b) => a - b);
+  };
   const sceneStart = (i: number) => sceneFrames.slice(0, i).reduce((a, b) => a + b, 0);
   // Frame (inside the scene) where the highlight's word is spoken; 6 frames in if not found
   const highlightFrame = (scene: ShortProps["scenes"][number], i: number) => {

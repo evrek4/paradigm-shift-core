@@ -1,0 +1,73 @@
+{
+  "title": "The Placebo Works Even When You Know",
+  "scenes": [
+    {
+      "image": "videos/15-open-label-placebo/G1.jpg",
+      "images": [
+        "videos/15-open-label-placebo/G2.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 3.0,
+      "text": "They told patients the pills were fake. The pills worked anyway.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/15-open-label-placebo/G3.jpg",
+      "images": [
+        "videos/15-open-label-placebo/G4.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.455
+      ],
+      "seconds": 22.0,
+      "text": "A placebo is supposed to need deception. So a Harvard team removed it. They handed patients with irritable bowel syndrome a bottle labeled placebo, and explained plainly that the pills contained no active drug. Take them anyway, twice a day. The group that did reported significantly more relief than the group given nothing. The result has since been repeated in chronic back pain.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/15-open-label-placebo/G5.jpg",
+      "images": [
+        "videos/15-open-label-placebo/G6.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.4
+      ],
+      "seconds": 20.0,
+      "text": "So the active ingredient was never the lie. It was the ritual. The appointment, the bottle, the twice a day, the act of doing something about it. Your brain treats that sequence as evidence that care is underway, and adjusts how pain is processed. Important limit. This shifts symptoms, not tumors. It eases what the brain is interpreting, and it does nothing to what the brain is only reporting.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/15-open-label-placebo/G7.jpg",
+      "images": [
+        "videos/15-open-label-placebo/G8.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 5.0,
+      "text": "The body was listening to the ceremony, not the chemistry. Which is why",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

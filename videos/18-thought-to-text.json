@@ -1,0 +1,73 @@
+{
+  "title": "They Decoded A Sentence From A Silent Brain",
+  "scenes": [
+    {
+      "image": "videos/18-thought-to-text/G1.jpg",
+      "images": [
+        "videos/18-thought-to-text/G2.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 3.0,
+      "text": "She had not spoken in years. The screen spoke for her at seventy eight words a minute.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/18-thought-to-text/G3.jpg",
+      "images": [
+        "videos/18-thought-to-text/G4.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.455
+      ],
+      "seconds": 22.0,
+      "text": "Speech starts as a motor plan. Before a single sound leaves you, your brain is already issuing instructions to the lips, jaw and tongue. In paralysis, that plan is often still intact. It just never reaches the muscles. So two teams placed electrodes over those regions and trained models to read the instructions directly. Attempted speech, decoded into text, in close to real time.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/18-thought-to-text/G5.jpg",
+      "images": [
+        "videos/18-thought-to-text/G6.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.4
+      ],
+      "seconds": 20.0,
+      "text": "For years the assumption was that silence meant the message was gone. It was not. The letter was written every time. The post office had closed. What these systems do is reopen it, and what they decode is the attempt to speak, not private thought. That distinction matters more every year, because it is the line everything built after this will be measured against.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/18-thought-to-text/G7.jpg",
+      "images": [
+        "videos/18-thought-to-text/G8.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 5.0,
+      "text": "The message was always sending. Nobody was collecting it. Until",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

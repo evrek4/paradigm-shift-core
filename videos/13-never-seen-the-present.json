@@ -1,0 +1,73 @@
+{
+  "title": "You Have Never Seen The Present",
+  "scenes": [
+    {
+      "image": "videos/13-never-seen-the-present/G1.jpg",
+      "images": [
+        "videos/13-never-seen-the-present/G2.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 3.0,
+      "text": "Right now you are watching a prediction, not a picture.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/13-never-seen-the-present/G3.jpg",
+      "images": [
+        "videos/13-never-seen-the-present/G4.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.455
+      ],
+      "seconds": 22.0,
+      "text": "Light hits your retina. The signal is converted, relayed, and processed, and all of that costs time. By the moment an image reaches awareness, the world has already moved on by something like a tenth of a second. A tenth of a second is the difference between catching a glass and hearing it land. So the brain does not wait. It extrapolates, and shows you where things should be by now.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/13-never-seen-the-present/G5.jpg",
+      "images": [
+        "videos/13-never-seen-the-present/G6.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.4
+      ],
+      "seconds": 20.0,
+      "text": "Every live broadcast runs on a delay, and the studio hides it by cutting away. Your brain runs the same trick, except it also fills the delay with a guess. The guess is usually right, which is why you can catch a ball at all. When it is wrong, you get the flash lag illusion, and a moving object appears ahead of where it truly is. The present you experience is the brain's best forecast, rendered as certainty.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/13-never-seen-the-present/G7.jpg",
+      "images": [
+        "videos/13-never-seen-the-present/G8.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 5.0,
+      "text": "Now is a story your brain finished writing before you got here. So",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

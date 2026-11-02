@@ -1,0 +1,73 @@
+{
+  "title": "You Go Blind Three Times A Second",
+  "scenes": [
+    {
+      "image": "videos/12-saccadic-masking/G1.jpg",
+      "images": [
+        "videos/12-saccadic-masking/G2.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 3.0,
+      "text": "You went blind three times while reading that sentence.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/12-saccadic-masking/G3.jpg",
+      "images": [
+        "videos/12-saccadic-masking/G4.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.455
+      ],
+      "seconds": 22.0,
+      "text": "Your eyes do not glide. They jump, several times a second, and during every jump the image smears into useless streaks. You never see that smear. Your brain cuts it out and stitches the two clean ends together, then backdates the result so the gap disappears. Add the cuts up and it is a meaningful slice of your waking day, deleted.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/12-saccadic-masking/G5.jpg",
+      "images": [
+        "videos/12-saccadic-masking/G6.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.4
+      ],
+      "seconds": 20.0,
+      "text": "There is a tell. Glance at an analog clock and the first second looks too long. That is the stitch. Your brain stretched the frame it kept to cover the frames it threw away. Which means vision is not a window. It is an edit, delivered so smoothly you have never once noticed the cut.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/12-saccadic-masking/G7.jpg",
+      "images": [
+        "videos/12-saccadic-masking/G8.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 5.0,
+      "text": "The footage was always missing. You just never saw the splice. Which is how",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}
