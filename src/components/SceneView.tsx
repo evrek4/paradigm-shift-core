@@ -1,16 +1,17 @@
 import React from "react";
-import { AbsoluteFill, Easing, Img, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
+import { AbsoluteFill, Easing, Img, interpolate, Sequence, spring, staticFile, useCurrentFrame, useVideoConfig } from "remotion";
 import { Scene } from "../schema";
 import { fontFamily } from "../font";
 
 // Slow camera move over one image; any aspect ratio works thanks to a blurred fill
-export const SceneView: React.FC<{ scene: Scene; index: number; accentColor: string }> = ({
+export const SceneView: React.FC<{ scene: Scene; index: number; accentColor: string; highlightAt: number }> = ({
   scene,
   index,
   accentColor,
+  highlightAt,
 }) => {
   const frame = useCurrentFrame();
-  const { durationInFrames } = useVideoConfig();
+  const { durationInFrames, fps } = useVideoConfig();
   const ease = { extrapolateLeft: "clamp" as const, extrapolateRight: "clamp" as const, easing: Easing.bezier(0.45, 0, 0.55, 1) };
   const zoomIn = index % 2 === 0;
   const scale = interpolate(frame, [0, durationInFrames], zoomIn ? [1.0, 1.1] : [1.1, 1.0], ease);
@@ -25,7 +26,11 @@ export const SceneView: React.FC<{ scene: Scene; index: number; accentColor: str
       </AbsoluteFill>
       <AbsoluteFill style={{ background: "radial-gradient(ellipse at 50% 45%, rgba(0,0,0,0) 55%, rgba(0,0,0,0.45) 100%)" }} />
       <AbsoluteFill style={{ background: "linear-gradient(to bottom, rgba(0,0,0,0) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.2) 100%)" }} />
-      {scene.highlight ? <Highlight text={scene.highlight} accentColor={accentColor} /> : null}
+      {scene.highlight ? (
+        <Sequence from={highlightAt} durationInFrames={Math.round(3 * fps)} layout="none">
+          <Highlight text={scene.highlight} accentColor={accentColor} />
+        </Sequence>
+      ) : null}
     </AbsoluteFill>
   );
 };
@@ -33,7 +38,10 @@ export const SceneView: React.FC<{ scene: Scene; index: number; accentColor: str
 const Highlight: React.FC<{ text: string; accentColor: string }> = ({ text, accentColor }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
-  const pop = spring({ frame: frame - 6, fps, config: { damping: 200 }, durationInFrames: 20 });
+  const { durationInFrames } = useVideoConfig();
+  const pop =
+    spring({ frame, fps, config: { damping: 200 }, durationInFrames: 12 }) *
+    interpolate(frame, [durationInFrames - 10, durationInFrames], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   return (
     <AbsoluteFill style={{ justifyContent: "center", alignItems: "center", top: -260 }}>
       <div

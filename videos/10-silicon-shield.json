@@ -3,7 +3,7 @@
   "scenes": [
     {
       "image": "videos/10-silicon-shield/1.jpg",
-      "seconds": 4.82,
+      "seconds": 3.91,
       "text": "Almost every advanced chip on Earth is printed in one place.",
       "delivery": {
         "rate": -4,
@@ -18,7 +18,7 @@
     },
     {
       "image": "videos/10-silicon-shield/2.jpg",
-      "seconds": 22.8,
+      "seconds": 19.83,
       "text": "The machine that prints the smallest circuits exists in a single version, built by one Dutch company. It fires a laser at molten tin droplets fifty thousand times a second to make light thirteen nanometers wide, and focuses it with mirrors so smooth that scaled to the size of a country, the tallest bump would be a millimeter. Almost all of the leading-edge output runs through Taiwan.",
       "delivery": {
         "rate": 12,
@@ -31,17 +31,17 @@
         },
         {
           "src": "videos/10-silicon-shield/v2-2.mp3",
-          "atMs": 5896
+          "atMs": 5051
         },
         {
           "src": "videos/10-silicon-shield/v2-3.mp3",
-          "atMs": 19256
+          "atMs": 17010
         }
       ]
     },
     {
       "image": "videos/10-silicon-shield/3.jpg",
-      "seconds": 26.38,
+      "seconds": 21.95,
       "text": "Strategists call this the silicon shield. The theory is that being indispensable is its own kind of armor. Nobody wrecks the factory the whole world depends on. But a shield and a target can be the same object viewed from two directions. And the deeper issue is quieter. We built the most complex supply chain in history and then stacked it on a single point of failure, because concentration was cheaper than redundancy.",
       "delivery": {
         "rate": 8,
@@ -54,29 +54,29 @@
         },
         {
           "src": "videos/10-silicon-shield/v3-2.mp3",
-          "atMs": 2872
+          "atMs": 2289
         },
         {
           "src": "videos/10-silicon-shield/v3-3.mp3",
-          "atMs": 7304
+          "atMs": 5966
         },
         {
           "src": "videos/10-silicon-shield/v3-4.mp3",
-          "atMs": 10968
+          "atMs": 8993
         },
         {
           "src": "videos/10-silicon-shield/v3-5.mp3",
-          "atMs": 15448
+          "atMs": 12740
         },
         {
           "src": "videos/10-silicon-shield/v3-6.mp3",
-          "atMs": 18056
+          "atMs": 14780
         }
       ]
     },
     {
       "image": "videos/10-silicon-shield/4.jpg",
-      "seconds": 5.42,
+      "seconds": 3.54,
       "text": "Every device you own traces back to that one point. Because",
       "delivery": {
         "rate": -4,
@@ -90,7 +90,7 @@
         },
         {
           "src": "videos/10-silicon-shield/v4-2.mp3",
-          "atMs": 3544
+          "atMs": 2848
         }
       ]
     }
@@ -100,651 +100,652 @@
   "words": [
     {
       "text": "Almost",
-      "startMs": 104
+      "startMs": 0
     },
     {
       "text": "every",
-      "startMs": 586
+      "startMs": 425
     },
     {
       "text": "advanced",
-      "startMs": 898
+      "startMs": 711
     },
     {
       "text": "chip",
-      "startMs": 1328
+      "startMs": 1104
     },
     {
       "text": "on",
-      "startMs": 1576
+      "startMs": 1331
     },
     {
       "text": "Earth",
-      "startMs": 1745
+      "startMs": 1486
     },
     {
       "text": "is",
-      "startMs": 2487
+      "startMs": 2166
     },
     {
       "text": "printed",
-      "startMs": 2604
+      "startMs": 2273
     },
     {
       "text": "in",
-      "startMs": 2982
+      "startMs": 2619
     },
     {
       "text": "one",
-      "startMs": 3086
+      "startMs": 2714
     },
     {
       "text": "place",
-      "startMs": 3307
+      "startMs": 2917
     },
     {
       "text": "The",
-      "startMs": 4909
+      "startMs": 3910
     },
     {
       "text": "machine",
-      "startMs": 4965
+      "startMs": 3947
     },
     {
       "text": "that",
-      "startMs": 5378
+      "startMs": 4326
     },
     {
       "text": "prints",
-      "startMs": 5534
+      "startMs": 4468
     },
     {
       "text": "the",
-      "startMs": 5891
+      "startMs": 4795
     },
     {
       "text": "smallest",
-      "startMs": 5981
+      "startMs": 4878
     },
     {
       "text": "circuits",
-      "startMs": 6550
+      "startMs": 5399
     },
     {
       "text": "exists",
-      "startMs": 6963
+      "startMs": 5777
     },
     {
       "text": "in",
-      "startMs": 7610
+      "startMs": 6369
     },
     {
       "text": "a",
-      "startMs": 7711
+      "startMs": 6462
     },
     {
       "text": "single",
-      "startMs": 7766
+      "startMs": 6512
     },
     {
       "text": "version",
-      "startMs": 8112
+      "startMs": 6829
     },
     {
       "text": "built",
-      "startMs": 8737
+      "startMs": 7402
     },
     {
       "text": "by",
-      "startMs": 8972
+      "startMs": 7617
     },
     {
       "text": "one",
-      "startMs": 9117
+      "startMs": 7750
     },
     {
       "text": "Dutch",
-      "startMs": 9474
+      "startMs": 8076
     },
     {
       "text": "company",
-      "startMs": 9708
+      "startMs": 8291
     },
     {
       "text": "It",
-      "startMs": 10783
+      "startMs": 9022
     },
     {
       "text": "fires",
-      "startMs": 10872
+      "startMs": 9104
     },
     {
       "text": "a",
-      "startMs": 11274
+      "startMs": 9472
     },
     {
       "text": "laser",
-      "startMs": 11341
+      "startMs": 9533
     },
     {
       "text": "at",
-      "startMs": 11843
+      "startMs": 9993
     },
     {
       "text": "molten",
-      "startMs": 11932
+      "startMs": 10074
     },
     {
       "text": "tin",
-      "startMs": 12457
+      "startMs": 10555
     },
     {
       "text": "droplets",
-      "startMs": 12703
+      "startMs": 10780
     },
     {
       "text": "fifty",
-      "startMs": 13450
+      "startMs": 11464
     },
     {
       "text": "thousand",
-      "startMs": 13796
+      "startMs": 11781
     },
     {
       "text": "times",
-      "startMs": 14220
+      "startMs": 12170
     },
     {
       "text": "a",
-      "startMs": 14600
+      "startMs": 12518
     },
     {
       "text": "second",
-      "startMs": 14645
+      "startMs": 12559
     },
     {
       "text": "to",
-      "startMs": 15303
+      "startMs": 13161
     },
     {
       "text": "make",
-      "startMs": 15381
+      "startMs": 13233
     },
     {
       "text": "light",
-      "startMs": 15582
+      "startMs": 13417
     },
     {
       "text": "thirteen",
-      "startMs": 15950
+      "startMs": 13754
     },
     {
       "text": "nanometers",
-      "startMs": 16464
+      "startMs": 14225
     },
     {
       "text": "wide",
-      "startMs": 16899
+      "startMs": 14623
     },
     {
       "text": "and",
-      "startMs": 17658
+      "startMs": 15318
     },
     {
       "text": "focuses",
-      "startMs": 17747
+      "startMs": 15399
     },
     {
       "text": "it",
-      "startMs": 18250
+      "startMs": 15860
     },
     {
       "text": "with",
-      "startMs": 18339
+      "startMs": 15942
     },
     {
       "text": "mirrors",
-      "startMs": 18473
+      "startMs": 16064
     },
     {
       "text": "so",
-      "startMs": 18953
+      "startMs": 16504
     },
     {
       "text": "smooth",
-      "startMs": 19265
+      "startMs": 16790
     },
     {
       "text": "that",
-      "startMs": 19790
+      "startMs": 17270
     },
     {
       "text": "scaled",
-      "startMs": 19912
+      "startMs": 17382
     },
     {
       "text": "to",
-      "startMs": 20314
+      "startMs": 17750
     },
     {
       "text": "the",
-      "startMs": 20381
+      "startMs": 17812
     },
     {
       "text": "size",
-      "startMs": 20470
+      "startMs": 17893
     },
     {
       "text": "of",
-      "startMs": 20861
+      "startMs": 18251
     },
     {
       "text": "a",
-      "startMs": 20906
+      "startMs": 18292
     },
     {
       "text": "country",
-      "startMs": 20962
+      "startMs": 18344
     },
     {
       "text": "the",
-      "startMs": 21754
+      "startMs": 19069
     },
     {
       "text": "tallest",
-      "startMs": 21832
+      "startMs": 19140
     },
     {
       "text": "bump",
-      "startMs": 22234
+      "startMs": 19508
     },
     {
       "text": "would",
-      "startMs": 22491
+      "startMs": 19744
     },
     {
       "text": "be",
-      "startMs": 22636
+      "startMs": 19877
     },
     {
       "text": "a",
-      "startMs": 22803
+      "startMs": 20029
     },
     {
       "text": "millimeter",
-      "startMs": 22848
+      "startMs": 20071
     },
     {
       "text": "Almost",
-      "startMs": 24165
+      "startMs": 20920
     },
     {
       "text": "all",
-      "startMs": 24467
+      "startMs": 21178
     },
     {
       "text": "of",
-      "startMs": 24645
+      "startMs": 21341
     },
     {
       "text": "the",
-      "startMs": 24712
+      "startMs": 21403
     },
     {
       "text": "leading-edge",
-      "startMs": 24790
+      "startMs": 21474
     },
     {
       "text": "output",
-      "startMs": 25393
+      "startMs": 22026
     },
     {
       "text": "runs",
-      "startMs": 25817
+      "startMs": 22415
     },
     {
       "text": "through",
-      "startMs": 26185
+      "startMs": 22752
     },
     {
       "text": "Taiwan",
-      "startMs": 26342
+      "startMs": 22896
     },
     {
       "text": "Strategists",
-      "startMs": 27713
+      "startMs": 23741
     },
     {
       "text": "call",
-      "startMs": 28257
+      "startMs": 24239
     },
     {
       "text": "this",
-      "startMs": 28592
+      "startMs": 24546
     },
     {
       "text": "the",
-      "startMs": 28870
+      "startMs": 24800
     },
     {
       "text": "silicon",
-      "startMs": 28974
+      "startMs": 24896
     },
     {
       "text": "shield",
-      "startMs": 29391
+      "startMs": 25277
     },
     {
       "text": "The",
-      "startMs": 30596
+      "startMs": 26029
     },
     {
       "text": "theory",
-      "startMs": 30700
+      "startMs": 26120
     },
     {
       "text": "is",
-      "startMs": 31325
+      "startMs": 26693
     },
     {
       "text": "that",
-      "startMs": 31464
+      "startMs": 26820
     },
     {
       "text": "being",
-      "startMs": 31707
+      "startMs": 27043
     },
     {
       "text": "indispensable",
-      "startMs": 32066
+      "startMs": 27371
     },
     {
       "text": "is",
-      "startMs": 33050
+      "startMs": 28272
     },
     {
       "text": "its",
-      "startMs": 33142
+      "startMs": 28357
     },
     {
       "text": "own",
-      "startMs": 33362
+      "startMs": 28558
     },
     {
       "text": "kind",
-      "startMs": 33582
+      "startMs": 28760
     },
     {
       "text": "of",
-      "startMs": 33802
+      "startMs": 28961
     },
     {
       "text": "armor",
-      "startMs": 33872
+      "startMs": 29025
     },
     {
       "text": "Nobody",
-      "startMs": 35005
+      "startMs": 29706
     },
     {
       "text": "wrecks",
-      "startMs": 35306
+      "startMs": 29969
     },
     {
       "text": "the",
-      "startMs": 35561
+      "startMs": 30203
     },
     {
       "text": "factory",
-      "startMs": 35630
+      "startMs": 30266
     },
     {
       "text": "the",
-      "startMs": 36568
+      "startMs": 31125
     },
     {
       "text": "whole",
-      "startMs": 36660
+      "startMs": 31209
     },
     {
       "text": "world",
-      "startMs": 36973
+      "startMs": 31496
     },
     {
       "text": "depends",
-      "startMs": 37343
+      "startMs": 31835
     },
     {
       "text": "on",
-      "startMs": 37713
+      "startMs": 32174
     },
     {
       "text": "But",
-      "startMs": 38681
+      "startMs": 32733
     },
     {
       "text": "a",
-      "startMs": 38762
+      "startMs": 32798
     },
     {
       "text": "shield",
-      "startMs": 38785
+      "startMs": 32819
     },
     {
       "text": "and",
-      "startMs": 39259
+      "startMs": 33253
     },
     {
       "text": "a",
-      "startMs": 39340
+      "startMs": 33327
     },
     {
       "text": "target",
-      "startMs": 39398
+      "startMs": 33380
     },
     {
       "text": "can",
-      "startMs": 39826
+      "startMs": 33772
     },
     {
       "text": "be",
-      "startMs": 39942
+      "startMs": 33878
     },
     {
       "text": "the",
-      "startMs": 40081
+      "startMs": 34006
     },
     {
       "text": "same",
-      "startMs": 40150
+      "startMs": 34069
     },
     {
       "text": "object",
-      "startMs": 40637
+      "startMs": 34515
     },
     {
       "text": "viewed",
-      "startMs": 41134
+      "startMs": 34970
     },
     {
       "text": "from",
-      "startMs": 41493
+      "startMs": 35299
     },
     {
       "text": "two",
-      "startMs": 41644
+      "startMs": 35437
     },
     {
       "text": "directions",
-      "startMs": 41829
+      "startMs": 35606
     },
     {
       "text": "And",
-      "startMs": 43149
+      "startMs": 36480
     },
     {
       "text": "the",
-      "startMs": 43207
+      "startMs": 36522
     },
     {
       "text": "deeper",
-      "startMs": 43323
+      "startMs": 36628
     },
     {
       "text": "issue",
-      "startMs": 43647
+      "startMs": 36924
     },
     {
       "text": "is",
-      "startMs": 44214
+      "startMs": 37444
     },
     {
       "text": "quieter",
-      "startMs": 44399
+      "startMs": 37613
     },
     {
       "text": "We",
-      "startMs": 45757
+      "startMs": 38520
     },
     {
       "text": "built",
-      "startMs": 45850
+      "startMs": 38594
     },
     {
       "text": "the",
-      "startMs": 46058
+      "startMs": 38784
     },
     {
       "text": "most",
-      "startMs": 46151
+      "startMs": 38870
     },
     {
       "text": "complex",
-      "startMs": 46440
+      "startMs": 39134
     },
     {
       "text": "supply",
-      "startMs": 47065
+      "startMs": 39707
     },
     {
       "text": "chain",
-      "startMs": 47493
+      "startMs": 40099
     },
     {
       "text": "in",
-      "startMs": 47771
+      "startMs": 40353
     },
     {
       "text": "history",
-      "startMs": 47864
+      "startMs": 40438
     },
     {
       "text": "and",
-      "startMs": 48570
+      "startMs": 41085
     },
     {
       "text": "then",
-      "startMs": 48674
+      "startMs": 41180
     },
     {
       "text": "stacked",
-      "startMs": 48824
+      "startMs": 41317
     },
     {
       "text": "it",
-      "startMs": 49183
+      "startMs": 41646
     },
     {
       "text": "on",
-      "startMs": 49252
+      "startMs": 41709
     },
     {
       "text": "a",
-      "startMs": 49345
+      "startMs": 41794
     },
     {
       "text": "single",
-      "startMs": 49380
+      "startMs": 41827
     },
     {
       "text": "point",
-      "startMs": 49727
+      "startMs": 42144
     },
     {
       "text": "of",
-      "startMs": 49970
+      "startMs": 42367
     },
     {
       "text": "failure",
-      "startMs": 50016
+      "startMs": 42409
     },
     {
       "text": "because",
-      "startMs": 50688
+      "startMs": 43024
     },
     {
       "text": "concentration",
-      "startMs": 50942
+      "startMs": 43257
     },
     {
       "text": "was",
-      "startMs": 51880
+      "startMs": 44116
     },
     {
       "text": "cheaper",
-      "startMs": 52030
+      "startMs": 44253
     },
     {
       "text": "than",
-      "startMs": 52401
+      "startMs": 44593
     },
     {
       "text": "redundancy",
-      "startMs": 52528
+      "startMs": 44709
     },
     {
       "text": "Every",
-      "startMs": 54104
+      "startMs": 45690
     },
     {
       "text": "device",
-      "startMs": 54300
+      "startMs": 45857
     },
     {
       "text": "you",
-      "startMs": 54755
+      "startMs": 46273
     },
     {
       "text": "own",
-      "startMs": 54885
+      "startMs": 46392
     },
     {
       "text": "traces",
-      "startMs": 55107
+      "startMs": 46596
     },
     {
       "text": "back",
-      "startMs": 55576
+      "startMs": 47025
     },
     {
       "text": "to",
-      "startMs": 55953
+      "startMs": 47370
     },
     {
       "text": "that",
-      "startMs": 56057
+      "startMs": 47466
     },
     {
       "text": "one",
-      "startMs": 56279
+      "startMs": 47669
     },
     {
       "text": "point",
-      "startMs": 56461
+      "startMs": 47836
     },
     {
       "text": "Because",
-      "startMs": 57658
+      "startMs": 48538
     }
-  ]
+  ],
+  "speechSpeed": 1.092
 }

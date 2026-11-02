@@ -3,7 +3,7 @@
   "scenes": [
     {
       "image": "videos/02-model-collapse/1.jpg",
-      "seconds": 5.99,
+      "seconds": 3.99,
       "text": "Every AI you use is quietly being poisoned. By itself.",
       "delivery": {
         "rate": -4,
@@ -16,13 +16,13 @@
         },
         {
           "src": "videos/02-model-collapse/v1-2.mp3",
-          "atMs": 3664
+          "atMs": 2886
         }
       ]
     },
     {
       "image": "videos/02-model-collapse/2.jpg",
-      "seconds": 25.79,
+      "seconds": 20.58,
       "text": "These systems learned to write by reading the open internet. But the internet is now filling with text written by machines. So the next generation trains on the last one's output. Researchers at Oxford and Cambridge tested this directly. Train a model on its own generations, again and again, and it degrades. The rare, the strange, the specific all vanish first. They called it model collapse.",
       "delivery": {
         "rate": 12,
@@ -35,33 +35,33 @@
         },
         {
           "src": "videos/02-model-collapse/v2-2.mp3",
-          "atMs": 3544
+          "atMs": 2840
         },
         {
           "src": "videos/02-model-collapse/v2-3.mp3",
-          "atMs": 7544
+          "atMs": 6049
         },
         {
           "src": "videos/02-model-collapse/v2-4.mp3",
-          "atMs": 10704
+          "atMs": 8547
         },
         {
           "src": "videos/02-model-collapse/v2-5.mp3",
-          "atMs": 14488
+          "atMs": 11590
         },
         {
           "src": "videos/02-model-collapse/v2-6.mp3",
-          "atMs": 19616
+          "atMs": 15820
         },
         {
           "src": "videos/02-model-collapse/v2-7.mp3",
-          "atMs": 23568
+          "atMs": 18990
         }
       ]
     },
     {
       "image": "videos/02-model-collapse/3.jpg",
-      "seconds": 29.59,
+      "seconds": 19.93,
       "text": "It's a photocopy of a photocopy. The first copy looks fine. By the hundredth, the face is gone. And the first thing lost is never the average. It's the edge. The outlier. The minority view. Which is why some labs now treat text written before 2022 the way salvage yards treat steel forged before the first atomic tests. Uncontaminated. And finite.",
       "delivery": {
         "rate": 8,
@@ -74,45 +74,45 @@
         },
         {
           "src": "videos/02-model-collapse/v3-2.mp3",
-          "atMs": 2776
+          "atMs": 2142
         },
         {
           "src": "videos/02-model-collapse/v3-3.mp3",
-          "atMs": 4568
+          "atMs": 3401
         },
         {
           "src": "videos/02-model-collapse/v3-4.mp3",
-          "atMs": 7272
+          "atMs": 5474
         },
         {
           "src": "videos/02-model-collapse/v3-5.mp3",
-          "atMs": 10360
+          "atMs": 7895
         },
         {
           "src": "videos/02-model-collapse/v3-6.mp3",
-          "atMs": 12512
+          "atMs": 8760
         },
         {
           "src": "videos/02-model-collapse/v3-7.mp3",
-          "atMs": 14664
+          "atMs": 9660
         },
         {
           "src": "videos/02-model-collapse/v3-8.mp3",
-          "atMs": 16816
+          "atMs": 10761
         },
         {
           "src": "videos/02-model-collapse/v3-9.mp3",
-          "atMs": 25112
+          "atMs": 17791
         },
         {
           "src": "videos/02-model-collapse/v3-10.mp3",
-          "atMs": 27264
+          "atMs": 18955
         }
       ]
     },
     {
       "image": "videos/02-model-collapse/4.jpg",
-      "seconds": 7.66,
+      "seconds": 5.03,
       "text": "So the question isn't whether the machines get smarter. It's what they forget on the way. Because",
       "delivery": {
         "rate": -4,
@@ -126,11 +126,11 @@
         },
         {
           "src": "videos/02-model-collapse/v4-2.mp3",
-          "atMs": 3736
+          "atMs": 2913
         },
         {
           "src": "videos/02-model-collapse/v4-3.mp3",
-          "atMs": 5792
+          "atMs": 4362
         }
       ]
     }
@@ -140,619 +140,620 @@
   "words": [
     {
       "text": "Every",
-      "startMs": 91
+      "startMs": 0
     },
     {
       "text": "AI",
-      "startMs": 404
+      "startMs": 263
     },
     {
       "text": "you",
-      "startMs": 885
+      "startMs": 690
     },
     {
       "text": "use",
-      "startMs": 1081
+      "startMs": 865
     },
     {
       "text": "is",
-      "startMs": 1497
+      "startMs": 1234
     },
     {
       "text": "quietly",
-      "startMs": 1602
+      "startMs": 1328
     },
     {
       "text": "being",
-      "startMs": 2227
+      "startMs": 1883
     },
     {
       "text": "poisoned",
-      "startMs": 2461
+      "startMs": 2091
     },
     {
       "text": "By",
-      "startMs": 3778
+      "startMs": 2886
     },
     {
       "text": "itself",
-      "startMs": 3920
+      "startMs": 2994
     },
     {
       "text": "These",
-      "startMs": 6079
+      "startMs": 3990
     },
     {
       "text": "systems",
-      "startMs": 6247
+      "startMs": 4128
     },
     {
       "text": "learned",
-      "startMs": 6648
+      "startMs": 4485
     },
     {
       "text": "to",
-      "startMs": 6994
+      "startMs": 4792
     },
     {
       "text": "write",
-      "startMs": 7073
+      "startMs": 4862
     },
     {
       "text": "by",
-      "startMs": 7642
+      "startMs": 5368
     },
     {
       "text": "reading",
-      "startMs": 7798
+      "startMs": 5507
     },
     {
       "text": "the",
-      "startMs": 8088
+      "startMs": 5765
     },
     {
       "text": "open",
-      "startMs": 8211
+      "startMs": 5874
     },
     {
       "text": "internet",
-      "startMs": 8479
+      "startMs": 6112
     },
     {
       "text": "But",
-      "startMs": 9634
+      "startMs": 6830
     },
     {
       "text": "the",
-      "startMs": 9701
+      "startMs": 6879
     },
     {
       "text": "internet",
-      "startMs": 9780
+      "startMs": 6949
     },
     {
       "text": "is",
-      "startMs": 10338
+      "startMs": 7445
     },
     {
       "text": "now",
-      "startMs": 10438
+      "startMs": 7534
     },
     {
       "text": "filling",
-      "startMs": 10717
+      "startMs": 7782
     },
     {
       "text": "with",
-      "startMs": 11074
+      "startMs": 8100
     },
     {
       "text": "text",
-      "startMs": 11219
+      "startMs": 8229
     },
     {
       "text": "written",
-      "startMs": 11867
+      "startMs": 8805
     },
     {
       "text": "by",
-      "startMs": 12112
+      "startMs": 9022
     },
     {
       "text": "machines",
-      "startMs": 12257
+      "startMs": 9151
     },
     {
       "text": "So",
-      "startMs": 13623
+      "startMs": 10039
     },
     {
       "text": "the",
-      "startMs": 13701
+      "startMs": 10099
     },
     {
       "text": "next",
-      "startMs": 13768
+      "startMs": 10158
     },
     {
       "text": "generation",
-      "startMs": 14003
+      "startMs": 10367
     },
     {
       "text": "trains",
-      "startMs": 14460
+      "startMs": 10773
     },
     {
       "text": "on",
-      "startMs": 14884
+      "startMs": 11150
     },
     {
       "text": "the",
-      "startMs": 14951
+      "startMs": 11210
     },
     {
       "text": "last",
-      "startMs": 15007
+      "startMs": 11260
     },
     {
       "text": "one's",
-      "startMs": 15420
+      "startMs": 11627
     },
     {
       "text": "output",
-      "startMs": 15632
+      "startMs": 11815
     },
     {
       "text": "Researchers",
-      "startMs": 16772
+      "startMs": 12537
     },
     {
       "text": "at",
-      "startMs": 17330
+      "startMs": 13021
     },
     {
       "text": "Oxford",
-      "startMs": 17419
+      "startMs": 13100
     },
     {
       "text": "and",
-      "startMs": 18111
+      "startMs": 13715
     },
     {
       "text": "Cambridge",
-      "startMs": 18245
+      "startMs": 13834
     },
     {
       "text": "tested",
-      "startMs": 18725
+      "startMs": 14261
     },
     {
       "text": "this",
-      "startMs": 19194
+      "startMs": 14677
     },
     {
       "text": "directly",
-      "startMs": 19350
+      "startMs": 14816
     },
     {
       "text": "Train",
-      "startMs": 20556
+      "startMs": 15580
     },
     {
       "text": "a",
-      "startMs": 20746
+      "startMs": 15734
     },
     {
       "text": "model",
-      "startMs": 20779
+      "startMs": 15763
     },
     {
       "text": "on",
-      "startMs": 21170
+      "startMs": 16111
     },
     {
       "text": "its",
-      "startMs": 21304
+      "startMs": 16230
     },
     {
       "text": "own",
-      "startMs": 21427
+      "startMs": 16339
     },
     {
       "text": "generations",
-      "startMs": 21706
+      "startMs": 16587
     },
     {
       "text": "again",
-      "startMs": 22688
+      "startMs": 17460
     },
     {
       "text": "and",
-      "startMs": 23212
+      "startMs": 17926
     },
     {
       "text": "again",
-      "startMs": 23324
+      "startMs": 18026
     },
     {
       "text": "and",
-      "startMs": 24150
+      "startMs": 18760
     },
     {
       "text": "it",
-      "startMs": 24217
+      "startMs": 18819
     },
     {
       "text": "degrades",
-      "startMs": 24295
+      "startMs": 18889
     },
     {
       "text": "The",
-      "startMs": 25695
+      "startMs": 19810
     },
     {
       "text": "rare",
-      "startMs": 25796
+      "startMs": 19880
     },
     {
       "text": "the",
-      "startMs": 26309
+      "startMs": 20336
     },
     {
       "text": "strange",
-      "startMs": 26410
+      "startMs": 20426
     },
     {
       "text": "the",
-      "startMs": 27012
+      "startMs": 20961
     },
     {
       "text": "specific",
-      "startMs": 27090
+      "startMs": 21030
     },
     {
       "text": "all",
-      "startMs": 27827
+      "startMs": 21685
     },
     {
       "text": "vanish",
-      "startMs": 28050
+      "startMs": 21883
     },
     {
       "text": "first",
-      "startMs": 28418
+      "startMs": 22210
     },
     {
       "text": "They",
-      "startMs": 29647
+      "startMs": 22980
     },
     {
       "text": "called",
-      "startMs": 29725
+      "startMs": 23036
     },
     {
       "text": "it",
-      "startMs": 29915
+      "startMs": 23205
     },
     {
       "text": "model",
-      "startMs": 29993
+      "startMs": 23274
     },
     {
       "text": "collapse",
-      "startMs": 30362
+      "startMs": 23602
     },
     {
       "text": "It's",
-      "startMs": 31861
+      "startMs": 24570
     },
     {
       "text": "a",
-      "startMs": 31954
+      "startMs": 24635
     },
     {
       "text": "photocopy",
-      "startMs": 32000
+      "startMs": 24676
     },
     {
       "text": "of",
-      "startMs": 33018
+      "startMs": 25581
     },
     {
       "text": "a",
-      "startMs": 33099
+      "startMs": 25653
     },
     {
       "text": "photocopy",
-      "startMs": 33146
+      "startMs": 25695
     },
     {
       "text": "The",
-      "startMs": 34649
+      "startMs": 26712
     },
     {
       "text": "first",
-      "startMs": 34706
+      "startMs": 26743
     },
     {
       "text": "copy",
-      "startMs": 34950
+      "startMs": 26960
     },
     {
       "text": "looks",
-      "startMs": 35204
+      "startMs": 27186
     },
     {
       "text": "fine",
-      "startMs": 35378
+      "startMs": 27341
     },
     {
       "text": "By",
-      "startMs": 36441
+      "startMs": 27971
     },
     {
       "text": "the",
-      "startMs": 36510
+      "startMs": 28018
     },
     {
       "text": "hundredth",
-      "startMs": 36580
+      "startMs": 28080
     },
     {
       "text": "the",
-      "startMs": 37204
+      "startMs": 28635
     },
     {
       "text": "face",
-      "startMs": 37297
+      "startMs": 28717
     },
     {
       "text": "is",
-      "startMs": 37957
+      "startMs": 29304
     },
     {
       "text": "gone",
-      "startMs": 38073
+      "startMs": 29407
     },
     {
       "text": "And",
-      "startMs": 39145
+      "startMs": 30044
     },
     {
       "text": "the",
-      "startMs": 39214
+      "startMs": 30097
     },
     {
       "text": "first",
-      "startMs": 39284
+      "startMs": 30159
     },
     {
       "text": "thing",
-      "startMs": 39573
+      "startMs": 30416
     },
     {
       "text": "lost",
-      "startMs": 39781
+      "startMs": 30601
     },
     {
       "text": "is",
-      "startMs": 40348
+      "startMs": 31105
     },
     {
       "text": "never",
-      "startMs": 40487
+      "startMs": 31229
     },
     {
       "text": "the",
-      "startMs": 40881
+      "startMs": 31579
     },
     {
       "text": "average",
-      "startMs": 40985
+      "startMs": 31671
     },
     {
       "text": "It's",
-      "startMs": 42240
+      "startMs": 32465
     },
     {
       "text": "the",
-      "startMs": 42352
+      "startMs": 32550
     },
     {
       "text": "edge",
-      "startMs": 42452
+      "startMs": 32638
     },
     {
       "text": "The",
-      "startMs": 44392
+      "startMs": 33330
     },
     {
       "text": "outlier",
-      "startMs": 44492
+      "startMs": 33407
     },
     {
       "text": "The",
-      "startMs": 46544
+      "startMs": 34230
     },
     {
       "text": "minority",
-      "startMs": 46594
+      "startMs": 34260
     },
     {
       "text": "view",
-      "startMs": 47044
+      "startMs": 34660
     },
     {
       "text": "Which",
-      "startMs": 48689
+      "startMs": 35331
     },
     {
       "text": "is",
-      "startMs": 48804
+      "startMs": 35420
     },
     {
       "text": "why",
-      "startMs": 48874
+      "startMs": 35482
     },
     {
       "text": "some",
-      "startMs": 49071
+      "startMs": 35657
     },
     {
       "text": "labs",
-      "startMs": 49290
+      "startMs": 35852
     },
     {
       "text": "now",
-      "startMs": 49649
+      "startMs": 36171
     },
     {
       "text": "treat",
-      "startMs": 49927
+      "startMs": 36418
     },
     {
       "text": "text",
-      "startMs": 50274
+      "startMs": 36726
     },
     {
       "text": "written",
-      "startMs": 50610
+      "startMs": 37025
     },
     {
       "text": "before",
-      "startMs": 50864
+      "startMs": 37251
     },
     {
       "text": "2022",
-      "startMs": 51513
+      "startMs": 37828
     },
     {
       "text": "the",
-      "startMs": 52543
+      "startMs": 38743
     },
     {
       "text": "way",
-      "startMs": 52658
+      "startMs": 38846
     },
     {
       "text": "salvage",
-      "startMs": 52878
+      "startMs": 39041
     },
     {
       "text": "yards",
-      "startMs": 53341
+      "startMs": 39453
     },
     {
       "text": "treat",
-      "startMs": 53642
+      "startMs": 39720
     },
     {
       "text": "steel",
-      "startMs": 53955
+      "startMs": 39998
     },
     {
       "text": "forged",
-      "startMs": 54279
+      "startMs": 40286
     },
     {
       "text": "before",
-      "startMs": 54672
+      "startMs": 40636
     },
     {
       "text": "the",
-      "startMs": 54939
+      "startMs": 40873
     },
     {
       "text": "first",
-      "startMs": 55020
+      "startMs": 40945
     },
     {
       "text": "atomic",
-      "startMs": 55402
+      "startMs": 41285
     },
     {
       "text": "tests",
-      "startMs": 55737
+      "startMs": 41582
     },
     {
       "text": "Uncontaminated",
-      "startMs": 56980
+      "startMs": 42361
     },
     {
       "text": "And",
-      "startMs": 59144
+      "startMs": 43525
     },
     {
       "text": "finite",
-      "startMs": 59219
+      "startMs": 43576
     },
     {
       "text": "So",
-      "startMs": 61474
+      "startMs": 44500
     },
     {
       "text": "the",
-      "startMs": 61578
+      "startMs": 44577
     },
     {
       "text": "question",
-      "startMs": 61656
+      "startMs": 44646
     },
     {
       "text": "isn't",
-      "startMs": 62360
+      "startMs": 45272
     },
     {
       "text": "whether",
-      "startMs": 62672
+      "startMs": 45549
     },
     {
       "text": "the",
-      "startMs": 62920
+      "startMs": 45769
     },
     {
       "text": "machines",
-      "startMs": 62985
+      "startMs": 45827
     },
     {
       "text": "get",
-      "startMs": 63675
+      "startMs": 46441
     },
     {
       "text": "smarter",
-      "startMs": 63844
+      "startMs": 46591
     },
     {
       "text": "It's",
-      "startMs": 65210
+      "startMs": 47413
     },
     {
       "text": "what",
-      "startMs": 65288
+      "startMs": 47461
     },
     {
       "text": "they",
-      "startMs": 65379
+      "startMs": 47542
     },
     {
       "text": "forget",
-      "startMs": 65497
+      "startMs": 47647
     },
     {
       "text": "on",
-      "startMs": 65913
+      "startMs": 48017
     },
     {
       "text": "the",
-      "startMs": 66017
+      "startMs": 48109
     },
     {
       "text": "way",
-      "startMs": 66096
+      "startMs": 48180
     },
     {
       "text": "Because",
-      "startMs": 67276
+      "startMs": 48862
     }
-  ]
+  ],
+  "speechSpeed": 1.125
 }

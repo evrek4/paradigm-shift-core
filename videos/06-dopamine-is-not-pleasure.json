@@ -3,7 +3,7 @@
   "scenes": [
     {
       "image": "videos/06-dopamine-is-not-pleasure/1.jpg",
-      "seconds": 4.95,
+      "seconds": 3.52,
       "text": "Dopamine is not the reward. It is the reaching.",
       "delivery": {
         "rate": -4,
@@ -16,13 +16,13 @@
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v1-2.mp3",
-          "atMs": 2632
+          "atMs": 2161
         }
       ]
     },
     {
       "image": "videos/06-dopamine-is-not-pleasure/2.jpg",
-      "seconds": 22.75,
+      "seconds": 20.25,
       "text": "Wolfram Schultz spent years recording single dopamine neurons while monkeys received juice. The cells fired hard at the unexpected reward. But once a tone reliably predicted the juice, the firing moved. It jumped to the tone, and went quiet at the juice itself. Dopamine was not tracking pleasure. It was tracking the gap between what was expected and what arrived.",
       "delivery": {
         "rate": 12,
@@ -35,29 +35,29 @@
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v2-2.mp3",
-          "atMs": 5680
+          "atMs": 5275
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v2-3.mp3",
-          "atMs": 8672
+          "atMs": 7865
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v2-4.mp3",
-          "atMs": 12840
+          "atMs": 11645
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v2-5.mp3",
-          "atMs": 16528
+          "atMs": 14921
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v2-6.mp3",
-          "atMs": 18944
+          "atMs": 16941
         }
       ]
     },
     {
       "image": "videos/06-dopamine-is-not-pleasure/3.jpg",
-      "seconds": 21.19,
+      "seconds": 18.1,
       "text": "So dopamine is not the applause. It is the lean forward before the curtain lifts. Which explains the design of every feed you scroll. A predictable reward goes silent in the brain. An unpredictable one keeps the signal alive. The pull is not in what you find. It is in not knowing what the next swipe holds.",
       "delivery": {
         "rate": 8,
@@ -70,33 +70,33 @@
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v3-2.mp3",
-          "atMs": 2752
+          "atMs": 2336
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v3-3.mp3",
-          "atMs": 5720
+          "atMs": 4889
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v3-4.mp3",
-          "atMs": 9024
+          "atMs": 7769
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v3-5.mp3",
-          "atMs": 12832
+          "atMs": 11181
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v3-6.mp3",
-          "atMs": 16088
+          "atMs": 14053
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v3-7.mp3",
-          "atMs": 18240
+          "atMs": 15665
         }
       ]
     },
     {
       "image": "videos/06-dopamine-is-not-pleasure/4.jpg",
-      "seconds": 7.71,
+      "seconds": 5.66,
       "text": "Satisfaction ends the signal. Anticipation keeps it burning. Remember that",
       "delivery": {
         "rate": -4,
@@ -110,11 +110,11 @@
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v4-2.mp3",
-          "atMs": 2968
+          "atMs": 2462
         },
         {
           "src": "videos/06-dopamine-is-not-pleasure/v4-3.mp3",
-          "atMs": 5840
+          "atMs": 4867
         }
       ]
     }
@@ -124,547 +124,548 @@
   "words": [
     {
       "text": "Dopamine",
-      "startMs": 104
+      "startMs": 0
     },
     {
       "text": "is",
-      "startMs": 794
+      "startMs": 664
     },
     {
       "text": "not",
-      "startMs": 911
+      "startMs": 781
     },
     {
       "text": "the",
-      "startMs": 1302
+      "startMs": 1172
     },
     {
       "text": "reward",
-      "startMs": 1393
+      "startMs": 1263
     },
     {
       "text": "It",
-      "startMs": 2731
+      "startMs": 2161
     },
     {
       "text": "is",
-      "startMs": 2817
+      "startMs": 2227
     },
     {
       "text": "the",
-      "startMs": 2944
+      "startMs": 2354
     },
     {
       "text": "reaching",
-      "startMs": 3058
+      "startMs": 2468
     },
     {
       "text": "Wolfram",
-      "startMs": 5039
+      "startMs": 3520
     },
     {
       "text": "Schultz",
-      "startMs": 5341
+      "startMs": 3804
     },
     {
       "text": "spent",
-      "startMs": 5943
+      "startMs": 4406
     },
     {
       "text": "years",
-      "startMs": 6200
+      "startMs": 4663
     },
     {
       "text": "recording",
-      "startMs": 6579
+      "startMs": 5042
     },
     {
       "text": "single",
-      "startMs": 7138
+      "startMs": 5601
     },
     {
       "text": "dopamine",
-      "startMs": 7528
+      "startMs": 5991
     },
     {
       "text": "neurons",
-      "startMs": 7986
+      "startMs": 6449
     },
     {
       "text": "while",
-      "startMs": 8410
+      "startMs": 6873
     },
     {
       "text": "monkeys",
-      "startMs": 8577
+      "startMs": 7040
     },
     {
       "text": "received",
-      "startMs": 9079
+      "startMs": 7542
     },
     {
       "text": "juice",
-      "startMs": 9526
+      "startMs": 7989
     },
     {
       "text": "The",
-      "startMs": 10719
+      "startMs": 8795
     },
     {
       "text": "cells",
-      "startMs": 10775
+      "startMs": 8832
     },
     {
       "text": "fired",
-      "startMs": 11043
+      "startMs": 9100
     },
     {
       "text": "hard",
-      "startMs": 11411
+      "startMs": 9468
     },
     {
       "text": "at",
-      "startMs": 11713
+      "startMs": 9770
     },
     {
       "text": "the",
-      "startMs": 11768
+      "startMs": 9825
     },
     {
       "text": "unexpected",
-      "startMs": 11947
+      "startMs": 10004
     },
     {
       "text": "reward",
-      "startMs": 12561
+      "startMs": 10618
     },
     {
       "text": "But",
-      "startMs": 13711
+      "startMs": 11385
     },
     {
       "text": "once",
-      "startMs": 13845
+      "startMs": 11499
     },
     {
       "text": "a",
-      "startMs": 14046
+      "startMs": 11700
     },
     {
       "text": "tone",
-      "startMs": 14113
+      "startMs": 11767
     },
     {
       "text": "reliably",
-      "startMs": 14448
+      "startMs": 12102
     },
     {
       "text": "predicted",
-      "startMs": 15028
+      "startMs": 12682
     },
     {
       "text": "the",
-      "startMs": 15441
+      "startMs": 13095
     },
     {
       "text": "juice",
-      "startMs": 15508
+      "startMs": 13162
     },
     {
       "text": "the",
-      "startMs": 16267
+      "startMs": 13921
     },
     {
       "text": "firing",
-      "startMs": 16368
+      "startMs": 14022
     },
     {
       "text": "moved",
-      "startMs": 16792
+      "startMs": 14446
     },
     {
       "text": "It",
-      "startMs": 17879
+      "startMs": 15165
     },
     {
       "text": "jumped",
-      "startMs": 18002
+      "startMs": 15273
     },
     {
       "text": "to",
-      "startMs": 18315
+      "startMs": 15586
     },
     {
       "text": "the",
-      "startMs": 18382
+      "startMs": 15653
     },
     {
       "text": "tone",
-      "startMs": 18471
+      "startMs": 15742
     },
     {
       "text": "and",
-      "startMs": 19196
+      "startMs": 16467
     },
     {
       "text": "went",
-      "startMs": 19297
+      "startMs": 16568
     },
     {
       "text": "quiet",
-      "startMs": 19453
+      "startMs": 16724
     },
     {
       "text": "at",
-      "startMs": 19832
+      "startMs": 17103
     },
     {
       "text": "the",
-      "startMs": 19911
+      "startMs": 17182
     },
     {
       "text": "juice",
-      "startMs": 19966
+      "startMs": 17237
     },
     {
       "text": "itself",
-      "startMs": 20256
+      "startMs": 17527
     },
     {
       "text": "Dopamine",
-      "startMs": 21578
+      "startMs": 18441
     },
     {
       "text": "was",
-      "startMs": 22003
+      "startMs": 18856
     },
     {
       "text": "not",
-      "startMs": 22148
+      "startMs": 19001
     },
     {
       "text": "tracking",
-      "startMs": 22460
+      "startMs": 19313
     },
     {
       "text": "pleasure",
-      "startMs": 22828
+      "startMs": 19681
     },
     {
       "text": "It",
-      "startMs": 23983
+      "startMs": 20461
     },
     {
       "text": "was",
-      "startMs": 24039
+      "startMs": 20498
     },
     {
       "text": "tracking",
-      "startMs": 24128
+      "startMs": 20587
     },
     {
       "text": "the",
-      "startMs": 24463
+      "startMs": 20922
     },
     {
       "text": "gap",
-      "startMs": 24530
+      "startMs": 20989
     },
     {
       "text": "between",
-      "startMs": 24876
+      "startMs": 21335
     },
     {
       "text": "what",
-      "startMs": 25222
+      "startMs": 21681
     },
     {
       "text": "was",
-      "startMs": 25323
+      "startMs": 21782
     },
     {
       "text": "expected",
-      "startMs": 25445
+      "startMs": 21904
     },
     {
       "text": "and",
-      "startMs": 26227
+      "startMs": 22686
     },
     {
       "text": "what",
-      "startMs": 26338
+      "startMs": 22797
     },
     {
       "text": "arrived",
-      "startMs": 26428
+      "startMs": 22887
     },
     {
       "text": "So",
-      "startMs": 27793
+      "startMs": 23770
     },
     {
       "text": "dopamine",
-      "startMs": 27989
+      "startMs": 23955
     },
     {
       "text": "is",
-      "startMs": 28672
+      "startMs": 24638
     },
     {
       "text": "not",
-      "startMs": 28776
+      "startMs": 24742
     },
     {
       "text": "the",
-      "startMs": 29066
+      "startMs": 25032
     },
     {
       "text": "applause",
-      "startMs": 29170
+      "startMs": 25136
     },
     {
       "text": "It",
-      "startMs": 30545
+      "startMs": 26106
     },
     {
       "text": "is",
-      "startMs": 30602
+      "startMs": 26152
     },
     {
       "text": "the",
-      "startMs": 30695
+      "startMs": 26245
     },
     {
       "text": "lean",
-      "startMs": 30822
+      "startMs": 26372
     },
     {
       "text": "forward",
-      "startMs": 31100
+      "startMs": 26650
     },
     {
       "text": "before",
-      "startMs": 31552
+      "startMs": 27102
     },
     {
       "text": "the",
-      "startMs": 31934
+      "startMs": 27484
     },
     {
       "text": "curtain",
-      "startMs": 32003
+      "startMs": 27553
     },
     {
       "text": "lifts",
-      "startMs": 32327
+      "startMs": 27877
     },
     {
       "text": "Which",
-      "startMs": 33513
+      "startMs": 28659
     },
     {
       "text": "explains",
-      "startMs": 33617
+      "startMs": 28745
     },
     {
       "text": "the",
-      "startMs": 34103
+      "startMs": 29231
     },
     {
       "text": "design",
-      "startMs": 34184
+      "startMs": 29312
     },
     {
       "text": "of",
-      "startMs": 34705
+      "startMs": 29833
     },
     {
       "text": "every",
-      "startMs": 34982
+      "startMs": 30110
     },
     {
       "text": "feed",
-      "startMs": 35237
+      "startMs": 30365
     },
     {
       "text": "you",
-      "startMs": 35584
+      "startMs": 30712
     },
     {
       "text": "scroll",
-      "startMs": 35654
+      "startMs": 30782
     },
     {
       "text": "A",
-      "startMs": 36817
+      "startMs": 31539
     },
     {
       "text": "predictable",
-      "startMs": 36886
+      "startMs": 31595
     },
     {
       "text": "reward",
-      "startMs": 37465
+      "startMs": 32174
     },
     {
       "text": "goes",
-      "startMs": 38240
+      "startMs": 32949
     },
     {
       "text": "silent",
-      "startMs": 38726
+      "startMs": 33435
     },
     {
       "text": "in",
-      "startMs": 39363
+      "startMs": 34072
     },
     {
       "text": "the",
-      "startMs": 39456
+      "startMs": 34165
     },
     {
       "text": "brain",
-      "startMs": 39502
+      "startMs": 34211
     },
     {
       "text": "An",
-      "startMs": 40601
+      "startMs": 34951
     },
     {
       "text": "unpredictable",
-      "startMs": 40729
+      "startMs": 35055
     },
     {
       "text": "one",
-      "startMs": 41412
+      "startMs": 35738
     },
     {
       "text": "keeps",
-      "startMs": 41990
+      "startMs": 36316
     },
     {
       "text": "the",
-      "startMs": 42245
+      "startMs": 36571
     },
     {
       "text": "signal",
-      "startMs": 42338
+      "startMs": 36664
     },
     {
       "text": "alive",
-      "startMs": 42696
+      "startMs": 37022
     },
     {
       "text": "The",
-      "startMs": 43881
+      "startMs": 37823
     },
     {
       "text": "pull",
-      "startMs": 43938
+      "startMs": 37865
     },
     {
       "text": "is",
-      "startMs": 44124
+      "startMs": 38051
     },
     {
       "text": "not",
-      "startMs": 44216
+      "startMs": 38143
     },
     {
       "text": "in",
-      "startMs": 44517
+      "startMs": 38444
     },
     {
       "text": "what",
-      "startMs": 44575
+      "startMs": 38502
     },
     {
       "text": "you",
-      "startMs": 44679
+      "startMs": 38606
     },
     {
       "text": "find",
-      "startMs": 44760
+      "startMs": 38687
     },
     {
       "text": "It",
-      "startMs": 46021
+      "startMs": 39435
     },
     {
       "text": "is",
-      "startMs": 46079
+      "startMs": 39473
     },
     {
       "text": "in",
-      "startMs": 46183
+      "startMs": 39577
     },
     {
       "text": "not",
-      "startMs": 46299
+      "startMs": 39693
     },
     {
       "text": "knowing",
-      "startMs": 46496
+      "startMs": 39890
     },
     {
       "text": "what",
-      "startMs": 46901
+      "startMs": 40295
     },
     {
       "text": "the",
-      "startMs": 47005
+      "startMs": 40399
     },
     {
       "text": "next",
-      "startMs": 47051
+      "startMs": 40445
     },
     {
       "text": "swipe",
-      "startMs": 47306
+      "startMs": 40700
     },
     {
       "text": "holds",
-      "startMs": 47607
+      "startMs": 41001
     },
     {
       "text": "Satisfaction",
-      "startMs": 49004
+      "startMs": 41870
     },
     {
       "text": "ends",
-      "startMs": 50325
+      "startMs": 43173
     },
     {
       "text": "the",
-      "startMs": 50481
+      "startMs": 43329
     },
     {
       "text": "signal",
-      "startMs": 50580
+      "startMs": 43428
     },
     {
       "text": "Anticipation",
-      "startMs": 51972
+      "startMs": 44332
     },
     {
       "text": "keeps",
-      "startMs": 53136
+      "startMs": 45481
     },
     {
       "text": "it",
-      "startMs": 53477
+      "startMs": 45822
     },
     {
       "text": "burning",
-      "startMs": 53605
+      "startMs": 45950
     },
     {
       "text": "Remember",
-      "startMs": 54844
+      "startMs": 46737
     },
     {
       "text": "that",
-      "startMs": 55213
+      "startMs": 47090
     }
-  ]
+  ],
+  "speechSpeed": 1.0
 }

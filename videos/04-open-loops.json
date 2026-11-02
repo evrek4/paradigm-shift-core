@@ -3,7 +3,7 @@
   "scenes": [
     {
       "image": "videos/04-open-loops/1.jpg",
-      "seconds": 4.55,
+      "seconds": 4.0,
       "text": "There is a song stuck in your head right now because it was never finished.",
       "delivery": {
         "rate": -4,
@@ -18,7 +18,7 @@
     },
     {
       "image": "videos/04-open-loops/2.jpg",
-      "seconds": 22.59,
+      "seconds": 20.57,
       "text": "In the nineteen twenties, a young psychologist named Bluma Zeigarnik watched waiters in a Vienna restaurant. They could recall orders nobody had paid for in perfect detail. The moment the bill was settled, the order evaporated from memory. She tested it in the lab, interrupting people mid-task. They remembered the unfinished work far better than the work they completed.",
       "delivery": {
         "rate": 12,
@@ -31,25 +31,25 @@
         },
         {
           "src": "videos/04-open-loops/v2-2.mp3",
-          "atMs": 6592
+          "atMs": 6220
         },
         {
           "src": "videos/04-open-loops/v2-3.mp3",
-          "atMs": 10592
+          "atMs": 9839
         },
         {
           "src": "videos/04-open-loops/v2-4.mp3",
-          "atMs": 14424
+          "atMs": 13281
         },
         {
           "src": "videos/04-open-loops/v2-5.mp3",
-          "atMs": 18088
+          "atMs": 16564
         }
       ]
     },
     {
       "image": "videos/04-open-loops/3.jpg",
-      "seconds": 22.43,
+      "seconds": 20.29,
       "text": "An unfinished task is a browser tab your mind refuses to close. It costs memory to hold it open, so your brain keeps pushing it back into view. Every cliffhanger, every unread notification, every argument you walked away from runs on this. Which means attention is not something you give. It is something that gets taken, by whatever you left open.",
       "delivery": {
         "rate": 8,
@@ -62,25 +62,25 @@
         },
         {
           "src": "videos/04-open-loops/v3-2.mp3",
-          "atMs": 4456
+          "atMs": 4023
         },
         {
           "src": "videos/04-open-loops/v3-3.mp3",
-          "atMs": 9344
+          "atMs": 8514
         },
         {
           "src": "videos/04-open-loops/v3-4.mp3",
-          "atMs": 15792
+          "atMs": 14538
         },
         {
           "src": "videos/04-open-loops/v3-5.mp3",
-          "atMs": 18928
+          "atMs": 17284
         }
       ]
     },
     {
       "image": "videos/04-open-loops/4.jpg",
-      "seconds": 5.06,
+      "seconds": 3.53,
       "text": "And the loop only closes when you finish it. Which is why",
       "delivery": {
         "rate": -4,
@@ -94,7 +94,7 @@
         },
         {
           "src": "videos/04-open-loops/v4-2.mp3",
-          "atMs": 3184
+          "atMs": 2729
         }
       ]
     }
@@ -104,591 +104,592 @@
   "words": [
     {
       "text": "There",
-      "startMs": 117
+      "startMs": 0
     },
     {
       "text": "is",
-      "startMs": 208
+      "startMs": 78
     },
     {
       "text": "a",
-      "startMs": 273
+      "startMs": 143
     },
     {
       "text": "song",
-      "startMs": 326
+      "startMs": 196
     },
     {
       "text": "stuck",
-      "startMs": 755
+      "startMs": 625
     },
     {
       "text": "in",
-      "startMs": 1042
+      "startMs": 912
     },
     {
       "text": "your",
-      "startMs": 1094
+      "startMs": 964
     },
     {
       "text": "head",
-      "startMs": 1198
+      "startMs": 1068
     },
     {
       "text": "right",
-      "startMs": 1458
+      "startMs": 1328
     },
     {
       "text": "now",
-      "startMs": 1693
+      "startMs": 1563
     },
     {
       "text": "because",
-      "startMs": 2266
+      "startMs": 2136
     },
     {
       "text": "it",
-      "startMs": 2565
+      "startMs": 2435
     },
     {
       "text": "was",
-      "startMs": 2643
+      "startMs": 2513
     },
     {
       "text": "never",
-      "startMs": 2773
+      "startMs": 2643
     },
     {
       "text": "finished",
-      "startMs": 3086
+      "startMs": 2956
     },
     {
       "text": "In",
-      "startMs": 4617
+      "startMs": 4000
     },
     {
       "text": "the",
-      "startMs": 4673
+      "startMs": 4032
     },
     {
       "text": "nineteen",
-      "startMs": 4717
+      "startMs": 4076
     },
     {
       "text": "twenties",
-      "startMs": 5097
+      "startMs": 4456
     },
     {
       "text": "a",
-      "startMs": 5789
+      "startMs": 5148
     },
     {
       "text": "young",
-      "startMs": 5834
+      "startMs": 5193
     },
     {
       "text": "psychologist",
-      "startMs": 6090
+      "startMs": 5449
     },
     {
       "text": "named",
-      "startMs": 7173
+      "startMs": 6532
     },
     {
       "text": "Bluma",
-      "startMs": 7563
+      "startMs": 6922
     },
     {
       "text": "Zeigarnik",
-      "startMs": 7976
+      "startMs": 7335
     },
     {
       "text": "watched",
-      "startMs": 8579
+      "startMs": 7938
     },
     {
       "text": "waiters",
-      "startMs": 8936
+      "startMs": 8295
     },
     {
       "text": "in",
-      "startMs": 9561
+      "startMs": 8920
     },
     {
       "text": "a",
-      "startMs": 9650
+      "startMs": 9009
     },
     {
       "text": "Vienna",
-      "startMs": 9695
+      "startMs": 9054
     },
     {
       "text": "restaurant",
-      "startMs": 9985
+      "startMs": 9344
     },
     {
       "text": "They",
-      "startMs": 11231
+      "startMs": 10220
     },
     {
       "text": "could",
-      "startMs": 11298
+      "startMs": 10275
     },
     {
       "text": "recall",
-      "startMs": 11410
+      "startMs": 10387
     },
     {
       "text": "orders",
-      "startMs": 12046
+      "startMs": 11023
     },
     {
       "text": "nobody",
-      "startMs": 12314
+      "startMs": 11291
     },
     {
       "text": "had",
-      "startMs": 12738
+      "startMs": 11715
     },
     {
       "text": "paid",
-      "startMs": 12917
+      "startMs": 11894
     },
     {
       "text": "for",
-      "startMs": 13285
+      "startMs": 12262
     },
     {
       "text": "in",
-      "startMs": 13452
+      "startMs": 12429
     },
     {
       "text": "perfect",
-      "startMs": 13575
+      "startMs": 12552
     },
     {
       "text": "detail",
-      "startMs": 14044
+      "startMs": 13021
     },
     {
       "text": "The",
-      "startMs": 15242
+      "startMs": 13839
     },
     {
       "text": "moment",
-      "startMs": 15276
+      "startMs": 13864
     },
     {
       "text": "the",
-      "startMs": 15566
+      "startMs": 14154
     },
     {
       "text": "bill",
-      "startMs": 15655
+      "startMs": 14243
     },
     {
       "text": "was",
-      "startMs": 15890
+      "startMs": 14478
     },
     {
       "text": "settled",
-      "startMs": 16001
+      "startMs": 14589
     },
     {
       "text": "the",
-      "startMs": 16760
+      "startMs": 15348
     },
     {
       "text": "order",
-      "startMs": 16827
+      "startMs": 15415
     },
     {
       "text": "evaporated",
-      "startMs": 17140
+      "startMs": 15728
     },
     {
       "text": "from",
-      "startMs": 17832
+      "startMs": 16420
     },
     {
       "text": "memory",
-      "startMs": 17977
+      "startMs": 16565
     },
     {
       "text": "She",
-      "startMs": 19063
+      "startMs": 17281
     },
     {
       "text": "tested",
-      "startMs": 19197
+      "startMs": 17407
     },
     {
       "text": "it",
-      "startMs": 19610
+      "startMs": 17820
     },
     {
       "text": "in",
-      "startMs": 19722
+      "startMs": 17932
     },
     {
       "text": "the",
-      "startMs": 19822
+      "startMs": 18032
     },
     {
       "text": "lab",
-      "startMs": 19889
+      "startMs": 18099
     },
     {
       "text": "interrupting",
-      "startMs": 20648
+      "startMs": 18858
     },
     {
       "text": "people",
-      "startMs": 21095
+      "startMs": 19305
     },
     {
       "text": "mid-task",
-      "startMs": 21351
+      "startMs": 19561
     },
     {
       "text": "They",
-      "startMs": 22727
+      "startMs": 20564
     },
     {
       "text": "remembered",
-      "startMs": 22794
+      "startMs": 20621
     },
     {
       "text": "the",
-      "startMs": 23084
+      "startMs": 20911
     },
     {
       "text": "unfinished",
-      "startMs": 23263
+      "startMs": 21090
     },
     {
       "text": "work",
-      "startMs": 23854
+      "startMs": 21681
     },
     {
       "text": "far",
-      "startMs": 24234
+      "startMs": 22061
     },
     {
       "text": "better",
-      "startMs": 24647
+      "startMs": 22474
     },
     {
       "text": "than",
-      "startMs": 25205
+      "startMs": 23032
     },
     {
       "text": "the",
-      "startMs": 25305
+      "startMs": 23132
     },
     {
       "text": "work",
-      "startMs": 25395
+      "startMs": 23222
     },
     {
       "text": "they",
-      "startMs": 25685
+      "startMs": 23512
     },
     {
       "text": "completed",
-      "startMs": 25796
+      "startMs": 23623
     },
     {
       "text": "An",
-      "startMs": 27209
+      "startMs": 24570
     },
     {
       "text": "unfinished",
-      "startMs": 27325
+      "startMs": 24663
     },
     {
       "text": "task",
-      "startMs": 27858
+      "startMs": 25196
     },
     {
       "text": "is",
-      "startMs": 28564
+      "startMs": 25902
     },
     {
       "text": "a",
-      "startMs": 28656
+      "startMs": 25994
     },
     {
       "text": "browser",
-      "startMs": 28714
+      "startMs": 26052
     },
     {
       "text": "tab",
-      "startMs": 29189
+      "startMs": 26527
     },
     {
       "text": "your",
-      "startMs": 29455
+      "startMs": 26793
     },
     {
       "text": "mind",
-      "startMs": 29547
+      "startMs": 26885
     },
     {
       "text": "refuses",
-      "startMs": 29837
+      "startMs": 27175
     },
     {
       "text": "to",
-      "startMs": 30323
+      "startMs": 27661
     },
     {
       "text": "close",
-      "startMs": 30392
+      "startMs": 27730
     },
     {
       "text": "It",
-      "startMs": 31689
+      "startMs": 28593
     },
     {
       "text": "costs",
-      "startMs": 31781
+      "startMs": 28675
     },
     {
       "text": "memory",
-      "startMs": 32163
+      "startMs": 29057
     },
     {
       "text": "to",
-      "startMs": 32684
+      "startMs": 29578
     },
     {
       "text": "hold",
-      "startMs": 32777
+      "startMs": 29671
     },
     {
       "text": "it",
-      "startMs": 33043
+      "startMs": 29937
     },
     {
       "text": "open",
-      "startMs": 33101
+      "startMs": 29995
     },
     {
       "text": "so",
-      "startMs": 33807
+      "startMs": 30701
     },
     {
       "text": "your",
-      "startMs": 33899
+      "startMs": 30793
     },
     {
       "text": "brain",
-      "startMs": 34027
+      "startMs": 30921
     },
     {
       "text": "keeps",
-      "startMs": 34536
+      "startMs": 31430
     },
     {
       "text": "pushing",
-      "startMs": 34767
+      "startMs": 31661
     },
     {
       "text": "it",
-      "startMs": 35080
+      "startMs": 31974
     },
     {
       "text": "back",
-      "startMs": 35161
+      "startMs": 32055
     },
     {
       "text": "into",
-      "startMs": 35415
+      "startMs": 32309
     },
     {
       "text": "view",
-      "startMs": 35543
+      "startMs": 32437
     },
     {
       "text": "Every",
-      "startMs": 36565
+      "startMs": 33084
     },
     {
       "text": "cliffhanger",
-      "startMs": 36889
+      "startMs": 33387
     },
     {
       "text": "every",
-      "startMs": 37873
+      "startMs": 34371
     },
     {
       "text": "unread",
-      "startMs": 38255
+      "startMs": 34753
     },
     {
       "text": "notification",
-      "startMs": 38752
+      "startMs": 35250
     },
     {
       "text": "every",
-      "startMs": 39922
+      "startMs": 36420
     },
     {
       "text": "argument",
-      "startMs": 40211
+      "startMs": 36709
     },
     {
       "text": "you",
-      "startMs": 40628
+      "startMs": 37126
     },
     {
       "text": "walked",
-      "startMs": 40743
+      "startMs": 37241
     },
     {
       "text": "away",
-      "startMs": 41044
+      "startMs": 37542
     },
     {
       "text": "from",
-      "startMs": 41334
+      "startMs": 37832
     },
     {
       "text": "runs",
-      "startMs": 41496
+      "startMs": 37994
     },
     {
       "text": "on",
-      "startMs": 41750
+      "startMs": 38248
     },
     {
       "text": "this",
-      "startMs": 41901
+      "startMs": 38399
     },
     {
       "text": "Which",
-      "startMs": 43025
+      "startMs": 39108
     },
     {
       "text": "means",
-      "startMs": 43187
+      "startMs": 39255
     },
     {
       "text": "attention",
-      "startMs": 43441
+      "startMs": 39509
     },
     {
       "text": "is",
-      "startMs": 44136
+      "startMs": 40204
     },
     {
       "text": "not",
-      "startMs": 44263
+      "startMs": 40331
     },
     {
       "text": "something",
-      "startMs": 44610
+      "startMs": 40678
     },
     {
       "text": "you",
-      "startMs": 44981
+      "startMs": 41049
     },
     {
       "text": "give",
-      "startMs": 45073
+      "startMs": 41141
     },
     {
       "text": "It",
-      "startMs": 46161
+      "startMs": 41854
     },
     {
       "text": "is",
-      "startMs": 46218
+      "startMs": 41896
     },
     {
       "text": "something",
-      "startMs": 46311
+      "startMs": 41989
     },
     {
       "text": "that",
-      "startMs": 46577
+      "startMs": 42255
     },
     {
       "text": "gets",
-      "startMs": 46670
+      "startMs": 42348
     },
     {
       "text": "taken",
-      "startMs": 46867
+      "startMs": 42545
     },
     {
       "text": "by",
-      "startMs": 47561
+      "startMs": 43239
     },
     {
       "text": "whatever",
-      "startMs": 47700
+      "startMs": 43378
     },
     {
       "text": "you",
-      "startMs": 48036
+      "startMs": 43714
     },
     {
       "text": "left",
-      "startMs": 48163
+      "startMs": 43841
     },
     {
       "text": "open",
-      "startMs": 48464
+      "startMs": 44142
     },
     {
       "text": "And",
-      "startMs": 49674
+      "startMs": 44860
     },
     {
       "text": "the",
-      "startMs": 49752
+      "startMs": 44921
     },
     {
       "text": "loop",
-      "startMs": 49843
+      "startMs": 45012
     },
     {
       "text": "only",
-      "startMs": 50325
+      "startMs": 45494
     },
     {
       "text": "closes",
-      "startMs": 50599
+      "startMs": 45768
     },
     {
       "text": "when",
-      "startMs": 51276
+      "startMs": 46445
     },
     {
       "text": "you",
-      "startMs": 51393
+      "startMs": 46562
     },
     {
       "text": "finish",
-      "startMs": 51497
+      "startMs": 46666
     },
     {
       "text": "it",
-      "startMs": 51914
+      "startMs": 47083
     },
     {
       "text": "Which",
-      "startMs": 52853
+      "startMs": 47589
     },
     {
       "text": "is",
-      "startMs": 52967
+      "startMs": 47683
     },
     {
       "text": "why",
-      "startMs": 53081
+      "startMs": 47797
     }
-  ]
+  ],
+  "speechSpeed": 1.0
 }

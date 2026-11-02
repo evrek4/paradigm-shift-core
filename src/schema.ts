@@ -18,6 +18,8 @@ export const sceneSchema = z.object({
   delivery: z.object({ rate: z.number(), pitch: z.number(), volume: z.number() }).partial().optional(),
   // Optional big punch-in label, e.g. "$4.2B"
   highlight: z.string().optional(),
+  // Spoken word that triggers the highlight (defaults to the highlight's first word); shown for 3 s from then
+  highlightWord: z.string().optional(),
 });
 
 export const wordSchema = z.object({
@@ -28,6 +30,7 @@ export const wordSchema = z.object({
 
 export const shortSchema = z.object({
   title: z.string().optional(),
+  speechSpeed: z.number().optional(),
   // Optional on-screen title for the first 3 s (the voiceover hook is captioned anyway)
   hook: z.string().optional(),
   scenes: z.array(sceneSchema).min(1),

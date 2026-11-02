@@ -3,7 +3,7 @@
   "scenes": [
     {
       "image": "videos/05-brain-washes-itself/1.jpg",
-      "seconds": 6.15,
+      "seconds": 4.66,
       "text": "Sleep is not rest. It is maintenance, and skipping it leaves residue.",
       "delivery": {
         "rate": -4,
@@ -16,13 +16,13 @@
         },
         {
           "src": "videos/05-brain-washes-itself/v1-2.mp3",
-          "atMs": 2152
+          "atMs": 1369
         }
       ]
     },
     {
       "image": "videos/05-brain-washes-itself/2.jpg",
-      "seconds": 23.75,
+      "seconds": 20.55,
       "text": "Every organ in your body has lymphatic plumbing to flush out waste. For a century, the brain appeared to have none. Then in twenty thirteen, researchers at Rochester found the system had been hiding in plain sight. During sleep, the spaces between brain cells open up, and cerebrospinal fluid floods through, carrying metabolic debris out. They named it the glymphatic system.",
       "delivery": {
         "rate": 12,
@@ -35,25 +35,25 @@
         },
         {
           "src": "videos/05-brain-washes-itself/v2-2.mp3",
-          "atMs": 4360
+          "atMs": 3753
         },
         {
           "src": "videos/05-brain-washes-itself/v2-3.mp3",
-          "atMs": 7640
+          "atMs": 6487
         },
         {
           "src": "videos/05-brain-washes-itself/v2-4.mp3",
-          "atMs": 13344
+          "atMs": 11491
         },
         {
           "src": "videos/05-brain-washes-itself/v2-5.mp3",
-          "atMs": 21400
+          "atMs": 18689
         }
       ]
     },
     {
       "image": "videos/05-brain-washes-itself/3.jpg",
-      "seconds": 23.86,
+      "seconds": 19.47,
       "text": "Think of a city that can only run its street cleaners after the traffic stops. The brain cannot think and deep clean at the same time, so it schedules the second shift for the night. Among the waste it clears is amyloid beta, the protein that accumulates in Alzheimer's disease. Which reframes a short night. Not lost hours. A skipped shift.",
       "delivery": {
         "rate": 8,
@@ -66,29 +66,29 @@
         },
         {
           "src": "videos/05-brain-washes-itself/v3-2.mp3",
-          "atMs": 4744
+          "atMs": 4085
         },
         {
           "src": "videos/05-brain-washes-itself/v3-3.mp3",
-          "atMs": 10952
+          "atMs": 9521
         },
         {
           "src": "videos/05-brain-washes-itself/v3-4.mp3",
-          "atMs": 17616
+          "atMs": 15398
         },
         {
           "src": "videos/05-brain-washes-itself/v3-5.mp3",
-          "atMs": 19768
+          "atMs": 16923
         },
         {
           "src": "videos/05-brain-washes-itself/v3-6.mp3",
-          "atMs": 21536
+          "atMs": 18201
         }
       ]
     },
     {
       "image": "videos/05-brain-washes-itself/4.jpg",
-      "seconds": 6.8,
+      "seconds": 4.52,
       "text": "So tonight, nothing shuts down. Something finally gets to work. Because",
       "delivery": {
         "rate": -4,
@@ -102,11 +102,11 @@
         },
         {
           "src": "videos/05-brain-washes-itself/v4-2.mp3",
-          "atMs": 2728
+          "atMs": 2155
         },
         {
           "src": "videos/05-brain-washes-itself/v4-3.mp3",
-          "atMs": 4928
+          "atMs": 3809
         }
       ]
     }
@@ -116,583 +116,584 @@
   "words": [
     {
       "text": "Sleep",
-      "startMs": 99
+      "startMs": 0
     },
     {
       "text": "is",
-      "startMs": 355
+      "startMs": 221
     },
     {
       "text": "not",
-      "startMs": 469
+      "startMs": 328
     },
     {
       "text": "rest",
-      "startMs": 724
+      "startMs": 567
     },
     {
       "text": "It",
-      "startMs": 2256
+      "startMs": 1369
     },
     {
       "text": "is",
-      "startMs": 2334
+      "startMs": 1427
     },
     {
       "text": "maintenance",
-      "startMs": 2478
+      "startMs": 1563
     },
     {
       "text": "and",
-      "startMs": 3558
+      "startMs": 2577
     },
     {
       "text": "skipping",
-      "startMs": 3688
+      "startMs": 2699
     },
     {
       "text": "it",
-      "startMs": 4157
+      "startMs": 3139
     },
     {
       "text": "leaves",
-      "startMs": 4248
+      "startMs": 3225
     },
     {
       "text": "residue",
-      "startMs": 4704
+      "startMs": 3653
     },
     {
       "text": "Every",
-      "startMs": 6239
+      "startMs": 4660
     },
     {
       "text": "organ",
-      "startMs": 6462
+      "startMs": 4859
     },
     {
       "text": "in",
-      "startMs": 6708
+      "startMs": 5090
     },
     {
       "text": "your",
-      "startMs": 6753
+      "startMs": 5132
     },
     {
       "text": "body",
-      "startMs": 6842
+      "startMs": 5216
     },
     {
       "text": "has",
-      "startMs": 7467
+      "startMs": 5803
     },
     {
       "text": "lymphatic",
-      "startMs": 7690
+      "startMs": 6012
     },
     {
       "text": "plumbing",
-      "startMs": 8315
+      "startMs": 6599
     },
     {
       "text": "to",
-      "startMs": 8840
+      "startMs": 7092
     },
     {
       "text": "flush",
-      "startMs": 8918
+      "startMs": 7165
     },
     {
       "text": "out",
-      "startMs": 9297
+      "startMs": 7521
     },
     {
       "text": "waste",
-      "startMs": 9454
+      "startMs": 7668
     },
     {
       "text": "For",
-      "startMs": 10644
+      "startMs": 8429
     },
     {
       "text": "a",
-      "startMs": 10756
+      "startMs": 8534
     },
     {
       "text": "century",
-      "startMs": 10800
+      "startMs": 8575
     },
     {
       "text": "the",
-      "startMs": 11693
+      "startMs": 9414
     },
     {
       "text": "brain",
-      "startMs": 11771
+      "startMs": 9487
     },
     {
       "text": "appeared",
-      "startMs": 12162
+      "startMs": 9854
     },
     {
       "text": "to",
-      "startMs": 12586
+      "startMs": 10252
     },
     {
       "text": "have",
-      "startMs": 12642
+      "startMs": 10305
     },
     {
       "text": "none",
-      "startMs": 12843
+      "startMs": 10494
     },
     {
       "text": "Then",
-      "startMs": 13879
+      "startMs": 11147
     },
     {
       "text": "in",
-      "startMs": 13980
+      "startMs": 11227
     },
     {
       "text": "twenty",
-      "startMs": 14091
+      "startMs": 11331
     },
     {
       "text": "thirteen",
-      "startMs": 14348
+      "startMs": 11572
     },
     {
       "text": "researchers",
-      "startMs": 15308
+      "startMs": 12474
     },
     {
       "text": "at",
-      "startMs": 15777
+      "startMs": 12914
     },
     {
       "text": "Rochester",
-      "startMs": 15877
+      "startMs": 13008
     },
     {
       "text": "found",
-      "startMs": 16368
+      "startMs": 13469
     },
     {
       "text": "the",
-      "startMs": 16681
+      "startMs": 13763
     },
     {
       "text": "system",
-      "startMs": 16725
+      "startMs": 13804
     },
     {
       "text": "had",
-      "startMs": 17350
+      "startMs": 14391
     },
     {
       "text": "been",
-      "startMs": 17484
+      "startMs": 14517
     },
     {
       "text": "hiding",
-      "startMs": 17607
+      "startMs": 14632
     },
     {
       "text": "in",
-      "startMs": 18053
+      "startMs": 15051
     },
     {
       "text": "plain",
-      "startMs": 18132
+      "startMs": 15125
     },
     {
       "text": "sight",
-      "startMs": 18466
+      "startMs": 15439
     },
     {
       "text": "During",
-      "startMs": 19583
+      "startMs": 16151
     },
     {
       "text": "sleep",
-      "startMs": 19806
+      "startMs": 16348
     },
     {
       "text": "the",
-      "startMs": 20510
+      "startMs": 17009
     },
     {
       "text": "spaces",
-      "startMs": 20599
+      "startMs": 17093
     },
     {
       "text": "between",
-      "startMs": 21001
+      "startMs": 17470
     },
     {
       "text": "brain",
-      "startMs": 21313
+      "startMs": 17763
     },
     {
       "text": "cells",
-      "startMs": 21715
+      "startMs": 18141
     },
     {
       "text": "open",
-      "startMs": 22184
+      "startMs": 18581
     },
     {
       "text": "up",
-      "startMs": 22452
+      "startMs": 18833
     },
     {
       "text": "and",
-      "startMs": 23054
+      "startMs": 19398
     },
     {
       "text": "cerebrospinal",
-      "startMs": 23132
+      "startMs": 19471
     },
     {
       "text": "fluid",
-      "startMs": 23947
+      "startMs": 20237
     },
     {
       "text": "floods",
-      "startMs": 24304
+      "startMs": 20572
     },
     {
       "text": "through",
-      "startMs": 24684
+      "startMs": 20929
     },
     {
       "text": "carrying",
-      "startMs": 25487
+      "startMs": 21683
     },
     {
       "text": "metabolic",
-      "startMs": 25923
+      "startMs": 22092
     },
     {
       "text": "debris",
-      "startMs": 26347
+      "startMs": 22490
     },
     {
       "text": "out",
-      "startMs": 26670
+      "startMs": 22793
     },
     {
       "text": "They",
-      "startMs": 27617
+      "startMs": 23412
     },
     {
       "text": "named",
-      "startMs": 27662
+      "startMs": 23454
     },
     {
       "text": "it",
-      "startMs": 27874
+      "startMs": 23653
     },
     {
       "text": "the",
-      "startMs": 27941
+      "startMs": 23716
     },
     {
       "text": "glymphatic",
-      "startMs": 28008
+      "startMs": 23779
     },
     {
       "text": "system",
-      "startMs": 28655
+      "startMs": 24386
     },
     {
       "text": "Think",
-      "startMs": 29993
+      "startMs": 25210
     },
     {
       "text": "of",
-      "startMs": 30120
+      "startMs": 25317
     },
     {
       "text": "a",
-      "startMs": 30178
+      "startMs": 25372
     },
     {
       "text": "city",
-      "startMs": 30236
+      "startMs": 25426
     },
     {
       "text": "that",
-      "startMs": 30745
+      "startMs": 25904
     },
     {
       "text": "can",
-      "startMs": 30838
+      "startMs": 25991
     },
     {
       "text": "only",
-      "startMs": 30953
+      "startMs": 26099
     },
     {
       "text": "run",
-      "startMs": 31266
+      "startMs": 26393
     },
     {
       "text": "its",
-      "startMs": 31509
+      "startMs": 26621
     },
     {
       "text": "street",
-      "startMs": 31694
+      "startMs": 26795
     },
     {
       "text": "cleaners",
-      "startMs": 32111
+      "startMs": 27187
     },
     {
       "text": "after",
-      "startMs": 32863
+      "startMs": 27893
     },
     {
       "text": "the",
-      "startMs": 33071
+      "startMs": 28088
     },
     {
       "text": "traffic",
-      "startMs": 33129
+      "startMs": 28143
     },
     {
       "text": "stops",
-      "startMs": 33488
+      "startMs": 28480
     },
     {
       "text": "The",
-      "startMs": 34748
+      "startMs": 29295
     },
     {
       "text": "brain",
-      "startMs": 34806
+      "startMs": 29343
     },
     {
       "text": "cannot",
-      "startMs": 35176
+      "startMs": 29690
     },
     {
       "text": "think",
-      "startMs": 35674
+      "startMs": 30158
     },
     {
       "text": "and",
-      "startMs": 36183
+      "startMs": 30636
     },
     {
       "text": "deep",
-      "startMs": 36403
+      "startMs": 30842
     },
     {
       "text": "clean",
-      "startMs": 36623
+      "startMs": 31049
     },
     {
       "text": "at",
-      "startMs": 36912
+      "startMs": 31320
     },
     {
       "text": "the",
-      "startMs": 36970
+      "startMs": 31375
     },
     {
       "text": "same",
-      "startMs": 37040
+      "startMs": 31440
     },
     {
       "text": "time",
-      "startMs": 37341
+      "startMs": 31723
     },
     {
       "text": "so",
-      "startMs": 38047
+      "startMs": 32386
     },
     {
       "text": "it",
-      "startMs": 38186
+      "startMs": 32516
     },
     {
       "text": "schedules",
-      "startMs": 38244
+      "startMs": 32571
     },
     {
       "text": "the",
-      "startMs": 38845
+      "startMs": 33135
     },
     {
       "text": "second",
-      "startMs": 38938
+      "startMs": 33222
     },
     {
       "text": "shift",
-      "startMs": 39332
+      "startMs": 33592
     },
     {
       "text": "for",
-      "startMs": 39690
+      "startMs": 33929
     },
     {
       "text": "the",
-      "startMs": 39771
+      "startMs": 34005
     },
     {
       "text": "night",
-      "startMs": 39829
+      "startMs": 34059
     },
     {
       "text": "Among",
-      "startMs": 40933
+      "startMs": 34731
     },
     {
       "text": "the",
-      "startMs": 41188
+      "startMs": 34951
     },
     {
       "text": "waste",
-      "startMs": 41269
+      "startMs": 35027
     },
     {
       "text": "it",
-      "startMs": 41651
+      "startMs": 35386
     },
     {
       "text": "clears",
-      "startMs": 41732
+      "startMs": 35462
     },
     {
       "text": "is",
-      "startMs": 42623
+      "startMs": 36299
     },
     {
       "text": "amyloid",
-      "startMs": 42935
+      "startMs": 36592
     },
     {
       "text": "beta",
-      "startMs": 43502
+      "startMs": 37124
     },
     {
       "text": "the",
-      "startMs": 44208
+      "startMs": 37787
     },
     {
       "text": "protein",
-      "startMs": 44290
+      "startMs": 37864
     },
     {
       "text": "that",
-      "startMs": 44822
+      "startMs": 38363
     },
     {
       "text": "accumulates",
-      "startMs": 44914
+      "startMs": 38450
     },
     {
       "text": "in",
-      "startMs": 45632
+      "startMs": 39124
     },
     {
       "text": "Alzheimer's",
-      "startMs": 45794
+      "startMs": 39276
     },
     {
       "text": "disease",
-      "startMs": 46303
+      "startMs": 39754
     },
     {
       "text": "Which",
-      "startMs": 47609
+      "startMs": 40608
     },
     {
       "text": "reframes",
-      "startMs": 47724
+      "startMs": 40703
     },
     {
       "text": "a",
-      "startMs": 48245
+      "startMs": 41192
     },
     {
       "text": "short",
-      "startMs": 48268
+      "startMs": 41213
     },
     {
       "text": "night",
-      "startMs": 48581
+      "startMs": 41507
     },
     {
       "text": "Not",
-      "startMs": 49768
+      "startMs": 42133
     },
     {
       "text": "lost",
-      "startMs": 49980
+      "startMs": 42321
     },
     {
       "text": "hours",
-      "startMs": 50306
+      "startMs": 42627
     },
     {
       "text": "A",
-      "startMs": 51536
+      "startMs": 43411
     },
     {
       "text": "skipped",
-      "startMs": 51586
+      "startMs": 43450
     },
     {
       "text": "shift",
-      "startMs": 51936
+      "startMs": 43779
     },
     {
       "text": "So",
-      "startMs": 53877
+      "startMs": 44680
     },
     {
       "text": "tonight",
-      "startMs": 54033
+      "startMs": 44821
     },
     {
       "text": "nothing",
-      "startMs": 54763
+      "startMs": 45506
     },
     {
       "text": "shuts",
-      "startMs": 55049
+      "startMs": 45775
     },
     {
       "text": "down",
-      "startMs": 55414
+      "startMs": 46117
     },
     {
       "text": "Something",
-      "startMs": 56605
+      "startMs": 46835
     },
     {
       "text": "finally",
-      "startMs": 56853
+      "startMs": 47062
     },
     {
       "text": "gets",
-      "startMs": 57308
+      "startMs": 47489
     },
     {
       "text": "to",
-      "startMs": 57504
+      "startMs": 47673
     },
     {
       "text": "work",
-      "startMs": 57595
+      "startMs": 47759
     },
     {
       "text": "Because",
-      "startMs": 58802
+      "startMs": 48489
     }
-  ]
+  ],
+  "speechSpeed": 1.065
 }

@@ -3,7 +3,7 @@
   "scenes": [
     {
       "image": "videos/03-ai-designed-cure/1.jpg",
-      "seconds": 5.66,
+      "seconds": 4.55,
       "text": "Doctors just injected a patient with a virus that no evolution ever made.",
       "delivery": {
         "rate": -4,
@@ -18,7 +18,7 @@
     },
     {
       "image": "videos/03-ai-designed-cure/2.jpg",
-      "seconds": 25.65,
+      "seconds": 20.32,
       "text": "The patient had an infection that beat every antibiotic. So doctors turned to phages, viruses that hunt bacteria and ignore human cells entirely. Medicine has used them for a century. The problem is finding one that fits your particular infection. That search can take months. This time, in October 2026, an AI lab designed the phage instead. Days, not months.",
       "delivery": {
         "rate": 12,
@@ -31,33 +31,33 @@
         },
         {
           "src": "videos/03-ai-designed-cure/v2-2.mp3",
-          "atMs": 3736
+          "atMs": 2963
         },
         {
           "src": "videos/03-ai-designed-cure/v2-3.mp3",
-          "atMs": 10208
+          "atMs": 8317
         },
         {
           "src": "videos/03-ai-designed-cure/v2-4.mp3",
-          "atMs": 12576
+          "atMs": 10100
         },
         {
           "src": "videos/03-ai-designed-cure/v2-5.mp3",
-          "atMs": 16504
+          "atMs": 13238
         },
         {
           "src": "videos/03-ai-designed-cure/v2-6.mp3",
-          "atMs": 18296
+          "atMs": 14602
         },
         {
           "src": "videos/03-ai-designed-cure/v2-7.mp3",
-          "atMs": 23688
+          "atMs": 19017
         }
       ]
     },
     {
       "image": "videos/03-ai-designed-cure/3.jpg",
-      "seconds": 25.63,
+      "seconds": 19.43,
       "text": "Antibiotics are a hammer. They flatten everything in reach, which is why bacteria keep learning to duck. A phage is a key, cut to one lock. For a hundred years we could only find keys already lying on the ground. Now we can cut them. And the same hands that cut a key can, in principle, cut a crowbar. Which is exactly the conversation this field is now forced to have.",
       "delivery": {
         "rate": 8,
@@ -70,33 +70,33 @@
         },
         {
           "src": "videos/03-ai-designed-cure/v3-2.mp3",
-          "atMs": 2320
+          "atMs": 1682
         },
         {
           "src": "videos/03-ai-designed-cure/v3-3.mp3",
-          "atMs": 7280
+          "atMs": 5717
         },
         {
           "src": "videos/03-ai-designed-cure/v3-4.mp3",
-          "atMs": 10176
+          "atMs": 7949
         },
         {
           "src": "videos/03-ai-designed-cure/v3-5.mp3",
-          "atMs": 14344
+          "atMs": 11274
         },
         {
           "src": "videos/03-ai-designed-cure/v3-6.mp3",
-          "atMs": 16496
+          "atMs": 12159
         },
         {
           "src": "videos/03-ai-designed-cure/v3-7.mp3",
-          "atMs": 21312
+          "atMs": 16042
         }
       ]
     },
     {
       "image": "videos/03-ai-designed-cure/4.jpg",
-      "seconds": 8.6,
+      "seconds": 5.18,
       "text": "Did it work? We still don't know. The outcome is sealed inside one hospital room, where",
       "delivery": {
         "rate": -4,
@@ -110,11 +110,11 @@
         },
         {
           "src": "videos/03-ai-designed-cure/v4-2.mp3",
-          "atMs": 2152
+          "atMs": 809
         },
         {
           "src": "videos/03-ai-designed-cure/v4-3.mp3",
-          "atMs": 4304
+          "atMs": 1781
         }
       ]
     }
@@ -124,639 +124,640 @@
   "words": [
     {
       "text": "Doctors",
-      "startMs": 91
+      "startMs": 0
     },
     {
       "text": "just",
-      "startMs": 742
+      "startMs": 557
     },
     {
       "text": "injected",
-      "startMs": 938
+      "startMs": 729
     },
     {
       "text": "a",
-      "startMs": 1393
+      "startMs": 1129
     },
     {
       "text": "patient",
-      "startMs": 1458
+      "startMs": 1187
     },
     {
       "text": "with",
-      "startMs": 2005
+      "startMs": 1668
     },
     {
       "text": "a",
-      "startMs": 2161
+      "startMs": 1805
     },
     {
       "text": "virus",
-      "startMs": 2214
+      "startMs": 1851
     },
     {
       "text": "that",
-      "startMs": 2852
+      "startMs": 2413
     },
     {
       "text": "no",
-      "startMs": 3073
+      "startMs": 2607
     },
     {
       "text": "evolution",
-      "startMs": 3372
+      "startMs": 2870
     },
     {
       "text": "ever",
-      "startMs": 4206
+      "startMs": 3603
     },
     {
       "text": "made",
-      "startMs": 4440
+      "startMs": 3809
     },
     {
       "text": "The",
-      "startMs": 5760
+      "startMs": 4550
     },
     {
       "text": "patient",
-      "startMs": 5816
+      "startMs": 4585
     },
     {
       "text": "had",
-      "startMs": 6207
+      "startMs": 4929
     },
     {
       "text": "an",
-      "startMs": 6341
+      "startMs": 5047
     },
     {
       "text": "infection",
-      "startMs": 6385
+      "startMs": 5086
     },
     {
       "text": "that",
-      "startMs": 6988
+      "startMs": 5616
     },
     {
       "text": "beat",
-      "startMs": 7211
+      "startMs": 5812
     },
     {
       "text": "every",
-      "startMs": 7747
+      "startMs": 6284
     },
     {
       "text": "antibiotic",
-      "startMs": 8071
+      "startMs": 6568
     },
     {
       "text": "So",
-      "startMs": 9485
+      "startMs": 7513
     },
     {
       "text": "doctors",
-      "startMs": 9597
+      "startMs": 7599
     },
     {
       "text": "turned",
-      "startMs": 10054
+      "startMs": 8001
     },
     {
       "text": "to",
-      "startMs": 10400
+      "startMs": 8305
     },
     {
       "text": "phages",
-      "startMs": 10512
+      "startMs": 8404
     },
     {
       "text": "viruses",
-      "startMs": 11450
+      "startMs": 9229
     },
     {
       "text": "that",
-      "startMs": 12019
+      "startMs": 9729
     },
     {
       "text": "hunt",
-      "startMs": 12130
+      "startMs": 9827
     },
     {
       "text": "bacteria",
-      "startMs": 12387
+      "startMs": 10053
     },
     {
       "text": "and",
-      "startMs": 13258
+      "startMs": 10819
     },
     {
       "text": "ignore",
-      "startMs": 13380
+      "startMs": 10926
     },
     {
       "text": "human",
-      "startMs": 13894
+      "startMs": 11378
     },
     {
       "text": "cells",
-      "startMs": 14229
+      "startMs": 11673
     },
     {
       "text": "entirely",
-      "startMs": 14608
+      "startMs": 12006
     },
     {
       "text": "Medicine",
-      "startMs": 15946
+      "startMs": 12867
     },
     {
       "text": "has",
-      "startMs": 16236
+      "startMs": 13106
     },
     {
       "text": "used",
-      "startMs": 16415
+      "startMs": 13264
     },
     {
       "text": "them",
-      "startMs": 16727
+      "startMs": 13538
     },
     {
       "text": "for",
-      "startMs": 16951
+      "startMs": 13735
     },
     {
       "text": "a",
-      "startMs": 17073
+      "startMs": 13842
     },
     {
       "text": "century",
-      "startMs": 17107
+      "startMs": 13872
     },
     {
       "text": "The",
-      "startMs": 18314
+      "startMs": 14650
     },
     {
       "text": "problem",
-      "startMs": 18370
+      "startMs": 14686
     },
     {
       "text": "is",
-      "startMs": 18917
+      "startMs": 15167
     },
     {
       "text": "finding",
-      "startMs": 18995
+      "startMs": 15235
     },
     {
       "text": "one",
-      "startMs": 19374
+      "startMs": 15569
     },
     {
       "text": "that",
-      "startMs": 19932
+      "startMs": 16060
     },
     {
       "text": "fits",
-      "startMs": 20100
+      "startMs": 16207
     },
     {
       "text": "your",
-      "startMs": 20490
+      "startMs": 16550
     },
     {
       "text": "particular",
-      "startMs": 20591
+      "startMs": 16639
     },
     {
       "text": "infection",
-      "startMs": 21048
+      "startMs": 17041
     },
     {
       "text": "That",
-      "startMs": 22231
+      "startMs": 17847
     },
     {
       "text": "search",
-      "startMs": 22331
+      "startMs": 17935
     },
     {
       "text": "can",
-      "startMs": 22566
+      "startMs": 18142
     },
     {
       "text": "take",
-      "startMs": 22655
+      "startMs": 18220
     },
     {
       "text": "months",
-      "startMs": 22856
+      "startMs": 18397
     },
     {
       "text": "This",
-      "startMs": 24045
+      "startMs": 19152
     },
     {
       "text": "time",
-      "startMs": 24179
+      "startMs": 19256
     },
     {
       "text": "in",
-      "startMs": 24481
+      "startMs": 19522
     },
     {
       "text": "October 2026",
-      "startMs": 24548
+      "startMs": 19581
     },
     {
       "text": "an",
-      "startMs": 25965
+      "startMs": 20827
     },
     {
       "text": "AI",
-      "startMs": 26255
+      "startMs": 21082
     },
     {
       "text": "lab",
-      "startMs": 26657
+      "startMs": 21436
     },
     {
       "text": "designed",
-      "startMs": 27405
+      "startMs": 22093
     },
     {
       "text": "the",
-      "startMs": 27740
+      "startMs": 22388
     },
     {
       "text": "phage",
-      "startMs": 27795
+      "startMs": 22436
     },
     {
       "text": "instead",
-      "startMs": 28208
+      "startMs": 22800
     },
     {
       "text": "Days",
-      "startMs": 29444
+      "startMs": 23567
     },
     {
       "text": "not",
-      "startMs": 29733
+      "startMs": 23806
     },
     {
       "text": "months",
-      "startMs": 29949
+      "startMs": 23996
     },
     {
       "text": "Antibiotics",
-      "startMs": 31410
+      "startMs": 24870
     },
     {
       "text": "are",
-      "startMs": 32298
+      "startMs": 25641
     },
     {
       "text": "a",
-      "startMs": 32448
+      "startMs": 25773
     },
     {
       "text": "hammer",
-      "startMs": 32485
+      "startMs": 25805
     },
     {
       "text": "They",
-      "startMs": 33723
+      "startMs": 26552
     },
     {
       "text": "flatten",
-      "startMs": 33804
+      "startMs": 26610
     },
     {
       "text": "everything",
-      "startMs": 34544
+      "startMs": 27261
     },
     {
       "text": "in",
-      "startMs": 34996
+      "startMs": 27658
     },
     {
       "text": "reach",
-      "startMs": 35123
+      "startMs": 27770
     },
     {
       "text": "which",
-      "startMs": 35783
+      "startMs": 28350
     },
     {
       "text": "is",
-      "startMs": 35922
+      "startMs": 28473
     },
     {
       "text": "why",
-      "startMs": 36014
+      "startMs": 28554
     },
     {
       "text": "bacteria",
-      "startMs": 36176
+      "startMs": 28696
     },
     {
       "text": "keep",
-      "startMs": 37021
+      "startMs": 29439
     },
     {
       "text": "learning",
-      "startMs": 37253
+      "startMs": 29643
     },
     {
       "text": "to",
-      "startMs": 37530
+      "startMs": 29887
     },
     {
       "text": "duck",
-      "startMs": 37588
+      "startMs": 29938
     },
     {
       "text": "A",
-      "startMs": 38671
+      "startMs": 30587
     },
     {
       "text": "phage",
-      "startMs": 38717
+      "startMs": 30612
     },
     {
       "text": "is",
-      "startMs": 39030
+      "startMs": 30888
     },
     {
       "text": "a",
-      "startMs": 39134
+      "startMs": 30979
     },
     {
       "text": "key",
-      "startMs": 39180
+      "startMs": 31020
     },
     {
       "text": "cut",
-      "startMs": 39863
+      "startMs": 31620
     },
     {
       "text": "to",
-      "startMs": 40048
+      "startMs": 31783
     },
     {
       "text": "one",
-      "startMs": 40164
+      "startMs": 31885
     },
     {
       "text": "lock",
-      "startMs": 40488
+      "startMs": 32170
     },
     {
       "text": "For",
-      "startMs": 41613
+      "startMs": 32829
     },
     {
       "text": "a",
-      "startMs": 41706
+      "startMs": 32911
     },
     {
       "text": "hundred",
-      "startMs": 41741
+      "startMs": 32942
     },
     {
       "text": "years",
-      "startMs": 42018
+      "startMs": 33186
     },
     {
       "text": "we",
-      "startMs": 42342
+      "startMs": 33471
     },
     {
       "text": "could",
-      "startMs": 42435
+      "startMs": 33552
     },
     {
       "text": "only",
-      "startMs": 42551
+      "startMs": 33654
     },
     {
       "text": "find",
-      "startMs": 42805
+      "startMs": 33878
     },
     {
       "text": "keys",
-      "startMs": 43141
+      "startMs": 34173
     },
     {
       "text": "already",
-      "startMs": 43882
+      "startMs": 34825
     },
     {
       "text": "lying",
-      "startMs": 44160
+      "startMs": 35069
     },
     {
       "text": "on",
-      "startMs": 44507
+      "startMs": 35375
     },
     {
       "text": "the",
-      "startMs": 44576
+      "startMs": 35435
     },
     {
       "text": "ground",
-      "startMs": 44623
+      "startMs": 35477
     },
     {
       "text": "Now",
-      "startMs": 45747
+      "startMs": 36144
     },
     {
       "text": "we",
-      "startMs": 45851
+      "startMs": 36223
     },
     {
       "text": "can",
-      "startMs": 45920
+      "startMs": 36284
     },
     {
       "text": "cut",
-      "startMs": 46036
+      "startMs": 36386
     },
     {
       "text": "them",
-      "startMs": 46233
+      "startMs": 36559
     },
     {
       "text": "And",
-      "startMs": 47899
+      "startMs": 37029
     },
     {
       "text": "the",
-      "startMs": 47991
+      "startMs": 37097
     },
     {
       "text": "same",
-      "startMs": 48072
+      "startMs": 37169
     },
     {
       "text": "hands",
-      "startMs": 48396
+      "startMs": 37454
     },
     {
       "text": "that",
-      "startMs": 48824
+      "startMs": 37830
     },
     {
       "text": "cut",
-      "startMs": 48929
+      "startMs": 37922
     },
     {
       "text": "a",
-      "startMs": 49114
+      "startMs": 38085
     },
     {
       "text": "key",
-      "startMs": 49172
+      "startMs": 38136
     },
     {
       "text": "can",
-      "startMs": 49623
+      "startMs": 38533
     },
     {
       "text": "in",
-      "startMs": 50237
+      "startMs": 39073
     },
     {
       "text": "principle",
-      "startMs": 50387
+      "startMs": 39205
     },
     {
       "text": "cut",
-      "startMs": 51220
+      "startMs": 39937
     },
     {
       "text": "a",
-      "startMs": 51406
+      "startMs": 40101
     },
     {
       "text": "crowbar",
-      "startMs": 51440
+      "startMs": 40131
     },
     {
       "text": "Which",
-      "startMs": 52715
+      "startMs": 40912
     },
     {
       "text": "is",
-      "startMs": 52819
+      "startMs": 40992
     },
     {
       "text": "exactly",
-      "startMs": 52900
+      "startMs": 41063
     },
     {
       "text": "the",
-      "startMs": 53409
+      "startMs": 41511
     },
     {
       "text": "conversation",
-      "startMs": 53490
+      "startMs": 41582
     },
     {
       "text": "this",
-      "startMs": 54161
+      "startMs": 42172
     },
     {
       "text": "field",
-      "startMs": 54312
+      "startMs": 42305
     },
     {
       "text": "is",
-      "startMs": 54914
+      "startMs": 42834
     },
     {
       "text": "now",
-      "startMs": 55006
+      "startMs": 42915
     },
     {
       "text": "forced",
-      "startMs": 55284
+      "startMs": 43160
     },
     {
       "text": "to",
-      "startMs": 55678
+      "startMs": 43506
     },
     {
       "text": "have",
-      "startMs": 55735
+      "startMs": 43557
     },
     {
       "text": "Did",
-      "startMs": 57039
+      "startMs": 44300
     },
     {
       "text": "it",
-      "startMs": 57139
+      "startMs": 44375
     },
     {
       "text": "work",
-      "startMs": 57224
+      "startMs": 44450
     },
     {
       "text": "We",
-      "startMs": 59206
+      "startMs": 45109
     },
     {
       "text": "still",
-      "startMs": 59277
+      "startMs": 45156
     },
     {
       "text": "don't",
-      "startMs": 59461
+      "startMs": 45318
     },
     {
       "text": "know",
-      "startMs": 59660
+      "startMs": 45493
     },
     {
       "text": "The",
-      "startMs": 61335
+      "startMs": 46081
     },
     {
       "text": "outcome",
-      "startMs": 61426
+      "startMs": 46136
     },
     {
       "text": "is",
-      "startMs": 61843
+      "startMs": 46502
     },
     {
       "text": "sealed",
-      "startMs": 61947
+      "startMs": 46594
     },
     {
       "text": "inside",
-      "startMs": 62455
+      "startMs": 47041
     },
     {
       "text": "one",
-      "startMs": 63275
+      "startMs": 47762
     },
     {
       "text": "hospital",
-      "startMs": 63523
+      "startMs": 47980
     },
     {
       "text": "room",
-      "startMs": 64122
+      "startMs": 48507
     },
     {
       "text": "where",
-      "startMs": 64708
+      "startMs": 49022
     }
-  ]
+  ],
+  "speechSpeed": 1.137
 }

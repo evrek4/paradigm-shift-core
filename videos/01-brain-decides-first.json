@@ -3,7 +3,7 @@
   "scenes": [
     {
       "image": "videos/01-brain-decides-first/1.jpg",
-      "seconds": 5.62,
+      "seconds": 3.95,
       "text": "Your brain made this decision seven seconds before you did.",
       "delivery": {
         "rate": -6,
@@ -25,7 +25,7 @@
     },
     {
       "image": "videos/01-brain-decides-first/2.jpg",
-      "seconds": 36.21,
+      "seconds": 25.66,
       "text": "In 2008, neuroscientists in Berlin placed volunteers inside a brain scanner and gave them one simple choice. Left button... or right. Then they watched. Activity in the frontal cortex predicted the choice up to seven seconds before people felt they had decided. Not perfectly, but far better than chance. Decades earlier, Benjamin Libet had caught the same signal, rising in the brain before the conscious urge to move.",
       "highlight": "7 SEC",
       "delivery": {
@@ -76,33 +76,34 @@
         },
         {
           "src": "videos/01-brain-decides-first/v2-2.mp3",
-          "atMs": 8364
+          "atMs": 6605
         },
         {
           "src": "videos/01-brain-decides-first/v2-3.mp3",
-          "atMs": 10686
+          "atMs": 7651
         },
         {
           "src": "videos/01-brain-decides-first/v2-4.mp3",
-          "atMs": 13108
+          "atMs": 8576
         },
         {
           "src": "videos/01-brain-decides-first/v2-5.mp3",
-          "atMs": 15680
+          "atMs": 9861
         },
         {
           "src": "videos/01-brain-decides-first/v2-6.mp3",
-          "atMs": 23854
+          "atMs": 16326
         },
         {
           "src": "videos/01-brain-decides-first/v2-7.mp3",
-          "atMs": 27496
+          "atMs": 19005
         }
-      ]
+      ],
+      "highlightWord": "seven"
     },
     {
       "image": "videos/01-brain-decides-first/3.jpg",
-      "seconds": 25.38,
+      "seconds": 17.56,
       "text": "Think of your consciousness as a press secretary. It doesn't write the policy. It walks up to the podium after the order is already signed, and announces it as its own idea. But Libet believed you keep one power. The veto. You may not start the action... but in that final instant, you might still be able to stop it.",
       "highlight": "VETO",
       "delivery": {
@@ -153,33 +154,34 @@
         },
         {
           "src": "videos/01-brain-decides-first/v3-2.mp3",
-          "atMs": 3758
+          "atMs": 2762
         },
         {
           "src": "videos/01-brain-decides-first/v3-3.mp3",
-          "atMs": 6074
+          "atMs": 4365
         },
         {
           "src": "videos/01-brain-decides-first/v3-4.mp3",
-          "atMs": 12390
+          "atMs": 9287
         },
         {
           "src": "videos/01-brain-decides-first/v3-5.mp3",
-          "atMs": 15746
+          "atMs": 11670
         },
         {
           "src": "videos/01-brain-decides-first/v3-6.mp3",
-          "atMs": 18368
+          "atMs": 12892
         },
         {
           "src": "videos/01-brain-decides-first/v3-7.mp3",
-          "atMs": 20836
+          "atMs": 14550
         }
-      ]
+      ],
+      "highlightWord": "veto"
     },
     {
       "image": "videos/01-brain-decides-first/4.jpg",
-      "seconds": 7.43,
+      "seconds": 4.5,
       "text": "Whether you replay this video or not... that choice is already made. Because",
       "delivery": {
         "rate": -12,
@@ -210,11 +212,11 @@
         },
         {
           "src": "videos/01-brain-decides-first/v4-2.mp3",
-          "atMs": 3138
+          "atMs": 2234
         },
         {
           "src": "videos/01-brain-decides-first/v4-3.mp3",
-          "atMs": 5554
+          "atMs": 3826
         }
       ]
     }
@@ -224,603 +226,604 @@
   "words": [
     {
       "text": "Your",
-      "startMs": 114
+      "startMs": 0
     },
     {
       "text": "brain",
-      "startMs": 213
+      "startMs": 69
     },
     {
       "text": "made",
-      "startMs": 909
+      "startMs": 649
     },
     {
       "text": "this",
-      "startMs": 1207
+      "startMs": 897
     },
     {
       "text": "decision",
-      "startMs": 1378
+      "startMs": 1039
     },
     {
       "text": "seven",
-      "startMs": 2315
+      "startMs": 1820
     },
     {
       "text": "seconds",
-      "startMs": 2884
+      "startMs": 2294
     },
     {
       "text": "before",
-      "startMs": 3438
+      "startMs": 2756
     },
     {
       "text": "you",
-      "startMs": 3906
+      "startMs": 3146
     },
     {
       "text": "did",
-      "startMs": 4006
+      "startMs": 3229
     },
     {
       "text": "In 2008",
-      "startMs": 5711
+      "startMs": 3950
     },
     {
       "text": "neuroscientists",
-      "startMs": 6831
+      "startMs": 4862
     },
     {
       "text": "in",
-      "startMs": 7703
+      "startMs": 5589
     },
     {
       "text": "Berlin",
-      "startMs": 7808
+      "startMs": 5676
     },
     {
       "text": "placed",
-      "startMs": 8432
+      "startMs": 6196
     },
     {
       "text": "volunteers",
-      "startMs": 8797
+      "startMs": 6500
     },
     {
       "text": "inside",
-      "startMs": 9656
+      "startMs": 7216
     },
     {
       "text": "a",
-      "startMs": 10177
+      "startMs": 7650
     },
     {
       "text": "brain",
-      "startMs": 10229
+      "startMs": 7694
     },
     {
       "text": "scanner",
-      "startMs": 10633
+      "startMs": 8030
     },
     {
       "text": "and",
-      "startMs": 11414
+      "startMs": 8681
     },
     {
       "text": "gave",
-      "startMs": 11492
+      "startMs": 8746
     },
     {
       "text": "them",
-      "startMs": 11740
+      "startMs": 8953
     },
     {
       "text": "one",
-      "startMs": 11961
+      "startMs": 9137
     },
     {
       "text": "simple",
-      "startMs": 12300
+      "startMs": 9420
     },
     {
       "text": "choice",
-      "startMs": 12638
+      "startMs": 9701
     },
     {
       "text": "Left",
-      "startMs": 14109
+      "startMs": 10555
     },
     {
       "text": "button",
-      "startMs": 14390
+      "startMs": 10779
     },
     {
       "text": "or",
-      "startMs": 16415
+      "startMs": 11601
     },
     {
       "text": "right",
-      "startMs": 16572
+      "startMs": 11709
     },
     {
       "text": "Then",
-      "startMs": 18830
+      "startMs": 12526
     },
     {
       "text": "they",
-      "startMs": 18932
+      "startMs": 12592
     },
     {
       "text": "watched",
-      "startMs": 19062
+      "startMs": 12701
     },
     {
       "text": "Activity",
-      "startMs": 21385
+      "startMs": 13811
     },
     {
       "text": "in",
-      "startMs": 22101
+      "startMs": 14391
     },
     {
       "text": "the",
-      "startMs": 22198
+      "startMs": 14472
     },
     {
       "text": "frontal",
-      "startMs": 22259
+      "startMs": 14523
     },
     {
       "text": "cortex",
-      "startMs": 22623
+      "startMs": 14826
     },
     {
       "text": "predicted",
-      "startMs": 23436
+      "startMs": 15504
     },
     {
       "text": "the",
-      "startMs": 23958
+      "startMs": 15939
     },
     {
       "text": "choice",
-      "startMs": 24031
+      "startMs": 16000
     },
     {
       "text": "up",
-      "startMs": 24516
+      "startMs": 16404
     },
     {
       "text": "to",
-      "startMs": 24929
+      "startMs": 16748
     },
     {
       "text": "seven",
-      "startMs": 25038
+      "startMs": 16839
     },
     {
       "text": "seconds",
-      "startMs": 25548
+      "startMs": 17264
     },
     {
       "text": "before",
-      "startMs": 26397
+      "startMs": 17971
     },
     {
       "text": "people",
-      "startMs": 26883
+      "startMs": 18376
     },
     {
       "text": "felt",
-      "startMs": 27514
+      "startMs": 18902
     },
     {
       "text": "they",
-      "startMs": 27866
+      "startMs": 19196
     },
     {
       "text": "had",
-      "startMs": 27999
+      "startMs": 19306
     },
     {
       "text": "decided",
-      "startMs": 28193
+      "startMs": 19468
     },
     {
       "text": "Not",
-      "startMs": 29567
+      "startMs": 20276
     },
     {
       "text": "perfectly",
-      "startMs": 29820
+      "startMs": 20468
     },
     {
       "text": "but",
-      "startMs": 30724
+      "startMs": 21221
     },
     {
       "text": "far",
-      "startMs": 30870
+      "startMs": 21343
     },
     {
       "text": "better",
-      "startMs": 31229
+      "startMs": 21642
     },
     {
       "text": "than",
-      "startMs": 31495
+      "startMs": 21863
     },
     {
       "text": "chance",
-      "startMs": 31628
+      "startMs": 21974
     },
     {
       "text": "Decades",
-      "startMs": 33216
+      "startMs": 22955
     },
     {
       "text": "earlier",
-      "startMs": 34028
+      "startMs": 23622
     },
     {
       "text": "Benjamin",
-      "startMs": 34804
+      "startMs": 24268
     },
     {
       "text": "Libet",
-      "startMs": 35254
+      "startMs": 24643
     },
     {
       "text": "had",
-      "startMs": 35541
+      "startMs": 24883
     },
     {
       "text": "caught",
-      "startMs": 35791
+      "startMs": 25091
     },
     {
       "text": "the",
-      "startMs": 36154
+      "startMs": 25393
     },
     {
       "text": "same",
-      "startMs": 36254
+      "startMs": 25477
     },
     {
       "text": "signal",
-      "startMs": 36754
+      "startMs": 25893
     },
     {
       "text": "rising",
-      "startMs": 37754
+      "startMs": 26727
     },
     {
       "text": "in",
-      "startMs": 38128
+      "startMs": 27038
     },
     {
       "text": "the",
-      "startMs": 38191
+      "startMs": 27091
     },
     {
       "text": "brain",
-      "startMs": 38254
+      "startMs": 27143
     },
     {
       "text": "before",
-      "startMs": 38641
+      "startMs": 27466
     },
     {
       "text": "the",
-      "startMs": 39016
+      "startMs": 27778
     },
     {
       "text": "conscious",
-      "startMs": 39104
+      "startMs": 27852
     },
     {
       "text": "urge",
-      "startMs": 39828
+      "startMs": 28455
     },
     {
       "text": "to",
-      "startMs": 40166
+      "startMs": 28737
     },
     {
       "text": "move",
-      "startMs": 40241
+      "startMs": 28799
     },
     {
       "text": "Think",
-      "startMs": 41952
+      "startMs": 29611
     },
     {
       "text": "of",
-      "startMs": 42115
+      "startMs": 29747
     },
     {
       "text": "your",
-      "startMs": 42197
+      "startMs": 29816
     },
     {
       "text": "consciousness",
-      "startMs": 42306
+      "startMs": 29906
     },
     {
       "text": "as",
-      "startMs": 43433
+      "startMs": 30846
     },
     {
       "text": "a",
-      "startMs": 43596
+      "startMs": 30981
     },
     {
       "text": "press",
-      "startMs": 43664
+      "startMs": 31038
     },
     {
       "text": "secretary",
-      "startMs": 44045
+      "startMs": 31356
     },
     {
       "text": "It",
-      "startMs": 45688
+      "startMs": 32372
     },
     {
       "text": "doesn't",
-      "startMs": 45763
+      "startMs": 32421
     },
     {
       "text": "write",
-      "startMs": 46088
+      "startMs": 32692
     },
     {
       "text": "the",
-      "startMs": 46488
+      "startMs": 33025
     },
     {
       "text": "policy",
-      "startMs": 46576
+      "startMs": 33099
     },
     {
       "text": "It",
-      "startMs": 48000
+      "startMs": 33975
     },
     {
       "text": "walks",
-      "startMs": 48060
+      "startMs": 34015
     },
     {
       "text": "up",
-      "startMs": 48289
+      "startMs": 34206
     },
     {
       "text": "to",
-      "startMs": 48385
+      "startMs": 34286
     },
     {
       "text": "the",
-      "startMs": 48469
+      "startMs": 34356
     },
     {
       "text": "podium",
-      "startMs": 48565
+      "startMs": 34436
     },
     {
       "text": "after",
-      "startMs": 49166
+      "startMs": 34937
     },
     {
       "text": "the",
-      "startMs": 49406
+      "startMs": 35137
     },
     {
       "text": "order",
-      "startMs": 49454
+      "startMs": 35177
     },
     {
       "text": "is",
-      "startMs": 49803
+      "startMs": 35468
     },
     {
       "text": "already",
-      "startMs": 49911
+      "startMs": 35558
     },
     {
       "text": "signed",
-      "startMs": 50236
+      "startMs": 35828
     },
     {
       "text": "and",
-      "startMs": 51317
+      "startMs": 36729
     },
     {
       "text": "announces",
-      "startMs": 51570
+      "startMs": 36940
     },
     {
       "text": "it",
-      "startMs": 52087
+      "startMs": 37371
     },
     {
       "text": "as",
-      "startMs": 52315
+      "startMs": 37561
     },
     {
       "text": "its",
-      "startMs": 52459
+      "startMs": 37681
     },
     {
       "text": "own",
-      "startMs": 52555
+      "startMs": 37761
     },
     {
       "text": "idea",
-      "startMs": 52700
+      "startMs": 37882
     },
     {
       "text": "But",
-      "startMs": 54345
+      "startMs": 38897
     },
     {
       "text": "Libet",
-      "startMs": 54498
+      "startMs": 39014
     },
     {
       "text": "believed",
-      "startMs": 54859
+      "startMs": 39315
     },
     {
       "text": "you",
-      "startMs": 55428
+      "startMs": 39789
     },
     {
       "text": "keep",
-      "startMs": 55539
+      "startMs": 39882
     },
     {
       "text": "one",
-      "startMs": 55831
+      "startMs": 40125
     },
     {
       "text": "power",
-      "startMs": 56109
+      "startMs": 40357
     },
     {
       "text": "The",
-      "startMs": 57704
+      "startMs": 41280
     },
     {
       "text": "veto",
-      "startMs": 57768
+      "startMs": 41320
     },
     {
       "text": "You",
-      "startMs": 60312
+      "startMs": 42502
     },
     {
       "text": "may",
-      "startMs": 60411
+      "startMs": 42568
     },
     {
       "text": "not",
-      "startMs": 60567
+      "startMs": 42698
     },
     {
       "text": "start",
-      "startMs": 60795
+      "startMs": 42888
     },
     {
       "text": "the",
-      "startMs": 61079
+      "startMs": 43125
     },
     {
       "text": "action",
-      "startMs": 61178
+      "startMs": 43207
     },
     {
       "text": "but",
-      "startMs": 62786
+      "startMs": 44160
     },
     {
       "text": "in",
-      "startMs": 62865
+      "startMs": 44210
     },
     {
       "text": "that",
-      "startMs": 62959
+      "startMs": 44288
     },
     {
       "text": "final",
-      "startMs": 63158
+      "startMs": 44454
     },
     {
       "text": "instant",
-      "startMs": 63610
+      "startMs": 44831
     },
     {
       "text": "you",
-      "startMs": 64448
+      "startMs": 45529
     },
     {
       "text": "might",
-      "startMs": 64581
+      "startMs": 45640
     },
     {
       "text": "still",
-      "startMs": 64807
+      "startMs": 45828
     },
     {
       "text": "be",
-      "startMs": 65086
+      "startMs": 46061
     },
     {
       "text": "able",
-      "startMs": 65219
+      "startMs": 46172
     },
     {
       "text": "to",
-      "startMs": 65352
+      "startMs": 46283
     },
     {
       "text": "stop",
-      "startMs": 65419
+      "startMs": 46338
     },
     {
       "text": "it",
-      "startMs": 65844
+      "startMs": 46693
     },
     {
       "text": "Whether",
-      "startMs": 67321
+      "startMs": 47170
     },
     {
       "text": "you",
-      "startMs": 67488
+      "startMs": 47293
     },
     {
       "text": "replay",
-      "startMs": 67571
+      "startMs": 47362
     },
     {
       "text": "this",
-      "startMs": 68016
+      "startMs": 47733
     },
     {
       "text": "video",
-      "startMs": 68210
+      "startMs": 47895
     },
     {
       "text": "or",
-      "startMs": 68891
+      "startMs": 48462
     },
     {
       "text": "not",
-      "startMs": 69002
+      "startMs": 48555
     },
     {
       "text": "that",
-      "startMs": 70467
+      "startMs": 49404
     },
     {
       "text": "choice",
-      "startMs": 70646
+      "startMs": 49539
     },
     {
       "text": "is",
-      "startMs": 71077
+      "startMs": 49898
     },
     {
       "text": "already",
-      "startMs": 71181
+      "startMs": 49985
     },
     {
       "text": "made",
-      "startMs": 71509
+      "startMs": 50258
     },
     {
       "text": "Because",
-      "startMs": 72873
+      "startMs": 50996
     }
-  ]
+  ],
+  "speechSpeed": 1.2
 }

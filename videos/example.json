@@ -1,9 +1,21 @@
 {
-  "hook": "Your brain is lying to you",
   "scenes": [
-    { "image": "videos/example/1.jpg", "seconds": 3, "text": "Your brain decides before you do." },
-    { "image": "videos/example/2.jpg", "seconds": 4, "text": "Scientists can predict your choice seven seconds early.", "highlight": "7 SEC" },
-    { "image": "videos/example/3.jpg", "seconds": 3.5, "text": "So who is really making the decision? Because" }
+    {
+      "image": "videos/example/1.jpg",
+      "seconds": 3,
+      "text": "Your brain decides before you do."
+    },
+    {
+      "image": "videos/example/2.jpg",
+      "seconds": 4,
+      "text": "Scientists can predict your choice seven seconds early.",
+      "highlight": "7 SEC"
+    },
+    {
+      "image": "videos/example/3.jpg",
+      "seconds": 3.5,
+      "text": "So who is really making the decision? Because"
+    }
   ],
   "musicVolume": 0.25
 }

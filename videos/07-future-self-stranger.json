@@ -3,7 +3,7 @@
   "scenes": [
     {
       "image": "videos/07-future-self-stranger/1.jpg",
-      "seconds": 5.77,
+      "seconds": 4.77,
       "text": "Picture yourself in thirty years. Your brain just pictured somebody else.",
       "delivery": {
         "rate": -4,
@@ -16,13 +16,13 @@
         },
         {
           "src": "videos/07-future-self-stranger/v1-2.mp3",
-          "atMs": 2968
+          "atMs": 2518
         }
       ]
     },
     {
       "image": "videos/07-future-self-stranger/2.jpg",
-      "seconds": 20.51,
+      "seconds": 18.81,
       "text": "Hal Hershfield put people in a scanner and asked them to think about themselves today, themselves in ten years, and a complete stranger. There is a region that quiets down when you think about someone who is not you. For many people, thinking about their future self quieted it the same way. And the bigger that gap, the less they saved for retirement.",
       "delivery": {
         "rate": 12,
@@ -35,21 +35,21 @@
         },
         {
           "src": "videos/07-future-self-stranger/v2-2.mp3",
-          "atMs": 7840
+          "atMs": 7448
         },
         {
           "src": "videos/07-future-self-stranger/v2-3.mp3",
-          "atMs": 12056
+          "atMs": 11265
         },
         {
           "src": "videos/07-future-self-stranger/v2-4.mp3",
-          "atMs": 16896
+          "atMs": 15701
         }
       ]
     },
     {
       "image": "videos/07-future-self-stranger/3.jpg",
-      "seconds": 24.81,
+      "seconds": 20.23,
       "text": "So every plan you make for later is a favor for a person you have never met. No wonder the hard choices get handed to them. They do not complain. They are not in the room. But here is the strange part. When researchers showed people digitally aged images of their own faces, the saving went up. Make the stranger familiar, and the brain starts paying them.",
       "delivery": {
         "rate": 8,
@@ -62,33 +62,33 @@
         },
         {
           "src": "videos/07-future-self-stranger/v3-2.mp3",
-          "atMs": 4648
+          "atMs": 4243
         },
         {
           "src": "videos/07-future-self-stranger/v3-3.mp3",
-          "atMs": 7424
+          "atMs": 6616
         },
         {
           "src": "videos/07-future-self-stranger/v3-4.mp3",
-          "atMs": 9576
+          "atMs": 7696
         },
         {
           "src": "videos/07-future-self-stranger/v3-5.mp3",
-          "atMs": 11728
+          "atMs": 8953
         },
         {
           "src": "videos/07-future-self-stranger/v3-6.mp3",
-          "atMs": 13880
+          "atMs": 10251
         },
         {
           "src": "videos/07-future-self-stranger/v3-7.mp3",
-          "atMs": 20664
+          "atMs": 16559
         }
       ]
     },
     {
       "image": "videos/07-future-self-stranger/4.jpg",
-      "seconds": 4.7,
+      "seconds": 3.14,
       "text": "They are waiting for you to introduce yourself. So go ahead.",
       "delivery": {
         "rate": -4,
@@ -102,7 +102,7 @@
         },
         {
           "src": "videos/07-future-self-stranger/v4-2.mp3",
-          "atMs": 2824
+          "atMs": 2358
         }
       ]
     }
@@ -112,611 +112,612 @@
   "words": [
     {
       "text": "Picture",
-      "startMs": 104
+      "startMs": 0
     },
     {
       "text": "yourself",
-      "startMs": 378
+      "startMs": 256
     },
     {
       "text": "in",
-      "startMs": 1172
+      "startMs": 1050
     },
     {
       "text": "thirty",
-      "startMs": 1328
+      "startMs": 1206
     },
     {
       "text": "years",
-      "startMs": 1719
+      "startMs": 1597
     },
     {
       "text": "Your",
-      "startMs": 3072
+      "startMs": 2518
     },
     {
       "text": "brain",
-      "startMs": 3176
+      "startMs": 2603
     },
     {
       "text": "just",
-      "startMs": 3541
+      "startMs": 2968
     },
     {
       "text": "pictured",
-      "startMs": 3736
+      "startMs": 3163
     },
     {
       "text": "somebody",
-      "startMs": 4127
+      "startMs": 3554
     },
     {
       "text": "else",
-      "startMs": 4452
+      "startMs": 3879
     },
     {
       "text": "Hal",
-      "startMs": 5848
+      "startMs": 4770
     },
     {
       "text": "Hershfield",
-      "startMs": 5971
+      "startMs": 4880
     },
     {
       "text": "put",
-      "startMs": 6607
+      "startMs": 5516
     },
     {
       "text": "people",
-      "startMs": 6763
+      "startMs": 5672
     },
     {
       "text": "in",
-      "startMs": 7076
+      "startMs": 5985
     },
     {
       "text": "a",
-      "startMs": 7143
+      "startMs": 6052
     },
     {
       "text": "scanner",
-      "startMs": 7187
+      "startMs": 6096
     },
     {
       "text": "and",
-      "startMs": 7969
+      "startMs": 6878
     },
     {
       "text": "asked",
-      "startMs": 8147
+      "startMs": 7056
     },
     {
       "text": "them",
-      "startMs": 8382
+      "startMs": 7291
     },
     {
       "text": "to",
-      "startMs": 8493
+      "startMs": 7402
     },
     {
       "text": "think",
-      "startMs": 8560
+      "startMs": 7469
     },
     {
       "text": "about",
-      "startMs": 8817
+      "startMs": 7726
     },
     {
       "text": "themselves",
-      "startMs": 9029
+      "startMs": 7938
     },
     {
       "text": "today",
-      "startMs": 9498
+      "startMs": 8407
     },
     {
       "text": "themselves",
-      "startMs": 10234
+      "startMs": 9143
     },
     {
       "text": "in",
-      "startMs": 10792
+      "startMs": 9701
     },
     {
       "text": "ten",
-      "startMs": 10937
+      "startMs": 9846
     },
     {
       "text": "years",
-      "startMs": 11216
+      "startMs": 10125
     },
     {
       "text": "and",
-      "startMs": 11897
+      "startMs": 10806
     },
     {
       "text": "a",
-      "startMs": 12009
+      "startMs": 10918
     },
     {
       "text": "complete",
-      "startMs": 12065
+      "startMs": 10974
     },
     {
       "text": "stranger",
-      "startMs": 12478
+      "startMs": 11387
     },
     {
       "text": "There",
-      "startMs": 13699
+      "startMs": 12218
     },
     {
       "text": "is",
-      "startMs": 13777
+      "startMs": 12278
     },
     {
       "text": "a",
-      "startMs": 13844
+      "startMs": 12345
     },
     {
       "text": "region",
-      "startMs": 13900
+      "startMs": 12401
     },
     {
       "text": "that",
-      "startMs": 14402
+      "startMs": 12903
     },
     {
       "text": "quiets",
-      "startMs": 14525
+      "startMs": 13026
     },
     {
       "text": "down",
-      "startMs": 14994
+      "startMs": 13495
     },
     {
       "text": "when",
-      "startMs": 15485
+      "startMs": 13986
     },
     {
       "text": "you",
-      "startMs": 15585
+      "startMs": 14086
     },
     {
       "text": "think",
-      "startMs": 15686
+      "startMs": 14187
     },
     {
       "text": "about",
-      "startMs": 15920
+      "startMs": 14421
     },
     {
       "text": "someone",
-      "startMs": 16144
+      "startMs": 14645
     },
     {
       "text": "who",
-      "startMs": 16467
+      "startMs": 14968
     },
     {
       "text": "is",
-      "startMs": 16601
+      "startMs": 15102
     },
     {
       "text": "not",
-      "startMs": 16690
+      "startMs": 15191
     },
     {
       "text": "you",
-      "startMs": 16958
+      "startMs": 15459
     },
     {
       "text": "For",
-      "startMs": 17949
+      "startMs": 16038
     },
     {
       "text": "many",
-      "startMs": 18038
+      "startMs": 16127
     },
     {
       "text": "people",
-      "startMs": 18295
+      "startMs": 16384
     },
     {
       "text": "thinking",
-      "startMs": 19165
+      "startMs": 17254
     },
     {
       "text": "about",
-      "startMs": 19433
+      "startMs": 17522
     },
     {
       "text": "their",
-      "startMs": 19679
+      "startMs": 17768
     },
     {
       "text": "future",
-      "startMs": 19824
+      "startMs": 17913
     },
     {
       "text": "self",
-      "startMs": 20248
+      "startMs": 18337
     },
     {
       "text": "quieted",
-      "startMs": 20705
+      "startMs": 18794
     },
     {
       "text": "it",
-      "startMs": 21197
+      "startMs": 19286
     },
     {
       "text": "the",
-      "startMs": 21275
+      "startMs": 19364
     },
     {
       "text": "same",
-      "startMs": 21364
+      "startMs": 19453
     },
     {
       "text": "way",
-      "startMs": 21699
+      "startMs": 19788
     },
     {
       "text": "And",
-      "startMs": 22755
+      "startMs": 20471
     },
     {
       "text": "the",
-      "startMs": 22811
+      "startMs": 20511
     },
     {
       "text": "bigger",
-      "startMs": 22889
+      "startMs": 20589
     },
     {
       "text": "that",
-      "startMs": 23135
+      "startMs": 20835
     },
     {
       "text": "gap",
-      "startMs": 23324
+      "startMs": 21024
     },
     {
       "text": "the",
-      "startMs": 23871
+      "startMs": 21571
     },
     {
       "text": "less",
-      "startMs": 23972
+      "startMs": 21672
     },
     {
       "text": "they",
-      "startMs": 24228
+      "startMs": 21928
     },
     {
       "text": "saved",
-      "startMs": 24351
+      "startMs": 22051
     },
     {
       "text": "for",
-      "startMs": 24798
+      "startMs": 22498
     },
     {
       "text": "retirement",
-      "startMs": 24909
+      "startMs": 22609
     },
     {
       "text": "So",
-      "startMs": 26373
+      "startMs": 23580
     },
     {
       "text": "every",
-      "startMs": 26604
+      "startMs": 23800
     },
     {
       "text": "plan",
-      "startMs": 26859
+      "startMs": 24055
     },
     {
       "text": "you",
-      "startMs": 27102
+      "startMs": 24298
     },
     {
       "text": "make",
-      "startMs": 27183
+      "startMs": 24379
     },
     {
       "text": "for",
-      "startMs": 27356
+      "startMs": 24552
     },
     {
       "text": "later",
-      "startMs": 27484
+      "startMs": 24680
     },
     {
       "text": "is",
-      "startMs": 28132
+      "startMs": 25328
     },
     {
       "text": "a",
-      "startMs": 28248
+      "startMs": 25444
     },
     {
       "text": "favor",
-      "startMs": 28294
+      "startMs": 25490
     },
     {
       "text": "for",
-      "startMs": 28815
+      "startMs": 26011
     },
     {
       "text": "a",
-      "startMs": 28954
+      "startMs": 26150
     },
     {
       "text": "person",
-      "startMs": 29012
+      "startMs": 26208
     },
     {
       "text": "you",
-      "startMs": 29486
+      "startMs": 26682
     },
     {
       "text": "have",
-      "startMs": 29602
+      "startMs": 26798
     },
     {
       "text": "never",
-      "startMs": 29718
+      "startMs": 26914
     },
     {
       "text": "met",
-      "startMs": 29972
+      "startMs": 27168
     },
     {
       "text": "No",
-      "startMs": 31021
+      "startMs": 27823
     },
     {
       "text": "wonder",
-      "startMs": 31148
+      "startMs": 27936
     },
     {
       "text": "the",
-      "startMs": 31379
+      "startMs": 28167
     },
     {
       "text": "hard",
-      "startMs": 31437
+      "startMs": 28225
     },
     {
       "text": "choices",
-      "startMs": 31761
+      "startMs": 28549
     },
     {
       "text": "get",
-      "startMs": 32259
+      "startMs": 29047
     },
     {
       "text": "handed",
-      "startMs": 32410
+      "startMs": 29198
     },
     {
       "text": "to",
-      "startMs": 32745
+      "startMs": 29533
     },
     {
       "text": "them",
-      "startMs": 32838
+      "startMs": 29626
     },
     {
       "text": "They",
-      "startMs": 33804
+      "startMs": 30196
     },
     {
       "text": "do",
-      "startMs": 33854
+      "startMs": 30233
     },
     {
       "text": "not",
-      "startMs": 33942
+      "startMs": 30321
     },
     {
       "text": "complain",
-      "startMs": 34129
+      "startMs": 30508
     },
     {
       "text": "They",
-      "startMs": 35949
+      "startMs": 31276
     },
     {
       "text": "are",
-      "startMs": 36018
+      "startMs": 31331
     },
     {
       "text": "not",
-      "startMs": 36088
+      "startMs": 31401
     },
     {
       "text": "in",
-      "startMs": 36412
+      "startMs": 31725
     },
     {
       "text": "the",
-      "startMs": 36481
+      "startMs": 31794
     },
     {
       "text": "room",
-      "startMs": 36550
+      "startMs": 31863
     },
     {
       "text": "But",
-      "startMs": 38101
+      "startMs": 32533
     },
     {
       "text": "here",
-      "startMs": 38158
+      "startMs": 32577
     },
     {
       "text": "is",
-      "startMs": 38332
+      "startMs": 32751
     },
     {
       "text": "the",
-      "startMs": 38413
+      "startMs": 32832
     },
     {
       "text": "strange",
-      "startMs": 38483
+      "startMs": 32902
     },
     {
       "text": "part",
-      "startMs": 38795
+      "startMs": 33214
     },
     {
       "text": "When",
-      "startMs": 40253
+      "startMs": 33831
     },
     {
       "text": "researchers",
-      "startMs": 40392
+      "startMs": 33956
     },
     {
       "text": "showed",
-      "startMs": 41144
+      "startMs": 34708
     },
     {
       "text": "people",
-      "startMs": 41630
+      "startMs": 35194
     },
     {
       "text": "digitally",
-      "startMs": 42336
+      "startMs": 35900
     },
     {
       "text": "aged",
-      "startMs": 42949
+      "startMs": 36513
     },
     {
       "text": "images",
-      "startMs": 43551
+      "startMs": 37115
     },
     {
       "text": "of",
-      "startMs": 43991
+      "startMs": 37555
     },
     {
       "text": "their",
-      "startMs": 44072
+      "startMs": 37636
     },
     {
       "text": "own",
-      "startMs": 44222
+      "startMs": 37786
     },
     {
       "text": "faces",
-      "startMs": 44477
+      "startMs": 38041
     },
     {
       "text": "the",
-      "startMs": 45345
+      "startMs": 38909
     },
     {
       "text": "saving",
-      "startMs": 45449
+      "startMs": 39013
     },
     {
       "text": "went",
-      "startMs": 45924
+      "startMs": 39488
     },
     {
       "text": "up",
-      "startMs": 46098
+      "startMs": 39662
     },
     {
       "text": "Make",
-      "startMs": 47025
+      "startMs": 40139
     },
     {
       "text": "the",
-      "startMs": 47164
+      "startMs": 40265
     },
     {
       "text": "stranger",
-      "startMs": 47245
+      "startMs": 40346
     },
     {
       "text": "familiar",
-      "startMs": 47789
+      "startMs": 40890
     },
     {
       "text": "and",
-      "startMs": 48773
+      "startMs": 41874
     },
     {
       "text": "the",
-      "startMs": 48831
+      "startMs": 41932
     },
     {
       "text": "brain",
-      "startMs": 48912
+      "startMs": 42013
     },
     {
       "text": "starts",
-      "startMs": 49479
+      "startMs": 42580
     },
     {
       "text": "paying",
-      "startMs": 49756
+      "startMs": 42857
     },
     {
       "text": "them",
-      "startMs": 50092
+      "startMs": 43193
     },
     {
       "text": "They",
-      "startMs": 51194
+      "startMs": 43810
     },
     {
       "text": "are",
-      "startMs": 51272
+      "startMs": 43869
     },
     {
       "text": "waiting",
-      "startMs": 51402
+      "startMs": 43998
     },
     {
       "text": "for",
-      "startMs": 51702
+      "startMs": 44299
     },
     {
       "text": "you",
-      "startMs": 51923
+      "startMs": 44520
     },
     {
       "text": "to",
-      "startMs": 52106
+      "startMs": 44702
     },
     {
       "text": "introduce",
-      "startMs": 52210
+      "startMs": 44806
     },
     {
       "text": "yourself",
-      "startMs": 52666
+      "startMs": 45262
     },
     {
       "text": "So",
-      "startMs": 54042
+      "startMs": 46168
     },
     {
       "text": "go",
-      "startMs": 54184
+      "startMs": 46307
     },
     {
       "text": "ahead",
-      "startMs": 54369
+      "startMs": 46492
     }
-  ]
+  ],
+  "speechSpeed": 1.0
 }

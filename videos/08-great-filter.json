@@ -3,7 +3,7 @@
   "scenes": [
     {
       "image": "videos/08-great-filter/1.jpg",
-      "seconds": 6.59,
+      "seconds": 4.78,
       "text": "The universe is quiet. That silence is the most ominous evidence we have.",
       "delivery": {
         "rate": -4,
@@ -16,13 +16,13 @@
         },
         {
           "src": "videos/08-great-filter/v1-2.mp3",
-          "atMs": 2488
+          "atMs": 1721
         }
       ]
     },
     {
       "image": "videos/08-great-filter/2.jpg",
-      "seconds": 23.43,
+      "seconds": 17.43,
       "text": "There are hundreds of billions of stars in our galaxy alone, most with planets. The galaxy is over thirteen billion years old. A single civilization with patience and simple rockets could cross it in a few million years, which is a rounding error on that timescale. So the sky should be crowded with evidence. We look, and we find nothing. Not one signal.",
       "delivery": {
         "rate": 12,
@@ -35,29 +35,29 @@
         },
         {
           "src": "videos/08-great-filter/v2-2.mp3",
-          "atMs": 4720
+          "atMs": 3687
         },
         {
           "src": "videos/08-great-filter/v2-3.mp3",
-          "atMs": 8000
+          "atMs": 6159
         },
         {
           "src": "videos/08-great-filter/v2-4.mp3",
-          "atMs": 16392
+          "atMs": 12940
         },
         {
           "src": "videos/08-great-filter/v2-5.mp3",
-          "atMs": 18952
+          "atMs": 14809
         },
         {
           "src": "videos/08-great-filter/v2-6.mp3",
-          "atMs": 21104
+          "atMs": 16233
         }
       ]
     },
     {
       "image": "videos/08-great-filter/3.jpg",
-      "seconds": 28.93,
+      "seconds": 22.87,
       "text": "Robin Hanson's answer was a filter. Somewhere on the path from dead chemistry to a galactic civilization, there is a step almost nothing survives. And the question that matters is where it sits. If the filter is behind us, in the leap to complex life, then we are extraordinarily lucky and extraordinarily alone. If it sits ahead of us, then every silent star is a civilization that already reached our stage, and did not pass.",
       "delivery": {
         "rate": 8,
@@ -70,25 +70,25 @@
         },
         {
           "src": "videos/08-great-filter/v3-2.mp3",
-          "atMs": 2440
+          "atMs": 1762
         },
         {
           "src": "videos/08-great-filter/v3-3.mp3",
-          "atMs": 9272
+          "atMs": 7224
         },
         {
           "src": "videos/08-great-filter/v3-4.mp3",
-          "atMs": 12408
+          "atMs": 9553
         },
         {
           "src": "videos/08-great-filter/v3-5.mp3",
-          "atMs": 20992
+          "atMs": 16528
         }
       ]
     },
     {
       "image": "videos/08-great-filter/4.jpg",
-      "seconds": 6.76,
+      "seconds": 4.43,
       "text": "Every year we search and hear nothing, that answer gets heavier. Because",
       "delivery": {
         "rate": -4,
@@ -102,7 +102,7 @@
         },
         {
           "src": "videos/08-great-filter/v4-2.mp3",
-          "atMs": 4888
+          "atMs": 3792
         }
       ]
     }
@@ -112,655 +112,656 @@
   "words": [
     {
       "text": "The",
-      "startMs": 114
+      "startMs": 0
     },
     {
       "text": "universe",
-      "startMs": 170
+      "startMs": 28
     },
     {
       "text": "is",
-      "startMs": 1037
+      "startMs": 762
     },
     {
       "text": "quiet",
-      "startMs": 1179
+      "startMs": 882
     },
     {
       "text": "That",
-      "startMs": 2592
+      "startMs": 1721
     },
     {
       "text": "silence",
-      "startMs": 2735
+      "startMs": 1829
     },
     {
       "text": "is",
-      "startMs": 3426
+      "startMs": 2414
     },
     {
       "text": "the",
-      "startMs": 3530
+      "startMs": 2502
     },
     {
       "text": "most",
-      "startMs": 3608
+      "startMs": 2568
     },
     {
       "text": "ominous",
-      "startMs": 4103
+      "startMs": 2988
     },
     {
       "text": "evidence",
-      "startMs": 4754
+      "startMs": 3539
     },
     {
       "text": "we",
-      "startMs": 5144
+      "startMs": 3869
     },
     {
       "text": "have",
-      "startMs": 5274
+      "startMs": 3979
     },
     {
       "text": "There",
-      "startMs": 6679
+      "startMs": 4780
     },
     {
       "text": "are",
-      "startMs": 6757
+      "startMs": 4832
     },
     {
       "text": "hundreds",
-      "startMs": 6824
+      "startMs": 4889
     },
     {
       "text": "of",
-      "startMs": 7282
+      "startMs": 5277
     },
     {
       "text": "billions",
-      "startMs": 7494
+      "startMs": 5456
     },
     {
       "text": "of",
-      "startMs": 7940
+      "startMs": 5834
     },
     {
       "text": "stars",
-      "startMs": 8007
+      "startMs": 5891
     },
     {
       "text": "in",
-      "startMs": 8454
+      "startMs": 6269
     },
     {
       "text": "our",
-      "startMs": 8532
+      "startMs": 6335
     },
     {
       "text": "galaxy",
-      "startMs": 8621
+      "startMs": 6411
     },
     {
       "text": "alone",
-      "startMs": 9045
+      "startMs": 6770
     },
     {
       "text": "most",
-      "startMs": 9815
+      "startMs": 7422
     },
     {
       "text": "with",
-      "startMs": 10028
+      "startMs": 7602
     },
     {
       "text": "planets",
-      "startMs": 10117
+      "startMs": 7677
     },
     {
       "text": "The",
-      "startMs": 11399
+      "startMs": 8467
     },
     {
       "text": "galaxy",
-      "startMs": 11455
+      "startMs": 8499
     },
     {
       "text": "is",
-      "startMs": 12102
+      "startMs": 9047
     },
     {
       "text": "over",
-      "startMs": 12314
+      "startMs": 9227
     },
     {
       "text": "thirteen",
-      "startMs": 12515
+      "startMs": 9397
     },
     {
       "text": "billion",
-      "startMs": 13140
+      "startMs": 9926
     },
     {
       "text": "years",
-      "startMs": 13464
+      "startMs": 10201
     },
     {
       "text": "old",
-      "startMs": 13698
+      "startMs": 10399
     },
     {
       "text": "A",
-      "startMs": 14679
+      "startMs": 10939
     },
     {
       "text": "single",
-      "startMs": 14780
+      "startMs": 11013
     },
     {
       "text": "civilization",
-      "startMs": 15137
+      "startMs": 11315
     },
     {
       "text": "with",
-      "startMs": 15818
+      "startMs": 11892
     },
     {
       "text": "patience",
-      "startMs": 15952
+      "startMs": 12005
     },
     {
       "text": "and",
-      "startMs": 16856
+      "startMs": 12771
     },
     {
       "text": "simple",
-      "startMs": 17056
+      "startMs": 12940
     },
     {
       "text": "rockets",
-      "startMs": 17481
+      "startMs": 13300
     },
     {
       "text": "could",
-      "startMs": 18072
+      "startMs": 13800
     },
     {
       "text": "cross",
-      "startMs": 18217
+      "startMs": 13923
     },
     {
       "text": "it",
-      "startMs": 18630
+      "startMs": 14273
     },
     {
       "text": "in",
-      "startMs": 18753
+      "startMs": 14377
     },
     {
       "text": "a",
-      "startMs": 18842
+      "startMs": 14452
     },
     {
       "text": "few",
-      "startMs": 18898
+      "startMs": 14500
     },
     {
       "text": "million",
-      "startMs": 19199
+      "startMs": 14755
     },
     {
       "text": "years",
-      "startMs": 19590
+      "startMs": 15086
     },
     {
       "text": "which",
-      "startMs": 20282
+      "startMs": 15672
     },
     {
       "text": "is",
-      "startMs": 20416
+      "startMs": 15785
     },
     {
       "text": "a",
-      "startMs": 20483
+      "startMs": 15842
     },
     {
       "text": "rounding",
-      "startMs": 20516
+      "startMs": 15870
     },
     {
       "text": "error",
-      "startMs": 21052
+      "startMs": 16324
     },
     {
       "text": "on",
-      "startMs": 21476
+      "startMs": 16683
     },
     {
       "text": "that",
-      "startMs": 21577
+      "startMs": 16768
     },
     {
       "text": "timescale",
-      "startMs": 21733
+      "startMs": 16900
     },
     {
       "text": "So",
-      "startMs": 23071
+      "startMs": 17720
     },
     {
       "text": "the",
-      "startMs": 23172
+      "startMs": 17800
     },
     {
       "text": "sky",
-      "startMs": 23250
+      "startMs": 17866
     },
     {
       "text": "should",
-      "startMs": 23562
+      "startMs": 18131
     },
     {
       "text": "be",
-      "startMs": 23707
+      "startMs": 18253
     },
     {
       "text": "crowded",
-      "startMs": 23786
+      "startMs": 18320
     },
     {
       "text": "with",
-      "startMs": 24221
+      "startMs": 18689
     },
     {
       "text": "evidence",
-      "startMs": 24366
+      "startMs": 18811
     },
     {
       "text": "We",
-      "startMs": 25631
+      "startMs": 19589
     },
     {
       "text": "look",
-      "startMs": 25743
+      "startMs": 19668
     },
     {
       "text": "and",
-      "startMs": 26245
+      "startMs": 20093
     },
     {
       "text": "we",
-      "startMs": 26301
+      "startMs": 20141
     },
     {
       "text": "find",
-      "startMs": 26379
+      "startMs": 20207
     },
     {
       "text": "nothing",
-      "startMs": 26636
+      "startMs": 20424
     },
     {
       "text": "Not",
-      "startMs": 27790
+      "startMs": 21013
     },
     {
       "text": "one",
-      "startMs": 28018
+      "startMs": 21197
     },
     {
       "text": "signal",
-      "startMs": 28283
+      "startMs": 21422
     },
     {
       "text": "Robin",
-      "startMs": 30113
+      "startMs": 22210
     },
     {
       "text": "Hanson's",
-      "startMs": 30332
+      "startMs": 22382
     },
     {
       "text": "answer",
-      "startMs": 30714
+      "startMs": 22705
     },
     {
       "text": "was",
-      "startMs": 31073
+      "startMs": 23009
     },
     {
       "text": "a",
-      "startMs": 31189
+      "startMs": 23108
     },
     {
       "text": "filter",
-      "startMs": 31224
+      "startMs": 23137
     },
     {
       "text": "Somewhere",
-      "startMs": 32553
+      "startMs": 23972
     },
     {
       "text": "on",
-      "startMs": 32911
+      "startMs": 24269
     },
     {
       "text": "the",
-      "startMs": 32969
+      "startMs": 24318
     },
     {
       "text": "path",
-      "startMs": 33039
+      "startMs": 24378
     },
     {
       "text": "from",
-      "startMs": 33432
+      "startMs": 24710
     },
     {
       "text": "dead",
-      "startMs": 33629
+      "startMs": 24877
     },
     {
       "text": "chemistry",
-      "startMs": 33837
+      "startMs": 25053
     },
     {
       "text": "to",
-      "startMs": 34404
+      "startMs": 25533
     },
     {
       "text": "a",
-      "startMs": 34543
+      "startMs": 25651
     },
     {
       "text": "galactic",
-      "startMs": 34601
+      "startMs": 25700
     },
     {
       "text": "civilization",
-      "startMs": 35053
+      "startMs": 26083
     },
     {
       "text": "there",
-      "startMs": 36152
+      "startMs": 27014
     },
     {
       "text": "is",
-      "startMs": 36256
+      "startMs": 27102
     },
     {
       "text": "a",
-      "startMs": 36337
+      "startMs": 27170
     },
     {
       "text": "step",
-      "startMs": 36395
+      "startMs": 27219
     },
     {
       "text": "almost",
-      "startMs": 36754
+      "startMs": 27523
     },
     {
       "text": "nothing",
-      "startMs": 37425
+      "startMs": 28091
     },
     {
       "text": "survives",
-      "startMs": 37911
+      "startMs": 28503
     },
     {
       "text": "And",
-      "startMs": 39385
+      "startMs": 29434
     },
     {
       "text": "the",
-      "startMs": 39442
+      "startMs": 29473
     },
     {
       "text": "question",
-      "startMs": 39512
+      "startMs": 29533
     },
     {
       "text": "that",
-      "startMs": 39952
+      "startMs": 29905
     },
     {
       "text": "matters",
-      "startMs": 40091
+      "startMs": 30023
     },
     {
       "text": "is",
-      "startMs": 40716
+      "startMs": 30552
     },
     {
       "text": "where",
-      "startMs": 40912
+      "startMs": 30718
     },
     {
       "text": "it",
-      "startMs": 41098
+      "startMs": 30876
     },
     {
       "text": "sits",
-      "startMs": 41167
+      "startMs": 30934
     },
     {
       "text": "If",
-      "startMs": 42521
+      "startMs": 31763
     },
     {
       "text": "the",
-      "startMs": 42625
+      "startMs": 31841
     },
     {
       "text": "filter",
-      "startMs": 42706
+      "startMs": 31909
     },
     {
       "text": "is",
-      "startMs": 43423
+      "startMs": 32516
     },
     {
       "text": "behind",
-      "startMs": 43574
+      "startMs": 32644
     },
     {
       "text": "us",
-      "startMs": 44060
+      "startMs": 33056
     },
     {
       "text": "in",
-      "startMs": 44604
+      "startMs": 33516
     },
     {
       "text": "the",
-      "startMs": 44696
+      "startMs": 33594
     },
     {
       "text": "leap",
-      "startMs": 44801
+      "startMs": 33683
     },
     {
       "text": "to",
-      "startMs": 45298
+      "startMs": 34104
     },
     {
       "text": "complex",
-      "startMs": 45484
+      "startMs": 34262
     },
     {
       "text": "life",
-      "startMs": 46120
+      "startMs": 34800
     },
     {
       "text": "then",
-      "startMs": 46930
+      "startMs": 35486
     },
     {
       "text": "we",
-      "startMs": 47046
+      "startMs": 35584
     },
     {
       "text": "are",
-      "startMs": 47162
+      "startMs": 35682
     },
     {
       "text": "extraordinarily",
-      "startMs": 47289
+      "startMs": 35790
     },
     {
       "text": "lucky",
-      "startMs": 48215
+      "startMs": 36574
     },
     {
       "text": "and",
-      "startMs": 48979
+      "startMs": 37221
     },
     {
       "text": "extraordinarily",
-      "startMs": 49118
+      "startMs": 37339
     },
     {
       "text": "alone",
-      "startMs": 50009
+      "startMs": 38093
     },
     {
       "text": "If",
-      "startMs": 51105
+      "startMs": 38738
     },
     {
       "text": "it",
-      "startMs": 51197
+      "startMs": 38805
     },
     {
       "text": "sits",
-      "startMs": 51267
+      "startMs": 38865
     },
     {
       "text": "ahead",
-      "startMs": 51498
+      "startMs": 39060
     },
     {
       "text": "of",
-      "startMs": 51741
+      "startMs": 39266
     },
     {
       "text": "us",
-      "startMs": 51834
+      "startMs": 39345
     },
     {
       "text": "then",
-      "startMs": 52470
+      "startMs": 39883
     },
     {
       "text": "every",
-      "startMs": 52783
+      "startMs": 40148
     },
     {
       "text": "silent",
-      "startMs": 53014
+      "startMs": 40344
     },
     {
       "text": "star",
-      "startMs": 53408
+      "startMs": 40677
     },
     {
       "text": "is",
-      "startMs": 54033
+      "startMs": 41207
     },
     {
       "text": "a",
-      "startMs": 54114
+      "startMs": 41275
     },
     {
       "text": "civilization",
-      "startMs": 54149
+      "startMs": 41305
     },
     {
       "text": "that",
-      "startMs": 54970
+      "startMs": 42000
     },
     {
       "text": "already",
-      "startMs": 55098
+      "startMs": 42108
     },
     {
       "text": "reached",
-      "startMs": 55468
+      "startMs": 42422
     },
     {
       "text": "our",
-      "startMs": 55873
+      "startMs": 42765
     },
     {
       "text": "stage",
-      "startMs": 56024
+      "startMs": 42893
     },
     {
       "text": "and",
-      "startMs": 57077
+      "startMs": 43784
     },
     {
       "text": "did",
-      "startMs": 57158
+      "startMs": 43853
     },
     {
       "text": "not",
-      "startMs": 57308
+      "startMs": 43980
     },
     {
       "text": "pass",
-      "startMs": 57574
+      "startMs": 44205
     },
     {
       "text": "Every",
-      "startMs": 59015
+      "startMs": 45080
     },
     {
       "text": "year",
-      "startMs": 59262
+      "startMs": 45265
     },
     {
       "text": "we",
-      "startMs": 59497
+      "startMs": 45464
     },
     {
       "text": "search",
-      "startMs": 59640
+      "startMs": 45586
     },
     {
       "text": "and",
-      "startMs": 60460
+      "startMs": 46280
     },
     {
       "text": "hear",
-      "startMs": 60630
+      "startMs": 46424
     },
     {
       "text": "nothing",
-      "startMs": 60981
+      "startMs": 46721
     },
     {
       "text": "that",
-      "startMs": 62023
+      "startMs": 47603
     },
     {
       "text": "answer",
-      "startMs": 62192
+      "startMs": 47746
     },
     {
       "text": "gets",
-      "startMs": 62492
+      "startMs": 48000
     },
     {
       "text": "heavier",
-      "startMs": 62674
+      "startMs": 48155
     },
     {
       "text": "Because",
-      "startMs": 63952
+      "startMs": 48872
     }
-  ]
+  ],
+  "speechSpeed": 1.181
 }

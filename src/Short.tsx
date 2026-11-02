@@ -30,7 +30,19 @@ export const Short: React.FC<ShortProps> = ({
   const { fps } = useVideoConfig();
   const sceneFrames = scenes.map((s) => Math.round(s.seconds * fps));
   const scenesEnd = sceneFrames.reduce((a, b) => a + b, 0);
-  const chunks = chunkWords(captionWords(scenes, words), (scenesEnd / fps) * 1000);
+  const allWords = captionWords(scenes, words);
+  const chunks = chunkWords(allWords, (scenesEnd / fps) * 1000);
+  const sceneStart = (i: number) => sceneFrames.slice(0, i).reduce((a, b) => a + b, 0);
+  // Frame (inside the scene) where the highlight's word is spoken; 6 frames in if not found
+  const highlightFrame = (scene: ShortProps["scenes"][number], i: number) => {
+    const key = (scene.highlightWord ?? scene.highlight ?? "").split(/\s+/)[0].toLowerCase().replace(/[^a-z0-9]/g, "");
+    const from = (sceneStart(i) / fps) * 1000;
+    const to = ((sceneStart(i) + sceneFrames[i]) / fps) * 1000;
+    const hit = allWords.find(
+      (w) => w.startMs >= from && w.startMs < to && w.text.toLowerCase().replace(/[^a-z0-9]/g, "") === key,
+    );
+    return hit ? Math.round(((hit.startMs - from) / 1000) * fps) : 6;
+  };
 
   return (
     <AbsoluteFill style={{ backgroundColor: "black" }}>
@@ -45,7 +57,12 @@ export const Short: React.FC<ShortProps> = ({
               name={`Scene ${i + 1}`}
               durationInFrames={sceneFrames[i] + (i < scenes.length - 1 ? T : 0)}
             >
-              <SceneView scene={scene} index={i} accentColor={accentColor} />
+              <SceneView
+                scene={scene}
+                index={i}
+                accentColor={accentColor}
+                highlightAt={highlightFrame(scene, i)}
+              />
             </TransitionSeries.Sequence>
           </React.Fragment>
         ))}
