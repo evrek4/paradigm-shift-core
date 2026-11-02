@@ -3,42 +3,732 @@
   "scenes": [
     {
       "image": "videos/09-chess-master-memory/1.jpg",
-      "seconds": 3,
+      "seconds": 8.53,
       "text": "A chess master glances at a board for five seconds and rebuilds it perfectly. Randomize it, and they fail like a beginner.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/09-chess-master-memory/v1-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/09-chess-master-memory/v1-2.mp3",
+          "atMs": 5272
+        }
+      ]
     },
     {
       "image": "videos/09-chess-master-memory/2.jpg",
-      "seconds": 22,
+      "seconds": 24.79,
       "text": "Chase and Simon ran this in nineteen seventy three. Shown real positions from real games, masters recalled them far better than novices. Then the researchers scattered the pieces at random. The master's advantage collapsed almost entirely. They had never been memorizing twenty five pieces. They were memorizing five patterns, each one a chunk they had seen ten thousand times before.",
       "delivery": {
         "rate": 12,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/09-chess-master-memory/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/09-chess-master-memory/v2-2.mp3",
+          "atMs": 3640
+        },
+        {
+          "src": "videos/09-chess-master-memory/v2-3.mp3",
+          "atMs": 8912
+        },
+        {
+          "src": "videos/09-chess-master-memory/v2-4.mp3",
+          "atMs": 11808
+        },
+        {
+          "src": "videos/09-chess-master-memory/v2-5.mp3",
+          "atMs": 15136
+        },
+        {
+          "src": "videos/09-chess-master-memory/v2-6.mp3",
+          "atMs": 18344
+        }
+      ]
     },
     {
       "image": "videos/09-chess-master-memory/3.jpg",
-      "seconds": 20,
+      "seconds": 23.46,
       "text": "Expertise is compression. The novice reads letters. The reader sees words. Same ink, a fraction of the load. Which means the expert is not running a bigger engine. They are carrying a smaller file. And it also means the advantage is specific. Take the pattern away, and the master is back on the same footing as everyone else.",
       "delivery": {
         "rate": 8,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/09-chess-master-memory/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/09-chess-master-memory/v3-2.mp3",
+          "atMs": 2608
+        },
+        {
+          "src": "videos/09-chess-master-memory/v3-3.mp3",
+          "atMs": 4928
+        },
+        {
+          "src": "videos/09-chess-master-memory/v3-4.mp3",
+          "atMs": 7056
+        },
+        {
+          "src": "videos/09-chess-master-memory/v3-5.mp3",
+          "atMs": 9568
+        },
+        {
+          "src": "videos/09-chess-master-memory/v3-6.mp3",
+          "atMs": 12560
+        },
+        {
+          "src": "videos/09-chess-master-memory/v3-7.mp3",
+          "atMs": 14760
+        },
+        {
+          "src": "videos/09-chess-master-memory/v3-8.mp3",
+          "atMs": 17896
+        }
+      ]
     },
     {
       "image": "videos/09-chess-master-memory/4.jpg",
-      "seconds": 5,
+      "seconds": 6.73,
       "text": "So mastery is not memory. It is structure. Which is why",
       "delivery": {
         "rate": -4,
         "pitch": -3,
         "volume": -5
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/09-chess-master-memory/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/09-chess-master-memory/v4-2.mp3",
+          "atMs": 2704
+        },
+        {
+          "src": "videos/09-chess-master-memory/v4-3.mp3",
+          "atMs": 4856
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
-  "musicVolume": 0.2
+  "musicVolume": 0.2,
+  "words": [
+    {
+      "text": "A",
+      "startMs": 91
+    },
+    {
+      "text": "chess",
+      "startMs": 130
+    },
+    {
+      "text": "master",
+      "startMs": 443
+    },
+    {
+      "text": "glances",
+      "startMs": 846
+    },
+    {
+      "text": "at",
+      "startMs": 1341
+    },
+    {
+      "text": "a",
+      "startMs": 1406
+    },
+    {
+      "text": "board",
+      "startMs": 1445
+    },
+    {
+      "text": "for",
+      "startMs": 1745
+    },
+    {
+      "text": "five",
+      "startMs": 1875
+    },
+    {
+      "text": "seconds",
+      "startMs": 2253
+    },
+    {
+      "text": "and",
+      "startMs": 3086
+    },
+    {
+      "text": "rebuilds",
+      "startMs": 3294
+    },
+    {
+      "text": "it",
+      "startMs": 3867
+    },
+    {
+      "text": "perfectly",
+      "startMs": 3945
+    },
+    {
+      "text": "Randomize",
+      "startMs": 5376
+    },
+    {
+      "text": "it",
+      "startMs": 6066
+    },
+    {
+      "text": "and",
+      "startMs": 6522
+    },
+    {
+      "text": "they",
+      "startMs": 6613
+    },
+    {
+      "text": "fail",
+      "startMs": 6730
+    },
+    {
+      "text": "like",
+      "startMs": 7017
+    },
+    {
+      "text": "a",
+      "startMs": 7147
+    },
+    {
+      "text": "beginner",
+      "startMs": 7186
+    },
+    {
+      "text": "Chase",
+      "startMs": 8619
+    },
+    {
+      "text": "and",
+      "startMs": 8921
+    },
+    {
+      "text": "Simon",
+      "startMs": 9010
+    },
+    {
+      "text": "ran",
+      "startMs": 9680
+    },
+    {
+      "text": "this",
+      "startMs": 9981
+    },
+    {
+      "text": "in",
+      "startMs": 10238
+    },
+    {
+      "text": "nineteen",
+      "startMs": 10372
+    },
+    {
+      "text": "seventy",
+      "startMs": 10840
+    },
+    {
+      "text": "three",
+      "startMs": 11142
+    },
+    {
+      "text": "Shown",
+      "startMs": 12259
+    },
+    {
+      "text": "real",
+      "startMs": 12594
+    },
+    {
+      "text": "positions",
+      "startMs": 12795
+    },
+    {
+      "text": "from",
+      "startMs": 13275
+    },
+    {
+      "text": "real",
+      "startMs": 13476
+    },
+    {
+      "text": "games",
+      "startMs": 13688
+    },
+    {
+      "text": "masters",
+      "startMs": 14536
+    },
+    {
+      "text": "recalled",
+      "startMs": 14949
+    },
+    {
+      "text": "them",
+      "startMs": 15295
+    },
+    {
+      "text": "far",
+      "startMs": 15451
+    },
+    {
+      "text": "better",
+      "startMs": 15820
+    },
+    {
+      "text": "than",
+      "startMs": 16087
+    },
+    {
+      "text": "novices",
+      "startMs": 16210
+    },
+    {
+      "text": "Then",
+      "startMs": 17531
+    },
+    {
+      "text": "the",
+      "startMs": 17621
+    },
+    {
+      "text": "researchers",
+      "startMs": 17688
+    },
+    {
+      "text": "scattered",
+      "startMs": 18301
+    },
+    {
+      "text": "the",
+      "startMs": 18737
+    },
+    {
+      "text": "pieces",
+      "startMs": 18815
+    },
+    {
+      "text": "at",
+      "startMs": 19261
+    },
+    {
+      "text": "random",
+      "startMs": 19328
+    },
+    {
+      "text": "The",
+      "startMs": 20438
+    },
+    {
+      "text": "master's",
+      "startMs": 20483
+    },
+    {
+      "text": "advantage",
+      "startMs": 20907
+    },
+    {
+      "text": "collapsed",
+      "startMs": 21287
+    },
+    {
+      "text": "almost",
+      "startMs": 22001
+    },
+    {
+      "text": "entirely",
+      "startMs": 22392
+    },
+    {
+      "text": "They",
+      "startMs": 23755
+    },
+    {
+      "text": "had",
+      "startMs": 23811
+    },
+    {
+      "text": "never",
+      "startMs": 23923
+    },
+    {
+      "text": "been",
+      "startMs": 24235
+    },
+    {
+      "text": "memorizing",
+      "startMs": 24403
+    },
+    {
+      "text": "twenty",
+      "startMs": 25005
+    },
+    {
+      "text": "five",
+      "startMs": 25284
+    },
+    {
+      "text": "pieces",
+      "startMs": 25630
+    },
+    {
+      "text": "They",
+      "startMs": 26963
+    },
+    {
+      "text": "were",
+      "startMs": 27030
+    },
+    {
+      "text": "memorizing",
+      "startMs": 27120
+    },
+    {
+      "text": "five",
+      "startMs": 27968
+    },
+    {
+      "text": "patterns",
+      "startMs": 28470
+    },
+    {
+      "text": "each",
+      "startMs": 29329
+    },
+    {
+      "text": "one",
+      "startMs": 29519
+    },
+    {
+      "text": "a",
+      "startMs": 29642
+    },
+    {
+      "text": "chunk",
+      "startMs": 29686
+    },
+    {
+      "text": "they",
+      "startMs": 30289
+    },
+    {
+      "text": "had",
+      "startMs": 30378
+    },
+    {
+      "text": "seen",
+      "startMs": 30479
+    },
+    {
+      "text": "ten",
+      "startMs": 30903
+    },
+    {
+      "text": "thousand",
+      "startMs": 31327
+    },
+    {
+      "text": "times",
+      "startMs": 31762
+    },
+    {
+      "text": "before",
+      "startMs": 32053
+    },
+    {
+      "text": "Expertise",
+      "startMs": 33408
+    },
+    {
+      "text": "is",
+      "startMs": 34545
+    },
+    {
+      "text": "compression",
+      "startMs": 34658
+    },
+    {
+      "text": "The",
+      "startMs": 36028
+    },
+    {
+      "text": "novice",
+      "startMs": 36066
+    },
+    {
+      "text": "reads",
+      "startMs": 36616
+    },
+    {
+      "text": "letters",
+      "startMs": 37016
+    },
+    {
+      "text": "The",
+      "startMs": 38348
+    },
+    {
+      "text": "reader",
+      "startMs": 38423
+    },
+    {
+      "text": "sees",
+      "startMs": 38723
+    },
+    {
+      "text": "words",
+      "startMs": 39123
+    },
+    {
+      "text": "Same",
+      "startMs": 40469
+    },
+    {
+      "text": "ink",
+      "startMs": 40885
+    },
+    {
+      "text": "a",
+      "startMs": 41371
+    },
+    {
+      "text": "fraction",
+      "startMs": 41406
+    },
+    {
+      "text": "of",
+      "startMs": 41846
+    },
+    {
+      "text": "the",
+      "startMs": 41892
+    },
+    {
+      "text": "load",
+      "startMs": 41950
+    },
+    {
+      "text": "Which",
+      "startMs": 42981
+    },
+    {
+      "text": "means",
+      "startMs": 43108
+    },
+    {
+      "text": "the",
+      "startMs": 43282
+    },
+    {
+      "text": "expert",
+      "startMs": 43363
+    },
+    {
+      "text": "is",
+      "startMs": 43895
+    },
+    {
+      "text": "not",
+      "startMs": 43988
+    },
+    {
+      "text": "running",
+      "startMs": 44358
+    },
+    {
+      "text": "a",
+      "startMs": 44589
+    },
+    {
+      "text": "bigger",
+      "startMs": 44647
+    },
+    {
+      "text": "engine",
+      "startMs": 44948
+    },
+    {
+      "text": "They",
+      "startMs": 45973
+    },
+    {
+      "text": "are",
+      "startMs": 46042
+    },
+    {
+      "text": "carrying",
+      "startMs": 46123
+    },
+    {
+      "text": "a",
+      "startMs": 46517
+    },
+    {
+      "text": "smaller",
+      "startMs": 46551
+    },
+    {
+      "text": "file",
+      "startMs": 47049
+    },
+    {
+      "text": "And",
+      "startMs": 48173
+    },
+    {
+      "text": "it",
+      "startMs": 48230
+    },
+    {
+      "text": "also",
+      "startMs": 48288
+    },
+    {
+      "text": "means",
+      "startMs": 48543
+    },
+    {
+      "text": "the",
+      "startMs": 48890
+    },
+    {
+      "text": "advantage",
+      "startMs": 48983
+    },
+    {
+      "text": "is",
+      "startMs": 49781
+    },
+    {
+      "text": "specific",
+      "startMs": 49909
+    },
+    {
+      "text": "Take",
+      "startMs": 51309
+    },
+    {
+      "text": "the",
+      "startMs": 51471
+    },
+    {
+      "text": "pattern",
+      "startMs": 51563
+    },
+    {
+      "text": "away",
+      "startMs": 51922
+    },
+    {
+      "text": "and",
+      "startMs": 52790
+    },
+    {
+      "text": "the",
+      "startMs": 52848
+    },
+    {
+      "text": "master",
+      "startMs": 52906
+    },
+    {
+      "text": "is",
+      "startMs": 53380
+    },
+    {
+      "text": "back",
+      "startMs": 53484
+    },
+    {
+      "text": "on",
+      "startMs": 53832
+    },
+    {
+      "text": "the",
+      "startMs": 53890
+    },
+    {
+      "text": "same",
+      "startMs": 53948
+    },
+    {
+      "text": "footing",
+      "startMs": 54341
+    },
+    {
+      "text": "as",
+      "startMs": 55012
+    },
+    {
+      "text": "everyone",
+      "startMs": 55186
+    },
+    {
+      "text": "else",
+      "startMs": 55522
+    },
+    {
+      "text": "So",
+      "startMs": 56884
+    },
+    {
+      "text": "mastery",
+      "startMs": 57092
+    },
+    {
+      "text": "is",
+      "startMs": 57939
+    },
+    {
+      "text": "not",
+      "startMs": 58069
+    },
+    {
+      "text": "memory",
+      "startMs": 58316
+    },
+    {
+      "text": "It",
+      "startMs": 59598
+    },
+    {
+      "text": "is",
+      "startMs": 59683
+    },
+    {
+      "text": "structure",
+      "startMs": 59825
+    },
+    {
+      "text": "Which",
+      "startMs": 61735
+    },
+    {
+      "text": "is",
+      "startMs": 61849
+    },
+    {
+      "text": "why",
+      "startMs": 61963
+    }
+  ]
 }

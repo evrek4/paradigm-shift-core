@@ -3,42 +3,760 @@
   "scenes": [
     {
       "image": "videos/03-ai-designed-cure/1.jpg",
-      "seconds": 3,
+      "seconds": 5.66,
       "text": "Doctors just injected a patient with a virus that no evolution ever made.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/03-ai-designed-cure/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
     },
     {
       "image": "videos/03-ai-designed-cure/2.jpg",
-      "seconds": 22,
+      "seconds": 25.65,
       "text": "The patient had an infection that beat every antibiotic. So doctors turned to phages, viruses that hunt bacteria and ignore human cells entirely. Medicine has used them for a century. The problem is finding one that fits your particular infection. That search can take months. This time, in October 2026, an AI lab designed the phage instead. Days, not months.",
       "delivery": {
         "rate": 12,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/03-ai-designed-cure/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v2-2.mp3",
+          "atMs": 3736
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v2-3.mp3",
+          "atMs": 10208
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v2-4.mp3",
+          "atMs": 12576
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v2-5.mp3",
+          "atMs": 16504
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v2-6.mp3",
+          "atMs": 18296
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v2-7.mp3",
+          "atMs": 23688
+        }
+      ]
     },
     {
       "image": "videos/03-ai-designed-cure/3.jpg",
-      "seconds": 20,
+      "seconds": 25.63,
       "text": "Antibiotics are a hammer. They flatten everything in reach, which is why bacteria keep learning to duck. A phage is a key, cut to one lock. For a hundred years we could only find keys already lying on the ground. Now we can cut them. And the same hands that cut a key can, in principle, cut a crowbar. Which is exactly the conversation this field is now forced to have.",
       "delivery": {
         "rate": 8,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/03-ai-designed-cure/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v3-2.mp3",
+          "atMs": 2320
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v3-3.mp3",
+          "atMs": 7280
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v3-4.mp3",
+          "atMs": 10176
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v3-5.mp3",
+          "atMs": 14344
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v3-6.mp3",
+          "atMs": 16496
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v3-7.mp3",
+          "atMs": 21312
+        }
+      ]
     },
     {
       "image": "videos/03-ai-designed-cure/4.jpg",
-      "seconds": 5,
+      "seconds": 8.6,
       "text": "Did it work? We still don't know. The outcome is sealed inside one hospital room, where",
       "delivery": {
         "rate": -4,
         "pitch": -3,
         "volume": -5
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/03-ai-designed-cure/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v4-2.mp3",
+          "atMs": 2152
+        },
+        {
+          "src": "videos/03-ai-designed-cure/v4-3.mp3",
+          "atMs": 4304
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
-  "musicVolume": 0.2
+  "musicVolume": 0.2,
+  "words": [
+    {
+      "text": "Doctors",
+      "startMs": 91
+    },
+    {
+      "text": "just",
+      "startMs": 742
+    },
+    {
+      "text": "injected",
+      "startMs": 938
+    },
+    {
+      "text": "a",
+      "startMs": 1393
+    },
+    {
+      "text": "patient",
+      "startMs": 1458
+    },
+    {
+      "text": "with",
+      "startMs": 2005
+    },
+    {
+      "text": "a",
+      "startMs": 2161
+    },
+    {
+      "text": "virus",
+      "startMs": 2214
+    },
+    {
+      "text": "that",
+      "startMs": 2852
+    },
+    {
+      "text": "no",
+      "startMs": 3073
+    },
+    {
+      "text": "evolution",
+      "startMs": 3372
+    },
+    {
+      "text": "ever",
+      "startMs": 4206
+    },
+    {
+      "text": "made",
+      "startMs": 4440
+    },
+    {
+      "text": "The",
+      "startMs": 5760
+    },
+    {
+      "text": "patient",
+      "startMs": 5816
+    },
+    {
+      "text": "had",
+      "startMs": 6207
+    },
+    {
+      "text": "an",
+      "startMs": 6341
+    },
+    {
+      "text": "infection",
+      "startMs": 6385
+    },
+    {
+      "text": "that",
+      "startMs": 6988
+    },
+    {
+      "text": "beat",
+      "startMs": 7211
+    },
+    {
+      "text": "every",
+      "startMs": 7747
+    },
+    {
+      "text": "antibiotic",
+      "startMs": 8071
+    },
+    {
+      "text": "So",
+      "startMs": 9485
+    },
+    {
+      "text": "doctors",
+      "startMs": 9597
+    },
+    {
+      "text": "turned",
+      "startMs": 10054
+    },
+    {
+      "text": "to",
+      "startMs": 10400
+    },
+    {
+      "text": "phages",
+      "startMs": 10512
+    },
+    {
+      "text": "viruses",
+      "startMs": 11450
+    },
+    {
+      "text": "that",
+      "startMs": 12019
+    },
+    {
+      "text": "hunt",
+      "startMs": 12130
+    },
+    {
+      "text": "bacteria",
+      "startMs": 12387
+    },
+    {
+      "text": "and",
+      "startMs": 13258
+    },
+    {
+      "text": "ignore",
+      "startMs": 13380
+    },
+    {
+      "text": "human",
+      "startMs": 13894
+    },
+    {
+      "text": "cells",
+      "startMs": 14229
+    },
+    {
+      "text": "entirely",
+      "startMs": 14608
+    },
+    {
+      "text": "Medicine",
+      "startMs": 15946
+    },
+    {
+      "text": "has",
+      "startMs": 16236
+    },
+    {
+      "text": "used",
+      "startMs": 16415
+    },
+    {
+      "text": "them",
+      "startMs": 16727
+    },
+    {
+      "text": "for",
+      "startMs": 16951
+    },
+    {
+      "text": "a",
+      "startMs": 17073
+    },
+    {
+      "text": "century",
+      "startMs": 17107
+    },
+    {
+      "text": "The",
+      "startMs": 18314
+    },
+    {
+      "text": "problem",
+      "startMs": 18370
+    },
+    {
+      "text": "is",
+      "startMs": 18917
+    },
+    {
+      "text": "finding",
+      "startMs": 18995
+    },
+    {
+      "text": "one",
+      "startMs": 19374
+    },
+    {
+      "text": "that",
+      "startMs": 19932
+    },
+    {
+      "text": "fits",
+      "startMs": 20100
+    },
+    {
+      "text": "your",
+      "startMs": 20490
+    },
+    {
+      "text": "particular",
+      "startMs": 20591
+    },
+    {
+      "text": "infection",
+      "startMs": 21048
+    },
+    {
+      "text": "That",
+      "startMs": 22231
+    },
+    {
+      "text": "search",
+      "startMs": 22331
+    },
+    {
+      "text": "can",
+      "startMs": 22566
+    },
+    {
+      "text": "take",
+      "startMs": 22655
+    },
+    {
+      "text": "months",
+      "startMs": 22856
+    },
+    {
+      "text": "This",
+      "startMs": 24045
+    },
+    {
+      "text": "time",
+      "startMs": 24179
+    },
+    {
+      "text": "in",
+      "startMs": 24481
+    },
+    {
+      "text": "October 2026",
+      "startMs": 24548
+    },
+    {
+      "text": "an",
+      "startMs": 25965
+    },
+    {
+      "text": "AI",
+      "startMs": 26255
+    },
+    {
+      "text": "lab",
+      "startMs": 26657
+    },
+    {
+      "text": "designed",
+      "startMs": 27405
+    },
+    {
+      "text": "the",
+      "startMs": 27740
+    },
+    {
+      "text": "phage",
+      "startMs": 27795
+    },
+    {
+      "text": "instead",
+      "startMs": 28208
+    },
+    {
+      "text": "Days",
+      "startMs": 29444
+    },
+    {
+      "text": "not",
+      "startMs": 29733
+    },
+    {
+      "text": "months",
+      "startMs": 29949
+    },
+    {
+      "text": "Antibiotics",
+      "startMs": 31410
+    },
+    {
+      "text": "are",
+      "startMs": 32298
+    },
+    {
+      "text": "a",
+      "startMs": 32448
+    },
+    {
+      "text": "hammer",
+      "startMs": 32485
+    },
+    {
+      "text": "They",
+      "startMs": 33723
+    },
+    {
+      "text": "flatten",
+      "startMs": 33804
+    },
+    {
+      "text": "everything",
+      "startMs": 34544
+    },
+    {
+      "text": "in",
+      "startMs": 34996
+    },
+    {
+      "text": "reach",
+      "startMs": 35123
+    },
+    {
+      "text": "which",
+      "startMs": 35783
+    },
+    {
+      "text": "is",
+      "startMs": 35922
+    },
+    {
+      "text": "why",
+      "startMs": 36014
+    },
+    {
+      "text": "bacteria",
+      "startMs": 36176
+    },
+    {
+      "text": "keep",
+      "startMs": 37021
+    },
+    {
+      "text": "learning",
+      "startMs": 37253
+    },
+    {
+      "text": "to",
+      "startMs": 37530
+    },
+    {
+      "text": "duck",
+      "startMs": 37588
+    },
+    {
+      "text": "A",
+      "startMs": 38671
+    },
+    {
+      "text": "phage",
+      "startMs": 38717
+    },
+    {
+      "text": "is",
+      "startMs": 39030
+    },
+    {
+      "text": "a",
+      "startMs": 39134
+    },
+    {
+      "text": "key",
+      "startMs": 39180
+    },
+    {
+      "text": "cut",
+      "startMs": 39863
+    },
+    {
+      "text": "to",
+      "startMs": 40048
+    },
+    {
+      "text": "one",
+      "startMs": 40164
+    },
+    {
+      "text": "lock",
+      "startMs": 40488
+    },
+    {
+      "text": "For",
+      "startMs": 41613
+    },
+    {
+      "text": "a",
+      "startMs": 41706
+    },
+    {
+      "text": "hundred",
+      "startMs": 41741
+    },
+    {
+      "text": "years",
+      "startMs": 42018
+    },
+    {
+      "text": "we",
+      "startMs": 42342
+    },
+    {
+      "text": "could",
+      "startMs": 42435
+    },
+    {
+      "text": "only",
+      "startMs": 42551
+    },
+    {
+      "text": "find",
+      "startMs": 42805
+    },
+    {
+      "text": "keys",
+      "startMs": 43141
+    },
+    {
+      "text": "already",
+      "startMs": 43882
+    },
+    {
+      "text": "lying",
+      "startMs": 44160
+    },
+    {
+      "text": "on",
+      "startMs": 44507
+    },
+    {
+      "text": "the",
+      "startMs": 44576
+    },
+    {
+      "text": "ground",
+      "startMs": 44623
+    },
+    {
+      "text": "Now",
+      "startMs": 45747
+    },
+    {
+      "text": "we",
+      "startMs": 45851
+    },
+    {
+      "text": "can",
+      "startMs": 45920
+    },
+    {
+      "text": "cut",
+      "startMs": 46036
+    },
+    {
+      "text": "them",
+      "startMs": 46233
+    },
+    {
+      "text": "And",
+      "startMs": 47899
+    },
+    {
+      "text": "the",
+      "startMs": 47991
+    },
+    {
+      "text": "same",
+      "startMs": 48072
+    },
+    {
+      "text": "hands",
+      "startMs": 48396
+    },
+    {
+      "text": "that",
+      "startMs": 48824
+    },
+    {
+      "text": "cut",
+      "startMs": 48929
+    },
+    {
+      "text": "a",
+      "startMs": 49114
+    },
+    {
+      "text": "key",
+      "startMs": 49172
+    },
+    {
+      "text": "can",
+      "startMs": 49623
+    },
+    {
+      "text": "in",
+      "startMs": 50237
+    },
+    {
+      "text": "principle",
+      "startMs": 50387
+    },
+    {
+      "text": "cut",
+      "startMs": 51220
+    },
+    {
+      "text": "a",
+      "startMs": 51406
+    },
+    {
+      "text": "crowbar",
+      "startMs": 51440
+    },
+    {
+      "text": "Which",
+      "startMs": 52715
+    },
+    {
+      "text": "is",
+      "startMs": 52819
+    },
+    {
+      "text": "exactly",
+      "startMs": 52900
+    },
+    {
+      "text": "the",
+      "startMs": 53409
+    },
+    {
+      "text": "conversation",
+      "startMs": 53490
+    },
+    {
+      "text": "this",
+      "startMs": 54161
+    },
+    {
+      "text": "field",
+      "startMs": 54312
+    },
+    {
+      "text": "is",
+      "startMs": 54914
+    },
+    {
+      "text": "now",
+      "startMs": 55006
+    },
+    {
+      "text": "forced",
+      "startMs": 55284
+    },
+    {
+      "text": "to",
+      "startMs": 55678
+    },
+    {
+      "text": "have",
+      "startMs": 55735
+    },
+    {
+      "text": "Did",
+      "startMs": 57039
+    },
+    {
+      "text": "it",
+      "startMs": 57139
+    },
+    {
+      "text": "work",
+      "startMs": 57224
+    },
+    {
+      "text": "We",
+      "startMs": 59206
+    },
+    {
+      "text": "still",
+      "startMs": 59277
+    },
+    {
+      "text": "don't",
+      "startMs": 59461
+    },
+    {
+      "text": "know",
+      "startMs": 59660
+    },
+    {
+      "text": "The",
+      "startMs": 61335
+    },
+    {
+      "text": "outcome",
+      "startMs": 61426
+    },
+    {
+      "text": "is",
+      "startMs": 61843
+    },
+    {
+      "text": "sealed",
+      "startMs": 61947
+    },
+    {
+      "text": "inside",
+      "startMs": 62455
+    },
+    {
+      "text": "one",
+      "startMs": 63275
+    },
+    {
+      "text": "hospital",
+      "startMs": 63523
+    },
+    {
+      "text": "room",
+      "startMs": 64122
+    },
+    {
+      "text": "where",
+      "startMs": 64708
+    }
+  ]
 }

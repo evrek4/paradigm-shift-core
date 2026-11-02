@@ -3,42 +3,764 @@
   "scenes": [
     {
       "image": "videos/08-great-filter/1.jpg",
-      "seconds": 3,
+      "seconds": 6.59,
       "text": "The universe is quiet. That silence is the most ominous evidence we have.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/08-great-filter/v1-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/08-great-filter/v1-2.mp3",
+          "atMs": 2488
+        }
+      ]
     },
     {
       "image": "videos/08-great-filter/2.jpg",
-      "seconds": 22,
+      "seconds": 23.43,
       "text": "There are hundreds of billions of stars in our galaxy alone, most with planets. The galaxy is over thirteen billion years old. A single civilization with patience and simple rockets could cross it in a few million years, which is a rounding error on that timescale. So the sky should be crowded with evidence. We look, and we find nothing. Not one signal.",
       "delivery": {
         "rate": 12,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/08-great-filter/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/08-great-filter/v2-2.mp3",
+          "atMs": 4720
+        },
+        {
+          "src": "videos/08-great-filter/v2-3.mp3",
+          "atMs": 8000
+        },
+        {
+          "src": "videos/08-great-filter/v2-4.mp3",
+          "atMs": 16392
+        },
+        {
+          "src": "videos/08-great-filter/v2-5.mp3",
+          "atMs": 18952
+        },
+        {
+          "src": "videos/08-great-filter/v2-6.mp3",
+          "atMs": 21104
+        }
+      ]
     },
     {
       "image": "videos/08-great-filter/3.jpg",
-      "seconds": 20,
+      "seconds": 28.93,
       "text": "Robin Hanson's answer was a filter. Somewhere on the path from dead chemistry to a galactic civilization, there is a step almost nothing survives. And the question that matters is where it sits. If the filter is behind us, in the leap to complex life, then we are extraordinarily lucky and extraordinarily alone. If it sits ahead of us, then every silent star is a civilization that already reached our stage, and did not pass.",
       "delivery": {
         "rate": 8,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/08-great-filter/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/08-great-filter/v3-2.mp3",
+          "atMs": 2440
+        },
+        {
+          "src": "videos/08-great-filter/v3-3.mp3",
+          "atMs": 9272
+        },
+        {
+          "src": "videos/08-great-filter/v3-4.mp3",
+          "atMs": 12408
+        },
+        {
+          "src": "videos/08-great-filter/v3-5.mp3",
+          "atMs": 20992
+        }
+      ]
     },
     {
       "image": "videos/08-great-filter/4.jpg",
-      "seconds": 5,
+      "seconds": 6.76,
       "text": "Every year we search and hear nothing, that answer gets heavier. Because",
       "delivery": {
         "rate": -4,
         "pitch": -3,
         "volume": -5
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/08-great-filter/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/08-great-filter/v4-2.mp3",
+          "atMs": 4888
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
-  "musicVolume": 0.2
+  "musicVolume": 0.2,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 114
+    },
+    {
+      "text": "universe",
+      "startMs": 170
+    },
+    {
+      "text": "is",
+      "startMs": 1037
+    },
+    {
+      "text": "quiet",
+      "startMs": 1179
+    },
+    {
+      "text": "That",
+      "startMs": 2592
+    },
+    {
+      "text": "silence",
+      "startMs": 2735
+    },
+    {
+      "text": "is",
+      "startMs": 3426
+    },
+    {
+      "text": "the",
+      "startMs": 3530
+    },
+    {
+      "text": "most",
+      "startMs": 3608
+    },
+    {
+      "text": "ominous",
+      "startMs": 4103
+    },
+    {
+      "text": "evidence",
+      "startMs": 4754
+    },
+    {
+      "text": "we",
+      "startMs": 5144
+    },
+    {
+      "text": "have",
+      "startMs": 5274
+    },
+    {
+      "text": "There",
+      "startMs": 6679
+    },
+    {
+      "text": "are",
+      "startMs": 6757
+    },
+    {
+      "text": "hundreds",
+      "startMs": 6824
+    },
+    {
+      "text": "of",
+      "startMs": 7282
+    },
+    {
+      "text": "billions",
+      "startMs": 7494
+    },
+    {
+      "text": "of",
+      "startMs": 7940
+    },
+    {
+      "text": "stars",
+      "startMs": 8007
+    },
+    {
+      "text": "in",
+      "startMs": 8454
+    },
+    {
+      "text": "our",
+      "startMs": 8532
+    },
+    {
+      "text": "galaxy",
+      "startMs": 8621
+    },
+    {
+      "text": "alone",
+      "startMs": 9045
+    },
+    {
+      "text": "most",
+      "startMs": 9815
+    },
+    {
+      "text": "with",
+      "startMs": 10028
+    },
+    {
+      "text": "planets",
+      "startMs": 10117
+    },
+    {
+      "text": "The",
+      "startMs": 11399
+    },
+    {
+      "text": "galaxy",
+      "startMs": 11455
+    },
+    {
+      "text": "is",
+      "startMs": 12102
+    },
+    {
+      "text": "over",
+      "startMs": 12314
+    },
+    {
+      "text": "thirteen",
+      "startMs": 12515
+    },
+    {
+      "text": "billion",
+      "startMs": 13140
+    },
+    {
+      "text": "years",
+      "startMs": 13464
+    },
+    {
+      "text": "old",
+      "startMs": 13698
+    },
+    {
+      "text": "A",
+      "startMs": 14679
+    },
+    {
+      "text": "single",
+      "startMs": 14780
+    },
+    {
+      "text": "civilization",
+      "startMs": 15137
+    },
+    {
+      "text": "with",
+      "startMs": 15818
+    },
+    {
+      "text": "patience",
+      "startMs": 15952
+    },
+    {
+      "text": "and",
+      "startMs": 16856
+    },
+    {
+      "text": "simple",
+      "startMs": 17056
+    },
+    {
+      "text": "rockets",
+      "startMs": 17481
+    },
+    {
+      "text": "could",
+      "startMs": 18072
+    },
+    {
+      "text": "cross",
+      "startMs": 18217
+    },
+    {
+      "text": "it",
+      "startMs": 18630
+    },
+    {
+      "text": "in",
+      "startMs": 18753
+    },
+    {
+      "text": "a",
+      "startMs": 18842
+    },
+    {
+      "text": "few",
+      "startMs": 18898
+    },
+    {
+      "text": "million",
+      "startMs": 19199
+    },
+    {
+      "text": "years",
+      "startMs": 19590
+    },
+    {
+      "text": "which",
+      "startMs": 20282
+    },
+    {
+      "text": "is",
+      "startMs": 20416
+    },
+    {
+      "text": "a",
+      "startMs": 20483
+    },
+    {
+      "text": "rounding",
+      "startMs": 20516
+    },
+    {
+      "text": "error",
+      "startMs": 21052
+    },
+    {
+      "text": "on",
+      "startMs": 21476
+    },
+    {
+      "text": "that",
+      "startMs": 21577
+    },
+    {
+      "text": "timescale",
+      "startMs": 21733
+    },
+    {
+      "text": "So",
+      "startMs": 23071
+    },
+    {
+      "text": "the",
+      "startMs": 23172
+    },
+    {
+      "text": "sky",
+      "startMs": 23250
+    },
+    {
+      "text": "should",
+      "startMs": 23562
+    },
+    {
+      "text": "be",
+      "startMs": 23707
+    },
+    {
+      "text": "crowded",
+      "startMs": 23786
+    },
+    {
+      "text": "with",
+      "startMs": 24221
+    },
+    {
+      "text": "evidence",
+      "startMs": 24366
+    },
+    {
+      "text": "We",
+      "startMs": 25631
+    },
+    {
+      "text": "look",
+      "startMs": 25743
+    },
+    {
+      "text": "and",
+      "startMs": 26245
+    },
+    {
+      "text": "we",
+      "startMs": 26301
+    },
+    {
+      "text": "find",
+      "startMs": 26379
+    },
+    {
+      "text": "nothing",
+      "startMs": 26636
+    },
+    {
+      "text": "Not",
+      "startMs": 27790
+    },
+    {
+      "text": "one",
+      "startMs": 28018
+    },
+    {
+      "text": "signal",
+      "startMs": 28283
+    },
+    {
+      "text": "Robin",
+      "startMs": 30113
+    },
+    {
+      "text": "Hanson's",
+      "startMs": 30332
+    },
+    {
+      "text": "answer",
+      "startMs": 30714
+    },
+    {
+      "text": "was",
+      "startMs": 31073
+    },
+    {
+      "text": "a",
+      "startMs": 31189
+    },
+    {
+      "text": "filter",
+      "startMs": 31224
+    },
+    {
+      "text": "Somewhere",
+      "startMs": 32553
+    },
+    {
+      "text": "on",
+      "startMs": 32911
+    },
+    {
+      "text": "the",
+      "startMs": 32969
+    },
+    {
+      "text": "path",
+      "startMs": 33039
+    },
+    {
+      "text": "from",
+      "startMs": 33432
+    },
+    {
+      "text": "dead",
+      "startMs": 33629
+    },
+    {
+      "text": "chemistry",
+      "startMs": 33837
+    },
+    {
+      "text": "to",
+      "startMs": 34404
+    },
+    {
+      "text": "a",
+      "startMs": 34543
+    },
+    {
+      "text": "galactic",
+      "startMs": 34601
+    },
+    {
+      "text": "civilization",
+      "startMs": 35053
+    },
+    {
+      "text": "there",
+      "startMs": 36152
+    },
+    {
+      "text": "is",
+      "startMs": 36256
+    },
+    {
+      "text": "a",
+      "startMs": 36337
+    },
+    {
+      "text": "step",
+      "startMs": 36395
+    },
+    {
+      "text": "almost",
+      "startMs": 36754
+    },
+    {
+      "text": "nothing",
+      "startMs": 37425
+    },
+    {
+      "text": "survives",
+      "startMs": 37911
+    },
+    {
+      "text": "And",
+      "startMs": 39385
+    },
+    {
+      "text": "the",
+      "startMs": 39442
+    },
+    {
+      "text": "question",
+      "startMs": 39512
+    },
+    {
+      "text": "that",
+      "startMs": 39952
+    },
+    {
+      "text": "matters",
+      "startMs": 40091
+    },
+    {
+      "text": "is",
+      "startMs": 40716
+    },
+    {
+      "text": "where",
+      "startMs": 40912
+    },
+    {
+      "text": "it",
+      "startMs": 41098
+    },
+    {
+      "text": "sits",
+      "startMs": 41167
+    },
+    {
+      "text": "If",
+      "startMs": 42521
+    },
+    {
+      "text": "the",
+      "startMs": 42625
+    },
+    {
+      "text": "filter",
+      "startMs": 42706
+    },
+    {
+      "text": "is",
+      "startMs": 43423
+    },
+    {
+      "text": "behind",
+      "startMs": 43574
+    },
+    {
+      "text": "us",
+      "startMs": 44060
+    },
+    {
+      "text": "in",
+      "startMs": 44604
+    },
+    {
+      "text": "the",
+      "startMs": 44696
+    },
+    {
+      "text": "leap",
+      "startMs": 44801
+    },
+    {
+      "text": "to",
+      "startMs": 45298
+    },
+    {
+      "text": "complex",
+      "startMs": 45484
+    },
+    {
+      "text": "life",
+      "startMs": 46120
+    },
+    {
+      "text": "then",
+      "startMs": 46930
+    },
+    {
+      "text": "we",
+      "startMs": 47046
+    },
+    {
+      "text": "are",
+      "startMs": 47162
+    },
+    {
+      "text": "extraordinarily",
+      "startMs": 47289
+    },
+    {
+      "text": "lucky",
+      "startMs": 48215
+    },
+    {
+      "text": "and",
+      "startMs": 48979
+    },
+    {
+      "text": "extraordinarily",
+      "startMs": 49118
+    },
+    {
+      "text": "alone",
+      "startMs": 50009
+    },
+    {
+      "text": "If",
+      "startMs": 51105
+    },
+    {
+      "text": "it",
+      "startMs": 51197
+    },
+    {
+      "text": "sits",
+      "startMs": 51267
+    },
+    {
+      "text": "ahead",
+      "startMs": 51498
+    },
+    {
+      "text": "of",
+      "startMs": 51741
+    },
+    {
+      "text": "us",
+      "startMs": 51834
+    },
+    {
+      "text": "then",
+      "startMs": 52470
+    },
+    {
+      "text": "every",
+      "startMs": 52783
+    },
+    {
+      "text": "silent",
+      "startMs": 53014
+    },
+    {
+      "text": "star",
+      "startMs": 53408
+    },
+    {
+      "text": "is",
+      "startMs": 54033
+    },
+    {
+      "text": "a",
+      "startMs": 54114
+    },
+    {
+      "text": "civilization",
+      "startMs": 54149
+    },
+    {
+      "text": "that",
+      "startMs": 54970
+    },
+    {
+      "text": "already",
+      "startMs": 55098
+    },
+    {
+      "text": "reached",
+      "startMs": 55468
+    },
+    {
+      "text": "our",
+      "startMs": 55873
+    },
+    {
+      "text": "stage",
+      "startMs": 56024
+    },
+    {
+      "text": "and",
+      "startMs": 57077
+    },
+    {
+      "text": "did",
+      "startMs": 57158
+    },
+    {
+      "text": "not",
+      "startMs": 57308
+    },
+    {
+      "text": "pass",
+      "startMs": 57574
+    },
+    {
+      "text": "Every",
+      "startMs": 59015
+    },
+    {
+      "text": "year",
+      "startMs": 59262
+    },
+    {
+      "text": "we",
+      "startMs": 59497
+    },
+    {
+      "text": "search",
+      "startMs": 59640
+    },
+    {
+      "text": "and",
+      "startMs": 60460
+    },
+    {
+      "text": "hear",
+      "startMs": 60630
+    },
+    {
+      "text": "nothing",
+      "startMs": 60981
+    },
+    {
+      "text": "that",
+      "startMs": 62023
+    },
+    {
+      "text": "answer",
+      "startMs": 62192
+    },
+    {
+      "text": "gets",
+      "startMs": 62492
+    },
+    {
+      "text": "heavier",
+      "startMs": 62674
+    },
+    {
+      "text": "Because",
+      "startMs": 63952
+    }
+  ]
 }
