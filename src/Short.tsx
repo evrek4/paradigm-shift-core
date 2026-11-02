@@ -11,10 +11,10 @@ import { ProgressBar } from "./components/ProgressBar";
 import { Cta } from "./components/Cta";
 import { Grain } from "./components/Grain";
 import { CTA_SECONDS } from "./constants";
-import { captionWords, chunkWords } from "./timing";
+import { captionWords, chunkWords, shotStarts } from "./timing";
 
 // Crossfade length between scenes, in frames
-const T = 12;
+const T = 8;
 
 export const Short: React.FC<ShortProps> = ({
   hook,
@@ -26,12 +26,15 @@ export const Short: React.FC<ShortProps> = ({
   accentColor,
   cta,
   progressBar,
+  sfx,
 }) => {
   const { fps } = useVideoConfig();
   const sceneFrames = scenes.map((s) => Math.round(s.seconds * fps));
   const scenesEnd = sceneFrames.reduce((a, b) => a + b, 0);
   const allWords = captionWords(scenes, words);
   const chunks = chunkWords(allWords, (scenesEnd / fps) * 1000);
+  const cutsFor = (i: number) =>
+    shotStarts((scenes[i].clips ?? []).map((c) => c.atMs), scenes[i].seconds, fps);
   const sceneStart = (i: number) => sceneFrames.slice(0, i).reduce((a, b) => a + b, 0);
   // Frame (inside the scene) where the highlight's word is spoken; 6 frames in if not found
   const highlightFrame = (scene: ShortProps["scenes"][number], i: number) => {
@@ -62,6 +65,7 @@ export const Short: React.FC<ShortProps> = ({
                 index={i}
                 accentColor={accentColor}
                 highlightAt={highlightFrame(scene, i)}
+                cuts={cutsFor(i)}
               />
             </TransitionSeries.Sequence>
           </React.Fragment>
@@ -80,6 +84,27 @@ export const Short: React.FC<ShortProps> = ({
           <Hook text={hook} accentColor={accentColor} />
         </Sequence>
       ) : null}
+      {/* Whoosh on every cut and scene change, low boom on scene changes */}
+      {sfx
+        ? scenes.flatMap((_, i) => {
+            const base = sceneStart(i);
+            const cutSounds = cutsFor(i)
+              .filter((c) => c > 0)
+              .map((c) => (
+                <Sequence key={`w${i}-${c}`} from={Math.max(0, base + c - 4)} durationInFrames={Math.round(0.7 * fps)}>
+                  <Audio src={staticFile("sfx/whoosh.mp3")} volume={0.18} />
+                </Sequence>
+              ));
+            const sceneSound =
+              i > 0 ? (
+                <Sequence key={`b${i}`} from={Math.max(0, base - 6)} durationInFrames={Math.round(1.2 * fps)}>
+                  <Audio src={staticFile("sfx/whoosh.mp3")} volume={0.3} />
+                  <Audio src={staticFile("sfx/boom.mp3")} volume={0.35} />
+                </Sequence>
+              ) : null;
+            return [...cutSounds, sceneSound];
+          })
+        : null}
       <Grain />
       {progressBar ? <ProgressBar accentColor={accentColor} /> : null}
       {voice ? <Audio name="Voiceover" src={staticFile(voice)} /> : null}

@@ -39,7 +39,7 @@ export const Captions: React.FC<{ chunks: Chunk[]; accentColor: string }> = ({ c
         display: "flex",
         flexWrap: "wrap",
         justifyContent: "center",
-        columnGap: size * 0.35,
+        columnGap: size * 0.45,
         fontFamily,
         fontWeight: 800,
         fontSize: size,
@@ -62,7 +62,8 @@ export const Captions: React.FC<{ chunks: Chunk[]; accentColor: string }> = ({ c
               paintOrder: "stroke fill",
               textShadow: active ? `0 0 28px ${accentColor}AA, 0 6px 18px rgba(0,0,0,0.7)` : "0 6px 18px rgba(0,0,0,0.7)",
               display: "inline-block",
-              scale: active ? "1.06" : "1",
+              scale: active ? "1.08" : "1",
+              transition: "none",
             }}
           >
             {w.text}

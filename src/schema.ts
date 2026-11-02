@@ -4,6 +4,8 @@ import { zColor } from "@remotion/zod-types";
 export const sceneSchema = z.object({
   // Path inside /public, e.g. "videos/example/1.jpg"
   image: z.string(),
+  // Extra images for this scene; shots cycle through image + images
+  images: z.array(z.string()).optional(),
   // Scene length in seconds
   seconds: z.number().min(0.5).max(60),
   // Caption text for this scene. Ignored when the video has timed `words`.
@@ -47,6 +49,8 @@ export const shortSchema = z.object({
   cta: z.string().optional(),
   // A progress bar shows viewers the end is coming, which hurts loops: off by default
   progressBar: z.boolean().default(false),
+  // Whoosh/boom sound effects on cuts
+  sfx: z.boolean().default(true),
 });
 
 export type ShortProps = z.infer<typeof shortSchema>;

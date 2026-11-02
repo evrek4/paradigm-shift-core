@@ -41,3 +41,23 @@ export const chunkWords = (words: Word[], endMs: number): Chunk[] => {
   flush(last ? Math.min(endMs, last.startMs + 1200) : endMs);
   return chunks;
 };
+
+// Cut points inside a scene (frames from the scene start). Cuts land on sentence starts
+// when the scene has voice clips, so every new thought gets a new shot; long stretches
+// are split so a shot never runs longer than MAX_SHOT seconds.
+const MIN_SHOT = 2.2;
+const MAX_SHOT = 4.5;
+export const shotStarts = (clipStartsMs: number[], sceneSeconds: number, fps: number): number[] => {
+  const raw = clipStartsMs.map((ms) => ms / 1000).filter((s) => s > 0);
+  const cuts: number[] = [0];
+  for (const s of [...raw, sceneSeconds]) {
+    const last = cuts[cuts.length - 1];
+    const gap = s - last;
+    if (gap > MAX_SHOT) {
+      const n = Math.ceil(gap / MAX_SHOT);
+      for (let k = 1; k < n; k++) cuts.push(last + (gap * k) / n);
+    }
+    if (s < sceneSeconds && s - cuts[cuts.length - 1] >= MIN_SHOT && sceneSeconds - s >= MIN_SHOT) cuts.push(s);
+  }
+  return cuts.map((s) => Math.round(s * fps));
+};
