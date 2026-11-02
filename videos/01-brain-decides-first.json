@@ -1,10 +1,27 @@
 {
   "scenes": [
-    { "image": "videos/01-brain-decides-first/1.jpg", "seconds": 3, "text": "Your brain made this decision seven seconds before you did." },
-    { "image": "videos/01-brain-decides-first/2.jpg", "seconds": 22, "text": "In 2008, neuroscientists in Berlin placed volunteers inside a brain scanner and gave them one simple choice. Left button... or right. Then they watched. Activity in the frontal cortex predicted the choice up to seven seconds before people felt they had decided. Not perfectly, but far better than chance. Decades earlier, Benjamin Libet had caught the same signal, rising in the brain before the conscious urge to move.", "highlight": "7 SEC" },
-    { "image": "videos/01-brain-decides-first/3.jpg", "seconds": 20, "text": "Think of your consciousness as a press secretary. It doesn't write the policy. It walks up to the podium after the order is already signed, and announces it as its own idea. But Libet believed you keep one power. The veto. You may not start the action... but in that final instant, you might still be able to stop it.", "highlight": "VETO" },
-    { "image": "videos/01-brain-decides-first/4.jpg", "seconds": 5, "text": "Whether you replay this video or not... that choice is already made. Because" }
+    {
+      "image": "videos/01-brain-decides-first/1.jpg",
+      "seconds": 3,
+      "text": "Your brain made this decision seven seconds before you did."
+    },
+    {
+      "image": "videos/01-brain-decides-first/2.jpg",
+      "seconds": 22,
+      "text": "In 2008, neuroscientists in Berlin placed volunteers inside a brain scanner and gave them one simple choice. Left button... or right. Then they watched. Activity in the frontal cortex predicted the choice up to seven seconds before people felt they had decided. Not perfectly, but far better than chance. Decades earlier, Benjamin Libet had caught the same signal, rising in the brain before the conscious urge to move.",
+      "highlight": "7 SEC"
+    },
+    {
+      "image": "videos/01-brain-decides-first/3.jpg",
+      "seconds": 20,
+      "text": "Think of your consciousness as a press secretary. It doesn't write the policy. It walks up to the podium after the order is already signed, and announces it as its own idea. But Libet believed you keep one power. The veto. You may not start the action... but in that final instant, you might still be able to stop it.",
+      "highlight": "VETO"
+    },
+    {
+      "image": "videos/01-brain-decides-first/4.jpg",
+      "seconds": 5,
+      "text": "Whether you replay this video or not... that choice is already made. Because"
+    }
   ],
-  "voice": "videos/01-brain-decides-first/voice.mp3",
   "musicVolume": 0.2
 }

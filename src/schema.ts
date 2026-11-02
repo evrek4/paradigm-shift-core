@@ -8,6 +8,8 @@ export const sceneSchema = z.object({
   seconds: z.number().min(0.5).max(60),
   // Caption text for this scene. Ignored when the video has timed `words`.
   text: z.string().default(""),
+  // Optional voiceover for this scene only (in /public), played from the scene's start
+  voice: z.string().optional(),
   // Optional big punch-in label, e.g. "$4.2B"
   highlight: z.string().optional(),
 });

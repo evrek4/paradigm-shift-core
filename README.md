@@ -13,3 +13,11 @@ Remotion template for @ParadigmShiftCore: images + voiceover script → cinemati
    - `accentColor` (default `#7FDBFF`), `cta` and `progressBar` (both off by default, they break the loop)
 4. Preview: `npm run studio`
 5. Render: `npm run render -- <name>` → `out/<name>.mp4`
+
+## Voiceover with Edge TTS (free)
+```
+pip install edge-tts
+python scripts/make_voice.py <name>            # default voice: en-US-AndrewMultilingualNeural
+python scripts/make_voice.py <name> --voice en-US-GuyNeural --rate -5%
+```
+This speaks each scene's `text`, saves `public/videos/<name>/voice-<n>.mp3`, and fills in scene lengths and word timings in `videos/<name>.json`, so captions follow the voice word by word.

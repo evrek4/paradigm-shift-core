@@ -66,6 +66,13 @@ export const Short: React.FC<ShortProps> = ({
       <Grain />
       {progressBar ? <ProgressBar accentColor={accentColor} /> : null}
       {voice ? <Audio name="Voiceover" src={staticFile(voice)} /> : null}
+      {scenes.map((scene, i) =>
+        scene.voice ? (
+          <Sequence key={i} name={`Voice ${i + 1}`} from={sceneFrames.slice(0, i).reduce((a, b) => a + b, 0)} durationInFrames={sceneFrames[i]}>
+            <Audio src={staticFile(scene.voice)} />
+          </Sequence>
+        ) : null,
+      )}
       {music ? (
         <Audio name="Music" src={staticFile(music)} volume={musicVolume} loop />
       ) : null}
