@@ -10,12 +10,18 @@
         0,
         0.5
       ],
-      "seconds": 3.0,
+      "seconds": 4.24,
       "text": "Cells from an eighty year old now read as under twenty.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/11-epigenetic-clock-reset/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
     },
     {
       "image": "videos/11-epigenetic-clock-reset/G3.jpg",
@@ -26,12 +32,38 @@
         0,
         0.455
       ],
-      "seconds": 22.0,
+      "seconds": 20.35,
       "text": "Your DNA carries a timestamp. Chemical marks accumulate on it with age, and they can be read like a clock. In October, a team in Bonn took blood cells from an eighty year old donor. They reprogrammed them directly into neural stem cells. Then they read the clock again. It said under twenty.",
       "delivery": {
         "rate": 8,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/11-epigenetic-clock-reset/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v2-2.mp3",
+          "atMs": 2560
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v2-3.mp3",
+          "atMs": 7376
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v2-4.mp3",
+          "atMs": 12168
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v2-5.mp3",
+          "atMs": 16048
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v2-6.mp3",
+          "atMs": 18032
+        }
+      ]
     },
     {
       "image": "videos/11-epigenetic-clock-reset/G5.jpg",
@@ -42,12 +74,46 @@
         0,
         0.4
       ],
-      "seconds": 20.0,
+      "seconds": 23.58,
       "text": "Think of a hard drive. Aging was never the platter wearing out. It was the file system filling with clutter. Reformat the index, and the hardware is young again. But here is the honest part. They reset the clock, not the person. This happened in a dish, and a clock reading is not a cure. What they built is a window into aging, not a reversal of it.",
       "delivery": {
         "rate": 4,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/11-epigenetic-clock-reset/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v3-2.mp3",
+          "atMs": 1672
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v3-3.mp3",
+          "atMs": 4136
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v3-4.mp3",
+          "atMs": 6840
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v3-5.mp3",
+          "atMs": 10576
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v3-6.mp3",
+          "atMs": 12320
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v3-7.mp3",
+          "atMs": 15144
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v3-8.mp3",
+          "atMs": 18928
+        }
+      ]
     },
     {
       "image": "videos/11-epigenetic-clock-reset/G7.jpg",
@@ -58,16 +124,604 @@
         0,
         0.5
       ],
-      "seconds": 5.0,
+      "seconds": 5.42,
       "text": "The clock, it turns out, can run both ways. Which is how",
       "delivery": {
         "rate": -6,
         "pitch": -3,
         "volume": -5
       },
-      "stillLast": true
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/11-epigenetic-clock-reset/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/11-epigenetic-clock-reset/v4-2.mp3",
+          "atMs": 3544
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
-  "musicVolume": 0.2
+  "musicVolume": 0.2,
+  "words": [
+    {
+      "text": "Cells",
+      "startMs": 78
+    },
+    {
+      "text": "from",
+      "startMs": 456
+    },
+    {
+      "text": "an",
+      "startMs": 586
+    },
+    {
+      "text": "eighty",
+      "startMs": 729
+    },
+    {
+      "text": "year",
+      "startMs": 1003
+    },
+    {
+      "text": "old",
+      "startMs": 1263
+    },
+    {
+      "text": "now",
+      "startMs": 1484
+    },
+    {
+      "text": "read",
+      "startMs": 1862
+    },
+    {
+      "text": "as",
+      "startMs": 2552
+    },
+    {
+      "text": "under",
+      "startMs": 2760
+    },
+    {
+      "text": "twenty",
+      "startMs": 2969
+    },
+    {
+      "text": "Your",
+      "startMs": 4333
+    },
+    {
+      "text": "DNA",
+      "startMs": 4483
+    },
+    {
+      "text": "carries",
+      "startMs": 5085
+    },
+    {
+      "text": "a",
+      "startMs": 5432
+    },
+    {
+      "text": "timestamp",
+      "startMs": 5467
+    },
+    {
+      "text": "Chemical",
+      "startMs": 6893
+    },
+    {
+      "text": "marks",
+      "startMs": 7240
+    },
+    {
+      "text": "accumulate",
+      "startMs": 7656
+    },
+    {
+      "text": "on",
+      "startMs": 8270
+    },
+    {
+      "text": "it",
+      "startMs": 8455
+    },
+    {
+      "text": "with",
+      "startMs": 8525
+    },
+    {
+      "text": "age",
+      "startMs": 8721
+    },
+    {
+      "text": "and",
+      "startMs": 9612
+    },
+    {
+      "text": "they",
+      "startMs": 9705
+    },
+    {
+      "text": "can",
+      "startMs": 9809
+    },
+    {
+      "text": "be",
+      "startMs": 9913
+    },
+    {
+      "text": "read",
+      "startMs": 10041
+    },
+    {
+      "text": "like",
+      "startMs": 10318
+    },
+    {
+      "text": "a",
+      "startMs": 10434
+    },
+    {
+      "text": "clock",
+      "startMs": 10469
+    },
+    {
+      "text": "In",
+      "startMs": 11697
+    },
+    {
+      "text": "October",
+      "startMs": 11778
+    },
+    {
+      "text": "a",
+      "startMs": 12704
+    },
+    {
+      "text": "team",
+      "startMs": 12739
+    },
+    {
+      "text": "in",
+      "startMs": 13016
+    },
+    {
+      "text": "Bonn",
+      "startMs": 13109
+    },
+    {
+      "text": "took",
+      "startMs": 13514
+    },
+    {
+      "text": "blood",
+      "startMs": 13769
+    },
+    {
+      "text": "cells",
+      "startMs": 14093
+    },
+    {
+      "text": "from",
+      "startMs": 14521
+    },
+    {
+      "text": "an",
+      "startMs": 14672
+    },
+    {
+      "text": "eighty",
+      "startMs": 14822
+    },
+    {
+      "text": "year",
+      "startMs": 15019
+    },
+    {
+      "text": "old",
+      "startMs": 15216
+    },
+    {
+      "text": "donor",
+      "startMs": 15366
+    },
+    {
+      "text": "They",
+      "startMs": 16501
+    },
+    {
+      "text": "reprogrammed",
+      "startMs": 16570
+    },
+    {
+      "text": "them",
+      "startMs": 17264
+    },
+    {
+      "text": "directly",
+      "startMs": 17403
+    },
+    {
+      "text": "into",
+      "startMs": 18237
+    },
+    {
+      "text": "neural",
+      "startMs": 18480
+    },
+    {
+      "text": "stem",
+      "startMs": 18781
+    },
+    {
+      "text": "cells",
+      "startMs": 19082
+    },
+    {
+      "text": "Then",
+      "startMs": 20392
+    },
+    {
+      "text": "they",
+      "startMs": 20473
+    },
+    {
+      "text": "read",
+      "startMs": 20577
+    },
+    {
+      "text": "the",
+      "startMs": 20913
+    },
+    {
+      "text": "clock",
+      "startMs": 20982
+    },
+    {
+      "text": "again",
+      "startMs": 21306
+    },
+    {
+      "text": "It",
+      "startMs": 22372
+    },
+    {
+      "text": "said",
+      "startMs": 22472
+    },
+    {
+      "text": "under",
+      "startMs": 22797
+    },
+    {
+      "text": "twenty",
+      "startMs": 22972
+    },
+    {
+      "text": "Think",
+      "startMs": 24710
+    },
+    {
+      "text": "of",
+      "startMs": 24842
+    },
+    {
+      "text": "a",
+      "startMs": 24890
+    },
+    {
+      "text": "hard",
+      "startMs": 24927
+    },
+    {
+      "text": "drive",
+      "startMs": 25239
+    },
+    {
+      "text": "Aging",
+      "startMs": 26346
+    },
+    {
+      "text": "was",
+      "startMs": 26635
+    },
+    {
+      "text": "never",
+      "startMs": 26779
+    },
+    {
+      "text": "the",
+      "startMs": 27043
+    },
+    {
+      "text": "platter",
+      "startMs": 27127
+    },
+    {
+      "text": "wearing",
+      "startMs": 27500
+    },
+    {
+      "text": "out",
+      "startMs": 27800
+    },
+    {
+      "text": "It",
+      "startMs": 28822
+    },
+    {
+      "text": "was",
+      "startMs": 28870
+    },
+    {
+      "text": "the",
+      "startMs": 28954
+    },
+    {
+      "text": "file",
+      "startMs": 29050
+    },
+    {
+      "text": "system",
+      "startMs": 29435
+    },
+    {
+      "text": "filling",
+      "startMs": 29832
+    },
+    {
+      "text": "with",
+      "startMs": 30192
+    },
+    {
+      "text": "clutter",
+      "startMs": 30313
+    },
+    {
+      "text": "Reformat",
+      "startMs": 31514
+    },
+    {
+      "text": "the",
+      "startMs": 32091
+    },
+    {
+      "text": "index",
+      "startMs": 32187
+    },
+    {
+      "text": "and",
+      "startMs": 33029
+    },
+    {
+      "text": "the",
+      "startMs": 33089
+    },
+    {
+      "text": "hardware",
+      "startMs": 33161
+    },
+    {
+      "text": "is",
+      "startMs": 33906
+    },
+    {
+      "text": "young",
+      "startMs": 34014
+    },
+    {
+      "text": "again",
+      "startMs": 34206
+    },
+    {
+      "text": "But",
+      "startMs": 35262
+    },
+    {
+      "text": "here",
+      "startMs": 35334
+    },
+    {
+      "text": "is",
+      "startMs": 35490
+    },
+    {
+      "text": "the",
+      "startMs": 35575
+    },
+    {
+      "text": "honest",
+      "startMs": 35671
+    },
+    {
+      "text": "part",
+      "startMs": 35959
+    },
+    {
+      "text": "They",
+      "startMs": 37006
+    },
+    {
+      "text": "reset",
+      "startMs": 37090
+    },
+    {
+      "text": "the",
+      "startMs": 37463
+    },
+    {
+      "text": "clock",
+      "startMs": 37535
+    },
+    {
+      "text": "not",
+      "startMs": 38400
+    },
+    {
+      "text": "the",
+      "startMs": 38557
+    },
+    {
+      "text": "person",
+      "startMs": 38629
+    },
+    {
+      "text": "This",
+      "startMs": 39830
+    },
+    {
+      "text": "happened",
+      "startMs": 39950
+    },
+    {
+      "text": "in",
+      "startMs": 40323
+    },
+    {
+      "text": "a",
+      "startMs": 40407
+    },
+    {
+      "text": "dish",
+      "startMs": 40467
+    },
+    {
+      "text": "and",
+      "startMs": 41200
+    },
+    {
+      "text": "a",
+      "startMs": 41260
+    },
+    {
+      "text": "clock",
+      "startMs": 41308
+    },
+    {
+      "text": "reading",
+      "startMs": 41645
+    },
+    {
+      "text": "is",
+      "startMs": 42126
+    },
+    {
+      "text": "not",
+      "startMs": 42222
+    },
+    {
+      "text": "a",
+      "startMs": 42426
+    },
+    {
+      "text": "cure",
+      "startMs": 42462
+    },
+    {
+      "text": "What",
+      "startMs": 43614
+    },
+    {
+      "text": "they",
+      "startMs": 43734
+    },
+    {
+      "text": "built",
+      "startMs": 43879
+    },
+    {
+      "text": "is",
+      "startMs": 44323
+    },
+    {
+      "text": "a",
+      "startMs": 44431
+    },
+    {
+      "text": "window",
+      "startMs": 44492
+    },
+    {
+      "text": "into",
+      "startMs": 45105
+    },
+    {
+      "text": "aging",
+      "startMs": 45441
+    },
+    {
+      "text": "not",
+      "startMs": 46306
+    },
+    {
+      "text": "a",
+      "startMs": 46547
+    },
+    {
+      "text": "reversal",
+      "startMs": 46583
+    },
+    {
+      "text": "of",
+      "startMs": 47088
+    },
+    {
+      "text": "it",
+      "startMs": 47172
+    },
+    {
+      "text": "The",
+      "startMs": 48290
+    },
+    {
+      "text": "clock",
+      "startMs": 48343
+    },
+    {
+      "text": "it",
+      "startMs": 49034
+    },
+    {
+      "text": "turns",
+      "startMs": 49127
+    },
+    {
+      "text": "out",
+      "startMs": 49447
+    },
+    {
+      "text": "can",
+      "startMs": 49752
+    },
+    {
+      "text": "run",
+      "startMs": 49925
+    },
+    {
+      "text": "both",
+      "startMs": 50138
+    },
+    {
+      "text": "ways",
+      "startMs": 50431
+    },
+    {
+      "text": "Which",
+      "startMs": 51830
+    },
+    {
+      "text": "is",
+      "startMs": 51961
+    },
+    {
+      "text": "how",
+      "startMs": 52092
+    }
+  ]
 }

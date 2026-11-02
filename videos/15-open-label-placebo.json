@@ -10,12 +10,22 @@
         0,
         0.5
       ],
-      "seconds": 3.0,
+      "seconds": 5.1,
       "text": "They told patients the pills were fake. The pills worked anyway.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/15-open-label-placebo/v1-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/15-open-label-placebo/v1-2.mp3",
+          "atMs": 2776
+        }
+      ]
     },
     {
       "image": "videos/15-open-label-placebo/G3.jpg",
@@ -26,12 +36,38 @@
         0,
         0.455
       ],
-      "seconds": 22.0,
+      "seconds": 24.48,
       "text": "A placebo is supposed to need deception. So a Harvard team removed it. They handed patients with irritable bowel syndrome a bottle labeled placebo, and explained plainly that the pills contained no active drug. Take them anyway, twice a day. The group that did reported significantly more relief than the group given nothing. The result has since been repeated in chronic back pain.",
       "delivery": {
         "rate": 8,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/15-open-label-placebo/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/15-open-label-placebo/v2-2.mp3",
+          "atMs": 2824
+        },
+        {
+          "src": "videos/15-open-label-placebo/v2-3.mp3",
+          "atMs": 5096
+        },
+        {
+          "src": "videos/15-open-label-placebo/v2-4.mp3",
+          "atMs": 13368
+        },
+        {
+          "src": "videos/15-open-label-placebo/v2-5.mp3",
+          "atMs": 15544
+        },
+        {
+          "src": "videos/15-open-label-placebo/v2-6.mp3",
+          "atMs": 21008
+        }
+      ]
     },
     {
       "image": "videos/15-open-label-placebo/G5.jpg",
@@ -42,12 +78,42 @@
         0,
         0.4
       ],
-      "seconds": 20.0,
+      "seconds": 28.46,
       "text": "So the active ingredient was never the lie. It was the ritual. The appointment, the bottle, the twice a day, the act of doing something about it. Your brain treats that sequence as evidence that care is underway, and adjusts how pain is processed. Important limit. This shifts symptoms, not tumors. It eases what the brain is interpreting, and it does nothing to what the brain is only reporting.",
       "delivery": {
         "rate": 4,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/15-open-label-placebo/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/15-open-label-placebo/v3-2.mp3",
+          "atMs": 3016
+        },
+        {
+          "src": "videos/15-open-label-placebo/v3-3.mp3",
+          "atMs": 5168
+        },
+        {
+          "src": "videos/15-open-label-placebo/v3-4.mp3",
+          "atMs": 10080
+        },
+        {
+          "src": "videos/15-open-label-placebo/v3-5.mp3",
+          "atMs": 17368
+        },
+        {
+          "src": "videos/15-open-label-placebo/v3-6.mp3",
+          "atMs": 18920
+        },
+        {
+          "src": "videos/15-open-label-placebo/v3-7.mp3",
+          "atMs": 22008
+        }
+      ]
     },
     {
       "image": "videos/15-open-label-placebo/G7.jpg",
@@ -58,16 +124,652 @@
         0,
         0.5
       ],
-      "seconds": 5.0,
+      "seconds": 6.23,
       "text": "The body was listening to the ceremony, not the chemistry. Which is why",
       "delivery": {
         "rate": -6,
         "pitch": -3,
         "volume": -5
       },
-      "stillLast": true
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/15-open-label-placebo/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/15-open-label-placebo/v4-2.mp3",
+          "atMs": 4360
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
-  "musicVolume": 0.2
+  "musicVolume": 0.2,
+  "words": [
+    {
+      "text": "They",
+      "startMs": 104
+    },
+    {
+      "text": "told",
+      "startMs": 156
+    },
+    {
+      "text": "patients",
+      "startMs": 456
+    },
+    {
+      "text": "the",
+      "startMs": 924
+    },
+    {
+      "text": "pills",
+      "startMs": 1029
+    },
+    {
+      "text": "were",
+      "startMs": 1471
+    },
+    {
+      "text": "fake",
+      "startMs": 1602
+    },
+    {
+      "text": "The",
+      "startMs": 2904
+    },
+    {
+      "text": "pills",
+      "startMs": 2975
+    },
+    {
+      "text": "worked",
+      "startMs": 3387
+    },
+    {
+      "text": "anyway",
+      "startMs": 3714
+    },
+    {
+      "text": "A",
+      "startMs": 5193
+    },
+    {
+      "text": "placebo",
+      "startMs": 5250
+    },
+    {
+      "text": "is",
+      "startMs": 5852
+    },
+    {
+      "text": "supposed",
+      "startMs": 5968
+    },
+    {
+      "text": "to",
+      "startMs": 6419
+    },
+    {
+      "text": "need",
+      "startMs": 6477
+    },
+    {
+      "text": "deception",
+      "startMs": 6697
+    },
+    {
+      "text": "So",
+      "startMs": 8017
+    },
+    {
+      "text": "a",
+      "startMs": 8190
+    },
+    {
+      "text": "Harvard",
+      "startMs": 8248
+    },
+    {
+      "text": "team",
+      "startMs": 8630
+    },
+    {
+      "text": "removed",
+      "startMs": 9070
+    },
+    {
+      "text": "it",
+      "startMs": 9406
+    },
+    {
+      "text": "They",
+      "startMs": 10289
+    },
+    {
+      "text": "handed",
+      "startMs": 10393
+    },
+    {
+      "text": "patients",
+      "startMs": 10705
+    },
+    {
+      "text": "with",
+      "startMs": 11157
+    },
+    {
+      "text": "irritable",
+      "startMs": 11388
+    },
+    {
+      "text": "bowel",
+      "startMs": 11758
+    },
+    {
+      "text": "syndrome",
+      "startMs": 12083
+    },
+    {
+      "text": "a",
+      "startMs": 12696
+    },
+    {
+      "text": "bottle",
+      "startMs": 12754
+    },
+    {
+      "text": "labeled",
+      "startMs": 13252
+    },
+    {
+      "text": "placebo",
+      "startMs": 13576
+    },
+    {
+      "text": "and",
+      "startMs": 14710
+    },
+    {
+      "text": "explained",
+      "startMs": 14779
+    },
+    {
+      "text": "plainly",
+      "startMs": 15300
+    },
+    {
+      "text": "that",
+      "startMs": 15752
+    },
+    {
+      "text": "the",
+      "startMs": 15844
+    },
+    {
+      "text": "pills",
+      "startMs": 15937
+    },
+    {
+      "text": "contained",
+      "startMs": 16296
+    },
+    {
+      "text": "no",
+      "startMs": 16712
+    },
+    {
+      "text": "active",
+      "startMs": 17140
+    },
+    {
+      "text": "drug",
+      "startMs": 17441
+    },
+    {
+      "text": "Take",
+      "startMs": 18561
+    },
+    {
+      "text": "them",
+      "startMs": 18700
+    },
+    {
+      "text": "anyway",
+      "startMs": 18804
+    },
+    {
+      "text": "twice",
+      "startMs": 19406
+    },
+    {
+      "text": "a",
+      "startMs": 19695
+    },
+    {
+      "text": "day",
+      "startMs": 19730
+    },
+    {
+      "text": "The",
+      "startMs": 20737
+    },
+    {
+      "text": "group",
+      "startMs": 20806
+    },
+    {
+      "text": "that",
+      "startMs": 21142
+    },
+    {
+      "text": "did",
+      "startMs": 21558
+    },
+    {
+      "text": "reported",
+      "startMs": 21732
+    },
+    {
+      "text": "significantly",
+      "startMs": 22334
+    },
+    {
+      "text": "more",
+      "startMs": 23237
+    },
+    {
+      "text": "relief",
+      "startMs": 23480
+    },
+    {
+      "text": "than",
+      "startMs": 24128
+    },
+    {
+      "text": "the",
+      "startMs": 24209
+    },
+    {
+      "text": "group",
+      "startMs": 24290
+    },
+    {
+      "text": "given",
+      "startMs": 24834
+    },
+    {
+      "text": "nothing",
+      "startMs": 25077
+    },
+    {
+      "text": "The",
+      "startMs": 26201
+    },
+    {
+      "text": "result",
+      "startMs": 26247
+    },
+    {
+      "text": "has",
+      "startMs": 26617
+    },
+    {
+      "text": "since",
+      "startMs": 26826
+    },
+    {
+      "text": "been",
+      "startMs": 27034
+    },
+    {
+      "text": "repeated",
+      "startMs": 27219
+    },
+    {
+      "text": "in",
+      "startMs": 27717
+    },
+    {
+      "text": "chronic",
+      "startMs": 27844
+    },
+    {
+      "text": "back",
+      "startMs": 28249
+    },
+    {
+      "text": "pain",
+      "startMs": 28469
+    },
+    {
+      "text": "So",
+      "startMs": 29676
+    },
+    {
+      "text": "the",
+      "startMs": 29772
+    },
+    {
+      "text": "active",
+      "startMs": 29868
+    },
+    {
+      "text": "ingredient",
+      "startMs": 30169
+    },
+    {
+      "text": "was",
+      "startMs": 30806
+    },
+    {
+      "text": "never",
+      "startMs": 30998
+    },
+    {
+      "text": "the",
+      "startMs": 31395
+    },
+    {
+      "text": "lie",
+      "startMs": 31491
+    },
+    {
+      "text": "It",
+      "startMs": 32700
+    },
+    {
+      "text": "was",
+      "startMs": 32765
+    },
+    {
+      "text": "the",
+      "startMs": 32896
+    },
+    {
+      "text": "ritual",
+      "startMs": 32987
+    },
+    {
+      "text": "The",
+      "startMs": 34844
+    },
+    {
+      "text": "appointment",
+      "startMs": 34904
+    },
+    {
+      "text": "the",
+      "startMs": 35517
+    },
+    {
+      "text": "bottle",
+      "startMs": 35613
+    },
+    {
+      "text": "the",
+      "startMs": 36022
+    },
+    {
+      "text": "twice",
+      "startMs": 36106
+    },
+    {
+      "text": "a",
+      "startMs": 36455
+    },
+    {
+      "text": "day",
+      "startMs": 36491
+    },
+    {
+      "text": "the",
+      "startMs": 37068
+    },
+    {
+      "text": "act",
+      "startMs": 37380
+    },
+    {
+      "text": "of",
+      "startMs": 37705
+    },
+    {
+      "text": "doing",
+      "startMs": 37957
+    },
+    {
+      "text": "something",
+      "startMs": 38270
+    },
+    {
+      "text": "about",
+      "startMs": 38606
+    },
+    {
+      "text": "it",
+      "startMs": 38859
+    },
+    {
+      "text": "Your",
+      "startMs": 39744
+    },
+    {
+      "text": "brain",
+      "startMs": 39852
+    },
+    {
+      "text": "treats",
+      "startMs": 40237
+    },
+    {
+      "text": "that",
+      "startMs": 40610
+    },
+    {
+      "text": "sequence",
+      "startMs": 40754
+    },
+    {
+      "text": "as",
+      "startMs": 41451
+    },
+    {
+      "text": "evidence",
+      "startMs": 41703
+    },
+    {
+      "text": "that",
+      "startMs": 42100
+    },
+    {
+      "text": "care",
+      "startMs": 42232
+    },
+    {
+      "text": "is",
+      "startMs": 42929
+    },
+    {
+      "text": "underway",
+      "startMs": 43206
+    },
+    {
+      "text": "and",
+      "startMs": 44287
+    },
+    {
+      "text": "adjusts",
+      "startMs": 44696
+    },
+    {
+      "text": "how",
+      "startMs": 45069
+    },
+    {
+      "text": "pain",
+      "startMs": 45225
+    },
+    {
+      "text": "is",
+      "startMs": 45525
+    },
+    {
+      "text": "processed",
+      "startMs": 45598
+    },
+    {
+      "text": "Important",
+      "startMs": 47052
+    },
+    {
+      "text": "limit",
+      "startMs": 47508
+    },
+    {
+      "text": "This",
+      "startMs": 48596
+    },
+    {
+      "text": "shifts",
+      "startMs": 48692
+    },
+    {
+      "text": "symptoms",
+      "startMs": 49197
+    },
+    {
+      "text": "not",
+      "startMs": 50111
+    },
+    {
+      "text": "tumors",
+      "startMs": 50351
+    },
+    {
+      "text": "It",
+      "startMs": 51672
+    },
+    {
+      "text": "eases",
+      "startMs": 51780
+    },
+    {
+      "text": "what",
+      "startMs": 52225
+    },
+    {
+      "text": "the",
+      "startMs": 52357
+    },
+    {
+      "text": "brain",
+      "startMs": 52441
+    },
+    {
+      "text": "is",
+      "startMs": 53102
+    },
+    {
+      "text": "interpreting",
+      "startMs": 53259
+    },
+    {
+      "text": "and",
+      "startMs": 54400
+    },
+    {
+      "text": "it",
+      "startMs": 54497
+    },
+    {
+      "text": "does",
+      "startMs": 54557
+    },
+    {
+      "text": "nothing",
+      "startMs": 54713
+    },
+    {
+      "text": "to",
+      "startMs": 55170
+    },
+    {
+      "text": "what",
+      "startMs": 55230
+    },
+    {
+      "text": "the",
+      "startMs": 55374
+    },
+    {
+      "text": "brain",
+      "startMs": 55458
+    },
+    {
+      "text": "is",
+      "startMs": 56239
+    },
+    {
+      "text": "only",
+      "startMs": 56420
+    },
+    {
+      "text": "reporting",
+      "startMs": 56696
+    },
+    {
+      "text": "The",
+      "startMs": 58146
+    },
+    {
+      "text": "body",
+      "startMs": 58226
+    },
+    {
+      "text": "was",
+      "startMs": 58572
+    },
+    {
+      "text": "listening",
+      "startMs": 58732
+    },
+    {
+      "text": "to",
+      "startMs": 59237
+    },
+    {
+      "text": "the",
+      "startMs": 59303
+    },
+    {
+      "text": "ceremony",
+      "startMs": 59410
+    },
+    {
+      "text": "not",
+      "startMs": 60580
+    },
+    {
+      "text": "the",
+      "startMs": 60872
+    },
+    {
+      "text": "chemistry",
+      "startMs": 60979
+    },
+    {
+      "text": "Which",
+      "startMs": 62516
+    },
+    {
+      "text": "is",
+      "startMs": 62662
+    },
+    {
+      "text": "why",
+      "startMs": 62778
+    }
+  ]
 }

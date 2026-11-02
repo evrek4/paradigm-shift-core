@@ -10,12 +10,22 @@
         0,
         0.5
       ],
-      "seconds": 3.0,
+      "seconds": 6.37,
       "text": "She had not spoken in years. The screen spoke for her at seventy eight words a minute.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/18-thought-to-text/v1-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/18-thought-to-text/v1-2.mp3",
+          "atMs": 2224
+        }
+      ]
     },
     {
       "image": "videos/18-thought-to-text/G3.jpg",
@@ -26,12 +36,38 @@
         0,
         0.455
       ],
-      "seconds": 22.0,
+      "seconds": 27.55,
       "text": "Speech starts as a motor plan. Before a single sound leaves you, your brain is already issuing instructions to the lips, jaw and tongue. In paralysis, that plan is often still intact. It just never reaches the muscles. So two teams placed electrodes over those regions and trained models to read the instructions directly. Attempted speech, decoded into text, in close to real time.",
       "delivery": {
         "rate": 8,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/18-thought-to-text/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/18-thought-to-text/v2-2.mp3",
+          "atMs": 2152
+        },
+        {
+          "src": "videos/18-thought-to-text/v2-3.mp3",
+          "atMs": 9344
+        },
+        {
+          "src": "videos/18-thought-to-text/v2-4.mp3",
+          "atMs": 13296
+        },
+        {
+          "src": "videos/18-thought-to-text/v2-5.mp3",
+          "atMs": 15640
+        },
+        {
+          "src": "videos/18-thought-to-text/v2-6.mp3",
+          "atMs": 22616
+        }
+      ]
     },
     {
       "image": "videos/18-thought-to-text/G5.jpg",
@@ -42,12 +78,38 @@
         0,
         0.4
       ],
-      "seconds": 20.0,
+      "seconds": 24.55,
       "text": "For years the assumption was that silence meant the message was gone. It was not. The letter was written every time. The post office had closed. What these systems do is reopen it, and what they decode is the attempt to speak, not private thought. That distinction matters more every year, because it is the line everything built after this will be measured against.",
       "delivery": {
         "rate": 4,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/18-thought-to-text/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/18-thought-to-text/v3-2.mp3",
+          "atMs": 4168
+        },
+        {
+          "src": "videos/18-thought-to-text/v3-3.mp3",
+          "atMs": 6320
+        },
+        {
+          "src": "videos/18-thought-to-text/v3-4.mp3",
+          "atMs": 8712
+        },
+        {
+          "src": "videos/18-thought-to-text/v3-5.mp3",
+          "atMs": 10864
+        },
+        {
+          "src": "videos/18-thought-to-text/v3-6.mp3",
+          "atMs": 17288
+        }
+      ]
     },
     {
       "image": "videos/18-thought-to-text/G7.jpg",
@@ -58,16 +120,652 @@
         0,
         0.5
       ],
-      "seconds": 5.0,
+      "seconds": 6.39,
       "text": "The message was always sending. Nobody was collecting it. Until",
       "delivery": {
         "rate": -6,
         "pitch": -3,
         "volume": -5
       },
-      "stillLast": true
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/18-thought-to-text/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/18-thought-to-text/v4-2.mp3",
+          "atMs": 2440
+        },
+        {
+          "src": "videos/18-thought-to-text/v4-3.mp3",
+          "atMs": 4520
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
-  "musicVolume": 0.2
+  "musicVolume": 0.2,
+  "words": [
+    {
+      "text": "She",
+      "startMs": 117
+    },
+    {
+      "text": "had",
+      "startMs": 234
+    },
+    {
+      "text": "not",
+      "startMs": 339
+    },
+    {
+      "text": "spoken",
+      "startMs": 547
+    },
+    {
+      "text": "in",
+      "startMs": 951
+    },
+    {
+      "text": "years",
+      "startMs": 1042
+    },
+    {
+      "text": "The",
+      "startMs": 2328
+    },
+    {
+      "text": "screen",
+      "startMs": 2393
+    },
+    {
+      "text": "spoke",
+      "startMs": 2771
+    },
+    {
+      "text": "for",
+      "startMs": 3083
+    },
+    {
+      "text": "her",
+      "startMs": 3253
+    },
+    {
+      "text": "at",
+      "startMs": 3852
+    },
+    {
+      "text": "seventy",
+      "startMs": 3930
+    },
+    {
+      "text": "eight",
+      "startMs": 4451
+    },
+    {
+      "text": "words",
+      "startMs": 4828
+    },
+    {
+      "text": "a",
+      "startMs": 5102
+    },
+    {
+      "text": "minute",
+      "startMs": 5141
+    },
+    {
+      "text": "Speech",
+      "startMs": 6463
+    },
+    {
+      "text": "starts",
+      "startMs": 6740
+    },
+    {
+      "text": "as",
+      "startMs": 7134
+    },
+    {
+      "text": "a",
+      "startMs": 7215
+    },
+    {
+      "text": "motor",
+      "startMs": 7238
+    },
+    {
+      "text": "plan",
+      "startMs": 7539
+    },
+    {
+      "text": "Before",
+      "startMs": 8615
+    },
+    {
+      "text": "a",
+      "startMs": 8916
+    },
+    {
+      "text": "single",
+      "startMs": 8985
+    },
+    {
+      "text": "sound",
+      "startMs": 9378
+    },
+    {
+      "text": "leaves",
+      "startMs": 9818
+    },
+    {
+      "text": "you",
+      "startMs": 10119
+    },
+    {
+      "text": "your",
+      "startMs": 10814
+    },
+    {
+      "text": "brain",
+      "startMs": 10906
+    },
+    {
+      "text": "is",
+      "startMs": 11300
+    },
+    {
+      "text": "already",
+      "startMs": 11427
+    },
+    {
+      "text": "issuing",
+      "startMs": 11925
+    },
+    {
+      "text": "instructions",
+      "startMs": 12330
+    },
+    {
+      "text": "to",
+      "startMs": 12920
+    },
+    {
+      "text": "the",
+      "startMs": 13013
+    },
+    {
+      "text": "lips",
+      "startMs": 13128
+    },
+    {
+      "text": "jaw",
+      "startMs": 13846
+    },
+    {
+      "text": "and",
+      "startMs": 14575
+    },
+    {
+      "text": "tongue",
+      "startMs": 14703
+    },
+    {
+      "text": "In",
+      "startMs": 15795
+    },
+    {
+      "text": "paralysis",
+      "startMs": 15876
+    },
+    {
+      "text": "that",
+      "startMs": 16848
+    },
+    {
+      "text": "plan",
+      "startMs": 17057
+    },
+    {
+      "text": "is",
+      "startMs": 17705
+    },
+    {
+      "text": "often",
+      "startMs": 17820
+    },
+    {
+      "text": "still",
+      "startMs": 18202
+    },
+    {
+      "text": "intact",
+      "startMs": 18515
+    },
+    {
+      "text": "It",
+      "startMs": 19759
+    },
+    {
+      "text": "just",
+      "startMs": 19816
+    },
+    {
+      "text": "never",
+      "startMs": 19978
+    },
+    {
+      "text": "reaches",
+      "startMs": 20245
+    },
+    {
+      "text": "the",
+      "startMs": 20627
+    },
+    {
+      "text": "muscles",
+      "startMs": 20684
+    },
+    {
+      "text": "So",
+      "startMs": 22103
+    },
+    {
+      "text": "two",
+      "startMs": 22265
+    },
+    {
+      "text": "teams",
+      "startMs": 22496
+    },
+    {
+      "text": "placed",
+      "startMs": 23156
+    },
+    {
+      "text": "electrodes",
+      "startMs": 23492
+    },
+    {
+      "text": "over",
+      "startMs": 24290
+    },
+    {
+      "text": "those",
+      "startMs": 24475
+    },
+    {
+      "text": "regions",
+      "startMs": 24707
+    },
+    {
+      "text": "and",
+      "startMs": 25424
+    },
+    {
+      "text": "trained",
+      "startMs": 25598
+    },
+    {
+      "text": "models",
+      "startMs": 25992
+    },
+    {
+      "text": "to",
+      "startMs": 26651
+    },
+    {
+      "text": "read",
+      "startMs": 26778
+    },
+    {
+      "text": "the",
+      "startMs": 27022
+    },
+    {
+      "text": "instructions",
+      "startMs": 27091
+    },
+    {
+      "text": "directly",
+      "startMs": 27762
+    },
+    {
+      "text": "Attempted",
+      "startMs": 29067
+    },
+    {
+      "text": "speech",
+      "startMs": 29426
+    },
+    {
+      "text": "decoded",
+      "startMs": 30224
+    },
+    {
+      "text": "into",
+      "startMs": 30745
+    },
+    {
+      "text": "text",
+      "startMs": 30930
+    },
+    {
+      "text": "in",
+      "startMs": 31764
+    },
+    {
+      "text": "close",
+      "startMs": 31868
+    },
+    {
+      "text": "to",
+      "startMs": 32308
+    },
+    {
+      "text": "real",
+      "startMs": 32447
+    },
+    {
+      "text": "time",
+      "startMs": 32759
+    },
+    {
+      "text": "For",
+      "startMs": 34052
+    },
+    {
+      "text": "years",
+      "startMs": 34136
+    },
+    {
+      "text": "the",
+      "startMs": 34413
+    },
+    {
+      "text": "assumption",
+      "startMs": 34509
+    },
+    {
+      "text": "was",
+      "startMs": 35050
+    },
+    {
+      "text": "that",
+      "startMs": 35182
+    },
+    {
+      "text": "silence",
+      "startMs": 35374
+    },
+    {
+      "text": "meant",
+      "startMs": 36192
+    },
+    {
+      "text": "the",
+      "startMs": 36420
+    },
+    {
+      "text": "message",
+      "startMs": 36492
+    },
+    {
+      "text": "was",
+      "startMs": 36949
+    },
+    {
+      "text": "gone",
+      "startMs": 37117
+    },
+    {
+      "text": "It",
+      "startMs": 38179
+    },
+    {
+      "text": "was",
+      "startMs": 38244
+    },
+    {
+      "text": "not",
+      "startMs": 38361
+    },
+    {
+      "text": "The",
+      "startMs": 40336
+    },
+    {
+      "text": "letter",
+      "startMs": 40408
+    },
+    {
+      "text": "was",
+      "startMs": 40649
+    },
+    {
+      "text": "written",
+      "startMs": 40805
+    },
+    {
+      "text": "every",
+      "startMs": 41394
+    },
+    {
+      "text": "time",
+      "startMs": 41634
+    },
+    {
+      "text": "The",
+      "startMs": 42740
+    },
+    {
+      "text": "post",
+      "startMs": 42788
+    },
+    {
+      "text": "office",
+      "startMs": 43065
+    },
+    {
+      "text": "had",
+      "startMs": 43365
+    },
+    {
+      "text": "closed",
+      "startMs": 43485
+    },
+    {
+      "text": "What",
+      "startMs": 44880
+    },
+    {
+      "text": "these",
+      "startMs": 44988
+    },
+    {
+      "text": "systems",
+      "startMs": 45169
+    },
+    {
+      "text": "do",
+      "startMs": 45541
+    },
+    {
+      "text": "is",
+      "startMs": 45818
+    },
+    {
+      "text": "reopen",
+      "startMs": 45938
+    },
+    {
+      "text": "it",
+      "startMs": 46395
+    },
+    {
+      "text": "and",
+      "startMs": 46935
+    },
+    {
+      "text": "what",
+      "startMs": 47020
+    },
+    {
+      "text": "they",
+      "startMs": 47140
+    },
+    {
+      "text": "decode",
+      "startMs": 47344
+    },
+    {
+      "text": "is",
+      "startMs": 48197
+    },
+    {
+      "text": "the",
+      "startMs": 48306
+    },
+    {
+      "text": "attempt",
+      "startMs": 48414
+    },
+    {
+      "text": "to",
+      "startMs": 48774
+    },
+    {
+      "text": "speak",
+      "startMs": 48858
+    },
+    {
+      "text": "not",
+      "startMs": 49640
+    },
+    {
+      "text": "private",
+      "startMs": 49856
+    },
+    {
+      "text": "thought",
+      "startMs": 50193
+    },
+    {
+      "text": "That",
+      "startMs": 51316
+    },
+    {
+      "text": "distinction",
+      "startMs": 51472
+    },
+    {
+      "text": "matters",
+      "startMs": 52049
+    },
+    {
+      "text": "more",
+      "startMs": 52554
+    },
+    {
+      "text": "every",
+      "startMs": 53071
+    },
+    {
+      "text": "year",
+      "startMs": 53371
+    },
+    {
+      "text": "because",
+      "startMs": 54020
+    },
+    {
+      "text": "it",
+      "startMs": 54345
+    },
+    {
+      "text": "is",
+      "startMs": 54429
+    },
+    {
+      "text": "the",
+      "startMs": 54525
+    },
+    {
+      "text": "line",
+      "startMs": 54634
+    },
+    {
+      "text": "everything",
+      "startMs": 55210
+    },
+    {
+      "text": "built",
+      "startMs": 55691
+    },
+    {
+      "text": "after",
+      "startMs": 56208
+    },
+    {
+      "text": "this",
+      "startMs": 56484
+    },
+    {
+      "text": "will",
+      "startMs": 56665
+    },
+    {
+      "text": "be",
+      "startMs": 56737
+    },
+    {
+      "text": "measured",
+      "startMs": 56833
+    },
+    {
+      "text": "against",
+      "startMs": 57158
+    },
+    {
+      "text": "The",
+      "startMs": 58576
+    },
+    {
+      "text": "message",
+      "startMs": 58616
+    },
+    {
+      "text": "was",
+      "startMs": 58975
+    },
+    {
+      "text": "always",
+      "startMs": 59321
+    },
+    {
+      "text": "sending",
+      "startMs": 59747
+    },
+    {
+      "text": "Nobody",
+      "startMs": 61012
+    },
+    {
+      "text": "was",
+      "startMs": 61317
+    },
+    {
+      "text": "collecting",
+      "startMs": 61491
+    },
+    {
+      "text": "it",
+      "startMs": 62087
+    },
+    {
+      "text": "Until",
+      "startMs": 63106
+    }
+  ]
 }

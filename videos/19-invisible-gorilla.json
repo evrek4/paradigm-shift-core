@@ -10,12 +10,22 @@
         0,
         0.5
       ],
-      "seconds": 3.0,
+      "seconds": 5.67,
       "text": "Attention does not add detail. It deletes everything else.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/19-invisible-gorilla/v1-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v1-2.mp3",
+          "atMs": 2872
+        }
+      ]
     },
     {
       "image": "videos/19-invisible-gorilla/G3.jpg",
@@ -26,12 +36,42 @@
         0,
         0.455
       ],
-      "seconds": 22.0,
+      "seconds": 24.09,
       "text": "Nineteen ninety nine. Simons and Chabris filmed students passing a basketball and asked viewers to count the passes. Midway through, a person in a gorilla suit walks into frame, stops, beats their chest, and strolls out. It takes nine seconds. About half of all viewers never see it. Not glance past it. Never register that it happened.",
       "delivery": {
         "rate": 8,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/19-invisible-gorilla/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v2-2.mp3",
+          "atMs": 2152
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v2-3.mp3",
+          "atMs": 8312
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v2-4.mp3",
+          "atMs": 14736
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v2-5.mp3",
+          "atMs": 16840
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v2-6.mp3",
+          "atMs": 19856
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v2-7.mp3",
+          "atMs": 22008
+        }
+      ]
     },
     {
       "image": "videos/19-invisible-gorilla/G5.jpg",
@@ -42,12 +82,38 @@
         0,
         0.4
       ],
-      "seconds": 20.0,
+      "seconds": 23.23,
       "text": "This is not carelessness. It is the design working. Your senses take in far more than your brain can process, so attention acts as a budget, and anything outside the task gets spent down to nothing. The unsettling part is the second finding. The people who missed it were completely certain nothing had been there. The deletion leaves no receipt.",
       "delivery": {
         "rate": 4,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/19-invisible-gorilla/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v3-2.mp3",
+          "atMs": 2128
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v3-3.mp3",
+          "atMs": 4280
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v3-4.mp3",
+          "atMs": 13296
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v3-5.mp3",
+          "atMs": 16552
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v3-6.mp3",
+          "atMs": 20456
+        }
+      ]
     },
     {
       "image": "videos/19-invisible-gorilla/G7.jpg",
@@ -58,16 +124,588 @@
         0,
         0.5
       ],
-      "seconds": 5.0,
+      "seconds": 4.62,
       "text": "You will never know what you did not see. Which is the point, because",
       "delivery": {
         "rate": -6,
         "pitch": -3,
         "volume": -5
       },
-      "stillLast": true
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/19-invisible-gorilla/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/19-invisible-gorilla/v4-2.mp3",
+          "atMs": 2656
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
-  "musicVolume": 0.2
+  "musicVolume": 0.2,
+  "words": [
+    {
+      "text": "Attention",
+      "startMs": 104
+    },
+    {
+      "text": "does",
+      "startMs": 612
+    },
+    {
+      "text": "not",
+      "startMs": 794
+    },
+    {
+      "text": "add",
+      "startMs": 1380
+    },
+    {
+      "text": "detail",
+      "startMs": 1602
+    },
+    {
+      "text": "It",
+      "startMs": 2986
+    },
+    {
+      "text": "deletes",
+      "startMs": 3057
+    },
+    {
+      "text": "everything",
+      "startMs": 3838
+    },
+    {
+      "text": "else",
+      "startMs": 4278
+    },
+    {
+      "text": "Nineteen",
+      "startMs": 5745
+    },
+    {
+      "text": "ninety",
+      "startMs": 6158
+    },
+    {
+      "text": "nine",
+      "startMs": 6408
+    },
+    {
+      "text": "Simons",
+      "startMs": 7915
+    },
+    {
+      "text": "and",
+      "startMs": 8493
+    },
+    {
+      "text": "Chabris",
+      "startMs": 8597
+    },
+    {
+      "text": "filmed",
+      "startMs": 9304
+    },
+    {
+      "text": "students",
+      "startMs": 9662
+    },
+    {
+      "text": "passing",
+      "startMs": 10102
+    },
+    {
+      "text": "a",
+      "startMs": 10519
+    },
+    {
+      "text": "basketball",
+      "startMs": 10565
+    },
+    {
+      "text": "and",
+      "startMs": 11549
+    },
+    {
+      "text": "asked",
+      "startMs": 11665
+    },
+    {
+      "text": "viewers",
+      "startMs": 11942
+    },
+    {
+      "text": "to",
+      "startMs": 12382
+    },
+    {
+      "text": "count",
+      "startMs": 12463
+    },
+    {
+      "text": "the",
+      "startMs": 12683
+    },
+    {
+      "text": "passes",
+      "startMs": 12741
+    },
+    {
+      "text": "Midway",
+      "startMs": 14063
+    },
+    {
+      "text": "through",
+      "startMs": 14422
+    },
+    {
+      "text": "a",
+      "startMs": 14665
+    },
+    {
+      "text": "person",
+      "startMs": 14781
+    },
+    {
+      "text": "in",
+      "startMs": 15093
+    },
+    {
+      "text": "a",
+      "startMs": 15139
+    },
+    {
+      "text": "gorilla",
+      "startMs": 15197
+    },
+    {
+      "text": "suit",
+      "startMs": 15544
+    },
+    {
+      "text": "walks",
+      "startMs": 15834
+    },
+    {
+      "text": "into",
+      "startMs": 16216
+    },
+    {
+      "text": "frame",
+      "startMs": 16332
+    },
+    {
+      "text": "stops",
+      "startMs": 17153
+    },
+    {
+      "text": "beats",
+      "startMs": 17871
+    },
+    {
+      "text": "their",
+      "startMs": 18126
+    },
+    {
+      "text": "chest",
+      "startMs": 18276
+    },
+    {
+      "text": "and",
+      "startMs": 19017
+    },
+    {
+      "text": "strolls",
+      "startMs": 19086
+    },
+    {
+      "text": "out",
+      "startMs": 19491
+    },
+    {
+      "text": "It",
+      "startMs": 20506
+    },
+    {
+      "text": "takes",
+      "startMs": 20581
+    },
+    {
+      "text": "nine",
+      "startMs": 20844
+    },
+    {
+      "text": "seconds",
+      "startMs": 21218
+    },
+    {
+      "text": "About",
+      "startMs": 22603
+    },
+    {
+      "text": "half",
+      "startMs": 22788
+    },
+    {
+      "text": "of",
+      "startMs": 23262
+    },
+    {
+      "text": "all",
+      "startMs": 23517
+    },
+    {
+      "text": "viewers",
+      "startMs": 23806
+    },
+    {
+      "text": "never",
+      "startMs": 24269
+    },
+    {
+      "text": "see",
+      "startMs": 24501
+    },
+    {
+      "text": "it",
+      "startMs": 24744
+    },
+    {
+      "text": "Not",
+      "startMs": 25614
+    },
+    {
+      "text": "glance",
+      "startMs": 25776
+    },
+    {
+      "text": "past",
+      "startMs": 26101
+    },
+    {
+      "text": "it",
+      "startMs": 26514
+    },
+    {
+      "text": "Never",
+      "startMs": 27759
+    },
+    {
+      "text": "register",
+      "startMs": 27990
+    },
+    {
+      "text": "that",
+      "startMs": 28419
+    },
+    {
+      "text": "it",
+      "startMs": 28523
+    },
+    {
+      "text": "happened",
+      "startMs": 28558
+    },
+    {
+      "text": "This",
+      "startMs": 29864
+    },
+    {
+      "text": "is",
+      "startMs": 30020
+    },
+    {
+      "text": "not",
+      "startMs": 30125
+    },
+    {
+      "text": "carelessness",
+      "startMs": 30372
+    },
+    {
+      "text": "It",
+      "startMs": 31984
+    },
+    {
+      "text": "is",
+      "startMs": 32056
+    },
+    {
+      "text": "the",
+      "startMs": 32128
+    },
+    {
+      "text": "design",
+      "startMs": 32200
+    },
+    {
+      "text": "working",
+      "startMs": 32621
+    },
+    {
+      "text": "Your",
+      "startMs": 34124
+    },
+    {
+      "text": "senses",
+      "startMs": 34232
+    },
+    {
+      "text": "take",
+      "startMs": 34629
+    },
+    {
+      "text": "in",
+      "startMs": 34845
+    },
+    {
+      "text": "far",
+      "startMs": 34941
+    },
+    {
+      "text": "more",
+      "startMs": 35362
+    },
+    {
+      "text": "than",
+      "startMs": 35687
+    },
+    {
+      "text": "your",
+      "startMs": 35783
+    },
+    {
+      "text": "brain",
+      "startMs": 35891
+    },
+    {
+      "text": "can",
+      "startMs": 36228
+    },
+    {
+      "text": "process",
+      "startMs": 36336
+    },
+    {
+      "text": "so",
+      "startMs": 37393
+    },
+    {
+      "text": "attention",
+      "startMs": 37562
+    },
+    {
+      "text": "acts",
+      "startMs": 37994
+    },
+    {
+      "text": "as",
+      "startMs": 38487
+    },
+    {
+      "text": "a",
+      "startMs": 38643
+    },
+    {
+      "text": "budget",
+      "startMs": 38703
+    },
+    {
+      "text": "and",
+      "startMs": 39533
+    },
+    {
+      "text": "anything",
+      "startMs": 39821
+    },
+    {
+      "text": "outside",
+      "startMs": 40230
+    },
+    {
+      "text": "the",
+      "startMs": 40735
+    },
+    {
+      "text": "task",
+      "startMs": 40807
+    },
+    {
+      "text": "gets",
+      "startMs": 41203
+    },
+    {
+      "text": "spent",
+      "startMs": 41360
+    },
+    {
+      "text": "down",
+      "startMs": 41648
+    },
+    {
+      "text": "to",
+      "startMs": 41901
+    },
+    {
+      "text": "nothing",
+      "startMs": 41973
+    },
+    {
+      "text": "The",
+      "startMs": 43140
+    },
+    {
+      "text": "unsettling",
+      "startMs": 43248
+    },
+    {
+      "text": "part",
+      "startMs": 43813
+    },
+    {
+      "text": "is",
+      "startMs": 44486
+    },
+    {
+      "text": "the",
+      "startMs": 44594
+    },
+    {
+      "text": "second",
+      "startMs": 44679
+    },
+    {
+      "text": "finding",
+      "startMs": 45171
+    },
+    {
+      "text": "The",
+      "startMs": 46408
+    },
+    {
+      "text": "people",
+      "startMs": 46468
+    },
+    {
+      "text": "who",
+      "startMs": 46781
+    },
+    {
+      "text": "missed",
+      "startMs": 46865
+    },
+    {
+      "text": "it",
+      "startMs": 47322
+    },
+    {
+      "text": "were",
+      "startMs": 47382
+    },
+    {
+      "text": "completely",
+      "startMs": 47514
+    },
+    {
+      "text": "certain",
+      "startMs": 48139
+    },
+    {
+      "text": "nothing",
+      "startMs": 48524
+    },
+    {
+      "text": "had",
+      "startMs": 48824
+    },
+    {
+      "text": "been",
+      "startMs": 48980
+    },
+    {
+      "text": "there",
+      "startMs": 49209
+    },
+    {
+      "text": "The",
+      "startMs": 50312
+    },
+    {
+      "text": "deletion",
+      "startMs": 50360
+    },
+    {
+      "text": "leaves",
+      "startMs": 51045
+    },
+    {
+      "text": "no",
+      "startMs": 51322
+    },
+    {
+      "text": "receipt",
+      "startMs": 51658
+    },
+    {
+      "text": "You",
+      "startMs": 53096
+    },
+    {
+      "text": "will",
+      "startMs": 53176
+    },
+    {
+      "text": "never",
+      "startMs": 53283
+    },
+    {
+      "text": "know",
+      "startMs": 53615
+    },
+    {
+      "text": "what",
+      "startMs": 53868
+    },
+    {
+      "text": "you",
+      "startMs": 54001
+    },
+    {
+      "text": "did",
+      "startMs": 54094
+    },
+    {
+      "text": "not",
+      "startMs": 54240
+    },
+    {
+      "text": "see",
+      "startMs": 54519
+    },
+    {
+      "text": "Which",
+      "startMs": 55752
+    },
+    {
+      "text": "is",
+      "startMs": 55859
+    },
+    {
+      "text": "the",
+      "startMs": 55978
+    },
+    {
+      "text": "point",
+      "startMs": 56098
+    },
+    {
+      "text": "because",
+      "startMs": 56537
+    }
+  ]
 }

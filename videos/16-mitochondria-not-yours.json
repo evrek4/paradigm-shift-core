@@ -10,12 +10,18 @@
         0,
         0.5
       ],
-      "seconds": 3.0,
+      "seconds": 5.85,
       "text": "The thing powering you right now has its own DNA, and it is not yours.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/16-mitochondria-not-yours/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
     },
     {
       "image": "videos/16-mitochondria-not-yours/G3.jpg",
@@ -26,12 +32,34 @@
         0,
         0.455
       ],
-      "seconds": 22.0,
+      "seconds": 26.07,
       "text": "Roughly a billion and a half years ago, one single celled organism swallowed another and failed to digest it. The passenger stayed. It kept its own genome, its own membrane, and its own way of dividing. Today it sits in almost every cell you have, converting your food into usable energy. Your mitochondria still carry their own DNA, inherited only from your mother.",
       "delivery": {
         "rate": 8,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/16-mitochondria-not-yours/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v2-2.mp3",
+          "atMs": 7648
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v2-3.mp3",
+          "atMs": 9800
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v2-4.mp3",
+          "atMs": 14712
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v2-5.mp3",
+          "atMs": 20440
+        }
+      ]
     },
     {
       "image": "videos/16-mitochondria-not-yours/G5.jpg",
@@ -42,12 +70,46 @@
         0,
         0.4
       ],
-      "seconds": 20.0,
+      "seconds": 31.67,
       "text": "Not a conquest. A merger that never unwound. Two organisms stopped competing and started trading, and the arrangement held for a billion years. Everything complex that followed, every animal, every tree, every one of us, is built on that one truce. And there is more. By cell count, your body hosts roughly as many bacterial cells as human ones. You are not an individual. You are a settlement.",
       "delivery": {
         "rate": 4,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/16-mitochondria-not-yours/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v3-2.mp3",
+          "atMs": 2152
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v3-3.mp3",
+          "atMs": 4832
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v3-4.mp3",
+          "atMs": 11184
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v3-5.mp3",
+          "atMs": 19048
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v3-6.mp3",
+          "atMs": 21200
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v3-7.mp3",
+          "atMs": 27192
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v3-8.mp3",
+          "atMs": 29344
+        }
+      ]
     },
     {
       "image": "videos/16-mitochondria-not-yours/G7.jpg",
@@ -58,16 +120,664 @@
         0,
         0.5
       ],
-      "seconds": 5.0,
+      "seconds": 5.91,
       "text": "You were never one thing. You are a truce that held. Because",
       "delivery": {
         "rate": -6,
         "pitch": -3,
         "volume": -5
       },
-      "stillLast": true
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/16-mitochondria-not-yours/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v4-2.mp3",
+          "atMs": 1888
+        },
+        {
+          "src": "videos/16-mitochondria-not-yours/v4-3.mp3",
+          "atMs": 4040
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
-  "musicVolume": 0.2
+  "musicVolume": 0.2,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 117
+    },
+    {
+      "text": "thing",
+      "startMs": 195
+    },
+    {
+      "text": "powering",
+      "startMs": 430
+    },
+    {
+      "text": "you",
+      "startMs": 990
+    },
+    {
+      "text": "right",
+      "startMs": 1172
+    },
+    {
+      "text": "now",
+      "startMs": 1419
+    },
+    {
+      "text": "has",
+      "startMs": 2005
+    },
+    {
+      "text": "its",
+      "startMs": 2253
+    },
+    {
+      "text": "own",
+      "startMs": 2357
+    },
+    {
+      "text": "DNA",
+      "startMs": 2526
+    },
+    {
+      "text": "and",
+      "startMs": 3607
+    },
+    {
+      "text": "it",
+      "startMs": 3945
+    },
+    {
+      "text": "is",
+      "startMs": 4023
+    },
+    {
+      "text": "not",
+      "startMs": 4128
+    },
+    {
+      "text": "yours",
+      "startMs": 4492
+    },
+    {
+      "text": "Roughly",
+      "startMs": 5943
+    },
+    {
+      "text": "a",
+      "startMs": 6267
+    },
+    {
+      "text": "billion",
+      "startMs": 6452
+    },
+    {
+      "text": "and",
+      "startMs": 7077
+    },
+    {
+      "text": "a",
+      "startMs": 7193
+    },
+    {
+      "text": "half",
+      "startMs": 7227
+    },
+    {
+      "text": "years",
+      "startMs": 7575
+    },
+    {
+      "text": "ago",
+      "startMs": 7852
+    },
+    {
+      "text": "one",
+      "startMs": 8512
+    },
+    {
+      "text": "single",
+      "startMs": 8790
+    },
+    {
+      "text": "celled",
+      "startMs": 9160
+    },
+    {
+      "text": "organism",
+      "startMs": 9727
+    },
+    {
+      "text": "swallowed",
+      "startMs": 10364
+    },
+    {
+      "text": "another",
+      "startMs": 10838
+    },
+    {
+      "text": "and",
+      "startMs": 11614
+    },
+    {
+      "text": "failed",
+      "startMs": 11672
+    },
+    {
+      "text": "to",
+      "startMs": 12135
+    },
+    {
+      "text": "digest",
+      "startMs": 12193
+    },
+    {
+      "text": "it",
+      "startMs": 12737
+    },
+    {
+      "text": "The",
+      "startMs": 13598
+    },
+    {
+      "text": "passenger",
+      "startMs": 13660
+    },
+    {
+      "text": "stayed",
+      "startMs": 14186
+    },
+    {
+      "text": "It",
+      "startMs": 15743
+    },
+    {
+      "text": "kept",
+      "startMs": 15824
+    },
+    {
+      "text": "its",
+      "startMs": 16032
+    },
+    {
+      "text": "own",
+      "startMs": 16136
+    },
+    {
+      "text": "genome",
+      "startMs": 16391
+    },
+    {
+      "text": "its",
+      "startMs": 17166
+    },
+    {
+      "text": "own",
+      "startMs": 17432
+    },
+    {
+      "text": "membrane",
+      "startMs": 17675
+    },
+    {
+      "text": "and",
+      "startMs": 18590
+    },
+    {
+      "text": "its",
+      "startMs": 18671
+    },
+    {
+      "text": "own",
+      "startMs": 18798
+    },
+    {
+      "text": "way",
+      "startMs": 19030
+    },
+    {
+      "text": "of",
+      "startMs": 19307
+    },
+    {
+      "text": "dividing",
+      "startMs": 19388
+    },
+    {
+      "text": "Today",
+      "startMs": 20655
+    },
+    {
+      "text": "it",
+      "startMs": 20932
+    },
+    {
+      "text": "sits",
+      "startMs": 21002
+    },
+    {
+      "text": "in",
+      "startMs": 21233
+    },
+    {
+      "text": "almost",
+      "startMs": 21314
+    },
+    {
+      "text": "every",
+      "startMs": 21824
+    },
+    {
+      "text": "cell",
+      "startMs": 22124
+    },
+    {
+      "text": "you",
+      "startMs": 22414
+    },
+    {
+      "text": "have",
+      "startMs": 22530
+    },
+    {
+      "text": "converting",
+      "startMs": 23259
+    },
+    {
+      "text": "your",
+      "startMs": 23675
+    },
+    {
+      "text": "food",
+      "startMs": 23791
+    },
+    {
+      "text": "into",
+      "startMs": 24509
+    },
+    {
+      "text": "usable",
+      "startMs": 24706
+    },
+    {
+      "text": "energy",
+      "startMs": 25250
+    },
+    {
+      "text": "Your",
+      "startMs": 26371
+    },
+    {
+      "text": "mitochondria",
+      "startMs": 26440
+    },
+    {
+      "text": "still",
+      "startMs": 27401
+    },
+    {
+      "text": "carry",
+      "startMs": 27772
+    },
+    {
+      "text": "their",
+      "startMs": 28049
+    },
+    {
+      "text": "own",
+      "startMs": 28269
+    },
+    {
+      "text": "DNA",
+      "startMs": 28558
+    },
+    {
+      "text": "inherited",
+      "startMs": 29542
+    },
+    {
+      "text": "only",
+      "startMs": 30260
+    },
+    {
+      "text": "from",
+      "startMs": 30538
+    },
+    {
+      "text": "your",
+      "startMs": 30677
+    },
+    {
+      "text": "mother",
+      "startMs": 30758
+    },
+    {
+      "text": "Not",
+      "startMs": 32011
+    },
+    {
+      "text": "a",
+      "startMs": 32141
+    },
+    {
+      "text": "conquest",
+      "startMs": 32193
+    },
+    {
+      "text": "A",
+      "startMs": 34144
+    },
+    {
+      "text": "merger",
+      "startMs": 34192
+    },
+    {
+      "text": "that",
+      "startMs": 34901
+    },
+    {
+      "text": "never",
+      "startMs": 35046
+    },
+    {
+      "text": "unwound",
+      "startMs": 35538
+    },
+    {
+      "text": "Two",
+      "startMs": 36848
+    },
+    {
+      "text": "organisms",
+      "startMs": 37064
+    },
+    {
+      "text": "stopped",
+      "startMs": 37786
+    },
+    {
+      "text": "competing",
+      "startMs": 38194
+    },
+    {
+      "text": "and",
+      "startMs": 38940
+    },
+    {
+      "text": "started",
+      "startMs": 39072
+    },
+    {
+      "text": "trading",
+      "startMs": 39480
+    },
+    {
+      "text": "and",
+      "startMs": 40322
+    },
+    {
+      "text": "the",
+      "startMs": 40358
+    },
+    {
+      "text": "arrangement",
+      "startMs": 40418
+    },
+    {
+      "text": "held",
+      "startMs": 40947
+    },
+    {
+      "text": "for",
+      "startMs": 41391
+    },
+    {
+      "text": "a",
+      "startMs": 41572
+    },
+    {
+      "text": "billion",
+      "startMs": 41620
+    },
+    {
+      "text": "years",
+      "startMs": 41944
+    },
+    {
+      "text": "Everything",
+      "startMs": 43188
+    },
+    {
+      "text": "complex",
+      "startMs": 43645
+    },
+    {
+      "text": "that",
+      "startMs": 44294
+    },
+    {
+      "text": "followed",
+      "startMs": 44486
+    },
+    {
+      "text": "every",
+      "startMs": 45304
+    },
+    {
+      "text": "animal",
+      "startMs": 45580
+    },
+    {
+      "text": "every",
+      "startMs": 46409
+    },
+    {
+      "text": "tree",
+      "startMs": 46710
+    },
+    {
+      "text": "every",
+      "startMs": 47479
+    },
+    {
+      "text": "one",
+      "startMs": 47743
+    },
+    {
+      "text": "of",
+      "startMs": 47924
+    },
+    {
+      "text": "us",
+      "startMs": 48008
+    },
+    {
+      "text": "is",
+      "startMs": 48621
+    },
+    {
+      "text": "built",
+      "startMs": 48753
+    },
+    {
+      "text": "on",
+      "startMs": 49054
+    },
+    {
+      "text": "that",
+      "startMs": 49174
+    },
+    {
+      "text": "one",
+      "startMs": 49366
+    },
+    {
+      "text": "truce",
+      "startMs": 49642
+    },
+    {
+      "text": "And",
+      "startMs": 51046
+    },
+    {
+      "text": "there",
+      "startMs": 51098
+    },
+    {
+      "text": "is",
+      "startMs": 51215
+    },
+    {
+      "text": "more",
+      "startMs": 51320
+    },
+    {
+      "text": "By",
+      "startMs": 53216
+    },
+    {
+      "text": "cell",
+      "startMs": 53324
+    },
+    {
+      "text": "count",
+      "startMs": 53625
+    },
+    {
+      "text": "your",
+      "startMs": 54442
+    },
+    {
+      "text": "body",
+      "startMs": 54538
+    },
+    {
+      "text": "hosts",
+      "startMs": 54863
+    },
+    {
+      "text": "roughly",
+      "startMs": 55211
+    },
+    {
+      "text": "as",
+      "startMs": 55872
+    },
+    {
+      "text": "many",
+      "startMs": 56113
+    },
+    {
+      "text": "bacterial",
+      "startMs": 56606
+    },
+    {
+      "text": "cells",
+      "startMs": 57207
+    },
+    {
+      "text": "as",
+      "startMs": 57627
+    },
+    {
+      "text": "human",
+      "startMs": 57711
+    },
+    {
+      "text": "ones",
+      "startMs": 58012
+    },
+    {
+      "text": "You",
+      "startMs": 59208
+    },
+    {
+      "text": "are",
+      "startMs": 59304
+    },
+    {
+      "text": "not",
+      "startMs": 59400
+    },
+    {
+      "text": "an",
+      "startMs": 59869
+    },
+    {
+      "text": "individual",
+      "startMs": 59953
+    },
+    {
+      "text": "You",
+      "startMs": 61368
+    },
+    {
+      "text": "are",
+      "startMs": 61498
+    },
+    {
+      "text": "a",
+      "startMs": 61603
+    },
+    {
+      "text": "settlement",
+      "startMs": 61655
+    },
+    {
+      "text": "You",
+      "startMs": 63696
+    },
+    {
+      "text": "were",
+      "startMs": 63789
+    },
+    {
+      "text": "never",
+      "startMs": 63883
+    },
+    {
+      "text": "one",
+      "startMs": 64188
+    },
+    {
+      "text": "thing",
+      "startMs": 64401
+    },
+    {
+      "text": "You",
+      "startMs": 65558
+    },
+    {
+      "text": "are",
+      "startMs": 65651
+    },
+    {
+      "text": "a",
+      "startMs": 65757
+    },
+    {
+      "text": "truce",
+      "startMs": 65824
+    },
+    {
+      "text": "that",
+      "startMs": 66356
+    },
+    {
+      "text": "held",
+      "startMs": 66515
+    },
+    {
+      "text": "Because",
+      "startMs": 67746
+    }
+  ]
 }

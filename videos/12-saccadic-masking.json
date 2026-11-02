@@ -10,12 +10,18 @@
         0,
         0.5
       ],
-      "seconds": 3.0,
+      "seconds": 4.07,
       "text": "You went blind three times while reading that sentence.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/12-saccadic-masking/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
     },
     {
       "image": "videos/12-saccadic-masking/G3.jpg",
@@ -26,12 +32,34 @@
         0,
         0.455
       ],
-      "seconds": 22.0,
+      "seconds": 22.16,
       "text": "Your eyes do not glide. They jump, several times a second, and during every jump the image smears into useless streaks. You never see that smear. Your brain cuts it out and stitches the two clean ends together, then backdates the result so the gap disappears. Add the cuts up and it is a meaningful slice of your waking day, deleted.",
       "delivery": {
         "rate": 8,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/12-saccadic-masking/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/12-saccadic-masking/v2-2.mp3",
+          "atMs": 2152
+        },
+        {
+          "src": "videos/12-saccadic-masking/v2-3.mp3",
+          "atMs": 8648
+        },
+        {
+          "src": "videos/12-saccadic-masking/v2-4.mp3",
+          "atMs": 10632
+        },
+        {
+          "src": "videos/12-saccadic-masking/v2-5.mp3",
+          "atMs": 17632
+        }
+      ]
     },
     {
       "image": "videos/12-saccadic-masking/G5.jpg",
@@ -42,12 +70,38 @@
         0,
         0.4
       ],
-      "seconds": 20.0,
+      "seconds": 20.43,
       "text": "There is a tell. Glance at an analog clock and the first second looks too long. That is the stitch. Your brain stretched the frame it kept to cover the frames it threw away. Which means vision is not a window. It is an edit, delivered so smoothly you have never once noticed the cut.",
       "delivery": {
         "rate": 4,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/12-saccadic-masking/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/12-saccadic-masking/v3-2.mp3",
+          "atMs": 2152
+        },
+        {
+          "src": "videos/12-saccadic-masking/v3-3.mp3",
+          "atMs": 6128
+        },
+        {
+          "src": "videos/12-saccadic-masking/v3-4.mp3",
+          "atMs": 8280
+        },
+        {
+          "src": "videos/12-saccadic-masking/v3-5.mp3",
+          "atMs": 12928
+        },
+        {
+          "src": "videos/12-saccadic-masking/v3-6.mp3",
+          "atMs": 15704
+        }
+      ]
     },
     {
       "image": "videos/12-saccadic-masking/G7.jpg",
@@ -58,16 +112,588 @@
         0,
         0.5
       ],
-      "seconds": 5.0,
+      "seconds": 6.46,
       "text": "The footage was always missing. You just never saw the splice. Which is how",
       "delivery": {
         "rate": -6,
         "pitch": -3,
         "volume": -5
       },
-      "stillLast": true
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/12-saccadic-masking/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/12-saccadic-masking/v4-2.mp3",
+          "atMs": 2296
+        },
+        {
+          "src": "videos/12-saccadic-masking/v4-3.mp3",
+          "atMs": 4592
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
-  "musicVolume": 0.2
+  "musicVolume": 0.2,
+  "words": [
+    {
+      "text": "You",
+      "startMs": 104
+    },
+    {
+      "text": "went",
+      "startMs": 182
+    },
+    {
+      "text": "blind",
+      "startMs": 378
+    },
+    {
+      "text": "three",
+      "startMs": 1120
+    },
+    {
+      "text": "times",
+      "startMs": 1497
+    },
+    {
+      "text": "while",
+      "startMs": 1966
+    },
+    {
+      "text": "reading",
+      "startMs": 2214
+    },
+    {
+      "text": "that",
+      "startMs": 2474
+    },
+    {
+      "text": "sentence",
+      "startMs": 2617
+    },
+    {
+      "text": "Your",
+      "startMs": 4163
+    },
+    {
+      "text": "eyes",
+      "startMs": 4232
+    },
+    {
+      "text": "do",
+      "startMs": 4475
+    },
+    {
+      "text": "not",
+      "startMs": 4591
+    },
+    {
+      "text": "glide",
+      "startMs": 4857
+    },
+    {
+      "text": "They",
+      "startMs": 6315
+    },
+    {
+      "text": "jump",
+      "startMs": 6430
+    },
+    {
+      "text": "several",
+      "startMs": 7067
+    },
+    {
+      "text": "times",
+      "startMs": 7414
+    },
+    {
+      "text": "a",
+      "startMs": 7692
+    },
+    {
+      "text": "second",
+      "startMs": 7727
+    },
+    {
+      "text": "and",
+      "startMs": 8514
+    },
+    {
+      "text": "during",
+      "startMs": 8606
+    },
+    {
+      "text": "every",
+      "startMs": 9104
+    },
+    {
+      "text": "jump",
+      "startMs": 9393
+    },
+    {
+      "text": "the",
+      "startMs": 9740
+    },
+    {
+      "text": "image",
+      "startMs": 9937
+    },
+    {
+      "text": "smears",
+      "startMs": 10296
+    },
+    {
+      "text": "into",
+      "startMs": 10921
+    },
+    {
+      "text": "useless",
+      "startMs": 11083
+    },
+    {
+      "text": "streaks",
+      "startMs": 11523
+    },
+    {
+      "text": "You",
+      "startMs": 12811
+    },
+    {
+      "text": "never",
+      "startMs": 12868
+    },
+    {
+      "text": "see",
+      "startMs": 13088
+    },
+    {
+      "text": "that",
+      "startMs": 13412
+    },
+    {
+      "text": "smear",
+      "startMs": 13586
+    },
+    {
+      "text": "Your",
+      "startMs": 14795
+    },
+    {
+      "text": "brain",
+      "startMs": 14876
+    },
+    {
+      "text": "cuts",
+      "startMs": 15258
+    },
+    {
+      "text": "it",
+      "startMs": 15443
+    },
+    {
+      "text": "out",
+      "startMs": 15512
+    },
+    {
+      "text": "and",
+      "startMs": 15929
+    },
+    {
+      "text": "stitches",
+      "startMs": 16033
+    },
+    {
+      "text": "the",
+      "startMs": 16484
+    },
+    {
+      "text": "two",
+      "startMs": 16577
+    },
+    {
+      "text": "clean",
+      "startMs": 16890
+    },
+    {
+      "text": "ends",
+      "startMs": 17434
+    },
+    {
+      "text": "together",
+      "startMs": 17630
+    },
+    {
+      "text": "then",
+      "startMs": 18440
+    },
+    {
+      "text": "backdates",
+      "startMs": 18649
+    },
+    {
+      "text": "the",
+      "startMs": 19146
+    },
+    {
+      "text": "result",
+      "startMs": 19227
+    },
+    {
+      "text": "so",
+      "startMs": 19841
+    },
+    {
+      "text": "the",
+      "startMs": 19957
+    },
+    {
+      "text": "gap",
+      "startMs": 20049
+    },
+    {
+      "text": "disappears",
+      "startMs": 20339
+    },
+    {
+      "text": "Add",
+      "startMs": 21783
+    },
+    {
+      "text": "the",
+      "startMs": 21968
+    },
+    {
+      "text": "cuts",
+      "startMs": 22038
+    },
+    {
+      "text": "up",
+      "startMs": 22304
+    },
+    {
+      "text": "and",
+      "startMs": 22709
+    },
+    {
+      "text": "it",
+      "startMs": 22778
+    },
+    {
+      "text": "is",
+      "startMs": 22825
+    },
+    {
+      "text": "a",
+      "startMs": 22906
+    },
+    {
+      "text": "meaningful",
+      "startMs": 22940
+    },
+    {
+      "text": "slice",
+      "startMs": 23531
+    },
+    {
+      "text": "of",
+      "startMs": 24005
+    },
+    {
+      "text": "your",
+      "startMs": 24063
+    },
+    {
+      "text": "waking",
+      "startMs": 24190
+    },
+    {
+      "text": "day",
+      "startMs": 24491
+    },
+    {
+      "text": "deleted",
+      "startMs": 25001
+    },
+    {
+      "text": "There",
+      "startMs": 26347
+    },
+    {
+      "text": "is",
+      "startMs": 26438
+    },
+    {
+      "text": "a",
+      "startMs": 26516
+    },
+    {
+      "text": "tell",
+      "startMs": 26569
+    },
+    {
+      "text": "Glance",
+      "startMs": 28478
+    },
+    {
+      "text": "at",
+      "startMs": 28839
+    },
+    {
+      "text": "an",
+      "startMs": 28899
+    },
+    {
+      "text": "analog",
+      "startMs": 28971
+    },
+    {
+      "text": "clock",
+      "startMs": 29452
+    },
+    {
+      "text": "and",
+      "startMs": 30029
+    },
+    {
+      "text": "the",
+      "startMs": 30101
+    },
+    {
+      "text": "first",
+      "startMs": 30185
+    },
+    {
+      "text": "second",
+      "startMs": 30509
+    },
+    {
+      "text": "looks",
+      "startMs": 30846
+    },
+    {
+      "text": "too",
+      "startMs": 31122
+    },
+    {
+      "text": "long",
+      "startMs": 31327
+    },
+    {
+      "text": "That",
+      "startMs": 32462
+    },
+    {
+      "text": "is",
+      "startMs": 32540
+    },
+    {
+      "text": "the",
+      "startMs": 32644
+    },
+    {
+      "text": "stitch",
+      "startMs": 32736
+    },
+    {
+      "text": "Your",
+      "startMs": 34606
+    },
+    {
+      "text": "brain",
+      "startMs": 34702
+    },
+    {
+      "text": "stretched",
+      "startMs": 35159
+    },
+    {
+      "text": "the",
+      "startMs": 35664
+    },
+    {
+      "text": "frame",
+      "startMs": 35748
+    },
+    {
+      "text": "it",
+      "startMs": 36481
+    },
+    {
+      "text": "kept",
+      "startMs": 36577
+    },
+    {
+      "text": "to",
+      "startMs": 36830
+    },
+    {
+      "text": "cover",
+      "startMs": 36938
+    },
+    {
+      "text": "the",
+      "startMs": 37190
+    },
+    {
+      "text": "frames",
+      "startMs": 37274
+    },
+    {
+      "text": "it",
+      "startMs": 37755
+    },
+    {
+      "text": "threw",
+      "startMs": 37827
+    },
+    {
+      "text": "away",
+      "startMs": 38044
+    },
+    {
+      "text": "Which",
+      "startMs": 39254
+    },
+    {
+      "text": "means",
+      "startMs": 39386
+    },
+    {
+      "text": "vision",
+      "startMs": 39663
+    },
+    {
+      "text": "is",
+      "startMs": 40348
+    },
+    {
+      "text": "not",
+      "startMs": 40480
+    },
+    {
+      "text": "a",
+      "startMs": 40708
+    },
+    {
+      "text": "window",
+      "startMs": 40757
+    },
+    {
+      "text": "It",
+      "startMs": 42030
+    },
+    {
+      "text": "is",
+      "startMs": 42090
+    },
+    {
+      "text": "an",
+      "startMs": 42174
+    },
+    {
+      "text": "edit",
+      "startMs": 42295
+    },
+    {
+      "text": "delivered",
+      "startMs": 42872
+    },
+    {
+      "text": "so",
+      "startMs": 43328
+    },
+    {
+      "text": "smoothly",
+      "startMs": 43689
+    },
+    {
+      "text": "you",
+      "startMs": 44374
+    },
+    {
+      "text": "have",
+      "startMs": 44518
+    },
+    {
+      "text": "never",
+      "startMs": 44614
+    },
+    {
+      "text": "once",
+      "startMs": 45023
+    },
+    {
+      "text": "noticed",
+      "startMs": 45191
+    },
+    {
+      "text": "the",
+      "startMs": 45468
+    },
+    {
+      "text": "cut",
+      "startMs": 45528
+    },
+    {
+      "text": "The",
+      "startMs": 46766
+    },
+    {
+      "text": "footage",
+      "startMs": 46833
+    },
+    {
+      "text": "was",
+      "startMs": 47232
+    },
+    {
+      "text": "always",
+      "startMs": 47431
+    },
+    {
+      "text": "missing",
+      "startMs": 47857
+    },
+    {
+      "text": "You",
+      "startMs": 49062
+    },
+    {
+      "text": "just",
+      "startMs": 49116
+    },
+    {
+      "text": "never",
+      "startMs": 49288
+    },
+    {
+      "text": "saw",
+      "startMs": 49501
+    },
+    {
+      "text": "the",
+      "startMs": 49687
+    },
+    {
+      "text": "splice",
+      "startMs": 49794
+    },
+    {
+      "text": "Which",
+      "startMs": 51368
+    },
+    {
+      "text": "is",
+      "startMs": 51499
+    },
+    {
+      "text": "how",
+      "startMs": 51630
+    }
+  ]
 }

@@ -10,12 +10,18 @@
         0,
         0.5
       ],
-      "seconds": 3.0,
+      "seconds": 5.03,
       "text": "Everything you have ever seen is about five percent of what exists.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/20-universe-is-missing/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
     },
     {
       "image": "videos/20-universe-is-missing/G3.jpg",
@@ -26,12 +32,34 @@
         0,
         0.455
       ],
-      "seconds": 22.0,
+      "seconds": 24.66,
       "text": "Galaxies spin too fast. At the speeds we measure, their outer stars should have been flung away billions of years ago. Something is holding them in that we cannot see, detect, or touch. The same accounting problem shows up in how the universe expands, and it is accelerating. Add it up and ordinary matter, everything we have ever observed, is about five percent of the total.",
       "delivery": {
         "rate": 8,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/20-universe-is-missing/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/20-universe-is-missing/v2-2.mp3",
+          "atMs": 2512
+        },
+        {
+          "src": "videos/20-universe-is-missing/v2-3.mp3",
+          "atMs": 8240
+        },
+        {
+          "src": "videos/20-universe-is-missing/v2-4.mp3",
+          "atMs": 12672
+        },
+        {
+          "src": "videos/20-universe-is-missing/v2-5.mp3",
+          "atMs": 18568
+        }
+      ]
     },
     {
       "image": "videos/20-universe-is-missing/G5.jpg",
@@ -42,12 +70,38 @@
         0,
         0.4
       ],
-      "seconds": 20.0,
+      "seconds": 26.47,
       "text": "We did not discover dark matter and dark energy. We named them. They are placeholders, the shape of a hole in the accounts, labeled so we can keep working. It is the same move astronomers once made when Mercury's orbit refused to behave, and the answer turned out to be that gravity itself needed rewriting. So the honest version is this. The largest thing in physics right now is a gap.",
       "delivery": {
         "rate": 4,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/20-universe-is-missing/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/20-universe-is-missing/v3-2.mp3",
+          "atMs": 3304
+        },
+        {
+          "src": "videos/20-universe-is-missing/v3-3.mp3",
+          "atMs": 5456
+        },
+        {
+          "src": "videos/20-universe-is-missing/v3-4.mp3",
+          "atMs": 10968
+        },
+        {
+          "src": "videos/20-universe-is-missing/v3-5.mp3",
+          "atMs": 20776
+        },
+        {
+          "src": "videos/20-universe-is-missing/v3-6.mp3",
+          "atMs": 23120
+        }
+      ]
     },
     {
       "image": "videos/20-universe-is-missing/G7.jpg",
@@ -58,16 +112,668 @@
         0,
         0.5
       ],
-      "seconds": 5.0,
+      "seconds": 4.41,
       "text": "We mapped the lit part and called it the universe. But",
       "delivery": {
         "rate": -6,
         "pitch": -3,
         "volume": -5
       },
-      "stillLast": true
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/20-universe-is-missing/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/20-universe-is-missing/v4-2.mp3",
+          "atMs": 3592
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
-  "musicVolume": 0.2
+  "musicVolume": 0.2,
+  "words": [
+    {
+      "text": "Everything",
+      "startMs": 78
+    },
+    {
+      "text": "you",
+      "startMs": 456
+    },
+    {
+      "text": "have",
+      "startMs": 534
+    },
+    {
+      "text": "ever",
+      "startMs": 911
+    },
+    {
+      "text": "seen",
+      "startMs": 1159
+    },
+    {
+      "text": "is",
+      "startMs": 1784
+    },
+    {
+      "text": "about",
+      "startMs": 1901
+    },
+    {
+      "text": "five",
+      "startMs": 2201
+    },
+    {
+      "text": "percent",
+      "startMs": 2669
+    },
+    {
+      "text": "of",
+      "startMs": 3320
+    },
+    {
+      "text": "what",
+      "startMs": 3372
+    },
+    {
+      "text": "exists",
+      "startMs": 3490
+    },
+    {
+      "text": "Galaxies",
+      "startMs": 5142
+    },
+    {
+      "text": "spin",
+      "startMs": 5655
+    },
+    {
+      "text": "too",
+      "startMs": 6018
+    },
+    {
+      "text": "fast",
+      "startMs": 6292
+    },
+    {
+      "text": "At",
+      "startMs": 7611
+    },
+    {
+      "text": "the",
+      "startMs": 7692
+    },
+    {
+      "text": "speeds",
+      "startMs": 7774
+    },
+    {
+      "text": "we",
+      "startMs": 8155
+    },
+    {
+      "text": "measure",
+      "startMs": 8248
+    },
+    {
+      "text": "their",
+      "startMs": 9104
+    },
+    {
+      "text": "outer",
+      "startMs": 9371
+    },
+    {
+      "text": "stars",
+      "startMs": 9683
+    },
+    {
+      "text": "should",
+      "startMs": 10297
+    },
+    {
+      "text": "have",
+      "startMs": 10436
+    },
+    {
+      "text": "been",
+      "startMs": 10505
+    },
+    {
+      "text": "flung",
+      "startMs": 10621
+    },
+    {
+      "text": "away",
+      "startMs": 10980
+    },
+    {
+      "text": "billions",
+      "startMs": 11489
+    },
+    {
+      "text": "of",
+      "startMs": 11963
+    },
+    {
+      "text": "years",
+      "startMs": 12010
+    },
+    {
+      "text": "ago",
+      "startMs": 12287
+    },
+    {
+      "text": "Something",
+      "startMs": 13374
+    },
+    {
+      "text": "is",
+      "startMs": 13652
+    },
+    {
+      "text": "holding",
+      "startMs": 13733
+    },
+    {
+      "text": "them",
+      "startMs": 14080
+    },
+    {
+      "text": "in",
+      "startMs": 14254
+    },
+    {
+      "text": "that",
+      "startMs": 14335
+    },
+    {
+      "text": "we",
+      "startMs": 14416
+    },
+    {
+      "text": "cannot",
+      "startMs": 14508
+    },
+    {
+      "text": "see",
+      "startMs": 14914
+    },
+    {
+      "text": "detect",
+      "startMs": 15666
+    },
+    {
+      "text": "or",
+      "startMs": 16407
+    },
+    {
+      "text": "touch",
+      "startMs": 16511
+    },
+    {
+      "text": "The",
+      "startMs": 17795
+    },
+    {
+      "text": "same",
+      "startMs": 17899
+    },
+    {
+      "text": "accounting",
+      "startMs": 18142
+    },
+    {
+      "text": "problem",
+      "startMs": 18558
+    },
+    {
+      "text": "shows",
+      "startMs": 19264
+    },
+    {
+      "text": "up",
+      "startMs": 19612
+    },
+    {
+      "text": "in",
+      "startMs": 19901
+    },
+    {
+      "text": "how",
+      "startMs": 19982
+    },
+    {
+      "text": "the",
+      "startMs": 20144
+    },
+    {
+      "text": "universe",
+      "startMs": 20190
+    },
+    {
+      "text": "expands",
+      "startMs": 20665
+    },
+    {
+      "text": "and",
+      "startMs": 21776
+    },
+    {
+      "text": "it",
+      "startMs": 21961
+    },
+    {
+      "text": "is",
+      "startMs": 22031
+    },
+    {
+      "text": "accelerating",
+      "startMs": 22181
+    },
+    {
+      "text": "Add",
+      "startMs": 23691
+    },
+    {
+      "text": "it",
+      "startMs": 23853
+    },
+    {
+      "text": "up",
+      "startMs": 23934
+    },
+    {
+      "text": "and",
+      "startMs": 24246
+    },
+    {
+      "text": "ordinary",
+      "startMs": 24431
+    },
+    {
+      "text": "matter",
+      "startMs": 24848
+    },
+    {
+      "text": "everything",
+      "startMs": 25531
+    },
+    {
+      "text": "we",
+      "startMs": 25890
+    },
+    {
+      "text": "have",
+      "startMs": 25994
+    },
+    {
+      "text": "ever",
+      "startMs": 26318
+    },
+    {
+      "text": "observed",
+      "startMs": 26538
+    },
+    {
+      "text": "is",
+      "startMs": 27221
+    },
+    {
+      "text": "about",
+      "startMs": 27302
+    },
+    {
+      "text": "five",
+      "startMs": 27522
+    },
+    {
+      "text": "percent",
+      "startMs": 27927
+    },
+    {
+      "text": "of",
+      "startMs": 28343
+    },
+    {
+      "text": "the",
+      "startMs": 28390
+    },
+    {
+      "text": "total",
+      "startMs": 28448
+    },
+    {
+      "text": "We",
+      "startMs": 29786
+    },
+    {
+      "text": "did",
+      "startMs": 29846
+    },
+    {
+      "text": "not",
+      "startMs": 29954
+    },
+    {
+      "text": "discover",
+      "startMs": 30183
+    },
+    {
+      "text": "dark",
+      "startMs": 30688
+    },
+    {
+      "text": "matter",
+      "startMs": 30976
+    },
+    {
+      "text": "and",
+      "startMs": 31589
+    },
+    {
+      "text": "dark",
+      "startMs": 31685
+    },
+    {
+      "text": "energy",
+      "startMs": 32010
+    },
+    {
+      "text": "We",
+      "startMs": 33098
+    },
+    {
+      "text": "named",
+      "startMs": 33215
+    },
+    {
+      "text": "them",
+      "startMs": 33502
+    },
+    {
+      "text": "They",
+      "startMs": 35230
+    },
+    {
+      "text": "are",
+      "startMs": 35266
+    },
+    {
+      "text": "placeholders",
+      "startMs": 35362
+    },
+    {
+      "text": "the",
+      "startMs": 36468
+    },
+    {
+      "text": "shape",
+      "startMs": 36564
+    },
+    {
+      "text": "of",
+      "startMs": 36841
+    },
+    {
+      "text": "a",
+      "startMs": 36889
+    },
+    {
+      "text": "hole",
+      "startMs": 36925
+    },
+    {
+      "text": "in",
+      "startMs": 37261
+    },
+    {
+      "text": "the",
+      "startMs": 37334
+    },
+    {
+      "text": "accounts",
+      "startMs": 37430
+    },
+    {
+      "text": "labeled",
+      "startMs": 38295
+    },
+    {
+      "text": "so",
+      "startMs": 39064
+    },
+    {
+      "text": "we",
+      "startMs": 39172
+    },
+    {
+      "text": "can",
+      "startMs": 39269
+    },
+    {
+      "text": "keep",
+      "startMs": 39377
+    },
+    {
+      "text": "working",
+      "startMs": 39629
+    },
+    {
+      "text": "It",
+      "startMs": 40754
+    },
+    {
+      "text": "is",
+      "startMs": 40826
+    },
+    {
+      "text": "the",
+      "startMs": 40922
+    },
+    {
+      "text": "same",
+      "startMs": 41031
+    },
+    {
+      "text": "move",
+      "startMs": 41343
+    },
+    {
+      "text": "astronomers",
+      "startMs": 41535
+    },
+    {
+      "text": "once",
+      "startMs": 42124
+    },
+    {
+      "text": "made",
+      "startMs": 42473
+    },
+    {
+      "text": "when",
+      "startMs": 43158
+    },
+    {
+      "text": "Mercury's",
+      "startMs": 43362
+    },
+    {
+      "text": "orbit",
+      "startMs": 44156
+    },
+    {
+      "text": "refused",
+      "startMs": 44612
+    },
+    {
+      "text": "to",
+      "startMs": 45177
+    },
+    {
+      "text": "behave",
+      "startMs": 45237
+    },
+    {
+      "text": "and",
+      "startMs": 46211
+    },
+    {
+      "text": "the",
+      "startMs": 46259
+    },
+    {
+      "text": "answer",
+      "startMs": 46343
+    },
+    {
+      "text": "turned",
+      "startMs": 46692
+    },
+    {
+      "text": "out",
+      "startMs": 46944
+    },
+    {
+      "text": "to",
+      "startMs": 47136
+    },
+    {
+      "text": "be",
+      "startMs": 47232
+    },
+    {
+      "text": "that",
+      "startMs": 47521
+    },
+    {
+      "text": "gravity",
+      "startMs": 47689
+    },
+    {
+      "text": "itself",
+      "startMs": 48266
+    },
+    {
+      "text": "needed",
+      "startMs": 48879
+    },
+    {
+      "text": "rewriting",
+      "startMs": 49276
+    },
+    {
+      "text": "So",
+      "startMs": 50562
+    },
+    {
+      "text": "the",
+      "startMs": 50646
+    },
+    {
+      "text": "honest",
+      "startMs": 50754
+    },
+    {
+      "text": "version",
+      "startMs": 51067
+    },
+    {
+      "text": "is",
+      "startMs": 51524
+    },
+    {
+      "text": "this",
+      "startMs": 51680
+    },
+    {
+      "text": "The",
+      "startMs": 52894
+    },
+    {
+      "text": "largest",
+      "startMs": 52954
+    },
+    {
+      "text": "thing",
+      "startMs": 53327
+    },
+    {
+      "text": "in",
+      "startMs": 53483
+    },
+    {
+      "text": "physics",
+      "startMs": 53579
+    },
+    {
+      "text": "right",
+      "startMs": 54048
+    },
+    {
+      "text": "now",
+      "startMs": 54240
+    },
+    {
+      "text": "is",
+      "startMs": 54769
+    },
+    {
+      "text": "a",
+      "startMs": 54877
+    },
+    {
+      "text": "gap",
+      "startMs": 54937
+    },
+    {
+      "text": "We",
+      "startMs": 56266
+    },
+    {
+      "text": "mapped",
+      "startMs": 56399
+    },
+    {
+      "text": "the",
+      "startMs": 56878
+    },
+    {
+      "text": "lit",
+      "startMs": 57011
+    },
+    {
+      "text": "part",
+      "startMs": 57290
+    },
+    {
+      "text": "and",
+      "startMs": 57822
+    },
+    {
+      "text": "called",
+      "startMs": 57915
+    },
+    {
+      "text": "it",
+      "startMs": 58208
+    },
+    {
+      "text": "the",
+      "startMs": 58261
+    },
+    {
+      "text": "universe",
+      "startMs": 58328
+    },
+    {
+      "text": "But",
+      "startMs": 59868
+    }
+  ]
 }
