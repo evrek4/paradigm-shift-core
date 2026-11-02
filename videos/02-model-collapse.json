@@ -1,0 +1,43 @@
+{
+  "scenes": [
+    {
+      "image": "videos/02-model-collapse/1.jpg",
+      "seconds": 3,
+      "text": "Every AI you use is quietly being poisoned. By itself.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/02-model-collapse/2.jpg",
+      "seconds": 22,
+      "text": "These systems learned to write by reading the open internet. But the internet is now filling with text written by machines. So the next generation trains on the last one's output. Researchers at Oxford and Cambridge tested this directly. Train a model on its own generations, again and again, and it degrades. The rare, the strange, the specific all vanish first. They called it model collapse.",
+      "delivery": {
+        "rate": 12,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/02-model-collapse/3.jpg",
+      "seconds": 20,
+      "text": "It's a photocopy of a photocopy. The first copy looks fine. By the hundredth, the face is gone. And the first thing lost is never the average. It's the edge. The outlier. The minority view. Which is why some labs now treat text written before 2022 the way salvage yards treat steel forged before the first atomic tests. Uncontaminated. And finite.",
+      "delivery": {
+        "rate": 8,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/02-model-collapse/4.jpg",
+      "seconds": 5,
+      "text": "So the question isn't whether the machines get smarter. It's what they forget on the way. Because",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3,
+        "volume": -5
+      }
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

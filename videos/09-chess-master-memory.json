@@ -1,0 +1,43 @@
+{
+  "scenes": [
+    {
+      "image": "videos/09-chess-master-memory/1.jpg",
+      "seconds": 3,
+      "text": "A chess master glances at a board for five seconds and rebuilds it perfectly. Randomize it, and they fail like a beginner.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/09-chess-master-memory/2.jpg",
+      "seconds": 22,
+      "text": "Chase and Simon ran this in nineteen seventy three. Shown real positions from real games, masters recalled them far better than novices. Then the researchers scattered the pieces at random. The master's advantage collapsed almost entirely. They had never been memorizing twenty five pieces. They were memorizing five patterns, each one a chunk they had seen ten thousand times before.",
+      "delivery": {
+        "rate": 12,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/09-chess-master-memory/3.jpg",
+      "seconds": 20,
+      "text": "Expertise is compression. The novice reads letters. The reader sees words. Same ink, a fraction of the load. Which means the expert is not running a bigger engine. They are carrying a smaller file. And it also means the advantage is specific. Take the pattern away, and the master is back on the same footing as everyone else.",
+      "delivery": {
+        "rate": 8,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/09-chess-master-memory/4.jpg",
+      "seconds": 5,
+      "text": "So mastery is not memory. It is structure. Which is why",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3,
+        "volume": -5
+      }
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

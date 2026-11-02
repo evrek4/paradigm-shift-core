@@ -1,0 +1,43 @@
+{
+  "scenes": [
+    {
+      "image": "videos/04-open-loops/1.jpg",
+      "seconds": 3,
+      "text": "There is a song stuck in your head right now because it was never finished.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/04-open-loops/2.jpg",
+      "seconds": 22,
+      "text": "In the nineteen twenties, a young psychologist named Bluma Zeigarnik watched waiters in a Vienna restaurant. They could recall orders nobody had paid for in perfect detail. The moment the bill was settled, the order evaporated from memory. She tested it in the lab, interrupting people mid-task. They remembered the unfinished work far better than the work they completed.",
+      "delivery": {
+        "rate": 12,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/04-open-loops/3.jpg",
+      "seconds": 20,
+      "text": "An unfinished task is a browser tab your mind refuses to close. It costs memory to hold it open, so your brain keeps pushing it back into view. Every cliffhanger, every unread notification, every argument you walked away from runs on this. Which means attention is not something you give. It is something that gets taken, by whatever you left open.",
+      "delivery": {
+        "rate": 8,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/04-open-loops/4.jpg",
+      "seconds": 5,
+      "text": "And the loop only closes when you finish it. Which is why",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3,
+        "volume": -5
+      }
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

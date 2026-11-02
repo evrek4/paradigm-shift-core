@@ -1,0 +1,43 @@
+{
+  "scenes": [
+    {
+      "image": "videos/05-brain-washes-itself/1.jpg",
+      "seconds": 3,
+      "text": "Sleep is not rest. It is maintenance, and skipping it leaves residue.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/05-brain-washes-itself/2.jpg",
+      "seconds": 22,
+      "text": "Every organ in your body has lymphatic plumbing to flush out waste. For a century, the brain appeared to have none. Then in twenty thirteen, researchers at Rochester found the system had been hiding in plain sight. During sleep, the spaces between brain cells open up, and cerebrospinal fluid floods through, carrying metabolic debris out. They named it the glymphatic system.",
+      "delivery": {
+        "rate": 12,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/05-brain-washes-itself/3.jpg",
+      "seconds": 20,
+      "text": "Think of a city that can only run its street cleaners after the traffic stops. The brain cannot think and deep clean at the same time, so it schedules the second shift for the night. Among the waste it clears is amyloid beta, the protein that accumulates in Alzheimer's disease. Which reframes a short night. Not lost hours. A skipped shift.",
+      "delivery": {
+        "rate": 8,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/05-brain-washes-itself/4.jpg",
+      "seconds": 5,
+      "text": "So tonight, nothing shuts down. Something finally gets to work. Because",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3,
+        "volume": -5
+      }
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

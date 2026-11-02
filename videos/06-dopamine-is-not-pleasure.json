@@ -1,0 +1,43 @@
+{
+  "scenes": [
+    {
+      "image": "videos/06-dopamine-is-not-pleasure/1.jpg",
+      "seconds": 3,
+      "text": "Dopamine is not the reward. It is the reaching.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/06-dopamine-is-not-pleasure/2.jpg",
+      "seconds": 22,
+      "text": "Wolfram Schultz spent years recording single dopamine neurons while monkeys received juice. The cells fired hard at the unexpected reward. But once a tone reliably predicted the juice, the firing moved. It jumped to the tone, and went quiet at the juice itself. Dopamine was not tracking pleasure. It was tracking the gap between what was expected and what arrived.",
+      "delivery": {
+        "rate": 12,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/06-dopamine-is-not-pleasure/3.jpg",
+      "seconds": 20,
+      "text": "So dopamine is not the applause. It is the lean forward before the curtain lifts. Which explains the design of every feed you scroll. A predictable reward goes silent in the brain. An unpredictable one keeps the signal alive. The pull is not in what you find. It is in not knowing what the next swipe holds.",
+      "delivery": {
+        "rate": 8,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/06-dopamine-is-not-pleasure/4.jpg",
+      "seconds": 5,
+      "text": "Satisfaction ends the signal. Anticipation keeps it burning. Remember that",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3,
+        "volume": -5
+      }
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

@@ -1,0 +1,43 @@
+{
+  "scenes": [
+    {
+      "image": "videos/03-ai-designed-cure/1.jpg",
+      "seconds": 3,
+      "text": "Doctors just injected a patient with a virus that no evolution ever made.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/03-ai-designed-cure/2.jpg",
+      "seconds": 22,
+      "text": "The patient had an infection that beat every antibiotic. So doctors turned to phages, viruses that hunt bacteria and ignore human cells entirely. Medicine has used them for a century. The problem is finding one that fits your particular infection. That search can take months. This time, in October 2026, an AI lab designed the phage instead. Days, not months.",
+      "delivery": {
+        "rate": 12,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/03-ai-designed-cure/3.jpg",
+      "seconds": 20,
+      "text": "Antibiotics are a hammer. They flatten everything in reach, which is why bacteria keep learning to duck. A phage is a key, cut to one lock. For a hundred years we could only find keys already lying on the ground. Now we can cut them. And the same hands that cut a key can, in principle, cut a crowbar. Which is exactly the conversation this field is now forced to have.",
+      "delivery": {
+        "rate": 8,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/03-ai-designed-cure/4.jpg",
+      "seconds": 5,
+      "text": "Did it work? We still don't know. The outcome is sealed inside one hospital room, where",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3,
+        "volume": -5
+      }
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

@@ -1,0 +1,43 @@
+{
+  "scenes": [
+    {
+      "image": "videos/10-silicon-shield/1.jpg",
+      "seconds": 3,
+      "text": "Almost every advanced chip on Earth is printed in one place.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/10-silicon-shield/2.jpg",
+      "seconds": 22,
+      "text": "The machine that prints the smallest circuits exists in a single version, built by one Dutch company. It fires a laser at molten tin droplets fifty thousand times a second to make light thirteen nanometers wide, and focuses it with mirrors so smooth that scaled to the size of a country, the tallest bump would be a millimeter. Almost all of the leading-edge output runs through Taiwan.",
+      "delivery": {
+        "rate": 12,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/10-silicon-shield/3.jpg",
+      "seconds": 20,
+      "text": "Strategists call this the silicon shield. The theory is that being indispensable is its own kind of armor. Nobody wrecks the factory the whole world depends on. But a shield and a target can be the same object viewed from two directions. And the deeper issue is quieter. We built the most complex supply chain in history and then stacked it on a single point of failure, because concentration was cheaper than redundancy.",
+      "delivery": {
+        "rate": 8,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/10-silicon-shield/4.jpg",
+      "seconds": 5,
+      "text": "Every device you own traces back to that one point. Because",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3,
+        "volume": -5
+      }
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

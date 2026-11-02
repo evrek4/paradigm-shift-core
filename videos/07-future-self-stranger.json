@@ -1,0 +1,43 @@
+{
+  "scenes": [
+    {
+      "image": "videos/07-future-self-stranger/1.jpg",
+      "seconds": 3,
+      "text": "Picture yourself in thirty years. Your brain just pictured somebody else.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/07-future-self-stranger/2.jpg",
+      "seconds": 22,
+      "text": "Hal Hershfield put people in a scanner and asked them to think about themselves today, themselves in ten years, and a complete stranger. There is a region that quiets down when you think about someone who is not you. For many people, thinking about their future self quieted it the same way. And the bigger that gap, the less they saved for retirement.",
+      "delivery": {
+        "rate": 12,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/07-future-self-stranger/3.jpg",
+      "seconds": 20,
+      "text": "So every plan you make for later is a favor for a person you have never met. No wonder the hard choices get handed to them. They do not complain. They are not in the room. But here is the strange part. When researchers showed people digitally aged images of their own faces, the saving went up. Make the stranger familiar, and the brain starts paying them.",
+      "delivery": {
+        "rate": 8,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/07-future-self-stranger/4.jpg",
+      "seconds": 5,
+      "text": "They are waiting for you to introduce yourself. So go ahead.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3,
+        "volume": -5
+      }
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}

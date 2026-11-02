@@ -1,0 +1,43 @@
+{
+  "scenes": [
+    {
+      "image": "videos/08-great-filter/1.jpg",
+      "seconds": 3,
+      "text": "The universe is quiet. That silence is the most ominous evidence we have.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/08-great-filter/2.jpg",
+      "seconds": 22,
+      "text": "There are hundreds of billions of stars in our galaxy alone, most with planets. The galaxy is over thirteen billion years old. A single civilization with patience and simple rockets could cross it in a few million years, which is a rounding error on that timescale. So the sky should be crowded with evidence. We look, and we find nothing. Not one signal.",
+      "delivery": {
+        "rate": 12,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/08-great-filter/3.jpg",
+      "seconds": 20,
+      "text": "Robin Hanson's answer was a filter. Somewhere on the path from dead chemistry to a galactic civilization, there is a step almost nothing survives. And the question that matters is where it sits. If the filter is behind us, in the leap to complex life, then we are extraordinarily lucky and extraordinarily alone. If it sits ahead of us, then every silent star is a civilization that already reached our stage, and did not pass.",
+      "delivery": {
+        "rate": 8,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/08-great-filter/4.jpg",
+      "seconds": 5,
+      "text": "Every year we search and hear nothing, that answer gets heavier. Because",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3,
+        "volume": -5
+      }
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2
+}
