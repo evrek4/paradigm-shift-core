@@ -10,7 +10,7 @@
         0,
         0.5
       ],
-      "seconds": 5.03,
+      "seconds": 4.15,
       "text": "Everything you have ever seen is about five percent of what exists.",
       "delivery": {
         "rate": -4,
@@ -32,7 +32,7 @@
         0,
         0.455
       ],
-      "seconds": 24.66,
+      "seconds": 20.75,
       "text": "Galaxies spin too fast. At the speeds we measure, their outer stars should have been flung away billions of years ago. Something is holding them in that we cannot see, detect, or touch. The same accounting problem shows up in how the universe expands, and it is accelerating. Add it up and ordinary matter, everything we have ever observed, is about five percent of the total.",
       "delivery": {
         "rate": 8,
@@ -45,19 +45,19 @@
         },
         {
           "src": "videos/20-universe-is-missing/v2-2.mp3",
-          "atMs": 2512
+          "atMs": 1923
         },
         {
           "src": "videos/20-universe-is-missing/v2-3.mp3",
-          "atMs": 8240
+          "atMs": 6900
         },
         {
           "src": "videos/20-universe-is-missing/v2-4.mp3",
-          "atMs": 12672
+          "atMs": 10592
         },
         {
           "src": "videos/20-universe-is-missing/v2-5.mp3",
-          "atMs": 18568
+          "atMs": 15638
         }
       ]
     },
@@ -70,7 +70,7 @@
         0,
         0.4
       ],
-      "seconds": 26.47,
+      "seconds": 21.24,
       "text": "We did not discover dark matter and dark energy. We named them. They are placeholders, the shape of a hole in the accounts, labeled so we can keep working. It is the same move astronomers once made when Mercury's orbit refused to behave, and the answer turned out to be that gravity itself needed rewriting. So the honest version is this. The largest thing in physics right now is a gap.",
       "delivery": {
         "rate": 4,
@@ -83,23 +83,23 @@
         },
         {
           "src": "videos/20-universe-is-missing/v3-2.mp3",
-          "atMs": 3304
+          "atMs": 2669
         },
         {
           "src": "videos/20-universe-is-missing/v3-3.mp3",
-          "atMs": 5456
+          "atMs": 3546
         },
         {
           "src": "videos/20-universe-is-missing/v3-4.mp3",
-          "atMs": 10968
+          "atMs": 8219
         },
         {
           "src": "videos/20-universe-is-missing/v3-5.mp3",
-          "atMs": 20776
+          "atMs": 16827
         },
         {
           "src": "videos/20-universe-is-missing/v3-6.mp3",
-          "atMs": 23120
+          "atMs": 18610
         }
       ]
     },
@@ -112,7 +112,7 @@
         0,
         0.5
       ],
-      "seconds": 4.41,
+      "seconds": 3.13,
       "text": "We mapped the lit part and called it the universe. But",
       "delivery": {
         "rate": -6,
@@ -127,7 +127,7 @@
         },
         {
           "src": "videos/20-universe-is-missing/v4-2.mp3",
-          "atMs": 3592
+          "atMs": 2869
         }
       ]
     }
@@ -137,643 +137,644 @@
   "words": [
     {
       "text": "Everything",
-      "startMs": 78
+      "startMs": 0
     },
     {
       "text": "you",
-      "startMs": 456
+      "startMs": 330
     },
     {
       "text": "have",
-      "startMs": 534
+      "startMs": 402
     },
     {
       "text": "ever",
-      "startMs": 911
+      "startMs": 746
     },
     {
       "text": "seen",
-      "startMs": 1159
+      "startMs": 973
     },
     {
       "text": "is",
-      "startMs": 1784
+      "startMs": 1544
     },
     {
       "text": "about",
-      "startMs": 1901
+      "startMs": 1651
     },
     {
       "text": "five",
-      "startMs": 2201
+      "startMs": 1925
     },
     {
       "text": "percent",
-      "startMs": 2669
+      "startMs": 2353
     },
     {
       "text": "of",
-      "startMs": 3320
+      "startMs": 2948
     },
     {
       "text": "what",
-      "startMs": 3372
+      "startMs": 2996
     },
     {
       "text": "exists",
-      "startMs": 3490
+      "startMs": 3104
     },
     {
       "text": "Galaxies",
-      "startMs": 5142
+      "startMs": 4150
     },
     {
       "text": "spin",
-      "startMs": 5655
+      "startMs": 4614
     },
     {
       "text": "too",
-      "startMs": 6018
+      "startMs": 4946
     },
     {
       "text": "fast",
-      "startMs": 6292
+      "startMs": 5196
     },
     {
       "text": "At",
-      "startMs": 7611
+      "startMs": 6136
     },
     {
       "text": "the",
-      "startMs": 7692
+      "startMs": 6210
     },
     {
       "text": "speeds",
-      "startMs": 7774
+      "startMs": 6285
     },
     {
       "text": "we",
-      "startMs": 8155
+      "startMs": 6633
     },
     {
       "text": "measure",
-      "startMs": 8248
+      "startMs": 6718
     },
     {
       "text": "their",
-      "startMs": 9104
+      "startMs": 7501
     },
     {
       "text": "outer",
-      "startMs": 9371
+      "startMs": 7745
     },
     {
       "text": "stars",
-      "startMs": 9683
+      "startMs": 8030
     },
     {
       "text": "should",
-      "startMs": 10297
+      "startMs": 8591
     },
     {
       "text": "have",
-      "startMs": 10436
+      "startMs": 8718
     },
     {
       "text": "been",
-      "startMs": 10505
+      "startMs": 8781
     },
     {
       "text": "flung",
-      "startMs": 10621
+      "startMs": 8887
     },
     {
       "text": "away",
-      "startMs": 10980
+      "startMs": 9215
     },
     {
       "text": "billions",
-      "startMs": 11489
+      "startMs": 9681
     },
     {
       "text": "of",
-      "startMs": 11963
+      "startMs": 10114
     },
     {
       "text": "years",
-      "startMs": 12010
+      "startMs": 10157
     },
     {
       "text": "ago",
-      "startMs": 12287
+      "startMs": 10410
     },
     {
       "text": "Something",
-      "startMs": 13374
+      "startMs": 11050
     },
     {
       "text": "is",
-      "startMs": 13652
+      "startMs": 11300
     },
     {
       "text": "holding",
-      "startMs": 13733
+      "startMs": 11374
     },
     {
       "text": "them",
-      "startMs": 14080
+      "startMs": 11691
     },
     {
       "text": "in",
-      "startMs": 14254
+      "startMs": 11850
     },
     {
       "text": "that",
-      "startMs": 14335
+      "startMs": 11924
     },
     {
       "text": "we",
-      "startMs": 14416
+      "startMs": 11998
     },
     {
       "text": "cannot",
-      "startMs": 14508
+      "startMs": 12082
     },
     {
       "text": "see",
-      "startMs": 14914
+      "startMs": 12453
     },
     {
       "text": "detect",
-      "startMs": 15666
+      "startMs": 13141
     },
     {
       "text": "or",
-      "startMs": 16407
+      "startMs": 13818
     },
     {
       "text": "touch",
-      "startMs": 16511
+      "startMs": 13913
     },
     {
       "text": "The",
-      "startMs": 17795
+      "startMs": 14742
     },
     {
       "text": "same",
-      "startMs": 17899
+      "startMs": 14817
     },
     {
       "text": "accounting",
-      "startMs": 18142
+      "startMs": 15039
     },
     {
       "text": "problem",
-      "startMs": 18558
+      "startMs": 15419
     },
     {
       "text": "shows",
-      "startMs": 19264
+      "startMs": 16065
     },
     {
       "text": "up",
-      "startMs": 19612
+      "startMs": 16383
     },
     {
       "text": "in",
-      "startMs": 19901
+      "startMs": 16647
     },
     {
       "text": "how",
-      "startMs": 19982
+      "startMs": 16721
     },
     {
       "text": "the",
-      "startMs": 20144
+      "startMs": 16869
     },
     {
       "text": "universe",
-      "startMs": 20190
+      "startMs": 16911
     },
     {
       "text": "expands",
-      "startMs": 20665
+      "startMs": 17345
     },
     {
       "text": "and",
-      "startMs": 21776
+      "startMs": 18361
     },
     {
       "text": "it",
-      "startMs": 21961
+      "startMs": 18530
     },
     {
       "text": "is",
-      "startMs": 22031
+      "startMs": 18594
     },
     {
       "text": "accelerating",
-      "startMs": 22181
+      "startMs": 18731
     },
     {
       "text": "Add",
-      "startMs": 23691
+      "startMs": 19788
     },
     {
       "text": "it",
-      "startMs": 23853
+      "startMs": 19928
     },
     {
       "text": "up",
-      "startMs": 23934
+      "startMs": 20002
     },
     {
       "text": "and",
-      "startMs": 24246
+      "startMs": 20287
     },
     {
       "text": "ordinary",
-      "startMs": 24431
+      "startMs": 20456
     },
     {
       "text": "matter",
-      "startMs": 24848
+      "startMs": 20837
     },
     {
       "text": "everything",
-      "startMs": 25531
+      "startMs": 21462
     },
     {
       "text": "we",
-      "startMs": 25890
+      "startMs": 21790
     },
     {
       "text": "have",
-      "startMs": 25994
+      "startMs": 21885
     },
     {
       "text": "ever",
-      "startMs": 26318
+      "startMs": 22181
     },
     {
       "text": "observed",
-      "startMs": 26538
+      "startMs": 22382
     },
     {
       "text": "is",
-      "startMs": 27221
+      "startMs": 23006
     },
     {
       "text": "about",
-      "startMs": 27302
+      "startMs": 23080
     },
     {
       "text": "five",
-      "startMs": 27522
+      "startMs": 23281
     },
     {
       "text": "percent",
-      "startMs": 27927
+      "startMs": 23652
     },
     {
       "text": "of",
-      "startMs": 28343
+      "startMs": 24032
     },
     {
       "text": "the",
-      "startMs": 28390
+      "startMs": 24075
     },
     {
       "text": "total",
-      "startMs": 28448
+      "startMs": 24128
     },
     {
       "text": "We",
-      "startMs": 29786
+      "startMs": 24900
     },
     {
       "text": "did",
-      "startMs": 29846
+      "startMs": 24945
     },
     {
       "text": "not",
-      "startMs": 29954
+      "startMs": 25043
     },
     {
       "text": "discover",
-      "startMs": 30183
+      "startMs": 25253
     },
     {
       "text": "dark",
-      "startMs": 30688
+      "startMs": 25714
     },
     {
       "text": "matter",
-      "startMs": 30976
+      "startMs": 25977
     },
     {
       "text": "and",
-      "startMs": 31589
+      "startMs": 26538
     },
     {
       "text": "dark",
-      "startMs": 31685
+      "startMs": 26626
     },
     {
       "text": "energy",
-      "startMs": 32010
+      "startMs": 26923
     },
     {
       "text": "We",
-      "startMs": 33098
+      "startMs": 27569
     },
     {
       "text": "named",
-      "startMs": 33215
+      "startMs": 27654
     },
     {
       "text": "them",
-      "startMs": 33502
+      "startMs": 27916
     },
     {
       "text": "They",
-      "startMs": 35230
+      "startMs": 28446
     },
     {
       "text": "are",
-      "startMs": 35266
+      "startMs": 28468
     },
     {
       "text": "placeholders",
-      "startMs": 35362
+      "startMs": 28556
     },
     {
       "text": "the",
-      "startMs": 36468
+      "startMs": 29567
     },
     {
       "text": "shape",
-      "startMs": 36564
+      "startMs": 29655
     },
     {
       "text": "of",
-      "startMs": 36841
+      "startMs": 29908
     },
     {
       "text": "a",
-      "startMs": 36889
+      "startMs": 29952
     },
     {
       "text": "hole",
-      "startMs": 36925
+      "startMs": 29985
     },
     {
       "text": "in",
-      "startMs": 37261
+      "startMs": 30292
     },
     {
       "text": "the",
-      "startMs": 37334
+      "startMs": 30359
     },
     {
       "text": "accounts",
-      "startMs": 37430
+      "startMs": 30446
     },
     {
       "text": "labeled",
-      "startMs": 38295
+      "startMs": 31237
     },
     {
       "text": "so",
-      "startMs": 39064
+      "startMs": 31940
     },
     {
       "text": "we",
-      "startMs": 39172
+      "startMs": 32039
     },
     {
       "text": "can",
-      "startMs": 39269
+      "startMs": 32127
     },
     {
       "text": "keep",
-      "startMs": 39377
+      "startMs": 32226
     },
     {
       "text": "working",
-      "startMs": 39629
+      "startMs": 32457
     },
     {
       "text": "It",
-      "startMs": 40754
+      "startMs": 33119
     },
     {
       "text": "is",
-      "startMs": 40826
+      "startMs": 33171
     },
     {
       "text": "the",
-      "startMs": 40922
+      "startMs": 33259
     },
     {
       "text": "same",
-      "startMs": 41031
+      "startMs": 33358
     },
     {
       "text": "move",
-      "startMs": 41343
+      "startMs": 33644
     },
     {
       "text": "astronomers",
-      "startMs": 41535
+      "startMs": 33819
     },
     {
       "text": "once",
-      "startMs": 42124
+      "startMs": 34357
     },
     {
       "text": "made",
-      "startMs": 42473
+      "startMs": 34676
     },
     {
       "text": "when",
-      "startMs": 43158
+      "startMs": 35303
     },
     {
       "text": "Mercury's",
-      "startMs": 43362
+      "startMs": 35489
     },
     {
       "text": "orbit",
-      "startMs": 44156
+      "startMs": 36215
     },
     {
       "text": "refused",
-      "startMs": 44612
+      "startMs": 36632
     },
     {
       "text": "to",
-      "startMs": 45177
+      "startMs": 37148
     },
     {
       "text": "behave",
-      "startMs": 45237
+      "startMs": 37203
     },
     {
       "text": "and",
-      "startMs": 46211
+      "startMs": 38093
     },
     {
       "text": "the",
-      "startMs": 46259
+      "startMs": 38137
     },
     {
       "text": "answer",
-      "startMs": 46343
+      "startMs": 38214
     },
     {
       "text": "turned",
-      "startMs": 46692
+      "startMs": 38533
     },
     {
       "text": "out",
-      "startMs": 46944
+      "startMs": 38763
     },
     {
       "text": "to",
-      "startMs": 47136
+      "startMs": 38939
     },
     {
       "text": "be",
-      "startMs": 47232
+      "startMs": 39027
     },
     {
       "text": "that",
-      "startMs": 47521
+      "startMs": 39291
     },
     {
       "text": "gravity",
-      "startMs": 47689
+      "startMs": 39444
     },
     {
       "text": "itself",
-      "startMs": 48266
+      "startMs": 39972
     },
     {
       "text": "needed",
-      "startMs": 48879
+      "startMs": 40532
     },
     {
       "text": "rewriting",
-      "startMs": 49276
+      "startMs": 40895
     },
     {
       "text": "So",
-      "startMs": 50562
+      "startMs": 41727
     },
     {
       "text": "the",
-      "startMs": 50646
+      "startMs": 41798
     },
     {
       "text": "honest",
-      "startMs": 50754
+      "startMs": 41897
     },
     {
       "text": "version",
-      "startMs": 51067
+      "startMs": 42183
     },
     {
       "text": "is",
-      "startMs": 51524
+      "startMs": 42600
     },
     {
       "text": "this",
-      "startMs": 51680
+      "startMs": 42743
     },
     {
       "text": "The",
-      "startMs": 52894
+      "startMs": 43510
     },
     {
       "text": "largest",
-      "startMs": 52954
+      "startMs": 43559
     },
     {
       "text": "thing",
-      "startMs": 53327
+      "startMs": 43900
     },
     {
       "text": "in",
-      "startMs": 53483
+      "startMs": 44042
     },
     {
       "text": "physics",
-      "startMs": 53579
+      "startMs": 44130
     },
     {
       "text": "right",
-      "startMs": 54048
+      "startMs": 44559
     },
     {
       "text": "now",
-      "startMs": 54240
+      "startMs": 44734
     },
     {
       "text": "is",
-      "startMs": 54769
+      "startMs": 45218
     },
     {
       "text": "a",
-      "startMs": 54877
+      "startMs": 45316
     },
     {
       "text": "gap",
-      "startMs": 54937
+      "startMs": 45371
     },
     {
       "text": "We",
-      "startMs": 56266
+      "startMs": 46140
     },
     {
       "text": "mapped",
-      "startMs": 56399
+      "startMs": 46240
     },
     {
       "text": "the",
-      "startMs": 56878
+      "startMs": 46677
     },
     {
       "text": "lit",
-      "startMs": 57011
+      "startMs": 46799
     },
     {
       "text": "part",
-      "startMs": 57290
+      "startMs": 47054
     },
     {
       "text": "and",
-      "startMs": 57822
+      "startMs": 47540
     },
     {
       "text": "called",
-      "startMs": 57915
+      "startMs": 47625
     },
     {
       "text": "it",
-      "startMs": 58208
+      "startMs": 47893
     },
     {
       "text": "the",
-      "startMs": 58261
+      "startMs": 47942
     },
     {
       "text": "universe",
-      "startMs": 58328
+      "startMs": 48003
     },
     {
       "text": "But",
-      "startMs": 59868
+      "startMs": 49009
     }
-  ]
+  ],
+  "speechSpeed": 1.094
 }

@@ -10,7 +10,7 @@
         0,
         0.5
       ],
-      "seconds": 7.11,
+      "seconds": 5.24,
       "text": "Every day, thousands of people are switched off on purpose. Nobody can fully explain how.",
       "delivery": {
         "rate": -4,
@@ -23,7 +23,7 @@
         },
         {
           "src": "videos/14-anesthesia-unknown/v1-2.mp3",
-          "atMs": 4360
+          "atMs": 3321
         }
       ]
     },
@@ -36,7 +36,7 @@
         0,
         0.455
       ],
-      "seconds": 22.43,
+      "seconds": 16.09,
       "text": "We know what the drugs bind to. We know the doses, to the milligram, and we know how to bring you back. What we cannot explain is the moment itself. Why does a molecule in your bloodstream make experience stop? The brain does not shut down under anesthesia. It stays active. It simply stops holding itself together as one conversation.",
       "delivery": {
         "rate": 8,
@@ -49,27 +49,27 @@
         },
         {
           "src": "videos/14-anesthesia-unknown/v2-2.mp3",
-          "atMs": 1864
+          "atMs": 1273
         },
         {
           "src": "videos/14-anesthesia-unknown/v2-3.mp3",
-          "atMs": 6080
+          "atMs": 4476
         },
         {
           "src": "videos/14-anesthesia-unknown/v2-4.mp3",
-          "atMs": 9264
+          "atMs": 6816
         },
         {
           "src": "videos/14-anesthesia-unknown/v2-5.mp3",
-          "atMs": 12952
+          "atMs": 9590
         },
         {
           "src": "videos/14-anesthesia-unknown/v2-6.mp3",
-          "atMs": 16016
+          "atMs": 11863
         },
         {
           "src": "videos/14-anesthesia-unknown/v2-7.mp3",
-          "atMs": 18168
+          "atMs": 12891
         }
       ]
     },
@@ -82,7 +82,7 @@
         0,
         0.4
       ],
-      "seconds": 32.45,
+      "seconds": 23.71,
       "text": "Picture an orchestra. Anesthesia does not silence the musicians. It takes away the conductor. Every section keeps playing, and nothing arrives together, so there is no music, and no one listening. That is the leading idea. The parts stay awake, and the binding fails. Which raises the uncomfortable question underneath. If consciousness can be removed by interrupting a connection, then it was never a thing you have. It was something your brain keeps doing.",
       "delivery": {
         "rate": 4,
@@ -95,35 +95,35 @@
         },
         {
           "src": "videos/14-anesthesia-unknown/v3-2.mp3",
-          "atMs": 2152
+          "atMs": 1150
         },
         {
           "src": "videos/14-anesthesia-unknown/v3-3.mp3",
-          "atMs": 5960
+          "atMs": 4008
         },
         {
           "src": "videos/14-anesthesia-unknown/v3-4.mp3",
-          "atMs": 8112
+          "atMs": 5273
         },
         {
           "src": "videos/14-anesthesia-unknown/v3-5.mp3",
-          "atMs": 15232
+          "atMs": 10913
         },
         {
           "src": "videos/14-anesthesia-unknown/v3-6.mp3",
-          "atMs": 17048
+          "atMs": 12135
         },
         {
           "src": "videos/14-anesthesia-unknown/v3-7.mp3",
-          "atMs": 20208
+          "atMs": 14446
         },
         {
           "src": "videos/14-anesthesia-unknown/v3-8.mp3",
-          "atMs": 23488
+          "atMs": 16884
         },
         {
           "src": "videos/14-anesthesia-unknown/v3-9.mp3",
-          "atMs": 29600
+          "atMs": 21695
         }
       ]
     },
@@ -136,7 +136,7 @@
         0,
         0.5
       ],
-      "seconds": 7.52,
+      "seconds": 4.69,
       "text": "Something performed you into existence this morning. And it can be paused. Because",
       "delivery": {
         "rate": -6,
@@ -151,11 +151,11 @@
         },
         {
           "src": "videos/14-anesthesia-unknown/v4-2.mp3",
-          "atMs": 3856
+          "atMs": 2862
         },
         {
           "src": "videos/14-anesthesia-unknown/v4-3.mp3",
-          "atMs": 5648
+          "atMs": 4030
         }
       ]
     }
@@ -165,651 +165,652 @@
   "words": [
     {
       "text": "Every",
-      "startMs": 91
+      "startMs": 0
     },
     {
       "text": "day",
-      "startMs": 339
+      "startMs": 190
     },
     {
       "text": "thousands",
-      "startMs": 1146
+      "startMs": 867
     },
     {
       "text": "of",
-      "startMs": 1589
+      "startMs": 1238
     },
     {
       "text": "people",
-      "startMs": 1654
+      "startMs": 1293
     },
     {
       "text": "are",
-      "startMs": 1953
+      "startMs": 1543
     },
     {
       "text": "switched",
-      "startMs": 2057
+      "startMs": 1630
     },
     {
       "text": "off",
-      "startMs": 2591
+      "startMs": 2078
     },
     {
       "text": "on",
-      "startMs": 2917
+      "startMs": 2351
     },
     {
       "text": "purpose",
-      "startMs": 3047
+      "startMs": 2460
     },
     {
       "text": "Nobody",
-      "startMs": 4451
+      "startMs": 3321
     },
     {
       "text": "can",
-      "startMs": 4790
+      "startMs": 3592
     },
     {
       "text": "fully",
-      "startMs": 4907
+      "startMs": 3690
     },
     {
       "text": "explain",
-      "startMs": 5350
+      "startMs": 4061
     },
     {
       "text": "how",
-      "startMs": 5831
+      "startMs": 4464
     },
     {
       "text": "We",
-      "startMs": 7191
+      "startMs": 5240
     },
     {
       "text": "know",
-      "startMs": 7249
+      "startMs": 5275
     },
     {
       "text": "what",
-      "startMs": 7365
+      "startMs": 5372
     },
     {
       "text": "the",
-      "startMs": 7434
+      "startMs": 5430
     },
     {
       "text": "drugs",
-      "startMs": 7492
+      "startMs": 5478
     },
     {
       "text": "bind",
-      "startMs": 7793
+      "startMs": 5731
     },
     {
       "text": "to",
-      "startMs": 8071
+      "startMs": 5964
     },
     {
       "text": "We",
-      "startMs": 9067
+      "startMs": 6513
     },
     {
       "text": "know",
-      "startMs": 9159
+      "startMs": 6582
     },
     {
       "text": "the",
-      "startMs": 9310
+      "startMs": 6708
     },
     {
       "text": "doses",
-      "startMs": 9402
+      "startMs": 6785
     },
     {
       "text": "to",
-      "startMs": 10247
+      "startMs": 7494
     },
     {
       "text": "the",
-      "startMs": 10351
+      "startMs": 7581
     },
     {
       "text": "milligram",
-      "startMs": 10409
+      "startMs": 7629
     },
     {
       "text": "and",
-      "startMs": 11428
+      "startMs": 8484
     },
     {
       "text": "we",
-      "startMs": 11474
+      "startMs": 8522
     },
     {
       "text": "know",
-      "startMs": 11555
+      "startMs": 8590
     },
     {
       "text": "how",
-      "startMs": 11717
+      "startMs": 8726
     },
     {
       "text": "to",
-      "startMs": 11810
+      "startMs": 8804
     },
     {
       "text": "bring",
-      "startMs": 11868
+      "startMs": 8852
     },
     {
       "text": "you",
-      "startMs": 12041
+      "startMs": 8997
     },
     {
       "text": "back",
-      "startMs": 12111
+      "startMs": 9056
     },
     {
       "text": "What",
-      "startMs": 13271
+      "startMs": 9716
     },
     {
       "text": "we",
-      "startMs": 13340
+      "startMs": 9758
     },
     {
       "text": "cannot",
-      "startMs": 13433
+      "startMs": 9836
     },
     {
       "text": "explain",
-      "startMs": 13722
+      "startMs": 10078
     },
     {
       "text": "is",
-      "startMs": 14614
+      "startMs": 10826
     },
     {
       "text": "the",
-      "startMs": 14718
+      "startMs": 10913
     },
     {
       "text": "moment",
-      "startMs": 14799
+      "startMs": 10981
     },
     {
       "text": "itself",
-      "startMs": 15134
+      "startMs": 11262
     },
     {
       "text": "Why",
-      "startMs": 16467
+      "startMs": 12056
     },
     {
       "text": "does",
-      "startMs": 16548
+      "startMs": 12110
     },
     {
       "text": "a",
-      "startMs": 16652
+      "startMs": 12197
     },
     {
       "text": "molecule",
-      "startMs": 16686
+      "startMs": 12225
     },
     {
       "text": "in",
-      "startMs": 17230
+      "startMs": 12681
     },
     {
       "text": "your",
-      "startMs": 17288
+      "startMs": 12730
     },
     {
       "text": "bloodstream",
-      "startMs": 17369
+      "startMs": 12798
     },
     {
       "text": "make",
-      "startMs": 18249
+      "startMs": 13535
     },
     {
       "text": "experience",
-      "startMs": 18423
+      "startMs": 13681
     },
     {
       "text": "stop",
-      "startMs": 19024
+      "startMs": 14185
     },
     {
       "text": "The",
-      "startMs": 20155
+      "startMs": 14830
     },
     {
       "text": "brain",
-      "startMs": 20224
+      "startMs": 14873
     },
     {
       "text": "does",
-      "startMs": 20513
+      "startMs": 15115
     },
     {
       "text": "not",
-      "startMs": 20652
+      "startMs": 15232
     },
     {
       "text": "shut",
-      "startMs": 20872
+      "startMs": 15416
     },
     {
       "text": "down",
-      "startMs": 21219
+      "startMs": 15707
     },
     {
       "text": "under",
-      "startMs": 21613
+      "startMs": 16037
     },
     {
       "text": "anesthesia",
-      "startMs": 21810
+      "startMs": 16202
     },
     {
       "text": "It",
-      "startMs": 23226
+      "startMs": 17103
     },
     {
       "text": "stays",
-      "startMs": 23301
+      "startMs": 17153
     },
     {
       "text": "active",
-      "startMs": 23626
+      "startMs": 17425
     },
     {
       "text": "It",
-      "startMs": 25371
+      "startMs": 18131
     },
     {
       "text": "simply",
-      "startMs": 25440
+      "startMs": 18177
     },
     {
       "text": "stops",
-      "startMs": 25741
+      "startMs": 18430
     },
     {
       "text": "holding",
-      "startMs": 26204
+      "startMs": 18818
     },
     {
       "text": "itself",
-      "startMs": 26516
+      "startMs": 19079
     },
     {
       "text": "together",
-      "startMs": 26875
+      "startMs": 19380
     },
     {
       "text": "as",
-      "startMs": 27581
+      "startMs": 19972
     },
     {
       "text": "one",
-      "startMs": 27709
+      "startMs": 20079
     },
     {
       "text": "conversation",
-      "startMs": 28021
+      "startMs": 20341
     },
     {
       "text": "Picture",
-      "startMs": 29657
+      "startMs": 21330
     },
     {
       "text": "an",
-      "startMs": 29944
+      "startMs": 21558
     },
     {
       "text": "orchestra",
-      "startMs": 30022
+      "startMs": 21624
     },
     {
       "text": "Anesthesia",
-      "startMs": 31776
+      "startMs": 22480
     },
     {
       "text": "does",
-      "startMs": 32822
+      "startMs": 23339
     },
     {
       "text": "not",
-      "startMs": 33038
+      "startMs": 23520
     },
     {
       "text": "silence",
-      "startMs": 33399
+      "startMs": 23823
     },
     {
       "text": "the",
-      "startMs": 34036
+      "startMs": 24357
     },
     {
       "text": "musicians",
-      "startMs": 34096
+      "startMs": 24407
     },
     {
       "text": "It",
-      "startMs": 35596
+      "startMs": 25338
     },
     {
       "text": "takes",
-      "startMs": 35668
+      "startMs": 25386
     },
     {
       "text": "away",
-      "startMs": 35885
+      "startMs": 25568
     },
     {
       "text": "the",
-      "startMs": 36125
+      "startMs": 25769
     },
     {
       "text": "conductor",
-      "startMs": 36209
+      "startMs": 25840
     },
     {
       "text": "Every",
-      "startMs": 37736
+      "startMs": 26603
     },
     {
       "text": "section",
-      "startMs": 37964
+      "startMs": 26783
     },
     {
       "text": "keeps",
-      "startMs": 38698
+      "startMs": 27399
     },
     {
       "text": "playing",
-      "startMs": 38986
+      "startMs": 27640
     },
     {
       "text": "and",
-      "startMs": 40032
+      "startMs": 28517
     },
     {
       "text": "nothing",
-      "startMs": 40176
+      "startMs": 28638
     },
     {
       "text": "arrives",
-      "startMs": 40489
+      "startMs": 28900
     },
     {
       "text": "together",
-      "startMs": 40897
+      "startMs": 29242
     },
     {
       "text": "so",
-      "startMs": 41726
+      "startMs": 29937
     },
     {
       "text": "there",
-      "startMs": 41835
+      "startMs": 30028
     },
     {
       "text": "is",
-      "startMs": 41967
+      "startMs": 30139
     },
     {
       "text": "no",
-      "startMs": 42087
+      "startMs": 30239
     },
     {
       "text": "music",
-      "startMs": 42315
+      "startMs": 30431
     },
     {
       "text": "and",
-      "startMs": 43145
+      "startMs": 31126
     },
     {
       "text": "no",
-      "startMs": 43289
+      "startMs": 31247
     },
     {
       "text": "one",
-      "startMs": 43493
+      "startMs": 31418
     },
     {
       "text": "listening",
-      "startMs": 43722
+      "startMs": 31610
     },
     {
       "text": "That",
-      "startMs": 44868
+      "startMs": 32243
     },
     {
       "text": "is",
-      "startMs": 44952
+      "startMs": 32302
     },
     {
       "text": "the",
-      "startMs": 45036
+      "startMs": 32372
     },
     {
       "text": "leading",
-      "startMs": 45169
+      "startMs": 32484
     },
     {
       "text": "idea",
-      "startMs": 45493
+      "startMs": 32755
     },
     {
       "text": "The",
-      "startMs": 46696
+      "startMs": 33465
     },
     {
       "text": "parts",
-      "startMs": 46780
+      "startMs": 33530
     },
     {
       "text": "stay",
-      "startMs": 47009
+      "startMs": 33722
     },
     {
       "text": "awake",
-      "startMs": 47201
+      "startMs": 33883
     },
     {
       "text": "and",
-      "startMs": 47886
+      "startMs": 34457
     },
     {
       "text": "the",
-      "startMs": 47958
+      "startMs": 34518
     },
     {
       "text": "binding",
-      "startMs": 48054
+      "startMs": 34598
     },
     {
       "text": "fails",
-      "startMs": 48487
+      "startMs": 34961
     },
     {
       "text": "Which",
-      "startMs": 49832
+      "startMs": 35776
     },
     {
       "text": "raises",
-      "startMs": 49976
+      "startMs": 35880
     },
     {
       "text": "the",
-      "startMs": 50397
+      "startMs": 36233
     },
     {
       "text": "uncomfortable",
-      "startMs": 50589
+      "startMs": 36394
     },
     {
       "text": "question",
-      "startMs": 51359
+      "startMs": 37040
     },
     {
       "text": "underneath",
-      "startMs": 51815
+      "startMs": 37422
     },
     {
       "text": "If",
-      "startMs": 53124
+      "startMs": 38214
     },
     {
       "text": "consciousness",
-      "startMs": 53232
+      "startMs": 38294
     },
     {
       "text": "can",
-      "startMs": 53978
+      "startMs": 38920
     },
     {
       "text": "be",
-      "startMs": 54122
+      "startMs": 39040
     },
     {
       "text": "removed",
-      "startMs": 54242
+      "startMs": 39141
     },
     {
       "text": "by",
-      "startMs": 55167
+      "startMs": 39916
     },
     {
       "text": "interrupting",
-      "startMs": 55408
+      "startMs": 40118
     },
     {
       "text": "a",
-      "startMs": 55889
+      "startMs": 40521
     },
     {
       "text": "connection",
-      "startMs": 55937
+      "startMs": 40562
     },
     {
       "text": "then",
-      "startMs": 56922
+      "startMs": 41387
     },
     {
       "text": "it",
-      "startMs": 57006
+      "startMs": 41458
     },
     {
       "text": "was",
-      "startMs": 57054
+      "startMs": 41498
     },
     {
       "text": "never",
-      "startMs": 57175
+      "startMs": 41599
     },
     {
       "text": "a",
-      "startMs": 57535
+      "startMs": 41901
     },
     {
       "text": "thing",
-      "startMs": 57583
+      "startMs": 41941
     },
     {
       "text": "you",
-      "startMs": 57932
+      "startMs": 42234
     },
     {
       "text": "have",
-      "startMs": 58040
+      "startMs": 42324
     },
     {
       "text": "It",
-      "startMs": 59236
+      "startMs": 43025
     },
     {
       "text": "was",
-      "startMs": 59296
+      "startMs": 43061
     },
     {
       "text": "something",
-      "startMs": 59392
+      "startMs": 43141
     },
     {
       "text": "your",
-      "startMs": 59621
+      "startMs": 43333
     },
     {
       "text": "brain",
-      "startMs": 59717
+      "startMs": 43414
     },
     {
       "text": "keeps",
-      "startMs": 60474
+      "startMs": 44048
     },
     {
       "text": "doing",
-      "startMs": 60787
+      "startMs": 44311
     },
     {
       "text": "Something",
-      "startMs": 62096
+      "startMs": 45040
     },
     {
       "text": "performed",
-      "startMs": 62362
+      "startMs": 45247
     },
     {
       "text": "you",
-      "startMs": 62894
+      "startMs": 45692
     },
     {
       "text": "into",
-      "startMs": 63080
+      "startMs": 45848
     },
     {
       "text": "existence",
-      "startMs": 63373
+      "startMs": 46094
     },
     {
       "text": "this",
-      "startMs": 64477
+      "startMs": 47019
     },
     {
       "text": "morning",
-      "startMs": 64663
+      "startMs": 47175
     },
     {
       "text": "And",
-      "startMs": 65952
+      "startMs": 47902
     },
     {
       "text": "it",
-      "startMs": 66006
+      "startMs": 47932
     },
     {
       "text": "can",
-      "startMs": 66072
+      "startMs": 47988
     },
     {
       "text": "be",
-      "startMs": 66152
+      "startMs": 48055
     },
     {
       "text": "paused",
-      "startMs": 66258
+      "startMs": 48143
     },
     {
       "text": "Because",
-      "startMs": 67754
+      "startMs": 49070
     }
-  ]
+  ],
+  "speechSpeed": 1.193
 }

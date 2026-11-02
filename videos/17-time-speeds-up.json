@@ -10,7 +10,7 @@
         0,
         0.5
       ],
-      "seconds": 5.19,
+      "seconds": 3.72,
       "text": "Last year was shorter than the one before it. It will keep happening.",
       "delivery": {
         "rate": -4,
@@ -23,7 +23,7 @@
         },
         {
           "src": "videos/17-time-speeds-up/v1-2.mp3",
-          "atMs": 2872
+          "atMs": 2332
         }
       ]
     },
@@ -36,7 +36,7 @@
         0,
         0.455
       ],
-      "seconds": 21.66,
+      "seconds": 18.86,
       "text": "Your sense of how long a stretch of time lasted is reconstructed afterward, from how much of it you stored. A week in a new country takes up enormous space in memory. A week of the same commute leaves almost nothing behind. Your brain does not record what it can already predict. So a familiar year compresses into a few paragraphs.",
       "delivery": {
         "rate": 8,
@@ -49,19 +49,19 @@
         },
         {
           "src": "videos/17-time-speeds-up/v2-2.mp3",
-          "atMs": 6544
+          "atMs": 5906
         },
         {
           "src": "videos/17-time-speeds-up/v2-3.mp3",
-          "atMs": 10880
+          "atMs": 9713
         },
         {
           "src": "videos/17-time-speeds-up/v2-4.mp3",
-          "atMs": 14568
+          "atMs": 12898
         },
         {
           "src": "videos/17-time-speeds-up/v2-5.mp3",
-          "atMs": 17800
+          "atMs": 15608
         }
       ]
     },
@@ -74,7 +74,7 @@
         0,
         0.4
       ],
-      "seconds": 25.49,
+      "seconds": 22.0,
       "text": "Childhood felt enormous because almost everything in it was a first. The first ocean, the first betrayal, the first time you understood a joke. Novelty is expensive to store, and expense is what makes time feel long. Which hands you the only lever there is. You cannot slow the clock. You can refuse to let the years look identical, and a year that resists prediction is a year you get to keep.",
       "delivery": {
         "rate": 4,
@@ -87,23 +87,23 @@
         },
         {
           "src": "videos/17-time-speeds-up/v3-2.mp3",
-          "atMs": 4576
+          "atMs": 3986
         },
         {
           "src": "videos/17-time-speeds-up/v3-3.mp3",
-          "atMs": 8984
+          "atMs": 7795
         },
         {
           "src": "videos/17-time-speeds-up/v3-4.mp3",
-          "atMs": 14424
+          "atMs": 12649
         },
         {
           "src": "videos/17-time-speeds-up/v3-5.mp3",
-          "atMs": 16888
+          "atMs": 14632
         },
         {
           "src": "videos/17-time-speeds-up/v3-6.mp3",
-          "atMs": 18848
+          "atMs": 16116
         }
       ]
     },
@@ -116,7 +116,7 @@
         0,
         0.5
       ],
-      "seconds": 5.7,
+      "seconds": 4.56,
       "text": "Fill it with the unfamiliar, or watch it vanish. Because otherwise",
       "delivery": {
         "rate": -6,
@@ -131,7 +131,7 @@
         },
         {
           "src": "videos/17-time-speeds-up/v4-2.mp3",
-          "atMs": 3904
+          "atMs": 3273
         }
       ]
     }
@@ -141,631 +141,632 @@
   "words": [
     {
       "text": "Last",
-      "startMs": 78
+      "startMs": 0
     },
     {
       "text": "year",
-      "startMs": 391
+      "startMs": 274
     },
     {
       "text": "was",
-      "startMs": 573
+      "startMs": 449
     },
     {
       "text": "shorter",
-      "startMs": 703
+      "startMs": 573
     },
     {
       "text": "than",
-      "startMs": 1211
+      "startMs": 1061
     },
     {
       "text": "the",
-      "startMs": 1328
+      "startMs": 1173
     },
     {
       "text": "one",
-      "startMs": 1406
+      "startMs": 1248
     },
     {
       "text": "before",
-      "startMs": 1615
+      "startMs": 1449
     },
     {
       "text": "it",
-      "startMs": 2044
+      "startMs": 1860
     },
     {
       "text": "It",
-      "startMs": 2986
+      "startMs": 2332
     },
     {
       "text": "will",
-      "startMs": 3071
+      "startMs": 2401
     },
     {
       "text": "keep",
-      "startMs": 3184
+      "startMs": 2509
     },
     {
       "text": "happening",
-      "startMs": 3483
+      "startMs": 2796
     },
     {
       "text": "Your",
-      "startMs": 5271
+      "startMs": 3720
     },
     {
       "text": "sense",
-      "startMs": 5364
+      "startMs": 3791
     },
     {
       "text": "of",
-      "startMs": 5676
+      "startMs": 4090
     },
     {
       "text": "how",
-      "startMs": 5769
+      "startMs": 4180
     },
     {
       "text": "long",
-      "startMs": 5977
+      "startMs": 4379
     },
     {
       "text": "a",
-      "startMs": 6359
+      "startMs": 4746
     },
     {
       "text": "stretch",
-      "startMs": 6405
+      "startMs": 4790
     },
     {
       "text": "of",
-      "startMs": 6799
+      "startMs": 5168
     },
     {
       "text": "time",
-      "startMs": 6880
+      "startMs": 5246
     },
     {
       "text": "lasted",
-      "startMs": 7134
+      "startMs": 5490
     },
     {
       "text": "is",
-      "startMs": 7759
+      "startMs": 6089
     },
     {
       "text": "reconstructed",
-      "startMs": 7979
+      "startMs": 6300
     },
     {
       "text": "afterward",
-      "startMs": 8871
+      "startMs": 7156
     },
     {
       "text": "from",
-      "startMs": 9588
+      "startMs": 7845
     },
     {
       "text": "how",
-      "startMs": 9762
+      "startMs": 8012
     },
     {
       "text": "much",
-      "startMs": 10040
+      "startMs": 8278
     },
     {
       "text": "of",
-      "startMs": 10410
+      "startMs": 8633
     },
     {
       "text": "it",
-      "startMs": 10456
+      "startMs": 8678
     },
     {
       "text": "you",
-      "startMs": 10526
+      "startMs": 8745
     },
     {
       "text": "stored",
-      "startMs": 10630
+      "startMs": 8845
     },
     {
       "text": "A",
-      "startMs": 11815
+      "startMs": 9626
     },
     {
       "text": "week",
-      "startMs": 11873
+      "startMs": 9669
     },
     {
       "text": "in",
-      "startMs": 12128
+      "startMs": 9913
     },
     {
       "text": "a",
-      "startMs": 12197
+      "startMs": 9980
     },
     {
       "text": "new",
-      "startMs": 12220
+      "startMs": 10002
     },
     {
       "text": "country",
-      "startMs": 12533
+      "startMs": 10302
     },
     {
       "text": "takes",
-      "startMs": 13030
+      "startMs": 10779
     },
     {
       "text": "up",
-      "startMs": 13354
+      "startMs": 11090
     },
     {
       "text": "enormous",
-      "startMs": 13644
+      "startMs": 11368
     },
     {
       "text": "space",
-      "startMs": 14188
+      "startMs": 11890
     },
     {
       "text": "in",
-      "startMs": 14871
+      "startMs": 12546
     },
     {
       "text": "memory",
-      "startMs": 14986
+      "startMs": 12656
     },
     {
       "text": "A",
-      "startMs": 16139
+      "startMs": 13433
     },
     {
       "text": "week",
-      "startMs": 16197
+      "startMs": 13468
     },
     {
       "text": "of",
-      "startMs": 16394
+      "startMs": 13657
     },
     {
       "text": "the",
-      "startMs": 16440
+      "startMs": 13701
     },
     {
       "text": "same",
-      "startMs": 16521
+      "startMs": 13779
     },
     {
       "text": "commute",
-      "startMs": 16822
+      "startMs": 14068
     },
     {
       "text": "leaves",
-      "startMs": 17297
+      "startMs": 14524
     },
     {
       "text": "almost",
-      "startMs": 17818
+      "startMs": 15024
     },
     {
       "text": "nothing",
-      "startMs": 18246
+      "startMs": 15434
     },
     {
       "text": "behind",
-      "startMs": 18628
+      "startMs": 15801
     },
     {
       "text": "Your",
-      "startMs": 19851
+      "startMs": 16618
     },
     {
       "text": "brain",
-      "startMs": 19932
+      "startMs": 16684
     },
     {
       "text": "does",
-      "startMs": 20279
+      "startMs": 17017
     },
     {
       "text": "not",
-      "startMs": 20441
+      "startMs": 17173
     },
     {
       "text": "record",
-      "startMs": 20765
+      "startMs": 17484
     },
     {
       "text": "what",
-      "startMs": 21286
+      "startMs": 17984
     },
     {
       "text": "it",
-      "startMs": 21390
+      "startMs": 18084
     },
     {
       "text": "can",
-      "startMs": 21448
+      "startMs": 18139
     },
     {
       "text": "already",
-      "startMs": 21552
+      "startMs": 18239
     },
     {
       "text": "predict",
-      "startMs": 21864
+      "startMs": 18539
     },
     {
       "text": "So",
-      "startMs": 23083
+      "startMs": 19328
     },
     {
       "text": "a",
-      "startMs": 23210
+      "startMs": 19443
     },
     {
       "text": "familiar",
-      "startMs": 23245
+      "startMs": 19477
     },
     {
       "text": "year",
-      "startMs": 23696
+      "startMs": 19910
     },
     {
       "text": "compresses",
-      "startMs": 23939
+      "startMs": 20143
     },
     {
       "text": "into",
-      "startMs": 24715
+      "startMs": 20887
     },
     {
       "text": "a",
-      "startMs": 24911
+      "startMs": 21076
     },
     {
       "text": "few",
-      "startMs": 24958
+      "startMs": 21121
     },
     {
       "text": "paragraphs",
-      "startMs": 25293
+      "startMs": 21442
     },
     {
       "text": "Childhood",
-      "startMs": 26946
+      "startMs": 22580
     },
     {
       "text": "felt",
-      "startMs": 27451
+      "startMs": 23055
     },
     {
       "text": "enormous",
-      "startMs": 27715
+      "startMs": 23309
     },
     {
       "text": "because",
-      "startMs": 28557
+      "startMs": 24117
     },
     {
       "text": "almost",
-      "startMs": 28881
+      "startMs": 24428
     },
     {
       "text": "everything",
-      "startMs": 29386
+      "startMs": 24912
     },
     {
       "text": "in",
-      "startMs": 29855
+      "startMs": 25363
     },
     {
       "text": "it",
-      "startMs": 29951
+      "startMs": 25455
     },
     {
       "text": "was",
-      "startMs": 30011
+      "startMs": 25512
     },
     {
       "text": "a",
-      "startMs": 30119
+      "startMs": 25616
     },
     {
       "text": "first",
-      "startMs": 30155
+      "startMs": 25650
     },
     {
       "text": "The",
-      "startMs": 31534
+      "startMs": 26566
     },
     {
       "text": "first",
-      "startMs": 31606
+      "startMs": 26625
     },
     {
       "text": "ocean",
-      "startMs": 31931
+      "startMs": 26937
     },
     {
       "text": "the",
-      "startMs": 32604
+      "startMs": 27583
     },
     {
       "text": "first",
-      "startMs": 32700
+      "startMs": 27675
     },
     {
       "text": "betrayal",
-      "startMs": 32988
+      "startMs": 27951
     },
     {
       "text": "the",
-      "startMs": 33782
+      "startMs": 28713
     },
     {
       "text": "first",
-      "startMs": 33854
+      "startMs": 28782
     },
     {
       "text": "time",
-      "startMs": 34118
+      "startMs": 29036
     },
     {
       "text": "you",
-      "startMs": 34311
+      "startMs": 29221
     },
     {
       "text": "understood",
-      "startMs": 34419
+      "startMs": 29324
     },
     {
       "text": "a",
-      "startMs": 34719
+      "startMs": 29612
     },
     {
       "text": "joke",
-      "startMs": 34755
+      "startMs": 29647
     },
     {
       "text": "Novelty",
-      "startMs": 35918
+      "startMs": 30375
     },
     {
       "text": "is",
-      "startMs": 36760
+      "startMs": 31172
     },
     {
       "text": "expensive",
-      "startMs": 36904
+      "startMs": 31310
     },
     {
       "text": "to",
-      "startMs": 37517
+      "startMs": 31898
     },
     {
       "text": "store",
-      "startMs": 37577
+      "startMs": 31956
     },
     {
       "text": "and",
-      "startMs": 38586
+      "startMs": 32924
     },
     {
       "text": "expense",
-      "startMs": 38634
+      "startMs": 32970
     },
     {
       "text": "is",
-      "startMs": 39284
+      "startMs": 33594
     },
     {
       "text": "what",
-      "startMs": 39392
+      "startMs": 33698
     },
     {
       "text": "makes",
-      "startMs": 39488
+      "startMs": 33790
     },
     {
       "text": "time",
-      "startMs": 39716
+      "startMs": 34008
     },
     {
       "text": "feel",
-      "startMs": 40005
+      "startMs": 34286
     },
     {
       "text": "long",
-      "startMs": 40329
+      "startMs": 34597
     },
     {
       "text": "Which",
-      "startMs": 41358
+      "startMs": 35229
     },
     {
       "text": "hands",
-      "startMs": 41454
+      "startMs": 35306
     },
     {
       "text": "you",
-      "startMs": 41731
+      "startMs": 35572
     },
     {
       "text": "the",
-      "startMs": 41815
+      "startMs": 35652
     },
     {
       "text": "only",
-      "startMs": 42007
+      "startMs": 35837
     },
     {
       "text": "lever",
-      "startMs": 42284
+      "startMs": 36102
     },
     {
       "text": "there",
-      "startMs": 42512
+      "startMs": 36321
     },
     {
       "text": "is",
-      "startMs": 42728
+      "startMs": 36529
     },
     {
       "text": "You",
-      "startMs": 43834
+      "startMs": 37212
     },
     {
       "text": "cannot",
-      "startMs": 43906
+      "startMs": 37265
     },
     {
       "text": "slow",
-      "startMs": 44243
+      "startMs": 37589
     },
     {
       "text": "the",
-      "startMs": 44543
+      "startMs": 37877
     },
     {
       "text": "clock",
-      "startMs": 44615
+      "startMs": 37946
     },
     {
       "text": "You",
-      "startMs": 45782
+      "startMs": 38696
     },
     {
       "text": "can",
-      "startMs": 45878
+      "startMs": 38768
     },
     {
       "text": "refuse",
-      "startMs": 45986
+      "startMs": 38872
     },
     {
       "text": "to",
-      "startMs": 46479
+      "startMs": 39345
     },
     {
       "text": "let",
-      "startMs": 46587
+      "startMs": 39449
     },
     {
       "text": "the",
-      "startMs": 46816
+      "startMs": 39669
     },
     {
       "text": "years",
-      "startMs": 46876
+      "startMs": 39726
     },
     {
       "text": "look",
-      "startMs": 47333
+      "startMs": 40165
     },
     {
       "text": "identical",
-      "startMs": 47537
+      "startMs": 40360
     },
     {
       "text": "and",
-      "startMs": 48535
+      "startMs": 41318
     },
     {
       "text": "a",
-      "startMs": 48595
+      "startMs": 41376
     },
     {
       "text": "year",
-      "startMs": 48619
+      "startMs": 41399
     },
     {
       "text": "that",
-      "startMs": 49087
+      "startMs": 41848
     },
     {
       "text": "resists",
-      "startMs": 49220
+      "startMs": 41976
     },
     {
       "text": "prediction",
-      "startMs": 49556
+      "startMs": 42298
     },
     {
       "text": "is",
-      "startMs": 50229
+      "startMs": 42944
     },
     {
       "text": "a",
-      "startMs": 50349
+      "startMs": 43059
     },
     {
       "text": "year",
-      "startMs": 50386
+      "startMs": 43095
     },
     {
       "text": "you",
-      "startMs": 50806
+      "startMs": 43498
     },
     {
       "text": "get",
-      "startMs": 50914
+      "startMs": 43601
     },
     {
       "text": "to",
-      "startMs": 51071
+      "startMs": 43752
     },
     {
       "text": "keep",
-      "startMs": 51143
+      "startMs": 43821
     },
     {
       "text": "Fill",
-      "startMs": 52486
+      "startMs": 44580
     },
     {
       "text": "it",
-      "startMs": 52752
+      "startMs": 44835
     },
     {
       "text": "with",
-      "startMs": 52845
+      "startMs": 44924
     },
     {
       "text": "the",
-      "startMs": 52965
+      "startMs": 45039
     },
     {
       "text": "unfamiliar",
-      "startMs": 53125
+      "startMs": 45192
     },
     {
       "text": "or",
-      "startMs": 54494
+      "startMs": 46506
     },
     {
       "text": "watch",
-      "startMs": 54601
+      "startMs": 46609
     },
     {
       "text": "it",
-      "startMs": 54840
+      "startMs": 46838
     },
     {
       "text": "vanish",
-      "startMs": 54906
+      "startMs": 46902
     },
     {
       "text": "Because",
-      "startMs": 56360
+      "startMs": 47853
     },
     {
       "text": "otherwise",
-      "startMs": 56738
+      "startMs": 48195
     }
-  ]
+  ],
+  "speechSpeed": 1.042
 }

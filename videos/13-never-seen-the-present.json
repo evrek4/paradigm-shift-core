@@ -10,7 +10,7 @@
         0,
         0.5
       ],
-      "seconds": 3.74,
+      "seconds": 2.93,
       "text": "Right now you are watching a prediction, not a picture.",
       "delivery": {
         "rate": -4,
@@ -32,7 +32,7 @@
         0,
         0.455
       ],
-      "seconds": 23.98,
+      "seconds": 19.55,
       "text": "Light hits your retina. The signal is converted, relayed, and processed, and all of that costs time. By the moment an image reaches awareness, the world has already moved on by something like a tenth of a second. A tenth of a second is the difference between catching a glass and hearing it land. So the brain does not wait. It extrapolates, and shows you where things should be by now.",
       "delivery": {
         "rate": 8,
@@ -45,23 +45,23 @@
         },
         {
           "src": "videos/13-never-seen-the-present/v2-2.mp3",
-          "atMs": 1720
+          "atMs": 1196
         },
         {
           "src": "videos/13-never-seen-the-present/v2-3.mp3",
-          "atMs": 6728
+          "atMs": 5389
         },
         {
           "src": "videos/13-never-seen-the-present/v2-4.mp3",
-          "atMs": 13272
+          "atMs": 10959
         },
         {
           "src": "videos/13-never-seen-the-present/v2-5.mp3",
-          "atMs": 18328
+          "atMs": 15189
         },
         {
           "src": "videos/13-never-seen-the-present/v2-6.mp3",
-          "atMs": 20216
+          "atMs": 16556
         }
       ]
     },
@@ -74,7 +74,7 @@
         0,
         0.4
       ],
-      "seconds": 26.99,
+      "seconds": 22.6,
       "text": "Every live broadcast runs on a delay, and the studio hides it by cutting away. Your brain runs the same trick, except it also fills the delay with a guess. The guess is usually right, which is why you can catch a ball at all. When it is wrong, you get the flash lag illusion, and a moving object appears ahead of where it truly is. The present you experience is the brain's best forecast, rendered as certainty.",
       "delivery": {
         "rate": 4,
@@ -87,19 +87,19 @@
         },
         {
           "src": "videos/13-never-seen-the-present/v3-2.mp3",
-          "atMs": 5752
+          "atMs": 4885
         },
         {
           "src": "videos/13-never-seen-the-present/v3-3.mp3",
-          "atMs": 10760
+          "atMs": 9061
         },
         {
           "src": "videos/13-never-seen-the-present/v3-4.mp3",
-          "atMs": 14640
+          "atMs": 12209
         },
         {
           "src": "videos/13-never-seen-the-present/v3-5.mp3",
-          "atMs": 21520
+          "atMs": 18066
         }
       ]
     },
@@ -112,7 +112,7 @@
         0,
         0.5
       ],
-      "seconds": 6.45,
+      "seconds": 4.2,
       "text": "Now is a story your brain finished writing before you got here. So",
       "delivery": {
         "rate": -6,
@@ -127,7 +127,7 @@
         },
         {
           "src": "videos/13-never-seen-the-present/v4-2.mp3",
-          "atMs": 4576
+          "atMs": 3745
         }
       ]
     }
@@ -137,691 +137,692 @@
   "words": [
     {
       "text": "Right",
-      "startMs": 91
+      "startMs": 0
     },
     {
       "text": "now",
-      "startMs": 260
+      "startMs": 131
     },
     {
       "text": "you",
-      "startMs": 456
+      "startMs": 309
     },
     {
       "text": "are",
-      "startMs": 560
+      "startMs": 403
     },
     {
       "text": "watching",
-      "startMs": 677
+      "startMs": 509
     },
     {
       "text": "a",
-      "startMs": 1042
+      "startMs": 840
     },
     {
       "text": "prediction",
-      "startMs": 1107
+      "startMs": 899
     },
     {
       "text": "not",
-      "startMs": 2201
+      "startMs": 1891
     },
     {
       "text": "a",
-      "startMs": 2305
+      "startMs": 1985
     },
     {
       "text": "picture",
-      "startMs": 2344
+      "startMs": 2021
     },
     {
       "text": "Light",
-      "startMs": 3840
+      "startMs": 2930
     },
     {
       "text": "hits",
-      "startMs": 4090
+      "startMs": 3144
     },
     {
       "text": "your",
-      "startMs": 4278
+      "startMs": 3314
     },
     {
       "text": "retina",
-      "startMs": 4378
+      "startMs": 3405
     },
     {
       "text": "The",
-      "startMs": 5553
+      "startMs": 4126
     },
     {
       "text": "signal",
-      "startMs": 5634
+      "startMs": 4188
     },
     {
       "text": "is",
-      "startMs": 5992
+      "startMs": 4512
     },
     {
       "text": "converted",
-      "startMs": 6097
+      "startMs": 4607
     },
     {
       "text": "relayed",
-      "startMs": 6965
+      "startMs": 5394
     },
     {
       "text": "and",
-      "startMs": 7648
+      "startMs": 6014
     },
     {
       "text": "processed",
-      "startMs": 7763
+      "startMs": 6118
     },
     {
       "text": "and",
-      "startMs": 8701
+      "startMs": 6968
     },
     {
       "text": "all",
-      "startMs": 8863
+      "startMs": 7115
     },
     {
       "text": "of",
-      "startMs": 9025
+      "startMs": 7262
     },
     {
       "text": "that",
-      "startMs": 9083
+      "startMs": 7315
     },
     {
       "text": "costs",
-      "startMs": 9256
+      "startMs": 7471
     },
     {
       "text": "time",
-      "startMs": 9557
+      "startMs": 7744
     },
     {
       "text": "By",
-      "startMs": 10561
+      "startMs": 8319
     },
     {
       "text": "the",
-      "startMs": 10653
+      "startMs": 8388
     },
     {
       "text": "moment",
-      "startMs": 10723
+      "startMs": 8452
     },
     {
       "text": "an",
-      "startMs": 11209
+      "startMs": 8892
     },
     {
       "text": "image",
-      "startMs": 11394
+      "startMs": 9060
     },
     {
       "text": "reaches",
-      "startMs": 11695
+      "startMs": 9333
     },
     {
       "text": "awareness",
-      "startMs": 12054
+      "startMs": 9659
     },
     {
       "text": "the",
-      "startMs": 12887
+      "startMs": 10414
     },
     {
       "text": "world",
-      "startMs": 12980
+      "startMs": 10498
     },
     {
       "text": "has",
-      "startMs": 13408
+      "startMs": 10886
     },
     {
       "text": "already",
-      "startMs": 13605
+      "startMs": 11065
     },
     {
       "text": "moved",
-      "startMs": 13917
+      "startMs": 11348
     },
     {
       "text": "on",
-      "startMs": 14415
+      "startMs": 11799
     },
     {
       "text": "by",
-      "startMs": 14704
+      "startMs": 12061
     },
     {
       "text": "something",
-      "startMs": 14866
+      "startMs": 12208
     },
     {
       "text": "like",
-      "startMs": 15271
+      "startMs": 12575
     },
     {
       "text": "a",
-      "startMs": 15399
+      "startMs": 12691
     },
     {
       "text": "tenth",
-      "startMs": 15445
+      "startMs": 12733
     },
     {
       "text": "of",
-      "startMs": 15815
+      "startMs": 13068
     },
     {
       "text": "a",
-      "startMs": 15862
+      "startMs": 13111
     },
     {
       "text": "second",
-      "startMs": 15908
+      "startMs": 13153
     },
     {
       "text": "A",
-      "startMs": 17093
+      "startMs": 13889
     },
     {
       "text": "tenth",
-      "startMs": 17139
+      "startMs": 13913
     },
     {
       "text": "of",
-      "startMs": 17348
+      "startMs": 14102
     },
     {
       "text": "a",
-      "startMs": 17406
+      "startMs": 14155
     },
     {
       "text": "second",
-      "startMs": 17452
+      "startMs": 14197
     },
     {
       "text": "is",
-      "startMs": 18274
+      "startMs": 14942
     },
     {
       "text": "the",
-      "startMs": 18389
+      "startMs": 15046
     },
     {
       "text": "difference",
-      "startMs": 18505
+      "startMs": 15151
     },
     {
       "text": "between",
-      "startMs": 18875
+      "startMs": 15487
     },
     {
       "text": "catching",
-      "startMs": 19234
+      "startMs": 15812
     },
     {
       "text": "a",
-      "startMs": 19639
+      "startMs": 16179
     },
     {
       "text": "glass",
-      "startMs": 19686
+      "startMs": 16222
     },
     {
       "text": "and",
-      "startMs": 20426
+      "startMs": 16893
     },
     {
       "text": "hearing",
-      "startMs": 20542
+      "startMs": 16998
     },
     {
       "text": "it",
-      "startMs": 20947
+      "startMs": 17365
     },
     {
       "text": "land",
-      "startMs": 21028
+      "startMs": 17439
     },
     {
       "text": "So",
-      "startMs": 22161
+      "startMs": 18119
     },
     {
       "text": "the",
-      "startMs": 22242
+      "startMs": 18179
     },
     {
       "text": "brain",
-      "startMs": 22334
+      "startMs": 18263
     },
     {
       "text": "does",
-      "startMs": 22635
+      "startMs": 18536
     },
     {
       "text": "not",
-      "startMs": 22762
+      "startMs": 18651
     },
     {
       "text": "wait",
-      "startMs": 22971
+      "startMs": 18840
     },
     {
       "text": "It",
-      "startMs": 24049
+      "startMs": 19486
     },
     {
       "text": "extrapolates",
-      "startMs": 24106
+      "startMs": 19527
     },
     {
       "text": "and",
-      "startMs": 25368
+      "startMs": 20671
     },
     {
       "text": "shows",
-      "startMs": 25484
+      "startMs": 20776
     },
     {
       "text": "you",
-      "startMs": 25750
+      "startMs": 21018
     },
     {
       "text": "where",
-      "startMs": 25819
+      "startMs": 21080
     },
     {
       "text": "things",
-      "startMs": 25958
+      "startMs": 21206
     },
     {
       "text": "should",
-      "startMs": 26178
+      "startMs": 21406
     },
     {
       "text": "be",
-      "startMs": 26306
+      "startMs": 21522
     },
     {
       "text": "by",
-      "startMs": 26398
+      "startMs": 21605
     },
     {
       "text": "now",
-      "startMs": 26525
+      "startMs": 21720
     },
     {
       "text": "Every",
-      "startMs": 27792
+      "startMs": 22480
     },
     {
       "text": "live",
-      "startMs": 27984
+      "startMs": 22636
     },
     {
       "text": "broadcast",
-      "startMs": 28357
+      "startMs": 22974
     },
     {
       "text": "runs",
-      "startMs": 29499
+      "startMs": 24009
     },
     {
       "text": "on",
-      "startMs": 29859
+      "startMs": 24336
     },
     {
       "text": "a",
-      "startMs": 29956
+      "startMs": 24424
     },
     {
       "text": "delay",
-      "startMs": 30004
+      "startMs": 24467
     },
     {
       "text": "and",
-      "startMs": 30845
+      "startMs": 25230
     },
     {
       "text": "the",
-      "startMs": 30941
+      "startMs": 25317
     },
     {
       "text": "studio",
-      "startMs": 31001
+      "startMs": 25371
     },
     {
       "text": "hides",
-      "startMs": 31398
+      "startMs": 25731
     },
     {
       "text": "it",
-      "startMs": 31782
+      "startMs": 26079
     },
     {
       "text": "by",
-      "startMs": 31927
+      "startMs": 26211
     },
     {
       "text": "cutting",
-      "startMs": 32131
+      "startMs": 26395
     },
     {
       "text": "away",
-      "startMs": 32396
+      "startMs": 26636
     },
     {
       "text": "Your",
-      "startMs": 33556
+      "startMs": 27365
     },
     {
       "text": "brain",
-      "startMs": 33664
+      "startMs": 27445
     },
     {
       "text": "runs",
-      "startMs": 34049
+      "startMs": 27794
     },
     {
       "text": "the",
-      "startMs": 34373
+      "startMs": 28087
     },
     {
       "text": "same",
-      "startMs": 34458
+      "startMs": 28164
     },
     {
       "text": "trick",
-      "startMs": 34782
+      "startMs": 28458
     },
     {
       "text": "except",
-      "startMs": 35503
+      "startMs": 29112
     },
     {
       "text": "it",
-      "startMs": 35804
+      "startMs": 29385
     },
     {
       "text": "also",
-      "startMs": 35864
+      "startMs": 29439
     },
     {
       "text": "fills",
-      "startMs": 36284
+      "startMs": 29820
     },
     {
       "text": "the",
-      "startMs": 36693
+      "startMs": 30191
     },
     {
       "text": "delay",
-      "startMs": 36777
+      "startMs": 30267
     },
     {
       "text": "with",
-      "startMs": 37150
+      "startMs": 30605
     },
     {
       "text": "a",
-      "startMs": 37294
+      "startMs": 30736
     },
     {
       "text": "guess",
-      "startMs": 37330
+      "startMs": 30768
     },
     {
       "text": "The",
-      "startMs": 38576
+      "startMs": 31541
     },
     {
       "text": "guess",
-      "startMs": 38648
+      "startMs": 31591
     },
     {
       "text": "is",
-      "startMs": 39105
+      "startMs": 32006
     },
     {
       "text": "usually",
-      "startMs": 39357
+      "startMs": 32234
     },
     {
       "text": "right",
-      "startMs": 39766
+      "startMs": 32605
     },
     {
       "text": "which",
-      "startMs": 40343
+      "startMs": 33128
     },
     {
       "text": "is",
-      "startMs": 40475
+      "startMs": 33248
     },
     {
       "text": "why",
-      "startMs": 40571
+      "startMs": 33335
     },
     {
       "text": "you",
-      "startMs": 40704
+      "startMs": 33456
     },
     {
       "text": "can",
-      "startMs": 40812
+      "startMs": 33553
     },
     {
       "text": "catch",
-      "startMs": 40920
+      "startMs": 33651
     },
     {
       "text": "a",
-      "startMs": 41136
+      "startMs": 33847
     },
     {
       "text": "ball",
-      "startMs": 41184
+      "startMs": 33891
     },
     {
       "text": "at",
-      "startMs": 41413
+      "startMs": 34098
     },
     {
       "text": "all",
-      "startMs": 41473
+      "startMs": 34153
     },
     {
       "text": "When",
-      "startMs": 42456
+      "startMs": 34689
     },
     {
       "text": "it",
-      "startMs": 42552
+      "startMs": 34758
     },
     {
       "text": "is",
-      "startMs": 42612
+      "startMs": 34812
     },
     {
       "text": "wrong",
-      "startMs": 42733
+      "startMs": 34922
     },
     {
       "text": "you",
-      "startMs": 43562
+      "startMs": 35673
     },
     {
       "text": "get",
-      "startMs": 43646
+      "startMs": 35750
     },
     {
       "text": "the",
-      "startMs": 43814
+      "startMs": 35902
     },
     {
       "text": "flash",
-      "startMs": 43898
+      "startMs": 35978
     },
     {
       "text": "lag",
-      "startMs": 44367
+      "startMs": 36403
     },
     {
       "text": "illusion",
-      "startMs": 44764
+      "startMs": 36763
     },
     {
       "text": "and",
-      "startMs": 45665
+      "startMs": 37580
     },
     {
       "text": "a",
-      "startMs": 45786
+      "startMs": 37690
     },
     {
       "text": "moving",
-      "startMs": 45834
+      "startMs": 37733
     },
     {
       "text": "object",
-      "startMs": 46206
+      "startMs": 38071
     },
     {
       "text": "appears",
-      "startMs": 46783
+      "startMs": 38594
     },
     {
       "text": "ahead",
-      "startMs": 47144
+      "startMs": 38921
     },
     {
       "text": "of",
-      "startMs": 47384
+      "startMs": 39139
     },
     {
       "text": "where",
-      "startMs": 47492
+      "startMs": 39236
     },
     {
       "text": "it",
-      "startMs": 47636
+      "startMs": 39367
     },
     {
       "text": "truly",
-      "startMs": 47721
+      "startMs": 39444
     },
     {
       "text": "is",
-      "startMs": 48249
+      "startMs": 39923
     },
     {
       "text": "The",
-      "startMs": 49336
+      "startMs": 40546
     },
     {
       "text": "present",
-      "startMs": 49408
+      "startMs": 40603
     },
     {
       "text": "you",
-      "startMs": 49745
+      "startMs": 40908
     },
     {
       "text": "experience",
-      "startMs": 49853
+      "startMs": 41006
     },
     {
       "text": "is",
-      "startMs": 50610
+      "startMs": 41692
     },
     {
       "text": "the",
-      "startMs": 50706
+      "startMs": 41779
     },
     {
       "text": "brain's",
-      "startMs": 50802
+      "startMs": 41866
     },
     {
       "text": "best",
-      "startMs": 51319
+      "startMs": 42335
     },
     {
       "text": "forecast",
-      "startMs": 51608
+      "startMs": 42597
     },
     {
       "text": "rendered",
-      "startMs": 52798
+      "startMs": 43676
     },
     {
       "text": "as",
-      "startMs": 53206
+      "startMs": 44046
     },
     {
       "text": "certainty",
-      "startMs": 53314
+      "startMs": 44144
     },
     {
       "text": "Now",
-      "startMs": 54803
+      "startMs": 45080
     },
     {
       "text": "is",
-      "startMs": 55255
+      "startMs": 45460
     },
     {
       "text": "a",
-      "startMs": 55348
+      "startMs": 45545
     },
     {
       "text": "story",
-      "startMs": 55388
+      "startMs": 45581
     },
     {
       "text": "your",
-      "startMs": 55787
+      "startMs": 45943
     },
     {
       "text": "brain",
-      "startMs": 55933
+      "startMs": 46075
     },
     {
       "text": "finished",
-      "startMs": 56678
+      "startMs": 46750
     },
     {
       "text": "writing",
-      "startMs": 57316
+      "startMs": 47329
     },
     {
       "text": "before",
-      "startMs": 57609
+      "startMs": 47595
     },
     {
       "text": "you",
-      "startMs": 57968
+      "startMs": 47920
     },
     {
       "text": "got",
-      "startMs": 58048
+      "startMs": 47993
     },
     {
       "text": "here",
-      "startMs": 58287
+      "startMs": 48209
     },
     {
       "text": "So",
-      "startMs": 59402
+      "startMs": 48825
     }
-  ]
+  ],
+  "speechSpeed": 1.103
 }

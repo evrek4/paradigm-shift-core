@@ -10,7 +10,7 @@
         0,
         0.5
       ],
-      "seconds": 5.67,
+      "seconds": 4.65,
       "text": "Attention does not add detail. It deletes everything else.",
       "delivery": {
         "rate": -4,
@@ -23,7 +23,7 @@
         },
         {
           "src": "videos/19-invisible-gorilla/v1-2.mp3",
-          "atMs": 2872
+          "atMs": 2421
         }
       ]
     },
@@ -36,7 +36,7 @@
         0,
         0.455
       ],
-      "seconds": 24.09,
+      "seconds": 20.29,
       "text": "Nineteen ninety nine. Simons and Chabris filmed students passing a basketball and asked viewers to count the passes. Midway through, a person in a gorilla suit walks into frame, stops, beats their chest, and strolls out. It takes nine seconds. About half of all viewers never see it. Not glance past it. Never register that it happened.",
       "delivery": {
         "rate": 8,
@@ -49,27 +49,27 @@
         },
         {
           "src": "videos/19-invisible-gorilla/v2-2.mp3",
-          "atMs": 2152
+          "atMs": 1370
         },
         {
           "src": "videos/19-invisible-gorilla/v2-3.mp3",
-          "atMs": 8312
+          "atMs": 7115
         },
         {
           "src": "videos/19-invisible-gorilla/v2-4.mp3",
-          "atMs": 14736
+          "atMs": 13139
         },
         {
           "src": "videos/19-invisible-gorilla/v2-5.mp3",
-          "atMs": 16840
+          "atMs": 14806
         },
         {
           "src": "videos/19-invisible-gorilla/v2-6.mp3",
-          "atMs": 19856
+          "atMs": 17405
         },
         {
           "src": "videos/19-invisible-gorilla/v2-7.mp3",
-          "atMs": 22008
+          "atMs": 18697
         }
       ]
     },
@@ -82,7 +82,7 @@
         0,
         0.4
       ],
-      "seconds": 23.23,
+      "seconds": 20.2,
       "text": "This is not carelessness. It is the design working. Your senses take in far more than your brain can process, so attention acts as a budget, and anything outside the task gets spent down to nothing. The unsettling part is the second finding. The people who missed it were completely certain nothing had been there. The deletion leaves no receipt.",
       "delivery": {
         "rate": 4,
@@ -95,23 +95,23 @@
         },
         {
           "src": "videos/19-invisible-gorilla/v3-2.mp3",
-          "atMs": 2128
+          "atMs": 1661
         },
         {
           "src": "videos/19-invisible-gorilla/v3-3.mp3",
-          "atMs": 4280
+          "atMs": 3029
         },
         {
           "src": "videos/19-invisible-gorilla/v3-4.mp3",
-          "atMs": 13296
+          "atMs": 11626
         },
         {
           "src": "videos/19-invisible-gorilla/v3-5.mp3",
-          "atMs": 16552
+          "atMs": 14482
         },
         {
           "src": "videos/19-invisible-gorilla/v3-6.mp3",
-          "atMs": 20456
+          "atMs": 17944
         }
       ]
     },
@@ -124,7 +124,7 @@
         0,
         0.5
       ],
-      "seconds": 4.62,
+      "seconds": 3.76,
       "text": "You will never know what you did not see. Which is the point, because",
       "delivery": {
         "rate": -6,
@@ -139,7 +139,7 @@
         },
         {
           "src": "videos/19-invisible-gorilla/v4-2.mp3",
-          "atMs": 2656
+          "atMs": 2206
         }
       ]
     }
@@ -149,563 +149,564 @@
   "words": [
     {
       "text": "Attention",
-      "startMs": 104
+      "startMs": 0
     },
     {
       "text": "does",
-      "startMs": 612
+      "startMs": 489
     },
     {
       "text": "not",
-      "startMs": 794
+      "startMs": 671
     },
     {
       "text": "add",
-      "startMs": 1380
+      "startMs": 1257
     },
     {
       "text": "detail",
-      "startMs": 1602
+      "startMs": 1479
     },
     {
       "text": "It",
-      "startMs": 2986
+      "startMs": 2421
     },
     {
       "text": "deletes",
-      "startMs": 3057
+      "startMs": 2476
     },
     {
       "text": "everything",
-      "startMs": 3838
+      "startMs": 3257
     },
     {
       "text": "else",
-      "startMs": 4278
+      "startMs": 3697
     },
     {
       "text": "Nineteen",
-      "startMs": 5745
+      "startMs": 4650
     },
     {
       "text": "ninety",
-      "startMs": 6158
+      "startMs": 5048
     },
     {
       "text": "nine",
-      "startMs": 6408
+      "startMs": 5298
     },
     {
       "text": "Simons",
-      "startMs": 7915
+      "startMs": 6020
     },
     {
       "text": "and",
-      "startMs": 8493
+      "startMs": 6596
     },
     {
       "text": "Chabris",
-      "startMs": 8597
+      "startMs": 6700
     },
     {
       "text": "filmed",
-      "startMs": 9304
+      "startMs": 7407
     },
     {
       "text": "students",
-      "startMs": 9662
+      "startMs": 7765
     },
     {
       "text": "passing",
-      "startMs": 10102
+      "startMs": 8205
     },
     {
       "text": "a",
-      "startMs": 10519
+      "startMs": 8622
     },
     {
       "text": "basketball",
-      "startMs": 10565
+      "startMs": 8668
     },
     {
       "text": "and",
-      "startMs": 11549
+      "startMs": 9652
     },
     {
       "text": "asked",
-      "startMs": 11665
+      "startMs": 9768
     },
     {
       "text": "viewers",
-      "startMs": 11942
+      "startMs": 10045
     },
     {
       "text": "to",
-      "startMs": 12382
+      "startMs": 10485
     },
     {
       "text": "count",
-      "startMs": 12463
+      "startMs": 10566
     },
     {
       "text": "the",
-      "startMs": 12683
+      "startMs": 10786
     },
     {
       "text": "passes",
-      "startMs": 12741
+      "startMs": 10844
     },
     {
       "text": "Midway",
-      "startMs": 14063
+      "startMs": 11765
     },
     {
       "text": "through",
-      "startMs": 14422
+      "startMs": 12106
     },
     {
       "text": "a",
-      "startMs": 14665
+      "startMs": 12349
     },
     {
       "text": "person",
-      "startMs": 14781
+      "startMs": 12465
     },
     {
       "text": "in",
-      "startMs": 15093
+      "startMs": 12777
     },
     {
       "text": "a",
-      "startMs": 15139
+      "startMs": 12823
     },
     {
       "text": "gorilla",
-      "startMs": 15197
+      "startMs": 12881
     },
     {
       "text": "suit",
-      "startMs": 15544
+      "startMs": 13228
     },
     {
       "text": "walks",
-      "startMs": 15834
+      "startMs": 13518
     },
     {
       "text": "into",
-      "startMs": 16216
+      "startMs": 13900
     },
     {
       "text": "frame",
-      "startMs": 16332
+      "startMs": 14016
     },
     {
       "text": "stops",
-      "startMs": 17153
+      "startMs": 14837
     },
     {
       "text": "beats",
-      "startMs": 17871
+      "startMs": 15555
     },
     {
       "text": "their",
-      "startMs": 18126
+      "startMs": 15810
     },
     {
       "text": "chest",
-      "startMs": 18276
+      "startMs": 15960
     },
     {
       "text": "and",
-      "startMs": 19017
+      "startMs": 16701
     },
     {
       "text": "strolls",
-      "startMs": 19086
+      "startMs": 16770
     },
     {
       "text": "out",
-      "startMs": 19491
+      "startMs": 17175
     },
     {
       "text": "It",
-      "startMs": 20506
+      "startMs": 17789
     },
     {
       "text": "takes",
-      "startMs": 20581
+      "startMs": 17846
     },
     {
       "text": "nine",
-      "startMs": 20844
+      "startMs": 18109
     },
     {
       "text": "seconds",
-      "startMs": 21218
+      "startMs": 18483
     },
     {
       "text": "About",
-      "startMs": 22603
+      "startMs": 19456
     },
     {
       "text": "half",
-      "startMs": 22788
+      "startMs": 19631
     },
     {
       "text": "of",
-      "startMs": 23262
+      "startMs": 20105
     },
     {
       "text": "all",
-      "startMs": 23517
+      "startMs": 20360
     },
     {
       "text": "viewers",
-      "startMs": 23806
+      "startMs": 20649
     },
     {
       "text": "never",
-      "startMs": 24269
+      "startMs": 21112
     },
     {
       "text": "see",
-      "startMs": 24501
+      "startMs": 21344
     },
     {
       "text": "it",
-      "startMs": 24744
+      "startMs": 21587
     },
     {
       "text": "Not",
-      "startMs": 25614
+      "startMs": 22055
     },
     {
       "text": "glance",
-      "startMs": 25776
+      "startMs": 22197
     },
     {
       "text": "past",
-      "startMs": 26101
+      "startMs": 22522
     },
     {
       "text": "it",
-      "startMs": 26514
+      "startMs": 22935
     },
     {
       "text": "Never",
-      "startMs": 27759
+      "startMs": 23347
     },
     {
       "text": "register",
-      "startMs": 27990
+      "startMs": 23560
     },
     {
       "text": "that",
-      "startMs": 28419
+      "startMs": 23989
     },
     {
       "text": "it",
-      "startMs": 28523
+      "startMs": 24093
     },
     {
       "text": "happened",
-      "startMs": 28558
+      "startMs": 24128
     },
     {
       "text": "This",
-      "startMs": 29864
+      "startMs": 24940
     },
     {
       "text": "is",
-      "startMs": 30020
+      "startMs": 25078
     },
     {
       "text": "not",
-      "startMs": 30125
+      "startMs": 25183
     },
     {
       "text": "carelessness",
-      "startMs": 30372
+      "startMs": 25430
     },
     {
       "text": "It",
-      "startMs": 31984
+      "startMs": 26601
     },
     {
       "text": "is",
-      "startMs": 32056
+      "startMs": 26658
     },
     {
       "text": "the",
-      "startMs": 32128
+      "startMs": 26730
     },
     {
       "text": "design",
-      "startMs": 32200
+      "startMs": 26802
     },
     {
       "text": "working",
-      "startMs": 32621
+      "startMs": 27223
     },
     {
       "text": "Your",
-      "startMs": 34124
+      "startMs": 27969
     },
     {
       "text": "senses",
-      "startMs": 34232
+      "startMs": 28054
     },
     {
       "text": "take",
-      "startMs": 34629
+      "startMs": 28451
     },
     {
       "text": "in",
-      "startMs": 34845
+      "startMs": 28667
     },
     {
       "text": "far",
-      "startMs": 34941
+      "startMs": 28763
     },
     {
       "text": "more",
-      "startMs": 35362
+      "startMs": 29184
     },
     {
       "text": "than",
-      "startMs": 35687
+      "startMs": 29509
     },
     {
       "text": "your",
-      "startMs": 35783
+      "startMs": 29605
     },
     {
       "text": "brain",
-      "startMs": 35891
+      "startMs": 29713
     },
     {
       "text": "can",
-      "startMs": 36228
+      "startMs": 30050
     },
     {
       "text": "process",
-      "startMs": 36336
+      "startMs": 30158
     },
     {
       "text": "so",
-      "startMs": 37393
+      "startMs": 31215
     },
     {
       "text": "attention",
-      "startMs": 37562
+      "startMs": 31384
     },
     {
       "text": "acts",
-      "startMs": 37994
+      "startMs": 31816
     },
     {
       "text": "as",
-      "startMs": 38487
+      "startMs": 32309
     },
     {
       "text": "a",
-      "startMs": 38643
+      "startMs": 32465
     },
     {
       "text": "budget",
-      "startMs": 38703
+      "startMs": 32525
     },
     {
       "text": "and",
-      "startMs": 39533
+      "startMs": 33355
     },
     {
       "text": "anything",
-      "startMs": 39821
+      "startMs": 33643
     },
     {
       "text": "outside",
-      "startMs": 40230
+      "startMs": 34052
     },
     {
       "text": "the",
-      "startMs": 40735
+      "startMs": 34557
     },
     {
       "text": "task",
-      "startMs": 40807
+      "startMs": 34629
     },
     {
       "text": "gets",
-      "startMs": 41203
+      "startMs": 35025
     },
     {
       "text": "spent",
-      "startMs": 41360
+      "startMs": 35182
     },
     {
       "text": "down",
-      "startMs": 41648
+      "startMs": 35470
     },
     {
       "text": "to",
-      "startMs": 41901
+      "startMs": 35723
     },
     {
       "text": "nothing",
-      "startMs": 41973
+      "startMs": 35795
     },
     {
       "text": "The",
-      "startMs": 43140
+      "startMs": 36566
     },
     {
       "text": "unsettling",
-      "startMs": 43248
+      "startMs": 36666
     },
     {
       "text": "part",
-      "startMs": 43813
+      "startMs": 37231
     },
     {
       "text": "is",
-      "startMs": 44486
+      "startMs": 37904
     },
     {
       "text": "the",
-      "startMs": 44594
+      "startMs": 38012
     },
     {
       "text": "second",
-      "startMs": 44679
+      "startMs": 38097
     },
     {
       "text": "finding",
-      "startMs": 45171
+      "startMs": 38589
     },
     {
       "text": "The",
-      "startMs": 46408
+      "startMs": 39422
     },
     {
       "text": "people",
-      "startMs": 46468
+      "startMs": 39474
     },
     {
       "text": "who",
-      "startMs": 46781
+      "startMs": 39787
     },
     {
       "text": "missed",
-      "startMs": 46865
+      "startMs": 39871
     },
     {
       "text": "it",
-      "startMs": 47322
+      "startMs": 40328
     },
     {
       "text": "were",
-      "startMs": 47382
+      "startMs": 40388
     },
     {
       "text": "completely",
-      "startMs": 47514
+      "startMs": 40520
     },
     {
       "text": "certain",
-      "startMs": 48139
+      "startMs": 41145
     },
     {
       "text": "nothing",
-      "startMs": 48524
+      "startMs": 41530
     },
     {
       "text": "had",
-      "startMs": 48824
+      "startMs": 41830
     },
     {
       "text": "been",
-      "startMs": 48980
+      "startMs": 41986
     },
     {
       "text": "there",
-      "startMs": 49209
+      "startMs": 42215
     },
     {
       "text": "The",
-      "startMs": 50312
+      "startMs": 42884
     },
     {
       "text": "deletion",
-      "startMs": 50360
+      "startMs": 42919
     },
     {
       "text": "leaves",
-      "startMs": 51045
+      "startMs": 43604
     },
     {
       "text": "no",
-      "startMs": 51322
+      "startMs": 43881
     },
     {
       "text": "receipt",
-      "startMs": 51658
+      "startMs": 44217
     },
     {
       "text": "You",
-      "startMs": 53096
+      "startMs": 45140
     },
     {
       "text": "will",
-      "startMs": 53176
+      "startMs": 45200
     },
     {
       "text": "never",
-      "startMs": 53283
+      "startMs": 45306
     },
     {
       "text": "know",
-      "startMs": 53615
+      "startMs": 45638
     },
     {
       "text": "what",
-      "startMs": 53868
+      "startMs": 45892
     },
     {
       "text": "you",
-      "startMs": 54001
+      "startMs": 46024
     },
     {
       "text": "did",
-      "startMs": 54094
+      "startMs": 46118
     },
     {
       "text": "not",
-      "startMs": 54240
+      "startMs": 46264
     },
     {
       "text": "see",
-      "startMs": 54519
+      "startMs": 46543
     },
     {
       "text": "Which",
-      "startMs": 55752
+      "startMs": 47346
     },
     {
       "text": "is",
-      "startMs": 55859
+      "startMs": 47430
     },
     {
       "text": "the",
-      "startMs": 55978
+      "startMs": 47549
     },
     {
       "text": "point",
-      "startMs": 56098
+      "startMs": 47669
     },
     {
       "text": "because",
-      "startMs": 56537
+      "startMs": 48108
     }
-  ]
+  ],
+  "speechSpeed": 1.0
 }

@@ -10,7 +10,7 @@
         0,
         0.5
       ],
-      "seconds": 6.37,
+      "seconds": 4.81,
       "text": "She had not spoken in years. The screen spoke for her at seventy eight words a minute.",
       "delivery": {
         "rate": -4,
@@ -23,7 +23,7 @@
         },
         {
           "src": "videos/18-thought-to-text/v1-2.mp3",
-          "atMs": 2224
+          "atMs": 1598
         }
       ]
     },
@@ -36,7 +36,7 @@
         0,
         0.455
       ],
-      "seconds": 27.55,
+      "seconds": 22.24,
       "text": "Speech starts as a motor plan. Before a single sound leaves you, your brain is already issuing instructions to the lips, jaw and tongue. In paralysis, that plan is often still intact. It just never reaches the muscles. So two teams placed electrodes over those regions and trained models to read the instructions directly. Attempted speech, decoded into text, in close to real time.",
       "delivery": {
         "rate": 8,
@@ -49,23 +49,23 @@
         },
         {
           "src": "videos/18-thought-to-text/v2-2.mp3",
-          "atMs": 2152
+          "atMs": 1534
         },
         {
           "src": "videos/18-thought-to-text/v2-3.mp3",
-          "atMs": 9344
+          "atMs": 7562
         },
         {
           "src": "videos/18-thought-to-text/v2-4.mp3",
-          "atMs": 13296
+          "atMs": 10740
         },
         {
           "src": "videos/18-thought-to-text/v2-5.mp3",
-          "atMs": 15640
+          "atMs": 12465
         },
         {
           "src": "videos/18-thought-to-text/v2-6.mp3",
-          "atMs": 22616
+          "atMs": 18276
         }
       ]
     },
@@ -78,7 +78,7 @@
         0,
         0.4
       ],
-      "seconds": 24.55,
+      "seconds": 18.63,
       "text": "For years the assumption was that silence meant the message was gone. It was not. The letter was written every time. The post office had closed. What these systems do is reopen it, and what they decode is the attempt to speak, not private thought. That distinction matters more every year, because it is the line everything built after this will be measured against.",
       "delivery": {
         "rate": 4,
@@ -91,23 +91,23 @@
         },
         {
           "src": "videos/18-thought-to-text/v3-2.mp3",
-          "atMs": 4168
+          "atMs": 3323
         },
         {
           "src": "videos/18-thought-to-text/v3-3.mp3",
-          "atMs": 6320
+          "atMs": 4096
         },
         {
           "src": "videos/18-thought-to-text/v3-4.mp3",
-          "atMs": 8712
+          "atMs": 5866
         },
         {
           "src": "videos/18-thought-to-text/v3-5.mp3",
-          "atMs": 10864
+          "atMs": 7308
         },
         {
           "src": "videos/18-thought-to-text/v3-6.mp3",
-          "atMs": 17288
+          "atMs": 12638
         }
       ]
     },
@@ -120,7 +120,7 @@
         0,
         0.5
       ],
-      "seconds": 6.39,
+      "seconds": 3.75,
       "text": "The message was always sending. Nobody was collecting it. Until",
       "delivery": {
         "rate": -6,
@@ -135,11 +135,11 @@
         },
         {
           "src": "videos/18-thought-to-text/v4-2.mp3",
-          "atMs": 2440
+          "atMs": 1771
         },
         {
           "src": "videos/18-thought-to-text/v4-3.mp3",
-          "atMs": 4520
+          "atMs": 3133
         }
       ]
     }
@@ -149,623 +149,624 @@
   "words": [
     {
       "text": "She",
-      "startMs": 117
+      "startMs": 0
     },
     {
       "text": "had",
-      "startMs": 234
+      "startMs": 95
     },
     {
       "text": "not",
-      "startMs": 339
+      "startMs": 188
     },
     {
       "text": "spoken",
-      "startMs": 547
+      "startMs": 371
     },
     {
       "text": "in",
-      "startMs": 951
+      "startMs": 728
     },
     {
       "text": "years",
-      "startMs": 1042
+      "startMs": 808
     },
     {
       "text": "The",
-      "startMs": 2328
+      "startMs": 1598
     },
     {
       "text": "screen",
-      "startMs": 2393
+      "startMs": 1639
     },
     {
       "text": "spoke",
-      "startMs": 2771
+      "startMs": 1973
     },
     {
       "text": "for",
-      "startMs": 3083
+      "startMs": 2248
     },
     {
       "text": "her",
-      "startMs": 3253
+      "startMs": 2398
     },
     {
       "text": "at",
-      "startMs": 3852
+      "startMs": 2926
     },
     {
       "text": "seventy",
-      "startMs": 3930
+      "startMs": 2995
     },
     {
       "text": "eight",
-      "startMs": 4451
+      "startMs": 3454
     },
     {
       "text": "words",
-      "startMs": 4828
+      "startMs": 3787
     },
     {
       "text": "a",
-      "startMs": 5102
+      "startMs": 4028
     },
     {
       "text": "minute",
-      "startMs": 5141
+      "startMs": 4063
     },
     {
       "text": "Speech",
-      "startMs": 6463
+      "startMs": 4810
     },
     {
       "text": "starts",
-      "startMs": 6740
+      "startMs": 5042
     },
     {
       "text": "as",
-      "startMs": 7134
+      "startMs": 5389
     },
     {
       "text": "a",
-      "startMs": 7215
+      "startMs": 5461
     },
     {
       "text": "motor",
-      "startMs": 7238
+      "startMs": 5481
     },
     {
       "text": "plan",
-      "startMs": 7539
+      "startMs": 5746
     },
     {
       "text": "Before",
-      "startMs": 8615
+      "startMs": 6344
     },
     {
       "text": "a",
-      "startMs": 8916
+      "startMs": 6603
     },
     {
       "text": "single",
-      "startMs": 8985
+      "startMs": 6663
     },
     {
       "text": "sound",
-      "startMs": 9378
+      "startMs": 7010
     },
     {
       "text": "leaves",
-      "startMs": 9818
+      "startMs": 7398
     },
     {
       "text": "you",
-      "startMs": 10119
+      "startMs": 7663
     },
     {
       "text": "your",
-      "startMs": 10814
+      "startMs": 8276
     },
     {
       "text": "brain",
-      "startMs": 10906
+      "startMs": 8357
     },
     {
       "text": "is",
-      "startMs": 11300
+      "startMs": 8705
     },
     {
       "text": "already",
-      "startMs": 11427
+      "startMs": 8817
     },
     {
       "text": "issuing",
-      "startMs": 11925
+      "startMs": 9256
     },
     {
       "text": "instructions",
-      "startMs": 12330
+      "startMs": 9613
     },
     {
       "text": "to",
-      "startMs": 12920
+      "startMs": 10133
     },
     {
       "text": "the",
-      "startMs": 13013
+      "startMs": 10215
     },
     {
       "text": "lips",
-      "startMs": 13128
+      "startMs": 10317
     },
     {
       "text": "jaw",
-      "startMs": 13846
+      "startMs": 10950
     },
     {
       "text": "and",
-      "startMs": 14575
+      "startMs": 11593
     },
     {
       "text": "tongue",
-      "startMs": 14703
+      "startMs": 11706
     },
     {
       "text": "In",
-      "startMs": 15795
+      "startMs": 12372
     },
     {
       "text": "paralysis",
-      "startMs": 15876
+      "startMs": 12431
     },
     {
       "text": "that",
-      "startMs": 16848
+      "startMs": 13288
     },
     {
       "text": "plan",
-      "startMs": 17057
+      "startMs": 13472
     },
     {
       "text": "is",
-      "startMs": 17705
+      "startMs": 14044
     },
     {
       "text": "often",
-      "startMs": 17820
+      "startMs": 14145
     },
     {
       "text": "still",
-      "startMs": 18202
+      "startMs": 14482
     },
     {
       "text": "intact",
-      "startMs": 18515
+      "startMs": 14758
     },
     {
       "text": "It",
-      "startMs": 19759
+      "startMs": 15550
     },
     {
       "text": "just",
-      "startMs": 19816
+      "startMs": 15587
     },
     {
       "text": "never",
-      "startMs": 19978
+      "startMs": 15730
     },
     {
       "text": "reaches",
-      "startMs": 20245
+      "startMs": 15966
     },
     {
       "text": "the",
-      "startMs": 20627
+      "startMs": 16302
     },
     {
       "text": "muscles",
-      "startMs": 20684
+      "startMs": 16353
     },
     {
       "text": "So",
-      "startMs": 22103
+      "startMs": 17275
     },
     {
       "text": "two",
-      "startMs": 22265
+      "startMs": 17408
     },
     {
       "text": "teams",
-      "startMs": 22496
+      "startMs": 17612
     },
     {
       "text": "placed",
-      "startMs": 23156
+      "startMs": 18194
     },
     {
       "text": "electrodes",
-      "startMs": 23492
+      "startMs": 18490
     },
     {
       "text": "over",
-      "startMs": 24290
+      "startMs": 19194
     },
     {
       "text": "those",
-      "startMs": 24475
+      "startMs": 19357
     },
     {
       "text": "regions",
-      "startMs": 24707
+      "startMs": 19562
     },
     {
       "text": "and",
-      "startMs": 25424
+      "startMs": 20194
     },
     {
       "text": "trained",
-      "startMs": 25598
+      "startMs": 20348
     },
     {
       "text": "models",
-      "startMs": 25992
+      "startMs": 20695
     },
     {
       "text": "to",
-      "startMs": 26651
+      "startMs": 21276
     },
     {
       "text": "read",
-      "startMs": 26778
+      "startMs": 21388
     },
     {
       "text": "the",
-      "startMs": 27022
+      "startMs": 21603
     },
     {
       "text": "instructions",
-      "startMs": 27091
+      "startMs": 21664
     },
     {
       "text": "directly",
-      "startMs": 27762
+      "startMs": 22256
     },
     {
       "text": "Attempted",
-      "startMs": 29067
+      "startMs": 23086
     },
     {
       "text": "speech",
-      "startMs": 29426
+      "startMs": 23390
     },
     {
       "text": "decoded",
-      "startMs": 30224
+      "startMs": 24094
     },
     {
       "text": "into",
-      "startMs": 30745
+      "startMs": 24553
     },
     {
       "text": "text",
-      "startMs": 30930
+      "startMs": 24717
     },
     {
       "text": "in",
-      "startMs": 31764
+      "startMs": 25452
     },
     {
       "text": "close",
-      "startMs": 31868
+      "startMs": 25544
     },
     {
       "text": "to",
-      "startMs": 32308
+      "startMs": 25932
     },
     {
       "text": "real",
-      "startMs": 32447
+      "startMs": 26054
     },
     {
       "text": "time",
-      "startMs": 32759
+      "startMs": 26329
     },
     {
       "text": "For",
-      "startMs": 34052
+      "startMs": 27061
     },
     {
       "text": "years",
-      "startMs": 34136
+      "startMs": 27135
     },
     {
       "text": "the",
-      "startMs": 34413
+      "startMs": 27380
     },
     {
       "text": "assumption",
-      "startMs": 34509
+      "startMs": 27464
     },
     {
       "text": "was",
-      "startMs": 35050
+      "startMs": 27941
     },
     {
       "text": "that",
-      "startMs": 35182
+      "startMs": 28058
     },
     {
       "text": "silence",
-      "startMs": 35374
+      "startMs": 28227
     },
     {
       "text": "meant",
-      "startMs": 36192
+      "startMs": 28948
     },
     {
       "text": "the",
-      "startMs": 36420
+      "startMs": 29149
     },
     {
       "text": "message",
-      "startMs": 36492
+      "startMs": 29213
     },
     {
       "text": "was",
-      "startMs": 36949
+      "startMs": 29616
     },
     {
       "text": "gone",
-      "startMs": 37117
+      "startMs": 29764
     },
     {
       "text": "It",
-      "startMs": 38179
+      "startMs": 30373
     },
     {
       "text": "was",
-      "startMs": 38244
+      "startMs": 30414
     },
     {
       "text": "not",
-      "startMs": 38361
+      "startMs": 30518
     },
     {
       "text": "The",
-      "startMs": 40336
+      "startMs": 31146
     },
     {
       "text": "letter",
-      "startMs": 40408
+      "startMs": 31196
     },
     {
       "text": "was",
-      "startMs": 40649
+      "startMs": 31409
     },
     {
       "text": "written",
-      "startMs": 40805
+      "startMs": 31546
     },
     {
       "text": "every",
-      "startMs": 41394
+      "startMs": 32066
     },
     {
       "text": "time",
-      "startMs": 41634
+      "startMs": 32277
     },
     {
       "text": "The",
-      "startMs": 42740
+      "startMs": 32916
     },
     {
       "text": "post",
-      "startMs": 42788
+      "startMs": 32949
     },
     {
       "text": "office",
-      "startMs": 43065
+      "startMs": 33193
     },
     {
       "text": "had",
-      "startMs": 43365
+      "startMs": 33458
     },
     {
       "text": "closed",
-      "startMs": 43485
+      "startMs": 33563
     },
     {
       "text": "What",
-      "startMs": 44880
+      "startMs": 34358
     },
     {
       "text": "these",
-      "startMs": 44988
+      "startMs": 34446
     },
     {
       "text": "systems",
-      "startMs": 45169
+      "startMs": 34605
     },
     {
       "text": "do",
-      "startMs": 45541
+      "startMs": 34933
     },
     {
       "text": "is",
-      "startMs": 45818
+      "startMs": 35178
     },
     {
       "text": "reopen",
-      "startMs": 45938
+      "startMs": 35283
     },
     {
       "text": "it",
-      "startMs": 46395
+      "startMs": 35686
     },
     {
       "text": "and",
-      "startMs": 46935
+      "startMs": 36163
     },
     {
       "text": "what",
-      "startMs": 47020
+      "startMs": 36238
     },
     {
       "text": "they",
-      "startMs": 47140
+      "startMs": 36343
     },
     {
       "text": "decode",
-      "startMs": 47344
+      "startMs": 36523
     },
     {
       "text": "is",
-      "startMs": 48197
+      "startMs": 37276
     },
     {
       "text": "the",
-      "startMs": 48306
+      "startMs": 37372
     },
     {
       "text": "attempt",
-      "startMs": 48414
+      "startMs": 37467
     },
     {
       "text": "to",
-      "startMs": 48774
+      "startMs": 37784
     },
     {
       "text": "speak",
-      "startMs": 48858
+      "startMs": 37858
     },
     {
       "text": "not",
-      "startMs": 49640
+      "startMs": 38548
     },
     {
       "text": "private",
-      "startMs": 49856
+      "startMs": 38738
     },
     {
       "text": "thought",
-      "startMs": 50193
+      "startMs": 39036
     },
     {
       "text": "That",
-      "startMs": 51316
+      "startMs": 39688
     },
     {
       "text": "distinction",
-      "startMs": 51472
+      "startMs": 39823
     },
     {
       "text": "matters",
-      "startMs": 52049
+      "startMs": 40331
     },
     {
       "text": "more",
-      "startMs": 52554
+      "startMs": 40777
     },
     {
       "text": "every",
-      "startMs": 53071
+      "startMs": 41233
     },
     {
       "text": "year",
-      "startMs": 53371
+      "startMs": 41497
     },
     {
       "text": "because",
-      "startMs": 54020
+      "startMs": 42070
     },
     {
       "text": "it",
-      "startMs": 54345
+      "startMs": 42356
     },
     {
       "text": "is",
-      "startMs": 54429
+      "startMs": 42430
     },
     {
       "text": "the",
-      "startMs": 54525
+      "startMs": 42515
     },
     {
       "text": "line",
-      "startMs": 54634
+      "startMs": 42611
     },
     {
       "text": "everything",
-      "startMs": 55210
+      "startMs": 43119
     },
     {
       "text": "built",
-      "startMs": 55691
+      "startMs": 43543
     },
     {
       "text": "after",
-      "startMs": 56208
+      "startMs": 43999
     },
     {
       "text": "this",
-      "startMs": 56484
+      "startMs": 44242
     },
     {
       "text": "will",
-      "startMs": 56665
+      "startMs": 44402
     },
     {
       "text": "be",
-      "startMs": 56737
+      "startMs": 44466
     },
     {
       "text": "measured",
-      "startMs": 56833
+      "startMs": 44550
     },
     {
       "text": "against",
-      "startMs": 57158
+      "startMs": 44837
     },
     {
       "text": "The",
-      "startMs": 58576
+      "startMs": 45680
     },
     {
       "text": "message",
-      "startMs": 58616
+      "startMs": 45698
     },
     {
       "text": "was",
-      "startMs": 58975
+      "startMs": 46015
     },
     {
       "text": "always",
-      "startMs": 59321
+      "startMs": 46320
     },
     {
       "text": "sending",
-      "startMs": 59747
+      "startMs": 46695
     },
     {
       "text": "Nobody",
-      "startMs": 61012
+      "startMs": 47451
     },
     {
       "text": "was",
-      "startMs": 61317
+      "startMs": 47701
     },
     {
       "text": "collecting",
-      "startMs": 61491
+      "startMs": 47854
     },
     {
       "text": "it",
-      "startMs": 62087
+      "startMs": 48380
     },
     {
       "text": "Until",
-      "startMs": 63106
+      "startMs": 48813
     }
-  ]
+  ],
+  "speechSpeed": 1.134
 }
