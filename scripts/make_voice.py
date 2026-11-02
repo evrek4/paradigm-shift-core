@@ -42,7 +42,18 @@ def split_sentences(text: str):
     return [p for p in parts if p]
 
 
-async def speak(text, voice, rate, pitch, volume, out_path):
+async def speak(text, voice, rate, pitch, volume, out_path, tries=8):
+    # Edge TTS sometimes returns no audio for a valid request; retry with a short backoff
+    for attempt in range(tries):
+        try:
+            return await _speak(text, voice, rate, pitch, volume, out_path)
+        except edge_tts.exceptions.NoAudioReceived:
+            if attempt == tries - 1:
+                raise
+            await asyncio.sleep(1.5 * (attempt + 1))
+
+
+async def _speak(text, voice, rate, pitch, volume, out_path):
     comm = edge_tts.Communicate(
         text, voice, rate=pct(rate), pitch=hz(pitch), volume=pct(volume), boundary="WordBoundary"
     )
