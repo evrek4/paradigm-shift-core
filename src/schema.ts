@@ -13,6 +13,8 @@ export const sceneSchema = z.object({
   // Voice clips placed inside the scene (written by scripts/make_voice.py)
   clips: z.array(z.object({ src: z.string(), atMs: z.number() })).optional(),
   // Edge TTS delivery for this scene: rate/volume in %, pitch in Hz (used by make_voice.py)
+  // Optional hand-tuned values per sentence (make_voice.py): rate %, pitch Hz, pause after in seconds
+  lines: z.array(z.object({ rate: z.number(), pitch: z.number(), pause: z.number() }).partial()).optional(),
   delivery: z.object({ rate: z.number(), pitch: z.number(), volume: z.number() }).partial().optional(),
   // Optional big punch-in label, e.g. "$4.2B"
   highlight: z.string().optional(),

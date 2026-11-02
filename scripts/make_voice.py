@@ -82,6 +82,10 @@ async def main():
         clips = []
         t = 0.0  # seconds inside the scene
         sentences = split_sentences(scene["text"])
+        # Optional hand-tuned values per sentence: [{rate, pitch, pause}, ...]
+        lines = scene.get("lines") or []
+        if lines and len(lines) != len(sentences):
+            raise SystemExit(f"scene {i + 1}: {len(lines)} lines but {len(sentences)} sentences")
         for k, sentence in enumerate(sentences):
             n_words = len(sentence.split())
             # Short punchy lines land harder when slower and a touch lower
@@ -90,6 +94,8 @@ async def main():
             # Questions lift at the end naturally; give them a slight pitch rise
             if sentence.endswith("?"):
                 pitch += 3
+            line = lines[k] if lines else {}
+            rate, pitch = line.get("rate", rate), line.get("pitch", pitch)
             file = out_dir / f"v{i + 1}-{k + 1}.mp3"
             words, seconds = await speak(sentence, voice, rate, pitch, volume, file)
             clips.append({"src": f"videos/{args.name}/{file.name}", "atMs": round(t * 1000)})
@@ -97,10 +103,17 @@ async def main():
                 {"text": w["text"], "startMs": scene_start_ms + round(t * 1000) + w["startMs"]} for w in words
             ]
             t += seconds
-            if k < len(sentences) - 1:
-                t += PAUSE_ELLIPSIS if sentence.endswith("...") else PAUSE_SENTENCE
+            last_sentence = k == len(sentences) - 1
+            default_pause = 0 if last_sentence else (PAUSE_ELLIPSIS if sentence.endswith("...") else PAUSE_SENTENCE)
+            t += line.get("pause", default_pause)
         last = i == len(scenes) - 1
-        scene["seconds"] = round(t + (0 if last else PAUSE_SCENE), 2)
+        if last:
+            pause_after = 0  # seamless loop
+        elif lines:
+            pause_after = 0  # already in the last line's pause
+        else:
+            pause_after = PAUSE_SCENE
+        scene["seconds"] = round(t + pause_after, 2)
         scene["clips"] = clips
         scene.pop("voice", None)
         scene_start_ms += round(scene["seconds"] * 1000)

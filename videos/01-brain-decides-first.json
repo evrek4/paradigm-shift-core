@@ -7,7 +7,14 @@
       "delivery": {
         "rate": -6,
         "pitch": -3
-      }
+      },
+      "lines": [
+        {
+          "rate": -12,
+          "pitch": -3,
+          "pause": 0.8
+        }
+      ]
     },
     {
       "image": "videos/01-brain-decides-first/2.jpg",
@@ -17,7 +24,44 @@
       "delivery": {
         "rate": 4,
         "pitch": 0
-      }
+      },
+      "lines": [
+        {
+          "rate": -4,
+          "pitch": 0,
+          "pause": 0.3
+        },
+        {
+          "rate": -20,
+          "pitch": -2,
+          "pause": 0.45
+        },
+        {
+          "rate": -20,
+          "pitch": 2,
+          "pause": 0.55
+        },
+        {
+          "rate": -14,
+          "pitch": -4,
+          "pause": 0.7
+        },
+        {
+          "rate": 3,
+          "pitch": 1,
+          "pause": 0.35
+        },
+        {
+          "rate": -6,
+          "pitch": -2,
+          "pause": 0.45
+        },
+        {
+          "rate": 0,
+          "pitch": 0,
+          "pause": 0.7
+        }
+      ]
     },
     {
       "image": "videos/01-brain-decides-first/3.jpg",
@@ -27,7 +71,44 @@
       "delivery": {
         "rate": -4,
         "pitch": -2
-      }
+      },
+      "lines": [
+        {
+          "rate": -8,
+          "pitch": 1,
+          "pause": 0.35
+        },
+        {
+          "rate": 0,
+          "pitch": 0,
+          "pause": 0.3
+        },
+        {
+          "rate": 4,
+          "pitch": 0,
+          "pause": 0.7
+        },
+        {
+          "rate": -10,
+          "pitch": -1,
+          "pause": 0.5
+        },
+        {
+          "rate": -22,
+          "pitch": -4,
+          "pause": 0.75
+        },
+        {
+          "rate": -12,
+          "pitch": -2,
+          "pause": 0.5
+        },
+        {
+          "rate": -6,
+          "pitch": -1,
+          "pause": 0.8
+        }
+      ]
     },
     {
       "image": "videos/01-brain-decides-first/4.jpg",
@@ -37,7 +118,24 @@
         "rate": -12,
         "pitch": -4,
         "volume": -5
-      }
+      },
+      "lines": [
+        {
+          "rate": -10,
+          "pitch": -2,
+          "pause": 0.45
+        },
+        {
+          "rate": -16,
+          "pitch": -3,
+          "pause": 0.4
+        },
+        {
+          "rate": -20,
+          "pitch": -3,
+          "pause": 0
+        }
+      ]
     }
   ],
   "musicVolume": 0.2,
