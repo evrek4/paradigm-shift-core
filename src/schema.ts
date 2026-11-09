@@ -39,6 +39,8 @@ export const shortSchema = z.object({
   speechSpeed: z.number().optional(),
   // Optional on-screen title for the first 3 s (the voiceover hook is captioned anyway)
   hook: z.string().optional(),
+  // Feed-first look: big hook title from frame 1, brighter grade, bigger captions
+  bold: z.boolean().default(false),
   scenes: z.array(sceneSchema).min(1),
   // Voiceover (wav/mp3 in /public) and word timestamps from it (e.g. Whisper)
   voice: z.string().optional(),

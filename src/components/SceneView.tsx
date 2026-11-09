@@ -16,7 +16,7 @@ const SHOTS: Shot[] = [
 
 const STILL: Shot = { x: [50, 50], y: [50, 50], z: [1.02, 1.02] };
 
-const ShotView: React.FC<{ src: string; shot: Shot; isCut: boolean }> = ({ src, shot, isCut }) => {
+const ShotView: React.FC<{ src: string; shot: Shot; isCut: boolean; bold?: boolean }> = ({ src, shot, isCut, bold }) => {
   const frame = useCurrentFrame();
   const { durationInFrames } = useVideoConfig();
   const ease = { extrapolateLeft: "clamp" as const, extrapolateRight: "clamp" as const, easing: Easing.bezier(0.33, 0, 0.67, 1) };
@@ -28,7 +28,7 @@ const ShotView: React.FC<{ src: string; shot: Shot; isCut: boolean }> = ({ src, 
   const img = staticFile(src);
   return (
     <AbsoluteFill style={{ overflow: "hidden", backgroundColor: "black" }}>
-      <Img src={img} style={{ width: "100%", height: "100%", objectFit: "cover", filter: "blur(40px) brightness(0.45)", scale: "1.2" }} />
+      <Img src={img} style={{ width: "100%", height: "100%", objectFit: "cover", filter: bold ? "blur(40px) brightness(0.65)" : "blur(40px) brightness(0.45)", scale: "1.2" }} />
       <AbsoluteFill
         style={{
           transformOrigin: `${t(shot.x)}% ${t(shot.y)}%`,
@@ -36,7 +36,7 @@ const ShotView: React.FC<{ src: string; shot: Shot; isCut: boolean }> = ({ src, 
           filter: blur ? `blur(${blur}px)` : undefined,
         }}
       >
-        <Img src={img} style={{ width: "100%", height: "100%", objectFit: "contain", filter: "contrast(1.08) saturate(0.88) brightness(0.92)" }} />
+        <Img src={img} style={{ width: "100%", height: "100%", objectFit: "contain", filter: bold ? "brightness(1.4) contrast(1.06) saturate(1.1)" : "contrast(1.08) saturate(0.88) brightness(0.92)" }} />
       </AbsoluteFill>
       <AbsoluteFill style={{ backgroundColor: "white", opacity: flash }} />
     </AbsoluteFill>
@@ -50,7 +50,8 @@ export const SceneView: React.FC<{
   accentColor: string;
   highlightAt: number;
   cuts: number[];
-}> = ({ scene, index, accentColor, highlightAt, cuts }) => {
+  bold?: boolean;
+}> = ({ scene, index, accentColor, highlightAt, cuts, bold }) => {
   const { durationInFrames, fps } = useVideoConfig();
   const sources = [scene.image, ...(scene.images ?? [])];
   // Image for a shot: by imageAt timing when given, otherwise cycle
@@ -73,11 +74,12 @@ export const SceneView: React.FC<{
               src={imageFor(from, k)}
               shot={scene.stillLast && k === cuts.length - 1 ? STILL : SHOTS[(index * 2 + k) % SHOTS.length]}
               isCut={k > 0}
+              bold={bold}
             />
           </Sequence>
         );
       })}
-      <AbsoluteFill style={{ background: "radial-gradient(ellipse at 50% 45%, rgba(0,0,0,0) 55%, rgba(0,0,0,0.45) 100%)" }} />
+      <AbsoluteFill style={{ background: `radial-gradient(ellipse at 50% 45%, rgba(0,0,0,0) 55%, rgba(0,0,0,${bold ? 0.3 : 0.45}) 100%)` }} />
       <AbsoluteFill style={{ background: "linear-gradient(to bottom, rgba(0,0,0,0) 60%, rgba(0,0,0,0.4) 80%, rgba(0,0,0,0.2) 100%)" }} />
       {scene.highlight ? (
         <Sequence from={highlightAt} durationInFrames={Math.round(3 * fps)} layout="none">
