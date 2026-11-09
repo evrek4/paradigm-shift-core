@@ -2,6 +2,7 @@
   "title": "Why You Can't Tickle Yourself",
   "hook": "Why you can't *tickle yourself*",
   "bold": true,
+  "brightness": 1.1,
   "scenes": [
     {
       "image": "videos/29-cant-tickle-yourself/G1.jpg",

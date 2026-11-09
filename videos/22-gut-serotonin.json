@@ -2,6 +2,7 @@
   "title": "Most Of Your Serotonin Is In Your Gut",
   "hook": "90% of your serotonin is *in your gut*",
   "bold": true,
+  "brightness": 1.1,
   "scenes": [
     {
       "image": "videos/22-gut-serotonin/G1.jpg",

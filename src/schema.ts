@@ -41,6 +41,8 @@ export const shortSchema = z.object({
   hook: z.string().optional(),
   // Feed-first look: big hook title from frame 1, brighter grade, bigger captions
   bold: z.boolean().default(false),
+  // Brightness of the bold grade (lower for images that are already bright)
+  brightness: z.number().default(1.4),
   scenes: z.array(sceneSchema).min(1),
   // Voiceover (wav/mp3 in /public) and word timestamps from it (e.g. Whisper)
   voice: z.string().optional(),

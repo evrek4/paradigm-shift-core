@@ -19,6 +19,7 @@ const T = 8;
 export const Short: React.FC<ShortProps> = ({
   hook,
   bold,
+  brightness,
   scenes,
   voice,
   words,
@@ -76,6 +77,7 @@ export const Short: React.FC<ShortProps> = ({
                 highlightAt={highlightFrame(scene, i)}
                 cuts={cutsFor(i)}
                 bold={bold}
+                brightness={brightness}
               />
             </TransitionSeries.Sequence>
           </React.Fragment>

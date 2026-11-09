@@ -2,6 +2,7 @@
   "title": "Your Brain Eats Itself Without Sleep",
   "hook": "Skip sleep and your brain *eats itself*",
   "bold": true,
+  "brightness": 1.1,
   "scenes": [
     {
       "image": "videos/21-sleep-brain-eats-itself/G1.jpg",

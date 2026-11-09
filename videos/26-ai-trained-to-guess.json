@@ -2,6 +2,7 @@
   "title": "AI Lies Because We Trained It To",
   "hook": "AI makes things up. *We trained it to.*",
   "bold": true,
+  "brightness": 1.1,
   "scenes": [
     {
       "image": "videos/26-ai-trained-to-guess/G1.jpg",

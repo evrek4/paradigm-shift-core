@@ -2,6 +2,7 @@
   "title": "The Internet Lives On The Ocean Floor",
   "hook": "The internet lives on *the ocean floor*",
   "bold": true,
+  "brightness": 1.1,
   "scenes": [
     {
       "image": "videos/28-undersea-cables/G1.jpg",

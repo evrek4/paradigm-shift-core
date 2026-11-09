@@ -2,6 +2,7 @@
   "title": "Your Brain Burns A Fifth Of You",
   "hook": "2% of your body. *20% of your energy.*",
   "bold": true,
+  "brightness": 1.1,
   "scenes": [
     {
       "image": "videos/25-brain-energy/G1.jpg",

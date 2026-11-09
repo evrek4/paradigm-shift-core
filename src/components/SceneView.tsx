@@ -16,7 +16,7 @@ const SHOTS: Shot[] = [
 
 const STILL: Shot = { x: [50, 50], y: [50, 50], z: [1.02, 1.02] };
 
-const ShotView: React.FC<{ src: string; shot: Shot; isCut: boolean; bold?: boolean }> = ({ src, shot, isCut, bold }) => {
+const ShotView: React.FC<{ src: string; shot: Shot; isCut: boolean; bold?: boolean; brightness?: number }> = ({ src, shot, isCut, bold, brightness = 1.4 }) => {
   const frame = useCurrentFrame();
   const { durationInFrames } = useVideoConfig();
   const ease = { extrapolateLeft: "clamp" as const, extrapolateRight: "clamp" as const, easing: Easing.bezier(0.33, 0, 0.67, 1) };
@@ -36,7 +36,7 @@ const ShotView: React.FC<{ src: string; shot: Shot; isCut: boolean; bold?: boole
           filter: blur ? `blur(${blur}px)` : undefined,
         }}
       >
-        <Img src={img} style={{ width: "100%", height: "100%", objectFit: "contain", filter: bold ? "brightness(1.4) contrast(1.06) saturate(1.1)" : "contrast(1.08) saturate(0.88) brightness(0.92)" }} />
+        <Img src={img} style={{ width: "100%", height: "100%", objectFit: "contain", filter: bold ? `brightness(${brightness}) contrast(1.06) saturate(1.1)` : "contrast(1.08) saturate(0.88) brightness(0.92)" }} />
       </AbsoluteFill>
       <AbsoluteFill style={{ backgroundColor: "white", opacity: flash }} />
     </AbsoluteFill>
@@ -51,7 +51,8 @@ export const SceneView: React.FC<{
   highlightAt: number;
   cuts: number[];
   bold?: boolean;
-}> = ({ scene, index, accentColor, highlightAt, cuts, bold }) => {
+  brightness?: number;
+}> = ({ scene, index, accentColor, highlightAt, cuts, bold, brightness }) => {
   const { durationInFrames, fps } = useVideoConfig();
   const sources = [scene.image, ...(scene.images ?? [])];
   // Image for a shot: by imageAt timing when given, otherwise cycle
@@ -75,6 +76,7 @@ export const SceneView: React.FC<{
               shot={scene.stillLast && k === cuts.length - 1 ? STILL : SHOTS[(index * 2 + k) % SHOTS.length]}
               isCut={k > 0}
               bold={bold}
+              brightness={brightness}
             />
           </Sequence>
         );

@@ -2,6 +2,7 @@
   "title": "Only One Company Can Build This Machine",
   "hook": "Only *one company* can build this",
   "bold": true,
+  "brightness": 1.1,
   "scenes": [
     {
       "image": "videos/23-one-chip-machine/G1.jpg",

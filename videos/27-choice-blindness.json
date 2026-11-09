@@ -2,6 +2,7 @@
   "title": "You Defend Choices You Never Made",
   "hook": "You defend choices *you never made*",
   "bold": true,
+  "brightness": 1.1,
   "scenes": [
     {
       "image": "videos/27-choice-blindness/G1.jpg",

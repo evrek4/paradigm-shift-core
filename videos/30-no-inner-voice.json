@@ -2,6 +2,7 @@
   "title": "Some People Have No Inner Voice",
   "hook": "Some people have *no inner voice*",
   "bold": true,
+  "brightness": 1.1,
   "scenes": [
     {
       "image": "videos/30-no-inner-voice/G1.jpg",

@@ -2,6 +2,7 @@
   "title": "Every Memory Is A Rewrite",
   "hook": "Every memory you have is *a rewrite*",
   "bold": true,
+  "brightness": 1.1,
   "scenes": [
     {
       "image": "videos/24-memory-rewrite/G1.jpg",
