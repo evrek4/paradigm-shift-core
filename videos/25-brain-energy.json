@@ -1,0 +1,55 @@
+{
+  "title": "Your Brain Burns A Fifth Of You",
+  "hook": "2% of your body. *20% of your energy.*",
+  "bold": true,
+  "scenes": [
+    {
+      "image": "videos/25-brain-energy/G1.jpg",
+      "seconds": 3,
+      "text": "Your brain is two percent of your body weight, and it burns about twenty percent of your energy.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/25-brain-energy/G2.jpg",
+      "images": [
+        "videos/25-brain-energy/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 12,
+      "text": "Even when you rest. Even when you sleep. Most of that power isn't spent on hard thinking. It goes to keeping eighty six billion neurons charged and ready to fire, like tiny batteries constantly recharged.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/25-brain-energy/G4.jpg",
+      "seconds": 10,
+      "text": "Doing nothing is still expensive.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/25-brain-energy/G5.jpg",
+      "seconds": 3,
+      "text": "You are running a power plant behind your eyes. Because...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0
+}

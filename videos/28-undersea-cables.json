@@ -1,0 +1,55 @@
+{
+  "title": "The Internet Lives On The Ocean Floor",
+  "hook": "The internet lives on *the ocean floor*",
+  "bold": true,
+  "scenes": [
+    {
+      "image": "videos/28-undersea-cables/G1.jpg",
+      "seconds": 3,
+      "text": "The internet is not in the sky.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/28-undersea-cables/G2.jpg",
+      "images": [
+        "videos/28-undersea-cables/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 12,
+      "text": "Over ninety nine percent of data between continents travels through cables on the ocean floor. Some are about as thick as a garden hose. Hundreds of them carry your messages, your money, your video calls. Every year, well over a hundred are damaged, mostly by ship anchors and fishing nets.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/28-undersea-cables/G4.jpg",
+      "seconds": 10,
+      "text": "Governments now treat them as strategic targets.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/28-undersea-cables/G5.jpg",
+      "seconds": 3,
+      "text": "Your digital life hangs on wires in the dark. Because...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0
+}

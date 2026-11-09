@@ -1,0 +1,55 @@
+{
+  "title": "Most Of Your Serotonin Is In Your Gut",
+  "hook": "90% of your serotonin is *in your gut*",
+  "bold": true,
+  "scenes": [
+    {
+      "image": "videos/22-gut-serotonin/G1.jpg",
+      "seconds": 3,
+      "text": "About ninety percent of your serotonin is made in your gut, not your brain.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/22-gut-serotonin/G2.jpg",
+      "images": [
+        "videos/22-gut-serotonin/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 12,
+      "text": "Special cells in your intestinal lining produce it, and it helps control how your gut moves. It can't cross into the brain directly. But your gut talks to your brain anyway, through the vagus nerve, a cable carrying signals both ways.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/22-gut-serotonin/G4.jpg",
+      "seconds": 10,
+      "text": "That's why stress hits your stomach, and your stomach can hit your mood.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/22-gut-serotonin/G5.jpg",
+      "seconds": 3,
+      "text": "Your second brain never stops talking. Which matters, because...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0
+}

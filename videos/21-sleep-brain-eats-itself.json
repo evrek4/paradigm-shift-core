@@ -1,0 +1,55 @@
+{
+  "title": "Your Brain Eats Itself Without Sleep",
+  "hook": "Skip sleep and your brain *eats itself*",
+  "bold": true,
+  "scenes": [
+    {
+      "image": "videos/21-sleep-brain-eats-itself/G1.jpg",
+      "seconds": 3,
+      "text": "Skip sleep, and your brain starts eating itself.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/21-sleep-brain-eats-itself/G2.jpg",
+      "images": [
+        "videos/21-sleep-brain-eats-itself/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 12,
+      "text": "In 2017, Italian researchers kept mice awake for days. Inside their brains, cleanup cells called astrocytes began devouring pieces of the connections between neurons. A little of this is normal maintenance. Under chronic sleep loss, it went into overdrive.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/21-sleep-brain-eats-itself/G4.jpg",
+      "seconds": 10,
+      "text": "It's one study, in mice. But the message is blunt. Sleep is when your brain repairs itself.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/21-sleep-brain-eats-itself/G5.jpg",
+      "seconds": 3,
+      "text": "Without it, it starts cutting. So tonight, remember...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0
+}

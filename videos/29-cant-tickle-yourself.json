@@ -1,0 +1,55 @@
+{
+  "title": "Why You Can't Tickle Yourself",
+  "hook": "Why you can't *tickle yourself*",
+  "bold": true,
+  "scenes": [
+    {
+      "image": "videos/29-cant-tickle-yourself/G1.jpg",
+      "seconds": 3,
+      "text": "You can't tickle yourself, and that reveals how your brain works.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/29-cant-tickle-yourself/G2.jpg",
+      "images": [
+        "videos/29-cant-tickle-yourself/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 12,
+      "text": "Every time you move, your brain predicts what you'll feel and turns the volume down. Your cerebellum sends a copy of the command ahead of time. No surprise, no tickle. When a robot adds a tiny delay to your own touch, it starts to tickle again.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/29-cant-tickle-yourself/G4.jpg",
+      "seconds": 10,
+      "text": "Your brain doesn't just sense the world.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/29-cant-tickle-yourself/G5.jpg",
+      "seconds": 3,
+      "text": "It predicts it. And that is exactly why...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0
+}

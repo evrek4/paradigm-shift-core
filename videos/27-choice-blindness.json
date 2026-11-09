@@ -1,0 +1,55 @@
+{
+  "title": "You Defend Choices You Never Made",
+  "hook": "You defend choices *you never made*",
+  "bold": true,
+  "scenes": [
+    {
+      "image": "videos/27-choice-blindness/G1.jpg",
+      "seconds": 3,
+      "text": "You will defend a choice you never made.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/27-choice-blindness/G2.jpg",
+      "images": [
+        "videos/27-choice-blindness/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 12,
+      "text": "In a Swedish experiment, people picked the more attractive of two faces. Then, with a sleight of hand, researchers gave them the photo they had rejected. Most didn't notice. Worse, they explained why they chose it, praising details only on the face they had turned down.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/27-choice-blindness/G4.jpg",
+      "seconds": 10,
+      "text": "It's called choice blindness. Your reasons often come after the decision.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/27-choice-blindness/G5.jpg",
+      "seconds": 3,
+      "text": "Your mind writes the story later. Which is why...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0
+}

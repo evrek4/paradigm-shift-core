@@ -1,0 +1,55 @@
+{
+  "title": "Some People Have No Inner Voice",
+  "hook": "Some people have *no inner voice*",
+  "bold": true,
+  "scenes": [
+    {
+      "image": "videos/30-no-inner-voice/G1.jpg",
+      "seconds": 3,
+      "text": "Some people have no voice in their head.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/30-no-inner-voice/G2.jpg",
+      "images": [
+        "videos/30-no-inner-voice/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 12,
+      "text": "No narration. No inner monologue. In 2024, researchers in Copenhagen and Wisconsin studied people who rarely hear one. They lived normal lives, but did worse at remembering lists of words and judging rhymes. They think in images, feelings, or something hard to describe.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/30-no-inner-voice/G4.jpg",
+      "seconds": 10,
+      "text": "Your inner voice feels like you. For many people, thought has no sound at all.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/30-no-inner-voice/G5.jpg",
+      "seconds": 3,
+      "text": "Is there a voice in yours? Because...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0
+}

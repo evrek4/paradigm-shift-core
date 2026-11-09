@@ -1,0 +1,55 @@
+{
+  "title": "Only One Company Can Build This Machine",
+  "hook": "Only *one company* can build this",
+  "bold": true,
+  "scenes": [
+    {
+      "image": "videos/23-one-chip-machine/G1.jpg",
+      "seconds": 3,
+      "text": "Only one company on Earth can build this machine.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      }
+    },
+    {
+      "image": "videos/23-one-chip-machine/G2.jpg",
+      "images": [
+        "videos/23-one-chip-machine/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 12,
+      "text": "ASML, in the Netherlands. It fires lasers at tiny droplets of molten tin, fifty thousand times a second, to make light that prints chip features smaller than a virus. Each one costs well over a hundred million dollars and ships in dozens of containers.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      }
+    },
+    {
+      "image": "videos/23-one-chip-machine/G4.jpg",
+      "seconds": 10,
+      "text": "Without it, there are no cutting edge AI chips. That's why governments fight over who may buy one.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      }
+    },
+    {
+      "image": "videos/23-one-chip-machine/G5.jpg",
+      "seconds": 3,
+      "text": "The future of AI runs through this. Remember...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0
+}

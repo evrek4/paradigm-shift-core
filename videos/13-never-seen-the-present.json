@@ -1,5 +1,7 @@
 {
   "title": "You Have Never Seen The Present",
+  "hook": "You have never seen *the present*",
+  "bold": true,
   "scenes": [
     {
       "image": "videos/13-never-seen-the-present/G1.jpg",
