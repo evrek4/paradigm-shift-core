@@ -1,0 +1,394 @@
+{
+  "title": "The Internet Lives On The Ocean Floor",
+  "hook": "The internet lives on *the ocean floor*",
+  "bold": true,
+  "brightness": 1.1,
+  "scenes": [
+    {
+      "image": "videos/28-undersea-cables/G1.jpg",
+      "seconds": 3.16,
+      "text": "The internet is not in the sky.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      },
+      "clips": [
+        {
+          "src": "videos/28-undersea-cables/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
+    },
+    {
+      "image": "videos/28-undersea-cables/G2.jpg",
+      "images": [
+        "videos/28-undersea-cables/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 18.57,
+      "text": "Over ninety nine percent of data between continents travels through cables on the ocean floor. Some are about as thick as a garden hose. Hundreds of them carry your messages, your money, your video calls. Every year, well over a hundred are damaged, mostly by ship anchors and fishing nets.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      },
+      "clips": [
+        {
+          "src": "videos/28-undersea-cables/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/28-undersea-cables/v2-2.mp3",
+          "atMs": 5824
+        },
+        {
+          "src": "videos/28-undersea-cables/v2-3.mp3",
+          "atMs": 8456
+        },
+        {
+          "src": "videos/28-undersea-cables/v2-4.mp3",
+          "atMs": 12816
+        }
+      ]
+    },
+    {
+      "image": "videos/28-undersea-cables/G4.jpg",
+      "seconds": 3.98,
+      "text": "Governments now treat them as strategic targets.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      },
+      "clips": [
+        {
+          "src": "videos/28-undersea-cables/v3-1.mp3",
+          "atMs": 0
+        }
+      ]
+    },
+    {
+      "image": "videos/28-undersea-cables/G5.jpg",
+      "seconds": 5.54,
+      "text": "Your digital life hangs on wires in the dark. Because...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/28-undersea-cables/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/28-undersea-cables/v4-2.mp3",
+          "atMs": 3664
+        }
+      ]
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0,
+  "words": [
+    {
+      "text": "The",
+      "startMs": 104
+    },
+    {
+      "text": "internet",
+      "startMs": 221
+    },
+    {
+      "text": "is",
+      "startMs": 1042
+    },
+    {
+      "text": "not",
+      "startMs": 1172
+    },
+    {
+      "text": "in",
+      "startMs": 1654
+    },
+    {
+      "text": "the",
+      "startMs": 1719
+    },
+    {
+      "text": "sky",
+      "startMs": 1784
+    },
+    {
+      "text": "Over",
+      "startMs": 3253
+    },
+    {
+      "text": "ninety",
+      "startMs": 3403
+    },
+    {
+      "text": "nine",
+      "startMs": 3750
+    },
+    {
+      "text": "percent",
+      "startMs": 4040
+    },
+    {
+      "text": "of",
+      "startMs": 4375
+    },
+    {
+      "text": "data",
+      "startMs": 4468
+    },
+    {
+      "text": "between",
+      "startMs": 4919
+    },
+    {
+      "text": "continents",
+      "startMs": 5278
+    },
+    {
+      "text": "travels",
+      "startMs": 5810
+    },
+    {
+      "text": "through",
+      "startMs": 6563
+    },
+    {
+      "text": "cables",
+      "startMs": 6794
+    },
+    {
+      "text": "on",
+      "startMs": 7396
+    },
+    {
+      "text": "the",
+      "startMs": 7489
+    },
+    {
+      "text": "ocean",
+      "startMs": 7558
+    },
+    {
+      "text": "floor",
+      "startMs": 7905
+    },
+    {
+      "text": "Some",
+      "startMs": 9077
+    },
+    {
+      "text": "are",
+      "startMs": 9216
+    },
+    {
+      "text": "about",
+      "startMs": 9296
+    },
+    {
+      "text": "as",
+      "startMs": 9574
+    },
+    {
+      "text": "thick",
+      "startMs": 9736
+    },
+    {
+      "text": "as",
+      "startMs": 10165
+    },
+    {
+      "text": "a",
+      "startMs": 10246
+    },
+    {
+      "text": "garden",
+      "startMs": 10280
+    },
+    {
+      "text": "hose",
+      "startMs": 10500
+    },
+    {
+      "text": "Hundreds",
+      "startMs": 11720
+    },
+    {
+      "text": "of",
+      "startMs": 12033
+    },
+    {
+      "text": "them",
+      "startMs": 12114
+    },
+    {
+      "text": "carry",
+      "startMs": 12299
+    },
+    {
+      "text": "your",
+      "startMs": 12588
+    },
+    {
+      "text": "messages",
+      "startMs": 12681
+    },
+    {
+      "text": "your",
+      "startMs": 13537
+    },
+    {
+      "text": "money",
+      "startMs": 13630
+    },
+    {
+      "text": "your",
+      "startMs": 14440
+    },
+    {
+      "text": "video",
+      "startMs": 14533
+    },
+    {
+      "text": "calls",
+      "startMs": 14845
+    },
+    {
+      "text": "Every",
+      "startMs": 16057
+    },
+    {
+      "text": "year",
+      "startMs": 16288
+    },
+    {
+      "text": "well",
+      "startMs": 16890
+    },
+    {
+      "text": "over",
+      "startMs": 17099
+    },
+    {
+      "text": "a",
+      "startMs": 17307
+    },
+    {
+      "text": "hundred",
+      "startMs": 17353
+    },
+    {
+      "text": "are",
+      "startMs": 17724
+    },
+    {
+      "text": "damaged",
+      "startMs": 17828
+    },
+    {
+      "text": "mostly",
+      "startMs": 18719
+    },
+    {
+      "text": "by",
+      "startMs": 19020
+    },
+    {
+      "text": "ship",
+      "startMs": 19136
+    },
+    {
+      "text": "anchors",
+      "startMs": 19448
+    },
+    {
+      "text": "and",
+      "startMs": 20062
+    },
+    {
+      "text": "fishing",
+      "startMs": 20166
+    },
+    {
+      "text": "nets",
+      "startMs": 20525
+    },
+    {
+      "text": "Governments",
+      "startMs": 21814
+    },
+    {
+      "text": "now",
+      "startMs": 22511
+    },
+    {
+      "text": "treat",
+      "startMs": 22764
+    },
+    {
+      "text": "them",
+      "startMs": 23196
+    },
+    {
+      "text": "as",
+      "startMs": 23701
+    },
+    {
+      "text": "strategic",
+      "startMs": 23785
+    },
+    {
+      "text": "targets",
+      "startMs": 24302
+    },
+    {
+      "text": "Your",
+      "startMs": 25816
+    },
+    {
+      "text": "digital",
+      "startMs": 25923
+    },
+    {
+      "text": "life",
+      "startMs": 26402
+    },
+    {
+      "text": "hangs",
+      "startMs": 26947
+    },
+    {
+      "text": "on",
+      "startMs": 27359
+    },
+    {
+      "text": "wires",
+      "startMs": 27598
+    },
+    {
+      "text": "in",
+      "startMs": 28130
+    },
+    {
+      "text": "the",
+      "startMs": 28197
+    },
+    {
+      "text": "dark",
+      "startMs": 28263
+    },
+    {
+      "text": "Because",
+      "startMs": 29490
+    }
+  ]
+}

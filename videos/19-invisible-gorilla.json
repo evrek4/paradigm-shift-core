@@ -1,5 +1,7 @@
 {
   "title": "Half Of People Miss The Gorilla",
+  "hook": "Half of people miss *the gorilla*",
+  "bold": true,
   "scenes": [
     {
       "image": "videos/19-invisible-gorilla/G1.jpg",

@@ -18,6 +18,8 @@ const T = 8;
 
 export const Short: React.FC<ShortProps> = ({
   hook,
+  bold,
+  brightness,
   scenes,
   voice,
   words,
@@ -74,13 +76,15 @@ export const Short: React.FC<ShortProps> = ({
                 accentColor={accentColor}
                 highlightAt={highlightFrame(scene, i)}
                 cuts={cutsFor(i)}
+                bold={bold}
+                brightness={brightness}
               />
             </TransitionSeries.Sequence>
           </React.Fragment>
         ))}
       </TransitionSeries>
       <Sequence name="Captions" durationInFrames={scenesEnd}>
-        <Captions chunks={chunks} accentColor={accentColor} />
+        <Captions chunks={chunks} accentColor={accentColor} bold={bold} />
       </Sequence>
       {cta ? (
         <Sequence name="CTA" from={scenesEnd} durationInFrames={Math.round(CTA_SECONDS * fps)}>
@@ -89,7 +93,7 @@ export const Short: React.FC<ShortProps> = ({
       ) : null}
       {hook ? (
         <Sequence name="Hook" durationInFrames={Math.min(Math.round(3 * fps), scenesEnd)}>
-          <Hook text={hook} accentColor={accentColor} />
+          <Hook text={hook} accentColor={accentColor} bold={bold} />
         </Sequence>
       ) : null}
       {/* Whoosh on every cut and scene change, low boom on scene changes */}

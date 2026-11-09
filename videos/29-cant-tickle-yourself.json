@@ -1,0 +1,386 @@
+{
+  "title": "Why You Can't Tickle Yourself",
+  "hook": "Why you can't *tickle yourself*",
+  "bold": true,
+  "brightness": 1.1,
+  "scenes": [
+    {
+      "image": "videos/29-cant-tickle-yourself/G1.jpg",
+      "seconds": 4.34,
+      "text": "You can't tickle yourself, and that reveals how your brain works.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      },
+      "clips": [
+        {
+          "src": "videos/29-cant-tickle-yourself/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
+    },
+    {
+      "image": "videos/29-cant-tickle-yourself/G2.jpg",
+      "images": [
+        "videos/29-cant-tickle-yourself/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 16.36,
+      "text": "Every time you move, your brain predicts what you'll feel and turns the volume down. Your cerebellum sends a copy of the command ahead of time. No surprise, no tickle. When a robot adds a tiny delay to your own touch, it starts to tickle again.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      },
+      "clips": [
+        {
+          "src": "videos/29-cant-tickle-yourself/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/29-cant-tickle-yourself/v2-2.mp3",
+          "atMs": 5008
+        },
+        {
+          "src": "videos/29-cant-tickle-yourself/v2-3.mp3",
+          "atMs": 8576
+        },
+        {
+          "src": "videos/29-cant-tickle-yourself/v2-4.mp3",
+          "atMs": 11016
+        }
+      ]
+    },
+    {
+      "image": "videos/29-cant-tickle-yourself/G4.jpg",
+      "seconds": 2.75,
+      "text": "Your brain doesn't just sense the world.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      },
+      "clips": [
+        {
+          "src": "videos/29-cant-tickle-yourself/v3-1.mp3",
+          "atMs": 0
+        }
+      ]
+    },
+    {
+      "image": "videos/29-cant-tickle-yourself/G5.jpg",
+      "seconds": 4.55,
+      "text": "It predicts it. And that is exactly why...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/29-cant-tickle-yourself/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/29-cant-tickle-yourself/v4-2.mp3",
+          "atMs": 2152
+        }
+      ]
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0,
+  "words": [
+    {
+      "text": "You",
+      "startMs": 104
+    },
+    {
+      "text": "can't",
+      "startMs": 182
+    },
+    {
+      "text": "tickle",
+      "startMs": 469
+    },
+    {
+      "text": "yourself",
+      "startMs": 768
+    },
+    {
+      "text": "and",
+      "startMs": 1693
+    },
+    {
+      "text": "that",
+      "startMs": 1771
+    },
+    {
+      "text": "reveals",
+      "startMs": 1953
+    },
+    {
+      "text": "how",
+      "startMs": 2422
+    },
+    {
+      "text": "your",
+      "startMs": 2500
+    },
+    {
+      "text": "brain",
+      "startMs": 2630
+    },
+    {
+      "text": "works",
+      "startMs": 2930
+    },
+    {
+      "text": "Every",
+      "startMs": 4421
+    },
+    {
+      "text": "time",
+      "startMs": 4618
+    },
+    {
+      "text": "you",
+      "startMs": 4884
+    },
+    {
+      "text": "move",
+      "startMs": 4977
+    },
+    {
+      "text": "your",
+      "startMs": 5787
+    },
+    {
+      "text": "brain",
+      "startMs": 5914
+    },
+    {
+      "text": "predicts",
+      "startMs": 6296
+    },
+    {
+      "text": "what",
+      "startMs": 6666
+    },
+    {
+      "text": "you'll",
+      "startMs": 6759
+    },
+    {
+      "text": "feel",
+      "startMs": 6886
+    },
+    {
+      "text": "and",
+      "startMs": 7592
+    },
+    {
+      "text": "turns",
+      "startMs": 7685
+    },
+    {
+      "text": "the",
+      "startMs": 7986
+    },
+    {
+      "text": "volume",
+      "startMs": 8044
+    },
+    {
+      "text": "down",
+      "startMs": 8402
+    },
+    {
+      "text": "Your",
+      "startMs": 9441
+    },
+    {
+      "text": "cerebellum",
+      "startMs": 9637
+    },
+    {
+      "text": "sends",
+      "startMs": 10378
+    },
+    {
+      "text": "a",
+      "startMs": 10667
+    },
+    {
+      "text": "copy",
+      "startMs": 10725
+    },
+    {
+      "text": "of",
+      "startMs": 11165
+    },
+    {
+      "text": "the",
+      "startMs": 11223
+    },
+    {
+      "text": "command",
+      "startMs": 11304
+    },
+    {
+      "text": "ahead",
+      "startMs": 11709
+    },
+    {
+      "text": "of",
+      "startMs": 11883
+    },
+    {
+      "text": "time",
+      "startMs": 11952
+    },
+    {
+      "text": "No",
+      "startMs": 13004
+    },
+    {
+      "text": "surprise",
+      "startMs": 13128
+    },
+    {
+      "text": "no",
+      "startMs": 14016
+    },
+    {
+      "text": "tickle",
+      "startMs": 14191
+    },
+    {
+      "text": "When",
+      "startMs": 15437
+    },
+    {
+      "text": "a",
+      "startMs": 15518
+    },
+    {
+      "text": "robot",
+      "startMs": 15599
+    },
+    {
+      "text": "adds",
+      "startMs": 16270
+    },
+    {
+      "text": "a",
+      "startMs": 16537
+    },
+    {
+      "text": "tiny",
+      "startMs": 16606
+    },
+    {
+      "text": "delay",
+      "startMs": 17057
+    },
+    {
+      "text": "to",
+      "startMs": 17474
+    },
+    {
+      "text": "your",
+      "startMs": 17590
+    },
+    {
+      "text": "own",
+      "startMs": 17763
+    },
+    {
+      "text": "touch",
+      "startMs": 17983
+    },
+    {
+      "text": "it",
+      "startMs": 18805
+    },
+    {
+      "text": "starts",
+      "startMs": 18863
+    },
+    {
+      "text": "to",
+      "startMs": 19175
+    },
+    {
+      "text": "tickle",
+      "startMs": 19245
+    },
+    {
+      "text": "again",
+      "startMs": 19569
+    },
+    {
+      "text": "Your",
+      "startMs": 20796
+    },
+    {
+      "text": "brain",
+      "startMs": 20892
+    },
+    {
+      "text": "doesn't",
+      "startMs": 21265
+    },
+    {
+      "text": "just",
+      "startMs": 21565
+    },
+    {
+      "text": "sense",
+      "startMs": 21794
+    },
+    {
+      "text": "the",
+      "startMs": 22166
+    },
+    {
+      "text": "world",
+      "startMs": 22250
+    },
+    {
+      "text": "It",
+      "startMs": 23552
+    },
+    {
+      "text": "predicts",
+      "startMs": 23624
+    },
+    {
+      "text": "it",
+      "startMs": 24090
+    },
+    {
+      "text": "And",
+      "startMs": 25708
+    },
+    {
+      "text": "that",
+      "startMs": 26160
+    },
+    {
+      "text": "is",
+      "startMs": 26320
+    },
+    {
+      "text": "exactly",
+      "startMs": 26426
+    },
+    {
+      "text": "why",
+      "startMs": 27065
+    }
+  ]
+}

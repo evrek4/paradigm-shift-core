@@ -134,7 +134,7 @@ def main():
          "commit", "-m", "Add images and Edge TTS voiceovers"],
         cwd=ROOT,
     )
-    subprocess.run(["git", "push", "origin", "claude/project-thread-ykf6hd"], cwd=ROOT, check=True)
+    subprocess.run(["git", "push", "origin", "HEAD"], cwd=ROOT, check=True)
     print("\nDone. Pushed to GitHub.")
 
 

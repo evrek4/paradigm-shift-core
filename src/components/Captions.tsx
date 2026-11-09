@@ -6,20 +6,21 @@ import { Chunk } from "../timing";
 
 const BOX_W = 900; // 90px safe margin on each side
 const BASE_SIZE = 84;
+const BOLD_SIZE = 104;
 
 // Largest font size (<= BASE_SIZE) at which every word fits the caption box
-const fitSize = (words: { text: string }[]) => {
-  let size = BASE_SIZE;
+const fitSize = (words: { text: string }[], base = BASE_SIZE) => {
+  let size = base;
   for (const w of words) {
-    const { width } = measureText({ text: w.text.toUpperCase(), fontFamily, fontSize: BASE_SIZE, fontWeight: "900" });
+    const { width } = measureText({ text: w.text.toUpperCase(), fontFamily, fontSize: base, fontWeight: "900" });
     const needed = width + 24;
-    if (needed > BOX_W) size = Math.min(size, Math.floor((BASE_SIZE * BOX_W) / needed));
+    if (needed > BOX_W) size = Math.min(size, Math.floor((base * BOX_W) / needed));
   }
   return size;
 };
 
 // Shorts-style captions: a few words at a time, the spoken word in accent color
-export const Captions: React.FC<{ chunks: Chunk[]; accentColor: string }> = ({ chunks, accentColor }) => {
+export const Captions: React.FC<{ chunks: Chunk[]; accentColor: string; bold?: boolean }> = ({ chunks, accentColor, bold }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const ms = (frame / fps) * 1000;
@@ -27,7 +28,7 @@ export const Captions: React.FC<{ chunks: Chunk[]; accentColor: string }> = ({ c
   if (!chunk) return null;
 
   const enter = spring({ frame: frame - (chunk.startMs / 1000) * fps, fps, config: { damping: 14, stiffness: 180 } });
-  const size = fitSize(chunk.words);
+  const size = fitSize(chunk.words, bold ? BOLD_SIZE : BASE_SIZE);
 
   return (
     <div
@@ -35,7 +36,7 @@ export const Captions: React.FC<{ chunks: Chunk[]; accentColor: string }> = ({ c
         position: "absolute",
         left: (1080 - BOX_W) / 2,
         width: BOX_W,
-        bottom: 420, // above the Shorts UI (title, buttons)
+        bottom: bold ? 600 : 420, // above the Shorts UI (title, buttons); bold sits nearer the middle
         display: "flex",
         flexWrap: "wrap",
         justifyContent: "center",

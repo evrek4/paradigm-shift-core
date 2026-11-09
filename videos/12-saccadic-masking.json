@@ -1,5 +1,7 @@
 {
   "title": "You Go Blind Three Times A Second",
+  "hook": "You go *blind* 3 times a second",
+  "bold": true,
   "scenes": [
     {
       "image": "videos/12-saccadic-masking/G1.jpg",

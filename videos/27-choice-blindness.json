@@ -1,0 +1,398 @@
+{
+  "title": "You Defend Choices You Never Made",
+  "hook": "You defend choices *you never made*",
+  "bold": true,
+  "brightness": 1.1,
+  "scenes": [
+    {
+      "image": "videos/27-choice-blindness/G1.jpg",
+      "seconds": 2.73,
+      "text": "You will defend a choice you never made.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      },
+      "clips": [
+        {
+          "src": "videos/27-choice-blindness/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
+    },
+    {
+      "image": "videos/27-choice-blindness/G2.jpg",
+      "images": [
+        "videos/27-choice-blindness/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 18.02,
+      "text": "In a Swedish experiment, people picked the more attractive of two faces. Then, with a sleight of hand, researchers gave them the photo they had rejected. Most didn't notice. Worse, they explained why they chose it, praising details only on the face they had turned down.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      },
+      "clips": [
+        {
+          "src": "videos/27-choice-blindness/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/27-choice-blindness/v2-2.mp3",
+          "atMs": 4960
+        },
+        {
+          "src": "videos/27-choice-blindness/v2-3.mp3",
+          "atMs": 9848
+        },
+        {
+          "src": "videos/27-choice-blindness/v2-4.mp3",
+          "atMs": 12000
+        }
+      ]
+    },
+    {
+      "image": "videos/27-choice-blindness/G4.jpg",
+      "seconds": 5.46,
+      "text": "It's called choice blindness. Your reasons often come after the decision.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      },
+      "clips": [
+        {
+          "src": "videos/27-choice-blindness/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/27-choice-blindness/v3-2.mp3",
+          "atMs": 2224
+        }
+      ]
+    },
+    {
+      "image": "videos/27-choice-blindness/G5.jpg",
+      "seconds": 4.65,
+      "text": "Your mind writes the story later. Which is why...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/27-choice-blindness/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/27-choice-blindness/v4-2.mp3",
+          "atMs": 2776
+        }
+      ]
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0,
+  "words": [
+    {
+      "text": "You",
+      "startMs": 104
+    },
+    {
+      "text": "will",
+      "startMs": 169
+    },
+    {
+      "text": "defend",
+      "startMs": 273
+    },
+    {
+      "text": "a",
+      "startMs": 638
+    },
+    {
+      "text": "choice",
+      "startMs": 703
+    },
+    {
+      "text": "you",
+      "startMs": 1146
+    },
+    {
+      "text": "never",
+      "startMs": 1250
+    },
+    {
+      "text": "made",
+      "startMs": 1536
+    },
+    {
+      "text": "In",
+      "startMs": 2811
+    },
+    {
+      "text": "a",
+      "startMs": 2880
+    },
+    {
+      "text": "Swedish",
+      "startMs": 2938
+    },
+    {
+      "text": "experiment",
+      "startMs": 3378
+    },
+    {
+      "text": "people",
+      "startMs": 4281
+    },
+    {
+      "text": "picked",
+      "startMs": 4605
+    },
+    {
+      "text": "the",
+      "startMs": 4894
+    },
+    {
+      "text": "more",
+      "startMs": 4975
+    },
+    {
+      "text": "attractive",
+      "startMs": 5207
+    },
+    {
+      "text": "of",
+      "startMs": 6029
+    },
+    {
+      "text": "two",
+      "startMs": 6144
+    },
+    {
+      "text": "faces",
+      "startMs": 6411
+    },
+    {
+      "text": "Then",
+      "startMs": 7783
+    },
+    {
+      "text": "with",
+      "startMs": 8303
+    },
+    {
+      "text": "a",
+      "startMs": 8419
+    },
+    {
+      "text": "sleight",
+      "startMs": 8454
+    },
+    {
+      "text": "of",
+      "startMs": 8778
+    },
+    {
+      "text": "hand",
+      "startMs": 8847
+    },
+    {
+      "text": "researchers",
+      "startMs": 9646
+    },
+    {
+      "text": "gave",
+      "startMs": 10329
+    },
+    {
+      "text": "them",
+      "startMs": 10549
+    },
+    {
+      "text": "the",
+      "startMs": 10653
+    },
+    {
+      "text": "photo",
+      "startMs": 10722
+    },
+    {
+      "text": "they",
+      "startMs": 11139
+    },
+    {
+      "text": "had",
+      "startMs": 11266
+    },
+    {
+      "text": "rejected",
+      "startMs": 11440
+    },
+    {
+      "text": "Most",
+      "startMs": 12666
+    },
+    {
+      "text": "didn't",
+      "startMs": 12840
+    },
+    {
+      "text": "notice",
+      "startMs": 12990
+    },
+    {
+      "text": "Worse",
+      "startMs": 14823
+    },
+    {
+      "text": "they",
+      "startMs": 15552
+    },
+    {
+      "text": "explained",
+      "startMs": 15656
+    },
+    {
+      "text": "why",
+      "startMs": 16165
+    },
+    {
+      "text": "they",
+      "startMs": 16339
+    },
+    {
+      "text": "chose",
+      "startMs": 16455
+    },
+    {
+      "text": "it",
+      "startMs": 16802
+    },
+    {
+      "text": "praising",
+      "startMs": 17184
+    },
+    {
+      "text": "details",
+      "startMs": 17600
+    },
+    {
+      "text": "only",
+      "startMs": 18295
+    },
+    {
+      "text": "on",
+      "startMs": 18654
+    },
+    {
+      "text": "the",
+      "startMs": 18735
+    },
+    {
+      "text": "face",
+      "startMs": 18792
+    },
+    {
+      "text": "they",
+      "startMs": 19186
+    },
+    {
+      "text": "had",
+      "startMs": 19279
+    },
+    {
+      "text": "turned",
+      "startMs": 19383
+    },
+    {
+      "text": "down",
+      "startMs": 19626
+    },
+    {
+      "text": "It's",
+      "startMs": 20854
+    },
+    {
+      "text": "called",
+      "startMs": 20945
+    },
+    {
+      "text": "choice",
+      "startMs": 21232
+    },
+    {
+      "text": "blindness",
+      "startMs": 21609
+    },
+    {
+      "text": "Your",
+      "startMs": 23070
+    },
+    {
+      "text": "reasons",
+      "startMs": 23202
+    },
+    {
+      "text": "often",
+      "startMs": 23719
+    },
+    {
+      "text": "come",
+      "startMs": 24128
+    },
+    {
+      "text": "after",
+      "startMs": 24609
+    },
+    {
+      "text": "the",
+      "startMs": 24849
+    },
+    {
+      "text": "decision",
+      "startMs": 24909
+    },
+    {
+      "text": "Your",
+      "startMs": 26316
+    },
+    {
+      "text": "mind",
+      "startMs": 26436
+    },
+    {
+      "text": "writes",
+      "startMs": 27128
+    },
+    {
+      "text": "the",
+      "startMs": 27420
+    },
+    {
+      "text": "story",
+      "startMs": 27513
+    },
+    {
+      "text": "later",
+      "startMs": 27886
+    },
+    {
+      "text": "Which",
+      "startMs": 29102
+    },
+    {
+      "text": "is",
+      "startMs": 29248
+    },
+    {
+      "text": "why",
+      "startMs": 29364
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 {
   "title": "Something Else Lives Inside Your Cells",
+  "hook": "Something else lives *inside your cells*",
+  "bold": true,
   "scenes": [
     {
       "image": "videos/16-mitochondria-not-yours/G1.jpg",

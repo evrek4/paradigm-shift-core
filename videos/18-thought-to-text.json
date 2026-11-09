@@ -1,5 +1,7 @@
 {
   "title": "They Decoded A Sentence From A Silent Brain",
+  "hook": "They read a sentence from a *silent brain*",
+  "bold": true,
   "scenes": [
     {
       "image": "videos/18-thought-to-text/G1.jpg",

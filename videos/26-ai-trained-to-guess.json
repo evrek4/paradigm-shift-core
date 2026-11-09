@@ -1,0 +1,374 @@
+{
+  "title": "AI Lies Because We Trained It To",
+  "hook": "AI makes things up. *We trained it to.*",
+  "bold": true,
+  "brightness": 1.1,
+  "scenes": [
+    {
+      "image": "videos/26-ai-trained-to-guess/G1.jpg",
+      "seconds": 3.95,
+      "text": "AI chatbots make things up, and we trained them to.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      },
+      "clips": [
+        {
+          "src": "videos/26-ai-trained-to-guess/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
+    },
+    {
+      "image": "videos/26-ai-trained-to-guess/G2.jpg",
+      "images": [
+        "videos/26-ai-trained-to-guess/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 16.75,
+      "text": "Most tests give points for a right answer and zero for saying I don't know. So, like a student on a multiple choice exam, the model learns that a confident guess scores better than honesty. In 2025, OpenAI researchers argued this is a core reason models hallucinate.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      },
+      "clips": [
+        {
+          "src": "videos/26-ai-trained-to-guess/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/26-ai-trained-to-guess/v2-2.mp3",
+          "atMs": 4096
+        },
+        {
+          "src": "videos/26-ai-trained-to-guess/v2-3.mp3",
+          "atMs": 10352
+        }
+      ]
+    },
+    {
+      "image": "videos/26-ai-trained-to-guess/G4.jpg",
+      "seconds": 2.68,
+      "text": "The fix isn't only smarter AI.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      },
+      "clips": [
+        {
+          "src": "videos/26-ai-trained-to-guess/v3-1.mp3",
+          "atMs": 0
+        }
+      ]
+    },
+    {
+      "image": "videos/26-ai-trained-to-guess/G5.jpg",
+      "seconds": 4.62,
+      "text": "It's grading that rewards doubt. Until then, remember...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/26-ai-trained-to-guess/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/26-ai-trained-to-guess/v4-2.mp3",
+          "atMs": 2464
+        }
+      ]
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0,
+  "words": [
+    {
+      "text": "AI",
+      "startMs": 104
+    },
+    {
+      "text": "chatbots",
+      "startMs": 443
+    },
+    {
+      "text": "make",
+      "startMs": 1016
+    },
+    {
+      "text": "things",
+      "startMs": 1172
+    },
+    {
+      "text": "up",
+      "startMs": 1484
+    },
+    {
+      "text": "and",
+      "startMs": 2018
+    },
+    {
+      "text": "we",
+      "startMs": 2083
+    },
+    {
+      "text": "trained",
+      "startMs": 2174
+    },
+    {
+      "text": "them",
+      "startMs": 2565
+    },
+    {
+      "text": "to",
+      "startMs": 2708
+    },
+    {
+      "text": "Most",
+      "startMs": 4043
+    },
+    {
+      "text": "tests",
+      "startMs": 4239
+    },
+    {
+      "text": "give",
+      "startMs": 4552
+    },
+    {
+      "text": "points",
+      "startMs": 4725
+    },
+    {
+      "text": "for",
+      "startMs": 5003
+    },
+    {
+      "text": "a",
+      "startMs": 5131
+    },
+    {
+      "text": "right",
+      "startMs": 5165
+    },
+    {
+      "text": "answer",
+      "startMs": 5501
+    },
+    {
+      "text": "and",
+      "startMs": 5987
+    },
+    {
+      "text": "zero",
+      "startMs": 6103
+    },
+    {
+      "text": "for",
+      "startMs": 6485
+    },
+    {
+      "text": "saying",
+      "startMs": 6635
+    },
+    {
+      "text": "I",
+      "startMs": 6994
+    },
+    {
+      "text": "don't",
+      "startMs": 7052
+    },
+    {
+      "text": "know",
+      "startMs": 7214
+    },
+    {
+      "text": "So",
+      "startMs": 8139
+    },
+    {
+      "text": "like",
+      "startMs": 8659
+    },
+    {
+      "text": "a",
+      "startMs": 8810
+    },
+    {
+      "text": "student",
+      "startMs": 8868
+    },
+    {
+      "text": "on",
+      "startMs": 9169
+    },
+    {
+      "text": "a",
+      "startMs": 9238
+    },
+    {
+      "text": "multiple",
+      "startMs": 9261
+    },
+    {
+      "text": "choice",
+      "startMs": 9643
+    },
+    {
+      "text": "exam",
+      "startMs": 9990
+    },
+    {
+      "text": "the",
+      "startMs": 10743
+    },
+    {
+      "text": "model",
+      "startMs": 10801
+    },
+    {
+      "text": "learns",
+      "startMs": 11183
+    },
+    {
+      "text": "that",
+      "startMs": 11484
+    },
+    {
+      "text": "a",
+      "startMs": 11576
+    },
+    {
+      "text": "confident",
+      "startMs": 11634
+    },
+    {
+      "text": "guess",
+      "startMs": 12178
+    },
+    {
+      "text": "scores",
+      "startMs": 12409
+    },
+    {
+      "text": "better",
+      "startMs": 12803
+    },
+    {
+      "text": "than",
+      "startMs": 13034
+    },
+    {
+      "text": "honesty",
+      "startMs": 13139
+    },
+    {
+      "text": "In 2025",
+      "startMs": 14383
+    },
+    {
+      "text": "OpenAI",
+      "startMs": 15795
+    },
+    {
+      "text": "researchers",
+      "startMs": 16420
+    },
+    {
+      "text": "argued",
+      "startMs": 16987
+    },
+    {
+      "text": "this",
+      "startMs": 17439
+    },
+    {
+      "text": "is",
+      "startMs": 17844
+    },
+    {
+      "text": "a",
+      "startMs": 17936
+    },
+    {
+      "text": "core",
+      "startMs": 18006
+    },
+    {
+      "text": "reason",
+      "startMs": 18446
+    },
+    {
+      "text": "models",
+      "startMs": 18827
+    },
+    {
+      "text": "hallucinate",
+      "startMs": 19267
+    },
+    {
+      "text": "The",
+      "startMs": 20796
+    },
+    {
+      "text": "fix",
+      "startMs": 20868
+    },
+    {
+      "text": "isn't",
+      "startMs": 21205
+    },
+    {
+      "text": "only",
+      "startMs": 21433
+    },
+    {
+      "text": "smarter",
+      "startMs": 21674
+    },
+    {
+      "text": "AI",
+      "startMs": 22082
+    },
+    {
+      "text": "It's",
+      "startMs": 23486
+    },
+    {
+      "text": "grading",
+      "startMs": 23606
+    },
+    {
+      "text": "that",
+      "startMs": 24085
+    },
+    {
+      "text": "rewards",
+      "startMs": 24204
+    },
+    {
+      "text": "doubt",
+      "startMs": 24683
+    },
+    {
+      "text": "Until",
+      "startMs": 25946
+    },
+    {
+      "text": "then",
+      "startMs": 26353
+    },
+    {
+      "text": "remember",
+      "startMs": 26949
+    }
+  ]
+}

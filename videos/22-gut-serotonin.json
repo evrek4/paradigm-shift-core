@@ -1,0 +1,402 @@
+{
+  "title": "Most Of Your Serotonin Is In Your Gut",
+  "hook": "90% of your serotonin is *in your gut*",
+  "bold": true,
+  "brightness": 1.1,
+  "scenes": [
+    {
+      "image": "videos/22-gut-serotonin/G1.jpg",
+      "seconds": 5.23,
+      "text": "About ninety percent of your serotonin is made in your gut, not your brain.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      },
+      "clips": [
+        {
+          "src": "videos/22-gut-serotonin/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
+    },
+    {
+      "image": "videos/22-gut-serotonin/G2.jpg",
+      "images": [
+        "videos/22-gut-serotonin/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 15.27,
+      "text": "Special cells in your intestinal lining produce it, and it helps control how your gut moves. It can't cross into the brain directly. But your gut talks to your brain anyway, through the vagus nerve, a cable carrying signals both ways.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      },
+      "clips": [
+        {
+          "src": "videos/22-gut-serotonin/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/22-gut-serotonin/v2-2.mp3",
+          "atMs": 5656
+        },
+        {
+          "src": "videos/22-gut-serotonin/v2-3.mp3",
+          "atMs": 8288
+        }
+      ]
+    },
+    {
+      "image": "videos/22-gut-serotonin/G4.jpg",
+      "seconds": 4.1,
+      "text": "That's why stress hits your stomach, and your stomach can hit your mood.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      },
+      "clips": [
+        {
+          "src": "videos/22-gut-serotonin/v3-1.mp3",
+          "atMs": 0
+        }
+      ]
+    },
+    {
+      "image": "videos/22-gut-serotonin/G5.jpg",
+      "seconds": 5.03,
+      "text": "Your second brain never stops talking. Which matters, because...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/22-gut-serotonin/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/22-gut-serotonin/v4-2.mp3",
+          "atMs": 2920
+        }
+      ]
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0,
+  "words": [
+    {
+      "text": "About",
+      "startMs": 104
+    },
+    {
+      "text": "ninety",
+      "startMs": 404
+    },
+    {
+      "text": "percent",
+      "startMs": 833
+    },
+    {
+      "text": "of",
+      "startMs": 1250
+    },
+    {
+      "text": "your",
+      "startMs": 1289
+    },
+    {
+      "text": "serotonin",
+      "startMs": 1406
+    },
+    {
+      "text": "is",
+      "startMs": 2240
+    },
+    {
+      "text": "made",
+      "startMs": 2383
+    },
+    {
+      "text": "in",
+      "startMs": 2669
+    },
+    {
+      "text": "your",
+      "startMs": 2747
+    },
+    {
+      "text": "gut",
+      "startMs": 2878
+    },
+    {
+      "text": "not",
+      "startMs": 3698
+    },
+    {
+      "text": "your",
+      "startMs": 3919
+    },
+    {
+      "text": "brain",
+      "startMs": 4023
+    },
+    {
+      "text": "Special",
+      "startMs": 5311
+    },
+    {
+      "text": "cells",
+      "startMs": 5728
+    },
+    {
+      "text": "in",
+      "startMs": 6156
+    },
+    {
+      "text": "your",
+      "startMs": 6295
+    },
+    {
+      "text": "intestinal",
+      "startMs": 6411
+    },
+    {
+      "text": "lining",
+      "startMs": 7012
+    },
+    {
+      "text": "produce",
+      "startMs": 7371
+    },
+    {
+      "text": "it",
+      "startMs": 7765
+    },
+    {
+      "text": "and",
+      "startMs": 8309
+    },
+    {
+      "text": "it",
+      "startMs": 8401
+    },
+    {
+      "text": "helps",
+      "startMs": 8459
+    },
+    {
+      "text": "control",
+      "startMs": 8691
+    },
+    {
+      "text": "how",
+      "startMs": 9223
+    },
+    {
+      "text": "your",
+      "startMs": 9327
+    },
+    {
+      "text": "gut",
+      "startMs": 9455
+    },
+    {
+      "text": "moves",
+      "startMs": 9674
+    },
+    {
+      "text": "It",
+      "startMs": 10967
+    },
+    {
+      "text": "can't",
+      "startMs": 11036
+    },
+    {
+      "text": "cross",
+      "startMs": 11291
+    },
+    {
+      "text": "into",
+      "startMs": 11696
+    },
+    {
+      "text": "the",
+      "startMs": 11789
+    },
+    {
+      "text": "brain",
+      "startMs": 11870
+    },
+    {
+      "text": "directly",
+      "startMs": 12333
+    },
+    {
+      "text": "But",
+      "startMs": 13611
+    },
+    {
+      "text": "your",
+      "startMs": 13703
+    },
+    {
+      "text": "gut",
+      "startMs": 13784
+    },
+    {
+      "text": "talks",
+      "startMs": 13969
+    },
+    {
+      "text": "to",
+      "startMs": 14293
+    },
+    {
+      "text": "your",
+      "startMs": 14386
+    },
+    {
+      "text": "brain",
+      "startMs": 14479
+    },
+    {
+      "text": "anyway",
+      "startMs": 15000
+    },
+    {
+      "text": "through",
+      "startMs": 15995
+    },
+    {
+      "text": "the",
+      "startMs": 16192
+    },
+    {
+      "text": "vagus",
+      "startMs": 16296
+    },
+    {
+      "text": "nerve",
+      "startMs": 16712
+    },
+    {
+      "text": "a",
+      "startMs": 17453
+    },
+    {
+      "text": "cable",
+      "startMs": 17511
+    },
+    {
+      "text": "carrying",
+      "startMs": 17893
+    },
+    {
+      "text": "signals",
+      "startMs": 18321
+    },
+    {
+      "text": "both",
+      "startMs": 18865
+    },
+    {
+      "text": "ways",
+      "startMs": 19143
+    },
+    {
+      "text": "That's",
+      "startMs": 20608
+    },
+    {
+      "text": "why",
+      "startMs": 20728
+    },
+    {
+      "text": "stress",
+      "startMs": 20873
+    },
+    {
+      "text": "hits",
+      "startMs": 21413
+    },
+    {
+      "text": "your",
+      "startMs": 21582
+    },
+    {
+      "text": "stomach",
+      "startMs": 21678
+    },
+    {
+      "text": "and",
+      "startMs": 22471
+    },
+    {
+      "text": "your",
+      "startMs": 22555
+    },
+    {
+      "text": "stomach",
+      "startMs": 22639
+    },
+    {
+      "text": "can",
+      "startMs": 22988
+    },
+    {
+      "text": "hit",
+      "startMs": 23120
+    },
+    {
+      "text": "your",
+      "startMs": 23312
+    },
+    {
+      "text": "mood",
+      "startMs": 23421
+    },
+    {
+      "text": "Your",
+      "startMs": 24706
+    },
+    {
+      "text": "second",
+      "startMs": 24813
+    },
+    {
+      "text": "brain",
+      "startMs": 25172
+    },
+    {
+      "text": "never",
+      "startMs": 25690
+    },
+    {
+      "text": "stops",
+      "startMs": 25996
+    },
+    {
+      "text": "talking",
+      "startMs": 26395
+    },
+    {
+      "text": "Which",
+      "startMs": 27636
+    },
+    {
+      "text": "matters",
+      "startMs": 27796
+    },
+    {
+      "text": "because",
+      "startMs": 28450
+    }
+  ]
+}

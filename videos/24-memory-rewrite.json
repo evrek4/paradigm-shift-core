@@ -1,0 +1,390 @@
+{
+  "title": "Every Memory Is A Rewrite",
+  "hook": "Every memory you have is *a rewrite*",
+  "bold": true,
+  "brightness": 1.1,
+  "scenes": [
+    {
+      "image": "videos/24-memory-rewrite/G1.jpg",
+      "seconds": 3.28,
+      "text": "Every time you remember something, you change it.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      },
+      "clips": [
+        {
+          "src": "videos/24-memory-rewrite/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
+    },
+    {
+      "image": "videos/24-memory-rewrite/G2.jpg",
+      "images": [
+        "videos/24-memory-rewrite/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 18.76,
+      "text": "Memories aren't stored like files. When you recall one, it becomes unstable for a while, and your brain saves it again, mixed with whatever you feel now. Scientists call it reconsolidation. In experiments, people have been led to confidently recall events that never happened.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      },
+      "clips": [
+        {
+          "src": "videos/24-memory-rewrite/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/24-memory-rewrite/v2-2.mp3",
+          "atMs": 2416
+        },
+        {
+          "src": "videos/24-memory-rewrite/v2-3.mp3",
+          "atMs": 10232
+        },
+        {
+          "src": "videos/24-memory-rewrite/v2-4.mp3",
+          "atMs": 12984
+        }
+      ]
+    },
+    {
+      "image": "videos/24-memory-rewrite/G4.jpg",
+      "seconds": 5.36,
+      "text": "Your most vivid memory isn't the original. It's the latest copy of a copy.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      },
+      "clips": [
+        {
+          "src": "videos/24-memory-rewrite/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/24-memory-rewrite/v3-2.mp3",
+          "atMs": 2920
+        }
+      ]
+    },
+    {
+      "image": "videos/24-memory-rewrite/G5.jpg",
+      "seconds": 2.47,
+      "text": "So the next time you're certain, remember...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/24-memory-rewrite/v4-1.mp3",
+          "atMs": 0
+        }
+      ]
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0,
+  "words": [
+    {
+      "text": "Every",
+      "startMs": 104
+    },
+    {
+      "text": "time",
+      "startMs": 300
+    },
+    {
+      "text": "you",
+      "startMs": 547
+    },
+    {
+      "text": "remember",
+      "startMs": 638
+    },
+    {
+      "text": "something",
+      "startMs": 951
+    },
+    {
+      "text": "you",
+      "startMs": 1810
+    },
+    {
+      "text": "change",
+      "startMs": 1901
+    },
+    {
+      "text": "it",
+      "startMs": 2266
+    },
+    {
+      "text": "Memories",
+      "startMs": 3373
+    },
+    {
+      "text": "aren't",
+      "startMs": 3720
+    },
+    {
+      "text": "stored",
+      "startMs": 3917
+    },
+    {
+      "text": "like",
+      "startMs": 4298
+    },
+    {
+      "text": "files",
+      "startMs": 4426
+    },
+    {
+      "text": "When",
+      "startMs": 5789
+    },
+    {
+      "text": "you",
+      "startMs": 5881
+    },
+    {
+      "text": "recall",
+      "startMs": 6020
+    },
+    {
+      "text": "one",
+      "startMs": 6437
+    },
+    {
+      "text": "it",
+      "startMs": 7201
+    },
+    {
+      "text": "becomes",
+      "startMs": 7247
+    },
+    {
+      "text": "unstable",
+      "startMs": 7768
+    },
+    {
+      "text": "for",
+      "startMs": 8462
+    },
+    {
+      "text": "a",
+      "startMs": 8624
+    },
+    {
+      "text": "while",
+      "startMs": 8682
+    },
+    {
+      "text": "and",
+      "startMs": 9400
+    },
+    {
+      "text": "your",
+      "startMs": 9446
+    },
+    {
+      "text": "brain",
+      "startMs": 9550
+    },
+    {
+      "text": "saves",
+      "startMs": 10187
+    },
+    {
+      "text": "it",
+      "startMs": 10569
+    },
+    {
+      "text": "again",
+      "startMs": 10627
+    },
+    {
+      "text": "mixed",
+      "startMs": 11402
+    },
+    {
+      "text": "with",
+      "startMs": 11645
+    },
+    {
+      "text": "whatever",
+      "startMs": 11761
+    },
+    {
+      "text": "you",
+      "startMs": 12073
+    },
+    {
+      "text": "feel",
+      "startMs": 12201
+    },
+    {
+      "text": "now",
+      "startMs": 12502
+    },
+    {
+      "text": "Scientists",
+      "startMs": 13612
+    },
+    {
+      "text": "call",
+      "startMs": 14224
+    },
+    {
+      "text": "it",
+      "startMs": 14462
+    },
+    {
+      "text": "reconsolidation",
+      "startMs": 14600
+    },
+    {
+      "text": "In",
+      "startMs": 16345
+    },
+    {
+      "text": "experiments",
+      "startMs": 16414
+    },
+    {
+      "text": "people",
+      "startMs": 17468
+    },
+    {
+      "text": "have",
+      "startMs": 17711
+    },
+    {
+      "text": "been",
+      "startMs": 17815
+    },
+    {
+      "text": "led",
+      "startMs": 17965
+    },
+    {
+      "text": "to",
+      "startMs": 18382
+    },
+    {
+      "text": "confidently",
+      "startMs": 18556
+    },
+    {
+      "text": "recall",
+      "startMs": 19262
+    },
+    {
+      "text": "events",
+      "startMs": 19678
+    },
+    {
+      "text": "that",
+      "startMs": 20199
+    },
+    {
+      "text": "never",
+      "startMs": 20454
+    },
+    {
+      "text": "happened",
+      "startMs": 20824
+    },
+    {
+      "text": "Your",
+      "startMs": 22124
+    },
+    {
+      "text": "most",
+      "startMs": 22196
+    },
+    {
+      "text": "vivid",
+      "startMs": 22533
+    },
+    {
+      "text": "memory",
+      "startMs": 22809
+    },
+    {
+      "text": "isn't",
+      "startMs": 23482
+    },
+    {
+      "text": "the",
+      "startMs": 23723
+    },
+    {
+      "text": "original",
+      "startMs": 23795
+    },
+    {
+      "text": "It's",
+      "startMs": 25056
+    },
+    {
+      "text": "the",
+      "startMs": 25188
+    },
+    {
+      "text": "latest",
+      "startMs": 25321
+    },
+    {
+      "text": "copy",
+      "startMs": 25669
+    },
+    {
+      "text": "of",
+      "startMs": 26030
+    },
+    {
+      "text": "a",
+      "startMs": 26090
+    },
+    {
+      "text": "copy",
+      "startMs": 26126
+    },
+    {
+      "text": "So",
+      "startMs": 27506
+    },
+    {
+      "text": "the",
+      "startMs": 27613
+    },
+    {
+      "text": "next",
+      "startMs": 27693
+    },
+    {
+      "text": "time",
+      "startMs": 27879
+    },
+    {
+      "text": "you're",
+      "startMs": 28052
+    },
+    {
+      "text": "certain",
+      "startMs": 28145
+    },
+    {
+      "text": "remember",
+      "startMs": 28982
+    }
+  ]
+}

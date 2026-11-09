@@ -1,0 +1,414 @@
+{
+  "title": "Only One Company Can Build This Machine",
+  "hook": "Only *one company* can build this",
+  "bold": true,
+  "brightness": 1.1,
+  "scenes": [
+    {
+      "image": "videos/23-one-chip-machine/G1.jpg",
+      "seconds": 3.81,
+      "text": "Only one company on Earth can build this machine.",
+      "delivery": {
+        "rate": -4,
+        "pitch": -3
+      },
+      "clips": [
+        {
+          "src": "videos/23-one-chip-machine/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
+    },
+    {
+      "image": "videos/23-one-chip-machine/G2.jpg",
+      "images": [
+        "videos/23-one-chip-machine/G3.jpg"
+      ],
+      "imageAt": [
+        0,
+        0.5
+      ],
+      "seconds": 17.5,
+      "text": "ASML, in the Netherlands. It fires lasers at tiny droplets of molten tin, fifty thousand times a second, to make light that prints chip features smaller than a virus. Each one costs well over a hundred million dollars and ships in dozens of containers.",
+      "delivery": {
+        "rate": 8,
+        "pitch": 0
+      },
+      "clips": [
+        {
+          "src": "videos/23-one-chip-machine/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/23-one-chip-machine/v2-2.mp3",
+          "atMs": 2608
+        },
+        {
+          "src": "videos/23-one-chip-machine/v2-3.mp3",
+          "atMs": 12128
+        }
+      ]
+    },
+    {
+      "image": "videos/23-one-chip-machine/G4.jpg",
+      "seconds": 7.02,
+      "text": "Without it, there are no cutting edge AI chips. That's why governments fight over who may buy one.",
+      "delivery": {
+        "rate": 4,
+        "pitch": -1
+      },
+      "clips": [
+        {
+          "src": "videos/23-one-chip-machine/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/23-one-chip-machine/v3-2.mp3",
+          "atMs": 3568
+        }
+      ]
+    },
+    {
+      "image": "videos/23-one-chip-machine/G5.jpg",
+      "seconds": 4.84,
+      "text": "The future of AI runs through this. Remember...",
+      "delivery": {
+        "rate": -6,
+        "pitch": -3,
+        "volume": -5
+      },
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/23-one-chip-machine/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/23-one-chip-machine/v4-2.mp3",
+          "atMs": 2968
+        }
+      ]
+    }
+  ],
+  "ttsVoice": "en-US-AndrewMultilingualNeural",
+  "musicVolume": 0.2,
+  "speechSpeed": 1.0,
+  "words": [
+    {
+      "text": "Only",
+      "startMs": 104
+    },
+    {
+      "text": "one",
+      "startMs": 339
+    },
+    {
+      "text": "company",
+      "startMs": 573
+    },
+    {
+      "text": "on",
+      "startMs": 990
+    },
+    {
+      "text": "Earth",
+      "startMs": 1133
+    },
+    {
+      "text": "can",
+      "startMs": 1706
+    },
+    {
+      "text": "build",
+      "startMs": 1940
+    },
+    {
+      "text": "this",
+      "startMs": 2305
+    },
+    {
+      "text": "machine",
+      "startMs": 2474
+    },
+    {
+      "text": "ASML",
+      "startMs": 3898
+    },
+    {
+      "text": "in",
+      "startMs": 4898
+    },
+    {
+      "text": "the",
+      "startMs": 4972
+    },
+    {
+      "text": "Netherlands",
+      "startMs": 5035
+    },
+    {
+      "text": "It",
+      "startMs": 6511
+    },
+    {
+      "text": "fires",
+      "startMs": 6580
+    },
+    {
+      "text": "lasers",
+      "startMs": 7043
+    },
+    {
+      "text": "at",
+      "startMs": 7541
+    },
+    {
+      "text": "tiny",
+      "startMs": 7680
+    },
+    {
+      "text": "droplets",
+      "startMs": 8096
+    },
+    {
+      "text": "of",
+      "startMs": 8652
+    },
+    {
+      "text": "molten",
+      "startMs": 8733
+    },
+    {
+      "text": "tin",
+      "startMs": 9230
+    },
+    {
+      "text": "fifty",
+      "startMs": 10052
+    },
+    {
+      "text": "thousand",
+      "startMs": 10330
+    },
+    {
+      "text": "times",
+      "startMs": 10781
+    },
+    {
+      "text": "a",
+      "startMs": 11071
+    },
+    {
+      "text": "second",
+      "startMs": 11106
+    },
+    {
+      "text": "to",
+      "startMs": 11881
+    },
+    {
+      "text": "make",
+      "startMs": 11985
+    },
+    {
+      "text": "light",
+      "startMs": 12217
+    },
+    {
+      "text": "that",
+      "startMs": 12506
+    },
+    {
+      "text": "prints",
+      "startMs": 12668
+    },
+    {
+      "text": "chip",
+      "startMs": 13050
+    },
+    {
+      "text": "features",
+      "startMs": 13351
+    },
+    {
+      "text": "smaller",
+      "startMs": 13987
+    },
+    {
+      "text": "than",
+      "startMs": 14601
+    },
+    {
+      "text": "a",
+      "startMs": 14693
+    },
+    {
+      "text": "virus",
+      "startMs": 14717
+    },
+    {
+      "text": "Each",
+      "startMs": 16019
+    },
+    {
+      "text": "one",
+      "startMs": 16204
+    },
+    {
+      "text": "costs",
+      "startMs": 16413
+    },
+    {
+      "text": "well",
+      "startMs": 16876
+    },
+    {
+      "text": "over",
+      "startMs": 17072
+    },
+    {
+      "text": "a",
+      "startMs": 17269
+    },
+    {
+      "text": "hundred",
+      "startMs": 17315
+    },
+    {
+      "text": "million",
+      "startMs": 17639
+    },
+    {
+      "text": "dollars",
+      "startMs": 17940
+    },
+    {
+      "text": "and",
+      "startMs": 18635
+    },
+    {
+      "text": "ships",
+      "startMs": 18774
+    },
+    {
+      "text": "in",
+      "startMs": 19271
+    },
+    {
+      "text": "dozens",
+      "startMs": 19387
+    },
+    {
+      "text": "of",
+      "startMs": 19792
+    },
+    {
+      "text": "containers",
+      "startMs": 19862
+    },
+    {
+      "text": "Without",
+      "startMs": 21418
+    },
+    {
+      "text": "it",
+      "startMs": 21731
+    },
+    {
+      "text": "there",
+      "startMs": 22127
+    },
+    {
+      "text": "are",
+      "startMs": 22223
+    },
+    {
+      "text": "no",
+      "startMs": 22272
+    },
+    {
+      "text": "cutting",
+      "startMs": 22512
+    },
+    {
+      "text": "edge",
+      "startMs": 23029
+    },
+    {
+      "text": "AI",
+      "startMs": 23341
+    },
+    {
+      "text": "chips",
+      "startMs": 23654
+    },
+    {
+      "text": "That's",
+      "startMs": 24986
+    },
+    {
+      "text": "why",
+      "startMs": 25118
+    },
+    {
+      "text": "governments",
+      "startMs": 25299
+    },
+    {
+      "text": "fight",
+      "startMs": 25791
+    },
+    {
+      "text": "over",
+      "startMs": 26452
+    },
+    {
+      "text": "who",
+      "startMs": 26693
+    },
+    {
+      "text": "may",
+      "startMs": 26801
+    },
+    {
+      "text": "buy",
+      "startMs": 26957
+    },
+    {
+      "text": "one",
+      "startMs": 27162
+    },
+    {
+      "text": "The",
+      "startMs": 28450
+    },
+    {
+      "text": "future",
+      "startMs": 28516
+    },
+    {
+      "text": "of",
+      "startMs": 28902
+    },
+    {
+      "text": "AI",
+      "startMs": 28995
+    },
+    {
+      "text": "runs",
+      "startMs": 29527
+    },
+    {
+      "text": "through",
+      "startMs": 29926
+    },
+    {
+      "text": "this",
+      "startMs": 30152
+    },
+    {
+      "text": "Remember",
+      "startMs": 31414
+    }
+  ]
+}

@@ -1,5 +1,7 @@
 {
   "title": "They Rewound A Cell Sixty Years",
+  "hook": "They rewound a human cell *60 years*",
+  "bold": true,
   "scenes": [
     {
       "image": "videos/11-epigenetic-clock-reset/G1.jpg",

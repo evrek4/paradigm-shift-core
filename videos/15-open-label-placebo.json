@@ -1,5 +1,7 @@
 {
   "title": "The Placebo Works Even When You Know",
+  "hook": "Fake pills worked. Patients *knew*.",
+  "bold": true,
   "scenes": [
     {
       "image": "videos/15-open-label-placebo/G1.jpg",
