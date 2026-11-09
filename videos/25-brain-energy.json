@@ -5,12 +5,18 @@
   "scenes": [
     {
       "image": "videos/25-brain-energy/G1.jpg",
-      "seconds": 3,
+      "seconds": 5.9,
       "text": "Your brain is two percent of your body weight, and it burns about twenty percent of your energy.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/25-brain-energy/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
     },
     {
       "image": "videos/25-brain-energy/G2.jpg",
@@ -21,35 +27,343 @@
         0,
         0.5
       ],
-      "seconds": 12,
+      "seconds": 15.11,
       "text": "Even when you rest. Even when you sleep. Most of that power isn't spent on hard thinking. It goes to keeping eighty six billion neurons charged and ready to fire, like tiny batteries constantly recharged.",
       "delivery": {
         "rate": 8,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/25-brain-energy/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/25-brain-energy/v2-2.mp3",
+          "atMs": 2152
+        },
+        {
+          "src": "videos/25-brain-energy/v2-3.mp3",
+          "atMs": 4304
+        },
+        {
+          "src": "videos/25-brain-energy/v2-4.mp3",
+          "atMs": 7344
+        }
+      ]
     },
     {
       "image": "videos/25-brain-energy/G4.jpg",
-      "seconds": 10,
+      "seconds": 2.68,
       "text": "Doing nothing is still expensive.",
       "delivery": {
         "rate": 4,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/25-brain-energy/v3-1.mp3",
+          "atMs": 0
+        }
+      ]
     },
     {
       "image": "videos/25-brain-energy/G5.jpg",
-      "seconds": 3,
+      "seconds": 5.06,
       "text": "You are running a power plant behind your eyes. Because...",
       "delivery": {
         "rate": -6,
         "pitch": -3,
         "volume": -5
       },
-      "stillLast": true
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/25-brain-energy/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/25-brain-energy/v4-2.mp3",
+          "atMs": 3184
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
   "musicVolume": 0.2,
-  "speechSpeed": 1.0
+  "speechSpeed": 1.0,
+  "words": [
+    {
+      "text": "Your",
+      "startMs": 104
+    },
+    {
+      "text": "brain",
+      "startMs": 273
+    },
+    {
+      "text": "is",
+      "startMs": 664
+    },
+    {
+      "text": "two",
+      "startMs": 781
+    },
+    {
+      "text": "percent",
+      "startMs": 990
+    },
+    {
+      "text": "of",
+      "startMs": 1393
+    },
+    {
+      "text": "your",
+      "startMs": 1458
+    },
+    {
+      "text": "body",
+      "startMs": 1536
+    },
+    {
+      "text": "weight",
+      "startMs": 1901
+    },
+    {
+      "text": "and",
+      "startMs": 2630
+    },
+    {
+      "text": "it",
+      "startMs": 2695
+    },
+    {
+      "text": "burns",
+      "startMs": 2852
+    },
+    {
+      "text": "about",
+      "startMs": 3203
+    },
+    {
+      "text": "twenty",
+      "startMs": 3490
+    },
+    {
+      "text": "percent",
+      "startMs": 3880
+    },
+    {
+      "text": "of",
+      "startMs": 4414
+    },
+    {
+      "text": "your",
+      "startMs": 4479
+    },
+    {
+      "text": "energy",
+      "startMs": 4622
+    },
+    {
+      "text": "Even",
+      "startMs": 5988
+    },
+    {
+      "text": "when",
+      "startMs": 6150
+    },
+    {
+      "text": "you",
+      "startMs": 6275
+    },
+    {
+      "text": "rest",
+      "startMs": 6412
+    },
+    {
+      "text": "Even",
+      "startMs": 8140
+    },
+    {
+      "text": "when",
+      "startMs": 8327
+    },
+    {
+      "text": "you",
+      "startMs": 8452
+    },
+    {
+      "text": "sleep",
+      "startMs": 8540
+    },
+    {
+      "text": "Most",
+      "startMs": 10297
+    },
+    {
+      "text": "of",
+      "startMs": 10505
+    },
+    {
+      "text": "that",
+      "startMs": 10540
+    },
+    {
+      "text": "power",
+      "startMs": 10713
+    },
+    {
+      "text": "isn't",
+      "startMs": 11211
+    },
+    {
+      "text": "spent",
+      "startMs": 11419
+    },
+    {
+      "text": "on",
+      "startMs": 11755
+    },
+    {
+      "text": "hard",
+      "startMs": 11871
+    },
+    {
+      "text": "thinking",
+      "startMs": 12183
+    },
+    {
+      "text": "It",
+      "startMs": 13337
+    },
+    {
+      "text": "goes",
+      "startMs": 13418
+    },
+    {
+      "text": "to",
+      "startMs": 13684
+    },
+    {
+      "text": "keeping",
+      "startMs": 13776
+    },
+    {
+      "text": "eighty",
+      "startMs": 14205
+    },
+    {
+      "text": "six",
+      "startMs": 14448
+    },
+    {
+      "text": "billion",
+      "startMs": 14830
+    },
+    {
+      "text": "neurons",
+      "startMs": 15246
+    },
+    {
+      "text": "charged",
+      "startMs": 15709
+    },
+    {
+      "text": "and",
+      "startMs": 16531
+    },
+    {
+      "text": "ready",
+      "startMs": 16682
+    },
+    {
+      "text": "to",
+      "startMs": 16867
+    },
+    {
+      "text": "fire",
+      "startMs": 16925
+    },
+    {
+      "text": "like",
+      "startMs": 17781
+    },
+    {
+      "text": "tiny",
+      "startMs": 17920
+    },
+    {
+      "text": "batteries",
+      "startMs": 18290
+    },
+    {
+      "text": "constantly",
+      "startMs": 18811
+    },
+    {
+      "text": "recharged",
+      "startMs": 19436
+    },
+    {
+      "text": "Doing",
+      "startMs": 21106
+    },
+    {
+      "text": "nothing",
+      "startMs": 21419
+    },
+    {
+      "text": "is",
+      "startMs": 21887
+    },
+    {
+      "text": "still",
+      "startMs": 21996
+    },
+    {
+      "text": "expensive",
+      "startMs": 22224
+    },
+    {
+      "text": "You",
+      "startMs": 23796
+    },
+    {
+      "text": "are",
+      "startMs": 23889
+    },
+    {
+      "text": "running",
+      "startMs": 23996
+    },
+    {
+      "text": "a",
+      "startMs": 24222
+    },
+    {
+      "text": "power",
+      "startMs": 24288
+    },
+    {
+      "text": "plant",
+      "startMs": 24687
+    },
+    {
+      "text": "behind",
+      "startMs": 25193
+    },
+    {
+      "text": "your",
+      "startMs": 25538
+    },
+    {
+      "text": "eyes",
+      "startMs": 25645
+    },
+    {
+      "text": "Because",
+      "startMs": 26990
+    }
+  ]
 }

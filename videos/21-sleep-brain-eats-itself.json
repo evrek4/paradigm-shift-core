@@ -5,12 +5,18 @@
   "scenes": [
     {
       "image": "videos/21-sleep-brain-eats-itself/G1.jpg",
-      "seconds": 3,
+      "seconds": 4.15,
       "text": "Skip sleep, and your brain starts eating itself.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/21-sleep-brain-eats-itself/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
     },
     {
       "image": "videos/21-sleep-brain-eats-itself/G2.jpg",
@@ -21,35 +27,363 @@
         0,
         0.5
       ],
-      "seconds": 12,
+      "seconds": 18.88,
       "text": "In 2017, Italian researchers kept mice awake for days. Inside their brains, cleanup cells called astrocytes began devouring pieces of the connections between neurons. A little of this is normal maintenance. Under chronic sleep loss, it went into overdrive.",
       "delivery": {
         "rate": 8,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/21-sleep-brain-eats-itself/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/21-sleep-brain-eats-itself/v2-2.mp3",
+          "atMs": 4936
+        },
+        {
+          "src": "videos/21-sleep-brain-eats-itself/v2-3.mp3",
+          "atMs": 11888
+        },
+        {
+          "src": "videos/21-sleep-brain-eats-itself/v2-4.mp3",
+          "atMs": 15072
+        }
+      ]
     },
     {
       "image": "videos/21-sleep-brain-eats-itself/G4.jpg",
-      "seconds": 10,
+      "seconds": 7.27,
       "text": "It's one study, in mice. But the message is blunt. Sleep is when your brain repairs itself.",
       "delivery": {
         "rate": 4,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/21-sleep-brain-eats-itself/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/21-sleep-brain-eats-itself/v3-2.mp3",
+          "atMs": 2008
+        },
+        {
+          "src": "videos/21-sleep-brain-eats-itself/v3-3.mp3",
+          "atMs": 3968
+        }
+      ]
     },
     {
       "image": "videos/21-sleep-brain-eats-itself/G5.jpg",
-      "seconds": 3,
+      "seconds": 3.98,
       "text": "Without it, it starts cutting. So tonight, remember...",
       "delivery": {
         "rate": -6,
         "pitch": -3,
         "volume": -5
       },
-      "stillLast": true
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/21-sleep-brain-eats-itself/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/21-sleep-brain-eats-itself/v4-2.mp3",
+          "atMs": 2104
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
   "musicVolume": 0.2,
-  "speechSpeed": 1.0
+  "speechSpeed": 1.0,
+  "words": [
+    {
+      "text": "Skip",
+      "startMs": 104
+    },
+    {
+      "text": "sleep",
+      "startMs": 352
+    },
+    {
+      "text": "and",
+      "startMs": 1042
+    },
+    {
+      "text": "your",
+      "startMs": 1107
+    },
+    {
+      "text": "brain",
+      "startMs": 1224
+    },
+    {
+      "text": "starts",
+      "startMs": 1732
+    },
+    {
+      "text": "eating",
+      "startMs": 2318
+    },
+    {
+      "text": "itself",
+      "startMs": 2591
+    },
+    {
+      "text": "In 2017",
+      "startMs": 4243
+    },
+    {
+      "text": "Italian",
+      "startMs": 5747
+    },
+    {
+      "text": "researchers",
+      "startMs": 6210
+    },
+    {
+      "text": "kept",
+      "startMs": 6800
+    },
+    {
+      "text": "mice",
+      "startMs": 7171
+    },
+    {
+      "text": "awake",
+      "startMs": 7530
+    },
+    {
+      "text": "for",
+      "startMs": 7854
+    },
+    {
+      "text": "days",
+      "startMs": 7981
+    },
+    {
+      "text": "Inside",
+      "startMs": 9179
+    },
+    {
+      "text": "their",
+      "startMs": 9676
+    },
+    {
+      "text": "brains",
+      "startMs": 9792
+    },
+    {
+      "text": "cleanup",
+      "startMs": 10648
+    },
+    {
+      "text": "cells",
+      "startMs": 11007
+    },
+    {
+      "text": "called",
+      "startMs": 11366
+    },
+    {
+      "text": "astrocytes",
+      "startMs": 11713
+    },
+    {
+      "text": "began",
+      "startMs": 12431
+    },
+    {
+      "text": "devouring",
+      "startMs": 12790
+    },
+    {
+      "text": "pieces",
+      "startMs": 13334
+    },
+    {
+      "text": "of",
+      "startMs": 13785
+    },
+    {
+      "text": "the",
+      "startMs": 13843
+    },
+    {
+      "text": "connections",
+      "startMs": 13924
+    },
+    {
+      "text": "between",
+      "startMs": 14445
+    },
+    {
+      "text": "neurons",
+      "startMs": 14792
+    },
+    {
+      "text": "A",
+      "startMs": 16131
+    },
+    {
+      "text": "little",
+      "startMs": 16200
+    },
+    {
+      "text": "of",
+      "startMs": 16443
+    },
+    {
+      "text": "this",
+      "startMs": 16594
+    },
+    {
+      "text": "is",
+      "startMs": 17091
+    },
+    {
+      "text": "normal",
+      "startMs": 17485
+    },
+    {
+      "text": "maintenance",
+      "startMs": 17913
+    },
+    {
+      "text": "Under",
+      "startMs": 19291
+    },
+    {
+      "text": "chronic",
+      "startMs": 19442
+    },
+    {
+      "text": "sleep",
+      "startMs": 19789
+    },
+    {
+      "text": "loss",
+      "startMs": 20102
+    },
+    {
+      "text": "it",
+      "startMs": 20935
+    },
+    {
+      "text": "went",
+      "startMs": 21016
+    },
+    {
+      "text": "into",
+      "startMs": 21143
+    },
+    {
+      "text": "overdrive",
+      "startMs": 21502
+    },
+    {
+      "text": "It's",
+      "startMs": 23114
+    },
+    {
+      "text": "one",
+      "startMs": 23210
+    },
+    {
+      "text": "study",
+      "startMs": 23391
+    },
+    {
+      "text": "in",
+      "startMs": 23715
+    },
+    {
+      "text": "mice",
+      "startMs": 23823
+    },
+    {
+      "text": "But",
+      "startMs": 25122
+    },
+    {
+      "text": "the",
+      "startMs": 25182
+    },
+    {
+      "text": "message",
+      "startMs": 25242
+    },
+    {
+      "text": "is",
+      "startMs": 25711
+    },
+    {
+      "text": "blunt",
+      "startMs": 25855
+    },
+    {
+      "text": "Sleep",
+      "startMs": 27094
+    },
+    {
+      "text": "is",
+      "startMs": 27683
+    },
+    {
+      "text": "when",
+      "startMs": 27803
+    },
+    {
+      "text": "your",
+      "startMs": 27899
+    },
+    {
+      "text": "brain",
+      "startMs": 28008
+    },
+    {
+      "text": "repairs",
+      "startMs": 28464
+    },
+    {
+      "text": "itself",
+      "startMs": 28885
+    },
+    {
+      "text": "Without",
+      "startMs": 30420
+    },
+    {
+      "text": "it",
+      "startMs": 30845
+    },
+    {
+      "text": "it",
+      "startMs": 30965
+    },
+    {
+      "text": "starts",
+      "startMs": 31045
+    },
+    {
+      "text": "cutting",
+      "startMs": 31337
+    },
+    {
+      "text": "So",
+      "startMs": 32520
+    },
+    {
+      "text": "tonight",
+      "startMs": 32680
+    },
+    {
+      "text": "remember",
+      "startMs": 33262
+    }
+  ]
 }

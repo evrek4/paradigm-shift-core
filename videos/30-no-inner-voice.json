@@ -5,12 +5,18 @@
   "scenes": [
     {
       "image": "videos/30-no-inner-voice/G1.jpg",
-      "seconds": 3,
+      "seconds": 3.02,
       "text": "Some people have no voice in their head.",
       "delivery": {
         "rate": -4,
         "pitch": -3
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/30-no-inner-voice/v1-1.mp3",
+          "atMs": 0
+        }
+      ]
     },
     {
       "image": "videos/30-no-inner-voice/G2.jpg",
@@ -21,35 +27,367 @@
         0,
         0.5
       ],
-      "seconds": 12,
+      "seconds": 21.25,
       "text": "No narration. No inner monologue. In 2024, researchers in Copenhagen and Wisconsin studied people who rarely hear one. They lived normal lives, but did worse at remembering lists of words and judging rhymes. They think in images, feelings, or something hard to describe.",
       "delivery": {
         "rate": 8,
         "pitch": 0
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/30-no-inner-voice/v2-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/30-no-inner-voice/v2-2.mp3",
+          "atMs": 2152
+        },
+        {
+          "src": "videos/30-no-inner-voice/v2-3.mp3",
+          "atMs": 4304
+        },
+        {
+          "src": "videos/30-no-inner-voice/v2-4.mp3",
+          "atMs": 10920
+        },
+        {
+          "src": "videos/30-no-inner-voice/v2-5.mp3",
+          "atMs": 16792
+        }
+      ]
     },
     {
       "image": "videos/30-no-inner-voice/G4.jpg",
-      "seconds": 10,
+      "seconds": 5.91,
       "text": "Your inner voice feels like you. For many people, thought has no sound at all.",
       "delivery": {
         "rate": 4,
         "pitch": -1
-      }
+      },
+      "clips": [
+        {
+          "src": "videos/30-no-inner-voice/v3-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/30-no-inner-voice/v3-2.mp3",
+          "atMs": 2416
+        }
+      ]
     },
     {
       "image": "videos/30-no-inner-voice/G5.jpg",
-      "seconds": 3,
+      "seconds": 3.9,
       "text": "Is there a voice in yours? Because...",
       "delivery": {
         "rate": -6,
         "pitch": -3,
         "volume": -5
       },
-      "stillLast": true
+      "stillLast": true,
+      "clips": [
+        {
+          "src": "videos/30-no-inner-voice/v4-1.mp3",
+          "atMs": 0
+        },
+        {
+          "src": "videos/30-no-inner-voice/v4-2.mp3",
+          "atMs": 2032
+        }
+      ]
     }
   ],
   "ttsVoice": "en-US-AndrewMultilingualNeural",
   "musicVolume": 0.2,
-  "speechSpeed": 1.0
+  "speechSpeed": 1.0,
+  "words": [
+    {
+      "text": "Some",
+      "startMs": 117
+    },
+    {
+      "text": "people",
+      "startMs": 260
+    },
+    {
+      "text": "have",
+      "startMs": 547
+    },
+    {
+      "text": "no",
+      "startMs": 833
+    },
+    {
+      "text": "voice",
+      "startMs": 1133
+    },
+    {
+      "text": "in",
+      "startMs": 1615
+    },
+    {
+      "text": "their",
+      "startMs": 1680
+    },
+    {
+      "text": "head",
+      "startMs": 1823
+    },
+    {
+      "text": "No",
+      "startMs": 3108
+    },
+    {
+      "text": "narration",
+      "startMs": 3245
+    },
+    {
+      "text": "No",
+      "startMs": 5260
+    },
+    {
+      "text": "inner",
+      "startMs": 5447
+    },
+    {
+      "text": "monologue",
+      "startMs": 5722
+    },
+    {
+      "text": "In 2024",
+      "startMs": 7405
+    },
+    {
+      "text": "researchers",
+      "startMs": 8794
+    },
+    {
+      "text": "in",
+      "startMs": 9430
+    },
+    {
+      "text": "Copenhagen",
+      "startMs": 9592
+    },
+    {
+      "text": "and",
+      "startMs": 10414
+    },
+    {
+      "text": "Wisconsin",
+      "startMs": 10542
+    },
+    {
+      "text": "studied",
+      "startMs": 11248
+    },
+    {
+      "text": "people",
+      "startMs": 11849
+    },
+    {
+      "text": "who",
+      "startMs": 12197
+    },
+    {
+      "text": "rarely",
+      "startMs": 12393
+    },
+    {
+      "text": "hear",
+      "startMs": 12764
+    },
+    {
+      "text": "one",
+      "startMs": 13030
+    },
+    {
+      "text": "They",
+      "startMs": 14033
+    },
+    {
+      "text": "lived",
+      "startMs": 14114
+    },
+    {
+      "text": "normal",
+      "startMs": 14565
+    },
+    {
+      "text": "lives",
+      "startMs": 14982
+    },
+    {
+      "text": "but",
+      "startMs": 15688
+    },
+    {
+      "text": "did",
+      "startMs": 15873
+    },
+    {
+      "text": "worse",
+      "startMs": 16081
+    },
+    {
+      "text": "at",
+      "startMs": 16463
+    },
+    {
+      "text": "remembering",
+      "startMs": 16544
+    },
+    {
+      "text": "lists",
+      "startMs": 17030
+    },
+    {
+      "text": "of",
+      "startMs": 17343
+    },
+    {
+      "text": "words",
+      "startMs": 17435
+    },
+    {
+      "text": "and",
+      "startMs": 18095
+    },
+    {
+      "text": "judging",
+      "startMs": 18292
+    },
+    {
+      "text": "rhymes",
+      "startMs": 18651
+    },
+    {
+      "text": "They",
+      "startMs": 19905
+    },
+    {
+      "text": "think",
+      "startMs": 20009
+    },
+    {
+      "text": "in",
+      "startMs": 20206
+    },
+    {
+      "text": "images",
+      "startMs": 20298
+    },
+    {
+      "text": "feelings",
+      "startMs": 21074
+    },
+    {
+      "text": "or",
+      "startMs": 22057
+    },
+    {
+      "text": "something",
+      "startMs": 22393
+    },
+    {
+      "text": "hard",
+      "startMs": 22682
+    },
+    {
+      "text": "to",
+      "startMs": 22902
+    },
+    {
+      "text": "describe",
+      "startMs": 22937
+    },
+    {
+      "text": "Your",
+      "startMs": 24366
+    },
+    {
+      "text": "inner",
+      "startMs": 24450
+    },
+    {
+      "text": "voice",
+      "startMs": 24655
+    },
+    {
+      "text": "feels",
+      "startMs": 25292
+    },
+    {
+      "text": "like",
+      "startMs": 25628
+    },
+    {
+      "text": "you",
+      "startMs": 25844
+    },
+    {
+      "text": "For",
+      "startMs": 26818
+    },
+    {
+      "text": "many",
+      "startMs": 26902
+    },
+    {
+      "text": "people",
+      "startMs": 27131
+    },
+    {
+      "text": "thought",
+      "startMs": 28116
+    },
+    {
+      "text": "has",
+      "startMs": 28357
+    },
+    {
+      "text": "no",
+      "startMs": 28513
+    },
+    {
+      "text": "sound",
+      "startMs": 28717
+    },
+    {
+      "text": "at",
+      "startMs": 29042
+    },
+    {
+      "text": "all",
+      "startMs": 29090
+    },
+    {
+      "text": "Is",
+      "startMs": 30273
+    },
+    {
+      "text": "there",
+      "startMs": 30353
+    },
+    {
+      "text": "a",
+      "startMs": 30459
+    },
+    {
+      "text": "voice",
+      "startMs": 30486
+    },
+    {
+      "text": "in",
+      "startMs": 30938
+    },
+    {
+      "text": "yours",
+      "startMs": 31031
+    },
+    {
+      "text": "Because",
+      "startMs": 32328
+    }
+  ]
 }
